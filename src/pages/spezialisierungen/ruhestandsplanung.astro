@@ -9,23 +9,23 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 >
   <section class="bg-hero relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
-      <p class="font-body text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
       <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up">Ruhestandsplanung</h1>
-      <p class="font-body text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Wie viel Rente brauchen Sie wirklich? Ich analysiere Ihre Situation und entwickle einen konkreten Plan.</p>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Wie viel Rente brauchen Sie wirklich? Ich analysiere Ihre Situation und entwickle einen konkreten Plan.</p>
     </div>
   </section>
 
   <section class="py-20 sm:py-28 bg-pattern">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-navy-950 prose-a:text-amber-600">
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
 
         <h2>Das Problem: Die Versorgungslücke</h2>
         <p>Die gesetzliche Rente ersetzt im Durchschnitt nur etwa 48% des letzten Bruttoeinkommens — Tendenz sinkend. Nach Abzug von Steuern und Krankenversicherung bleibt oft deutlich weniger. Die Differenz zwischen dem, was Sie im Alter brauchen, und dem, was Sie bekommen, nennt man die <strong>Versorgungslücke</strong>.</p>
 
         <div class="not-prose bg-amber-50 border border-amber-200 rounded-xl p-6 my-8">
-          <h3 class="font-display text-lg font-bold text-navy-950 mb-3">Beispiel: Versorgungslücke berechnen</h3>
-          <div class="space-y-2 font-body text-sm text-navy-800">
+          <h3 class="text-lg font-bold text-navy-950 mb-3">Beispiel: Versorgungslücke berechnen</h3>
+          <div class="space-y-2 text-sm text-navy-800">
             <div class="flex justify-between"><span>Aktuelles Nettoeinkommen:</span><span class="font-semibold">3.000 Euro</span></div>
             <div class="flex justify-between"><span>Bedarf im Ruhestand (ca. 80%):</span><span class="font-semibold">2.400 Euro</span></div>
             <div class="flex justify-between"><span>Erwartete gesetzliche Rente (netto):</span><span class="font-semibold">1.400 Euro</span></div>
@@ -54,11 +54,11 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           ].map(item => (
             <div class="flex gap-5 bg-white rounded-xl p-6 border border-slate-100">
               <div class="w-10 h-10 rounded-full bg-amber-100 flex items-center justify-center shrink-0">
-                <span class="font-display font-bold text-amber-700">{item.step}</span>
+                <span class="font-bold text-amber-700">{item.step}</span>
               </div>
               <div>
-                <h3 class="font-display text-base font-bold text-navy-950 mb-1">{item.title}</h3>
-                <p class="font-body text-sm text-slate-600">{item.desc}</p>
+                <h3 class="text-base font-bold text-navy-950 mb-1">{item.title}</h3>
+                <p class="text-sm text-slate-600">{item.desc}</p>
               </div>
             </div>
           ))}
@@ -75,9 +75,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       </div>
 
       <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
-        <h3 class="font-display text-2xl font-bold text-white mb-3">Reicht Ihre Rente?</h3>
-        <p class="font-body text-slate-300 mb-6">Lassen Sie uns gemeinsam herausfinden, wo Sie stehen — und was noch zu tun ist.</p>
-        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-display font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">Ruhestandscheck anfordern</a>
+        <h3 class="text-2xl font-bold text-white mb-3">Reicht Ihre Rente?</h3>
+        <p class="text-slate-300 mb-6">Lassen Sie uns gemeinsam herausfinden, wo Sie stehen — und was noch zu tun ist.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">Ruhestandscheck anfordern</a>
       </div>
     </div>
   </section>

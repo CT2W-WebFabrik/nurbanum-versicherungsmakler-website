@@ -45,6 +45,8 @@
   --color-error: #dc2626;
 
   /* ── Typography ── */
+  /* Cabinet Grotesk is the primary font for everything.
+     Crimson Pro (serif) is accent-only: hero h1, major page titles. */
   --font-display: 'Crimson Pro', Georgia, serif;
   --font-body: 'Cabinet Grotesk', system-ui, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
@@ -92,17 +94,19 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-display);
+    font-family: var(--font-body);
     line-height: 1.15;
     font-weight: 800;
-    /* No color here — use Tailwind classes (text-white, text-navy-950) per element
-       so headings on dark backgrounds aren't forced to navy-950 */
     text-wrap: balance;
+    margin-top: 1em;
   }
 
-  h1 { font-size: clamp(2rem, 5vw, 4rem); }
+  h1 { font-size: clamp(2rem, 5vw, 4rem); margin-top: 0; }
   h2 { font-size: clamp(1.6rem, 3.5vw, 2.75rem); }
   h3 { font-size: clamp(1.2rem, 2.5vw, 1.75rem); }
+
+  h1 + p, h2 + p, h3 + p { margin-top: 0.75em; }
+  p + p { margin-top: 0.5em; }
 
   p {
     text-wrap: pretty;

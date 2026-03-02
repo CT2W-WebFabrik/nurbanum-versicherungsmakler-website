@@ -10,18 +10,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 >
   <section class="bg-hero relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28 text-center">
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28 text-center">
       <p class="font-display text-8xl sm:text-9xl font-900 text-amber-400/30 mb-4 animate-fade-in">404</p>
       <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Seite nicht gefunden</h1>
-      <p class="font-body text-lg text-slate-300 max-w-lg mx-auto mb-8 animate-slide-up" style="animation-delay: 0.15s;">
+      <p class="text-lg text-slate-300 max-w-lg mx-auto mb-8 animate-slide-up" style="animation-delay: 0.15s;">
         Die Seite, die Sie suchen, existiert leider nicht oder wurde verschoben.
       </p>
       <div class="flex flex-wrap justify-center gap-4 animate-slide-up" style="animation-delay: 0.3s;">
-        <a href={url('/')} class="inline-flex items-center gap-2 px-6 py-3 bg-amber-500 hover:bg-amber-400 text-navy-950 font-display font-bold rounded-lg transition-all shadow-lg shadow-amber-500/25 no-underline">
+        <a href={url('/')} class="inline-flex items-center gap-2 px-6 py-3 bg-amber-500 hover:bg-amber-400 text-navy-950 font-bold rounded-lg transition-all shadow-lg shadow-amber-500/25 no-underline">
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" /></svg>
           Zur Startseite
         </a>
-        <a href={url('/kontakt/')} class="inline-flex items-center gap-2 px-6 py-3 border-2 border-navy-500 text-navy-200 hover:text-white hover:border-navy-300 font-body font-semibold rounded-lg transition-all no-underline">
+        <a href={url('/kontakt/')} class="inline-flex items-center gap-2 px-6 py-3 border-2 border-navy-500 text-navy-200 hover:text-white hover:border-navy-300 font-semibold rounded-lg transition-all no-underline">
           Kontakt aufnehmen
         </a>
       </div>

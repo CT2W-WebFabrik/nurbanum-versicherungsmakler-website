@@ -35,10 +35,10 @@ const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
 >
   <section class="bg-hero relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
-      <p class="font-body text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Nachschlagen</p>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Nachschlagen</p>
       <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up">Versicherungs-Glossar</h1>
-      <p class="font-body text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Die wichtigsten Versicherungsbegriffe verständlich erklärt.</p>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Die wichtigsten Versicherungsbegriffe verständlich erklärt.</p>
     </div>
   </section>
 
@@ -47,7 +47,7 @@ const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
       <!-- Letter navigation -->
       <nav class="flex flex-wrap gap-2 mb-12">
         {letters.map(l => (
-          <a href={`#${l}`} class="w-9 h-9 flex items-center justify-center rounded-lg bg-white border border-slate-100 hover:border-amber-300 hover:bg-amber-50 font-display font-bold text-sm text-navy-700 hover:text-amber-700 transition-all no-underline">
+          <a href={`#${l}`} class="w-9 h-9 flex items-center justify-center rounded-lg bg-white border border-slate-100 hover:border-amber-300 hover:bg-amber-50 font-bold text-sm text-navy-700 hover:text-amber-700 transition-all no-underline">
             {l}
           </a>
         ))}
@@ -55,14 +55,14 @@ const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
 
       {letters.map(letter => (
         <div id={letter} class="mb-10">
-          <h2 class="font-display text-2xl font-bold text-navy-950 mb-4 flex items-center">
+          <h2 class="text-2xl font-bold text-navy-950 mb-4 flex items-center">
             <span class="w-10 h-10 rounded-lg bg-amber-100 flex items-center justify-center mr-3 text-amber-700">{letter}</span>
           </h2>
           <div class="space-y-4">
             {terms.filter(t => t.term[0].toUpperCase() === letter).map(t => (
               <div class="bg-white rounded-xl p-6 border border-slate-100">
-                <dt class="font-display text-base font-bold text-navy-900 mb-2">{t.term}</dt>
-                <dd class="font-body text-sm text-slate-600 leading-relaxed">{t.definition}</dd>
+                <dt class="text-base font-bold text-navy-900 mb-2">{t.term}</dt>
+                <dd class="text-sm text-slate-600 leading-relaxed">{t.definition}</dd>
               </div>
             ))}
           </div>

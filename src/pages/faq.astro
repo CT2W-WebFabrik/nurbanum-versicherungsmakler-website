@@ -31,10 +31,10 @@ for (const entry of sorted) {
 >
   <section class="bg-hero relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
-      <p class="font-body text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Wissen</p>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Wissen</p>
       <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up">Häufige Fragen</h1>
-      <p class="font-body text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Hier finden Sie Antworten auf die wichtigsten Fragen rund um Versicherungen und meine Beratung.</p>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Hier finden Sie Antworten auf die wichtigsten Fragen rund um Versicherungen und meine Beratung.</p>
     </div>
   </section>
 
@@ -42,18 +42,18 @@ for (const entry of sorted) {
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
       {[...categories.entries()].map(([cat, _items]) => (
         <div class="mb-12 last:mb-0">
-          <h2 class="font-display text-xl font-bold text-navy-950 mb-6 flex items-center">
+          <h2 class="text-xl font-bold text-navy-950 mb-6 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3" aria-hidden="true"></span>
             {cat}
           </h2>
           <div class="space-y-4">
             {rendered.filter(r => r.entry.data.category === cat).map((r) => (
               <details class="group bg-white rounded-xl border border-slate-100 overflow-hidden">
-                <summary class="flex items-center justify-between p-5 sm:p-6 cursor-pointer font-display text-base font-semibold text-navy-900 hover:text-amber-700 transition-colors [&::-webkit-details-marker]:hidden list-none">
+                <summary class="flex items-center justify-between p-5 sm:p-6 cursor-pointer text-base font-semibold text-navy-900 hover:text-amber-700 transition-colors [&::-webkit-details-marker]:hidden list-none">
                   <span>{r.entry.data.title}</span>
                   <svg class="w-5 h-5 text-slate-400 group-open:rotate-180 transition-transform shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
                 </summary>
-                <div class="px-5 sm:px-6 pb-5 sm:pb-6 font-body text-slate-600 leading-relaxed prose prose-sm max-w-none prose-a:text-amber-600">
+                <div class="px-5 sm:px-6 pb-5 sm:pb-6 text-slate-600 leading-relaxed prose prose-sm max-w-none prose-a:text-amber-600">
                   <r.Content />
                 </div>
               </details>
