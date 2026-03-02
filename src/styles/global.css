@@ -76,62 +76,63 @@
 }
 
 /* ── Base styles ── */
-html {
-  scroll-behavior: smooth;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* Must be inside @layer base so Tailwind utilities (text-white etc.) can override */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 
-body {
-  font-family: var(--font-body);
-  color: var(--color-navy-900);
-  background-color: var(--color-slate-50);
-  line-height: 1.7;
-}
+  body {
+    font-family: var(--font-body);
+    color: var(--color-navy-900);
+    background-color: var(--color-slate-50);
+    line-height: 1.7;
+  }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-display);
-  line-height: 1.15;
-  font-weight: 800;
-  color: var(--color-navy-950);
-  text-wrap: balance;
-}
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    line-height: 1.15;
+    font-weight: 800;
+    color: var(--color-navy-950);
+    text-wrap: balance;
+  }
 
-h1 { font-size: clamp(2rem, 5vw, 4rem); }
-h2 { font-size: clamp(1.6rem, 3.5vw, 2.75rem); }
-h3 { font-size: clamp(1.2rem, 2.5vw, 1.75rem); }
+  h1 { font-size: clamp(2rem, 5vw, 4rem); }
+  h2 { font-size: clamp(1.6rem, 3.5vw, 2.75rem); }
+  h3 { font-size: clamp(1.2rem, 2.5vw, 1.75rem); }
 
-p {
-  text-wrap: pretty;
-}
+  p {
+    text-wrap: pretty;
+  }
 
-a {
-  color: var(--color-navy-600);
-  text-decoration-color: var(--color-amber-400);
-  text-underline-offset: 3px;
-  transition: color 0.2s, text-decoration-color 0.2s;
-}
+  a {
+    color: var(--color-navy-600);
+    text-decoration-color: var(--color-amber-400);
+    text-underline-offset: 3px;
+    transition: color 0.2s, text-decoration-color 0.2s;
+  }
 
-a:hover {
-  color: var(--color-amber-700);
-  text-decoration-color: var(--color-amber-700);
-}
+  a:hover {
+    color: var(--color-amber-700);
+    text-decoration-color: var(--color-amber-700);
+  }
 
-/* ── Focus styles for accessibility ── */
-:focus-visible {
-  outline: 2px solid var(--color-amber-400);
-  outline-offset: 2px;
-  border-radius: 4px;
-}
+  :focus-visible {
+    outline: 2px solid var(--color-amber-400);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
 
-/* Remove focus-visible outline from mouse users */
-:focus:not(:focus-visible) {
-  outline: none;
-}
+  :focus:not(:focus-visible) {
+    outline: none;
+  }
 
-::selection {
-  background-color: var(--color-amber-200);
-  color: var(--color-navy-950);
+  ::selection {
+    background-color: var(--color-amber-200);
+    color: var(--color-navy-950);
+  }
 }
 
 /* ── Reduce motion for users who prefer it ── */
@@ -145,33 +146,35 @@ a:hover {
 }
 
 /* ── Utility classes ── */
-.text-gradient {
-  background: linear-gradient(135deg, var(--color-navy-700), var(--color-amber-600));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
+@layer components {
+  .text-gradient {
+    background: linear-gradient(135deg, var(--color-navy-700), var(--color-amber-600));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
 
-.bg-pattern {
-  background-image:
-    radial-gradient(ellipse at 20% 50%, rgba(245, 158, 11, 0.06) 0%, transparent 50%),
-    radial-gradient(ellipse at 80% 20%, rgba(30, 45, 74, 0.04) 0%, transparent 50%),
-    radial-gradient(ellipse at 60% 80%, rgba(245, 158, 11, 0.03) 0%, transparent 50%);
-}
+  .bg-pattern {
+    background-image:
+      radial-gradient(ellipse at 20% 50%, rgba(245, 158, 11, 0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 20%, rgba(30, 45, 74, 0.04) 0%, transparent 50%),
+      radial-gradient(ellipse at 60% 80%, rgba(245, 158, 11, 0.03) 0%, transparent 50%);
+  }
 
-.bg-hero {
-  background:
-    linear-gradient(135deg, var(--color-navy-950) 0%, var(--color-navy-800) 50%, var(--color-navy-700) 100%);
-}
+  .bg-hero {
+    background:
+      linear-gradient(135deg, var(--color-navy-950) 0%, var(--color-navy-800) 50%, var(--color-navy-700) 100%);
+  }
 
-.bg-hero::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background:
-    radial-gradient(ellipse at 70% 30%, rgba(245, 158, 11, 0.12) 0%, transparent 60%),
-    radial-gradient(ellipse at 20% 80%, rgba(139, 164, 200, 0.08) 0%, transparent 50%);
-  pointer-events: none;
+  .bg-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 70% 30%, rgba(245, 158, 11, 0.12) 0%, transparent 60%),
+      radial-gradient(ellipse at 20% 80%, rgba(139, 164, 200, 0.08) 0%, transparent 50%);
+    pointer-events: none;
+  }
 }
 
 /* ── Touch target minimum sizes ── */
