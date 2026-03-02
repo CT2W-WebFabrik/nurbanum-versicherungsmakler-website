@@ -16,8 +16,11 @@ const navItems = [
   { href: url('/kontakt/'), label: 'Kontakt' },
 ];
 
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+
 function isActive(href: string): boolean {
-  if (href === '/') return currentPath === '/';
+  const home = basePath + '/';
+  if (href === home || href === basePath) return currentPath === home || currentPath === basePath;
   return currentPath.startsWith(href);
 }
 ---
