@@ -1,4 +1,5 @@
 ---
+import { url } from '../utils/paths';
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
@@ -186,7 +187,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 class="mt-1 w-5 h-5 rounded border-slate-300 text-amber-500 focus:ring-amber-400 shrink-0"
               />
               <label for="privacy" class="text-sm text-slate-600 font-body leading-relaxed">
-                Ich habe die <a href="/datenschutz/" class="text-navy-600 hover:text-amber-600">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung meiner Daten zur Bearbeitung meiner Anfrage zu. <span class="text-error" aria-hidden="true">*</span>
+                Ich habe die <a href={url('/datenschutz/')} class="text-navy-600 hover:text-amber-600">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung meiner Daten zur Bearbeitung meiner Anfrage zu. <span class="text-error" aria-hidden="true">*</span>
               </label>
             </div>
 

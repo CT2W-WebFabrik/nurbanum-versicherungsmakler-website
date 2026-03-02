@@ -1,4 +1,5 @@
 ---
+import { url } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
@@ -25,7 +26,7 @@ const sorted = posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publis
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="space-y-8">
         {sorted.map((post) => (
-          <a href={`/blog/${post.id}/`} class="group block bg-white rounded-xl p-8 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300">
+          <a href={url(`/blog/${post.id}/`)} class="group block bg-white rounded-xl p-8 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300">
             <div class="flex items-center gap-3 mb-3 text-sm text-slate-500">
               <time datetime={post.data.publishDate.toISOString()}>
                 {post.data.publishDate.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' })}

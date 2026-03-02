@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { url } from '../utils/paths';
 
 interface Props {
   title: string;
@@ -45,12 +46,12 @@ const breadcrumbSchema = breadcrumbItems.length > 0 ? {
         <nav aria-label="Brotkrümelnavigation" class="mb-8 animate-fade-in">
           <ol class="flex flex-wrap items-center gap-1.5 text-sm font-body text-slate-500">
             <li>
-              <a href="/" class="hover:text-amber-600 transition-colors no-underline">Startseite</a>
+              <a href={url('/')} class="hover:text-amber-600 transition-colors no-underline">Startseite</a>
             </li>
             {breadcrumbItems.map((item) => (
               <li class="flex items-center gap-1.5">
                 <svg class="w-3.5 h-3.5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
-                <a href={item.href} class="hover:text-amber-600 transition-colors no-underline">{item.label}</a>
+                <a href={url(item.href)} class="hover:text-amber-600 transition-colors no-underline">{item.label}</a>
               </li>
             ))}
             <li class="flex items-center gap-1.5">

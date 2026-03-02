@@ -6,7 +6,8 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://nurbanum.de',
+  site: 'https://ct2w-webfabrik.github.io',
+  base: '/nurbanum-versicherungsmakler-website',
   vite: {
     plugins: [tailwindcss()],
   },

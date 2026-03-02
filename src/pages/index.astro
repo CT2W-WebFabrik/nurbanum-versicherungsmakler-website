@@ -1,4 +1,5 @@
 ---
+import { url } from '../utils/paths';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
@@ -45,7 +46,7 @@ const insuranceTypes = [
           Reicht Ihre Rente? Ich analysiere Ihre Situation, berechne die Versorgungslücke und entwickle einen konkreten Plan — unabhängig, persönlich und transparent.
         </p>
         <div class="flex flex-wrap gap-4 animate-slide-up" style="animation-delay: 0.3s;">
-          <a href="/kontakt/" class="inline-flex items-center gap-2 px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-display font-bold text-lg rounded-xl transition-all shadow-lg shadow-amber-500/25 hover:shadow-amber-400/35 no-underline">
+          <a href={url('/kontakt/')} class="inline-flex items-center gap-2 px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-display font-bold text-lg rounded-xl transition-all shadow-lg shadow-amber-500/25 hover:shadow-amber-400/35 no-underline">
             Kostenlose Erstberatung
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
           </a>
@@ -93,7 +94,7 @@ const insuranceTypes = [
 
       <div class="grid md:grid-cols-3 gap-6 lg:gap-8">
         <!-- bAV -->
-        <a href="/spezialisierungen/betriebliche-altersversorgung/" class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
+        <a href={url('/spezialisierungen/betriebliche-altersversorgung/')} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
           <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
             <svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 0h.008v.008h-.008V7.5z" /></svg>
           </div>
@@ -105,7 +106,7 @@ const insuranceTypes = [
         </a>
 
         <!-- Private Altersvorsorge -->
-        <a href="/spezialisierungen/altersvorsorge/" class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
+        <a href={url('/spezialisierungen/altersvorsorge/')} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
           <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
             <svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
           </div>
@@ -117,7 +118,7 @@ const insuranceTypes = [
         </a>
 
         <!-- Ruhestandsplanung -->
-        <a href="/spezialisierungen/ruhestandsplanung/" class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
+        <a href={url('/spezialisierungen/ruhestandsplanung/')} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
           <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
             <svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" /></svg>
           </div>
@@ -152,7 +153,7 @@ const insuranceTypes = [
       </div>
 
       <div class="text-center mt-10">
-        <a href="/versicherungen/" class="inline-flex items-center gap-2 font-body text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
+        <a href={url('/versicherungen/')} class="inline-flex items-center gap-2 font-body text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
           Alle Versicherungen anzeigen
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
         </a>
@@ -170,7 +171,7 @@ const insuranceTypes = [
           <p class="font-body text-lg text-slate-600 leading-relaxed mb-8">
             „Nurbanum" steht für genau das: Ihre Versicherungen und Ihre Vorsorge sollten nur um Sie gehen. Nicht um Provisionen, nicht um Verkaufsziele.
           </p>
-          <a href="/ueber-uns/" class="inline-flex items-center gap-2 font-body text-sm font-semibold text-amber-600 hover:text-amber-700 no-underline transition-colors">
+          <a href={url('/ueber-uns/')} class="inline-flex items-center gap-2 font-body text-sm font-semibold text-amber-600 hover:text-amber-700 no-underline transition-colors">
             Mehr über mich erfahren
             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
           </a>
@@ -224,7 +225,7 @@ const insuranceTypes = [
 
       <div class="grid md:grid-cols-3 gap-6">
         {latestRatgeber.map(guide => (
-          <a href={`/ratgeber/${guide.id}/`} class="group bg-slate-50 hover:bg-amber-50 rounded-2xl border border-slate-100 hover:border-amber-200 p-7 transition-all no-underline">
+          <a href={url(`/ratgeber/${guide.id}/`)} class="group bg-slate-50 hover:bg-amber-50 rounded-2xl border border-slate-100 hover:border-amber-200 p-7 transition-all no-underline">
             <span class="inline-block text-xs font-semibold text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4 font-body">{guide.data.category}</span>
             <h3 class="font-display text-lg font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors leading-snug">{guide.data.title}</h3>
             <p class="font-body text-sm text-slate-600 leading-relaxed">{guide.data.description}</p>
@@ -233,7 +234,7 @@ const insuranceTypes = [
       </div>
 
       <div class="text-center mt-10">
-        <a href="/ratgeber/" class="inline-flex items-center gap-2 font-body text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
+        <a href={url('/ratgeber/')} class="inline-flex items-center gap-2 font-body text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
           Alle Ratgeber anzeigen
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
         </a>
@@ -284,7 +285,7 @@ const insuranceTypes = [
             Ob Erstberatung, Versicherungscheck oder eine konkrete Frage — ich freue mich auf Ihre Nachricht.
           </p>
           <div class="flex flex-wrap justify-center gap-4">
-            <a href="/kontakt/" class="inline-flex items-center gap-2 px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-display font-bold rounded-xl transition-all shadow-lg shadow-amber-500/25 hover:shadow-amber-400/35 no-underline">
+            <a href={url('/kontakt/')} class="inline-flex items-center gap-2 px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-display font-bold rounded-xl transition-all shadow-lg shadow-amber-500/25 hover:shadow-amber-400/35 no-underline">
               Kontakt aufnehmen
               <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
             </a>

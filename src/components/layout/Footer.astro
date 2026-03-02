@@ -1,19 +1,21 @@
 ---
+import { url } from '../../utils/paths';
+
 const currentYear = new Date().getFullYear();
 
 const insuranceLinks = [
-  { href: '/versicherungen/haftpflicht/', label: 'Privathaftpflicht' },
-  { href: '/versicherungen/berufsunfaehigkeit/', label: 'Berufsunfähigkeit' },
-  { href: '/versicherungen/kfz/', label: 'Kfz-Versicherung' },
-  { href: '/versicherungen/hausrat/', label: 'Hausratversicherung' },
-  { href: '/versicherungen/wohngebaeude/', label: 'Wohngebäudeversicherung' },
-  { href: '/versicherungen/rechtsschutz/', label: 'Rechtsschutzversicherung' },
+  { href: url('/versicherungen/haftpflicht/'), label: 'Privathaftpflicht' },
+  { href: url('/versicherungen/berufsunfaehigkeit/'), label: 'Berufsunfähigkeit' },
+  { href: url('/versicherungen/kfz/'), label: 'Kfz-Versicherung' },
+  { href: url('/versicherungen/hausrat/'), label: 'Hausratversicherung' },
+  { href: url('/versicherungen/wohngebaeude/'), label: 'Wohngebäudeversicherung' },
+  { href: url('/versicherungen/rechtsschutz/'), label: 'Rechtsschutzversicherung' },
 ];
 
 const specialLinks = [
-  { href: '/spezialisierungen/altersvorsorge/', label: 'Private Altersvorsorge' },
-  { href: '/spezialisierungen/betriebliche-altersversorgung/', label: 'Betriebliche Altersversorgung' },
-  { href: '/spezialisierungen/ruhestandsplanung/', label: 'Ruhestandsplanung' },
+  { href: url('/spezialisierungen/altersvorsorge/'), label: 'Private Altersvorsorge' },
+  { href: url('/spezialisierungen/betriebliche-altersversorgung/'), label: 'Betriebliche Altersversorgung' },
+  { href: url('/spezialisierungen/ruhestandsplanung/'), label: 'Ruhestandsplanung' },
 ];
 ---
 
@@ -57,7 +59,7 @@ const specialLinks = [
             </li>
           ))}
           <li>
-            <a href="/versicherungen/" class="text-sm text-amber-500 hover:text-amber-400 transition-colors no-underline font-medium">Alle ansehen →</a>
+            <a href={url('/versicherungen/')} class="text-sm text-amber-500 hover:text-amber-400 transition-colors no-underline font-medium">Alle ansehen →</a>
           </li>
         </ul>
       </div>
@@ -74,10 +76,10 @@ const specialLinks = [
         </ul>
         <h3 class="text-white font-body font-bold text-sm uppercase tracking-wider mt-8 mb-4">Informationen</h3>
         <ul class="space-y-2.5">
-          <li><a href="/ratgeber/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Ratgeber & Tipps</a></li>
-          <li><a href="/faq/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Häufige Fragen</a></li>
-          <li><a href="/glossar/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Versicherungs-Glossar</a></li>
-          <li><a href="/ueber-uns/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Über uns</a></li>
+          <li><a href={url('/ratgeber/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Ratgeber & Tipps</a></li>
+          <li><a href={url('/faq/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Häufige Fragen</a></li>
+          <li><a href={url('/glossar/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Versicherungs-Glossar</a></li>
+          <li><a href={url('/ueber-uns/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Über uns</a></li>
         </ul>
       </div>
 
@@ -85,9 +87,9 @@ const specialLinks = [
       <div>
         <h3 class="text-white font-body font-bold text-sm uppercase tracking-wider mb-4">Rechtliches</h3>
         <ul class="space-y-2.5">
-          <li><a href="/impressum/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Impressum</a></li>
-          <li><a href="/datenschutz/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Datenschutzerklärung</a></li>
-          <li><a href="/erstinformation/" class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Erstinformation</a></li>
+          <li><a href={url('/impressum/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Impressum</a></li>
+          <li><a href={url('/datenschutz/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Datenschutzerklärung</a></li>
+          <li><a href={url('/erstinformation/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Erstinformation</a></li>
         </ul>
 
         <h3 class="text-white font-body font-bold text-sm uppercase tracking-wider mt-8 mb-4">Folgen Sie uns</h3>

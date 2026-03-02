@@ -1,4 +1,5 @@
 ---
+import { url } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
@@ -26,7 +27,7 @@ const sorted = guides.sort((a, b) => b.data.publishDate.getTime() - a.data.publi
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sorted.map((guide, i) => (
           <a
-            href={`/ratgeber/${guide.id}/`}
+            href={url(`/ratgeber/${guide.id}/`)}
             class="group block bg-white rounded-xl p-8 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300 animate-slide-up"
             style={`animation-delay: ${0.1 + i * 0.1}s;`}
           >
