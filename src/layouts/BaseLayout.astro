@@ -15,12 +15,12 @@ interface Props {
 const {
   title = 'Nurbanum Versicherungsmakler — Altersvorsorge & Versicherungen in Zirndorf',
   description = 'Unabhängiger Versicherungsmakler in Zirndorf bei Nürnberg. Spezialisiert auf Altersvorsorge, betriebliche Altersversorgung und Ruhestandsplanung.',
-  ogImage = '/images/og-default.svg',
+  ogImage = '/images/og-default.png',
   noIndex = false,
 } = Astro.props;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
-const ogImageUrl = new URL(ogImage, Astro.site);
+const ogImageUrl = new URL(url(ogImage), Astro.site);
 ---
 
 <!doctype html>
@@ -72,7 +72,7 @@ const ogImageUrl = new URL(ogImage, Astro.site);
       "url": "https://nurbanum.de",
       "telephone": "+4917384444426",
       "email": "thorsten.schreier@nurbanum.de",
-      "image": new URL('/images/og-default.svg', Astro.site).toString(),
+      "image": new URL(url('/images/og-default.png'), Astro.site).toString(),
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "[Straße Nr.]",
