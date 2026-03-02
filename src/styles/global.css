@@ -98,15 +98,10 @@
     line-height: 1.15;
     font-weight: 800;
     text-wrap: balance;
-    margin-top: 1em;
+    /* No font-size, color, or margins here — they get unlayered by Tailwind v4's
+       build pipeline and override ALL utility classes and prose styles.
+       Sizes/spacing are handled by Tailwind utilities and .prose rules below. */
   }
-
-  h1 { font-size: clamp(2rem, 5vw, 4rem); margin-top: 0; }
-  h2 { font-size: clamp(1.6rem, 3.5vw, 2.75rem); }
-  h3 { font-size: clamp(1.2rem, 2.5vw, 1.75rem); }
-
-  h1 + p, h2 + p, h3 + p { margin-top: 0.75em; }
-  p + p { margin-top: 0.5em; }
 
   p {
     text-wrap: pretty;
@@ -169,6 +164,48 @@
 
 .prose tbody tr:last-child td:first-child {
   font-weight: 700;
+}
+
+/* ── Prose heading sizing and spacing ── */
+/* These only apply inside article/page prose content, not homepage sections */
+.prose h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.prose h3 {
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose h4 {
+  font-size: 1.125rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Breathing room between paragraphs */
+.prose p + p {
+  margin-top: 0.75em;
+}
+
+/* Space between list and preceding content */
+.prose :is(ul, ol) {
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+}
+
+/* More space between list items — especially for bold-label patterns like
+   **Label:** long description text */
+.prose li + li {
+  margin-top: 0.5em;
+}
+
+/* Even more space when list items have bold labels as first element */
+.prose li:has(> strong:first-child) + li:has(> strong:first-child) {
+  margin-top: 0.75em;
 }
 
 /* ── Reduce motion for users who prefer it ── */

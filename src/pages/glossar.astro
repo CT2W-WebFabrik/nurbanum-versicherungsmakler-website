@@ -37,7 +37,7 @@ const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
     <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
     <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
       <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Nachschlagen</p>
-      <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up">Versicherungs-Glossar</h1>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Versicherungs-Glossar</h1>
       <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Die wichtigsten Versicherungsbegriffe verständlich erklärt.</p>
     </div>
   </section>
@@ -62,7 +62,7 @@ const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
             {terms.filter(t => t.term[0].toUpperCase() === letter).map(t => (
               <div class="bg-white rounded-xl p-6 border border-slate-100">
                 <dt class="text-base font-bold text-navy-900 mb-2">{t.term}</dt>
-                <dd class="text-sm text-slate-600 leading-relaxed">{t.definition}</dd>
+                <dd class="text-base text-slate-600 leading-relaxed">{t.definition}</dd>
               </div>
             ))}
           </div>

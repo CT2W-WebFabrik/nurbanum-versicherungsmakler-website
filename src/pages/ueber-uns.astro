@@ -19,8 +19,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <!-- Text -->
           <div class="animate-fade-in">
             <span class="inline-block text-sm font-medium text-amber-400 bg-amber-500/10 px-3 py-1 rounded-full mb-6">Ihr Versicherungsmakler</span>
-            <h1 class="text-white mb-6">Thorsten Schreier</h1>
-            <p class="text-xl text-navy-200 leading-relaxed mb-8">
+            <h1 class="text-3xl sm:text-4xl text-white mb-6">Thorsten Schreier</h1>
+            <p class="text-lg text-navy-200 leading-relaxed mb-8">
               Unabhängiger Versicherungsmakler mit Leidenschaft für ehrliche Beratung. Weil Ihre finanzielle Sicherheit keine Standardlösung verdient.
             </p>
             <div class="flex flex-wrap gap-4">
@@ -35,18 +35,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             </div>
           </div>
 
-          <!-- Photo placeholder -->
+          <!-- Photo -->
           <div class="animate-slide-up flex justify-center lg:justify-end" style="animation-delay: 0.2s">
             <div class="relative">
-              <div class="w-72 h-80 sm:w-80 sm:h-96 rounded-2xl bg-gradient-to-br from-navy-700 to-navy-800 border border-navy-600/50 flex items-center justify-center shadow-2xl">
+              <img
+                src={url('/images/thorsten-schreier.jpg')}
+                alt="Thorsten Schreier — Versicherungsmakler bei Nurbanum"
+                class="w-72 h-80 sm:w-80 sm:h-96 rounded-2xl object-cover shadow-2xl border border-navy-600/30"
+                width="320"
+                height="384"
+                loading="eager"
+              />
+              <div class="absolute -bottom-4 -right-4 w-24 h-24 rounded-xl bg-amber-500/10 border border-amber-500/20 backdrop-blur-sm flex items-center justify-center">
                 <div class="text-center">
-                  <span class="font-display text-7xl font-900 text-amber-400/30">TS</span>
-                  <p class="text-navy-200 text-sm mt-2">Foto folgt</p>
-                </div>
-              </div>
-              <div class="absolute -bottom-4 -right-4 w-24 h-24 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center">
-                <div class="text-center">
-                  <span class="text-amber-400 font-display text-2xl font-bold block">15+</span>
+                  <span class="text-amber-400 text-2xl font-bold block">15+</span>
                   <span class="text-navy-300 text-[0.65rem]">Jahre Erfahrung</span>
                 </div>
               </div>
@@ -61,8 +63,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <!-- Personal Story -->
       <section class="max-w-3xl lg:max-w-4xl mx-auto mb-24">
-        <h2 class="mb-8 text-center">Mein Weg zum Versicherungsmakler</h2>
-        <div class="space-y-6 text-navy-800 text-[0.95rem] leading-relaxed">
+        <h2 class="text-2xl sm:text-3xl mb-8 text-center">Mein Weg zum Versicherungsmakler</h2>
+        <div class="space-y-6 text-navy-800 text-base leading-relaxed">
           <p>
             Schon früh in meiner Karriere in der Versicherungsbranche habe ich erkannt, dass viele Menschen nicht die Beratung bekommen, die sie verdienen. Zu oft werden Produkte verkauft, die zum Anbieter passen, aber nicht zum Kunden. Das wollte ich ändern.
           </p>
@@ -80,14 +82,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <!-- Qualifications -->
       <section class="mb-24">
-        <h2 class="mb-10 text-center">Qualifikation & Kompetenz</h2>
+        <h2 class="text-2xl sm:text-3xl mb-10 text-center">Qualifikation & Kompetenz</h2>
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           <div class="bg-white rounded-2xl border border-slate-200 p-7 shadow-sm">
             <div class="w-12 h-12 rounded-xl bg-navy-950 flex items-center justify-center mb-5">
               <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" /></svg>
             </div>
             <h3 class="text-lg mb-3">IHK-registriert</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">
+            <p class="text-base text-slate-600 leading-relaxed">
               Zugelassener Versicherungsmakler nach § 34d GewO, registriert bei der IHK Nürnberg für Mittelfranken.
             </p>
           </div>
@@ -97,7 +99,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
             </div>
             <h3 class="text-lg mb-3">DVA-zertifiziert</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">
+            <p class="text-base text-slate-600 leading-relaxed">
               Abschluss an der Deutschen Versicherungsakademie (DVA) mit Spezialisierung auf Vorsorge und Absicherung.
             </p>
           </div>
@@ -107,7 +109,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
             </div>
             <h3 class="text-lg mb-3">Stetige Weiterbildung</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">
+            <p class="text-base text-slate-600 leading-relaxed">
               Regelmäßige Fortbildungen zu Tarifen, Rechtsprechung und Finanzplanung — weil sich der Markt ständig weiterentwickelt.
             </p>
           </div>
@@ -117,7 +119,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
             </div>
             <h3 class="text-lg mb-3">Regional verwurzelt</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">
+            <p class="text-base text-slate-600 leading-relaxed">
               Hier zu Hause in Zirndorf und der Metropolregion Nürnberg. Persönliche Beratung vor Ort oder digital — wie Sie es wünschen.
             </p>
           </div>
@@ -127,7 +129,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" /></svg>
             </div>
             <h3 class="text-lg mb-3">Unabhängig</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">
+            <p class="text-base text-slate-600 leading-relaxed">
               Nicht an ein Versicherungsunternehmen gebunden. Zugang zu einer Vielzahl von Anbietern für die optimale Lösung.
             </p>
           </div>
@@ -137,7 +139,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" /></svg>
             </div>
             <h3 class="text-lg mb-3">Mit Herzblut</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">
+            <p class="text-base text-slate-600 leading-relaxed">
               Versicherungen sind mehr als Paragraphen. Es geht um Ihre Familie, Ihre Zukunft und Ihre Lebensqualität im Alter.
             </p>
           </div>
@@ -147,14 +149,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <!-- Philosophy / USPs -->
       <section class="mb-24">
         <div class="bg-navy-950 rounded-3xl p-10 sm:p-14 text-center">
-          <h2 class="text-white mb-12">Was Nurbanum anders macht</h2>
+          <h2 class="text-2xl sm:text-3xl text-white mb-12">Was Nurbanum anders macht</h2>
           <div class="grid sm:grid-cols-3 gap-10">
             <div>
               <div class="w-16 h-16 rounded-2xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center mx-auto mb-5">
                 <span class="font-display text-3xl font-900 text-amber-400">1</span>
               </div>
               <h3 class="text-lg text-white mb-3">Unabhängig beraten</h3>
-              <p class="text-sm text-navy-300 leading-relaxed">
+              <p class="text-base text-navy-300 leading-relaxed">
                 Kein Vertreter, kein Strukturvertrieb. Als Makler bin ich gesetzlich verpflichtet, in Ihrem Interesse zu handeln — und das tue ich auch.
               </p>
             </div>
@@ -163,7 +165,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 <span class="font-display text-3xl font-900 text-amber-400">2</span>
               </div>
               <h3 class="text-lg text-white mb-3">Persönlich betreut</h3>
-              <p class="text-sm text-navy-300 leading-relaxed">
+              <p class="text-base text-navy-300 leading-relaxed">
                 Bei mir sind Sie keine Nummer. Ich nehme mir Zeit, Ihre Situation zu verstehen und erkläre alles verständlich — ohne Fachchinesisch.
               </p>
             </div>
@@ -172,7 +174,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 <span class="font-display text-3xl font-900 text-amber-400">3</span>
               </div>
               <h3 class="text-lg text-white mb-3">Transparent handeln</h3>
-              <p class="text-sm text-navy-300 leading-relaxed">
+              <p class="text-base text-navy-300 leading-relaxed">
                 Offene Kommunikation über Kosten, Provisionen und Entscheidungsgrundlagen. Sie wissen immer, woran Sie sind.
               </p>
             </div>
@@ -182,8 +184,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <!-- Regional Connection -->
       <section class="max-w-3xl lg:max-w-4xl mx-auto mb-24 text-center">
-        <h2 class="mb-8">Verwurzelt in der Region</h2>
-        <div class="text-navy-800 text-[0.95rem] leading-relaxed space-y-4">
+        <h2 class="text-2xl sm:text-3xl mb-8">Verwurzelt in der Region</h2>
+        <div class="text-navy-800 text-base leading-relaxed space-y-4">
           <p>
             Zirndorf und die Metropolregion Nürnberg sind meine Heimat. Hier lebe ich, hier arbeite ich — und hier berate ich Sie am liebsten persönlich. Ob bei mir im Büro, bei Ihnen zu Hause oder per Videokonferenz: Wir finden den Weg, der für Sie am besten passt.
           </p>
@@ -196,7 +198,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <!-- CTA Section -->
       <section class="text-center">
         <div class="bg-gradient-to-r from-amber-50 to-amber-100/50 border border-amber-200 rounded-3xl p-10 sm:p-14">
-          <h2 class="mb-4">Lassen Sie uns sprechen</h2>
+          <h2 class="text-2xl sm:text-3xl mb-4">Lassen Sie uns sprechen</h2>
           <p class="text-lg text-slate-600 mb-8 max-w-2xl mx-auto">
             Ob es um eine erste Bestandsaufnahme geht, eine konkrete Frage oder einen umfassenden Vorsorgecheck — ich freue mich auf Ihre Nachricht.
           </p>
