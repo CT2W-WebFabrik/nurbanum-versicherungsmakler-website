@@ -95,7 +95,8 @@
     font-family: var(--font-display);
     line-height: 1.15;
     font-weight: 800;
-    color: var(--color-navy-950);
+    /* No color here — use Tailwind classes (text-white, text-navy-950) per element
+       so headings on dark backgrounds aren't forced to navy-950 */
     text-wrap: balance;
   }
 
@@ -108,15 +109,10 @@
   }
 
   a {
-    color: var(--color-navy-600);
-    text-decoration-color: var(--color-amber-400);
+    /* No color here — Tailwind classes handle link colors per context.
+       Default link styling only in prose/article content below. */
     text-underline-offset: 3px;
     transition: color 0.2s, text-decoration-color 0.2s;
-  }
-
-  a:hover {
-    color: var(--color-amber-700);
-    text-decoration-color: var(--color-amber-700);
   }
 
   :focus-visible {
