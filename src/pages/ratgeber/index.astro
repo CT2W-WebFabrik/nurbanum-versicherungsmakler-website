@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const guides = await getCollection('ratgeber');
+const sorted = guides.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+---
+
+<BaseLayout
+  title="Ratgeber & Tipps — Nurbanum Versicherungsmakler"
+  description="Versicherungstipps, Spartipps und Ratgeber für jede Lebenssituation. Verständlich erklärt vom unabhängigen Makler in Nürnberg."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="font-body text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Wissen</p>
+      <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up" style="animation-delay: 0.1s;">Ratgeber & Tipps</h1>
+      <p class="font-body text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.2s;">
+        Fundiertes Wissen für bessere Entscheidungen. Verständlich erklärt, ohne Fachchinesisch.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {sorted.map((guide, i) => (
+          <a
+            href={`/ratgeber/${guide.id}/`}
+            class="group block bg-white rounded-xl p-8 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300 animate-slide-up"
+            style={`animation-delay: ${0.1 + i * 0.1}s;`}
+          >
+            <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
+              {guide.data.category}
+            </span>
+            <h2 class="font-display text-lg font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">
+              {guide.data.title}
+            </h2>
+            <p class="font-body text-sm text-slate-600 leading-relaxed mb-4">
+              {guide.data.description}
+            </p>
+            <div class="flex items-center justify-between">
+              <span class="font-body text-xs text-slate-400">{guide.data.readingTime}</span>
+              <span class="inline-flex items-center font-body text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Lesen
+                <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

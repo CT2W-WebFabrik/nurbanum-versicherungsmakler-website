@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+const sorted = posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+---
+
+<BaseLayout
+  title="Blog — Nurbanum Versicherungsmakler"
+  description="Neuigkeiten, Einblicke und Aktuelles von Ihrem Versicherungsmakler in Zirndorf bei Nürnberg."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="font-body text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Aktuelles</p>
+      <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up" style="animation-delay: 0.1s;">Blog</h1>
+      <p class="font-body text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.2s;">
+        Neuigkeiten und Einblicke aus der Welt der Versicherungen.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="space-y-8">
+        {sorted.map((post) => (
+          <a href={`/blog/${post.id}/`} class="group block bg-white rounded-xl p-8 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300">
+            <div class="flex items-center gap-3 mb-3 text-sm text-slate-500">
+              <time datetime={post.data.publishDate.toISOString()}>
+                {post.data.publishDate.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+              {post.data.readingTime && <span>{post.data.readingTime}</span>}
+            </div>
+            <h2 class="font-display text-xl font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">{post.data.title}</h2>
+            <p class="font-body text-slate-600 leading-relaxed">{post.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

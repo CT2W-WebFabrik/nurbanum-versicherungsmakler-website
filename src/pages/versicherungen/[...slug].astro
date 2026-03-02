@@ -1,0 +1,28 @@
+---
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('versicherungen');
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  category={entry.data.category === 'personen' ? 'Personenversicherung' :
+            entry.data.category === 'sach' ? 'Sachversicherung' :
+            entry.data.category === 'haftpflicht' ? 'Haftpflichtversicherung' :
+            entry.data.category === 'gewerbe' ? 'Gewerbeversicherung' :
+            entry.data.category === 'altersvorsorge' ? 'Altersvorsorge' : ''}
+  breadcrumbs={[{ label: 'Versicherungen', href: '/versicherungen/' }]}
+>
+  <Content />
+</ArticleLayout>

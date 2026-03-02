@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const terms = [
+  { term: 'Beitrag', definition: 'Der regelmäßige Geldbetrag, den Sie an den Versicherer zahlen (auch Prämie genannt).' },
+  { term: 'Deckungssumme', definition: 'Der maximale Betrag, den die Versicherung im Schadenfall leistet.' },
+  { term: 'Dynamik', definition: 'Automatische jährliche Erhöhung von Beitrag und Leistung, um die Inflation auszugleichen.' },
+  { term: 'Entgeltumwandlung', definition: 'Bei der bAV: Teile des Bruttogehalts werden in Beiträge zur Altersvorsorge umgewandelt — steuer- und sozialabgabenfrei.' },
+  { term: 'Erstinformation', definition: 'Pflichtdokument nach §15 VersVermV, das Ihnen vor der Beratung über Status und Vergütung des Maklers Auskunft gibt.' },
+  { term: 'Gesundheitsprüfung', definition: 'Fragen zum Gesundheitszustand bei Vertragsabschluss. Wahrheitsgemäße Beantwortung ist Pflicht.' },
+  { term: 'Karenzzeit', definition: 'Wartezeit, bevor eine Leistung ausgezahlt wird (z.B. bei Berufsunfähigkeit oft 6 Monate).' },
+  { term: 'Leistungsfall', definition: 'Der Eintritt des versicherten Ereignisses, ab dem die Versicherung zahlt.' },
+  { term: 'Nachversicherungsgarantie', definition: 'Recht, den Versicherungsschutz bei bestimmten Lebensereignissen (Heirat, Kind, Immobilienkauf) ohne erneute Gesundheitsprüfung zu erhöhen.' },
+  { term: 'Obliegenheiten', definition: 'Pflichten des Versicherungsnehmers (z.B. Anzeigepflicht, Schadenminderung). Verstöße können zur Leistungskürzung führen.' },
+  { term: 'Prämie', definition: 'Siehe Beitrag. Der Preis für den Versicherungsschutz.' },
+  { term: 'Rentenfaktor', definition: 'Gibt an, wie viel monatliche Rente Sie pro 10.000 Euro angespartem Kapital erhalten. Wichtig bei der Altersvorsorge.' },
+  { term: 'Rürup-Rente', definition: 'Steuerlich geförderte Altersvorsorge (Basisrente), besonders attraktiv für Selbständige und Gutverdiener.' },
+  { term: 'Riester-Rente', definition: 'Staatlich geförderte Altersvorsorge mit Zulagen und Steuervorteilen. Vor allem für Angestellte mit Kindern attraktiv.' },
+  { term: 'Schadenfall', definition: 'Das versicherte Ereignis ist eingetreten. Melden Sie den Schaden zeitnah Ihrem Versicherer oder Makler.' },
+  { term: 'Selbstbeteiligung', definition: 'Der Anteil am Schaden, den Sie selbst tragen müssen. Höhere Selbstbeteiligung senkt den Beitrag.' },
+  { term: 'Überschussbeteiligung', definition: 'Anteil an den Gewinnen des Versicherers, der Ihre Leistung erhöht. Nicht garantiert.' },
+  { term: 'Versicherungsnehmer', definition: 'Die Person, die den Vertrag abschließt und die Beiträge zahlt.' },
+  { term: 'Versicherungsschein', definition: 'Das offizielle Dokument, das Ihren Versicherungsschutz bestätigt (Police).' },
+  { term: 'Versorgungslücke', definition: 'Die Differenz zwischen Ihrem heutigen Einkommen und der zu erwartenden gesetzlichen Rente.' },
+  { term: 'Wartezeit', definition: 'Zeitraum nach Vertragsabschluss, in dem noch kein voller Versicherungsschutz besteht.' },
+  { term: 'Widerruf', definition: 'Ihr Recht, einen Versicherungsvertrag innerhalb von 14 Tagen (bei Lebensversicherung 30 Tage) nach Erhalt der Police zu widerrufen.' },
+];
+
+const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
+---
+
+<BaseLayout
+  title="Versicherungs-Glossar — Nurbanum Versicherungsmakler"
+  description="Versicherungsbegriffe einfach erklärt: Von Beitrag über Deckungssumme bis Versorgungslücke. Das Glossar Ihres Versicherungsmaklers."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="font-body text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Nachschlagen</p>
+      <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-4 animate-slide-up">Versicherungs-Glossar</h1>
+      <p class="font-body text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Die wichtigsten Versicherungsbegriffe verständlich erklärt.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Letter navigation -->
+      <nav class="flex flex-wrap gap-2 mb-12">
+        {letters.map(l => (
+          <a href={`#${l}`} class="w-9 h-9 flex items-center justify-center rounded-lg bg-white border border-slate-100 hover:border-amber-300 hover:bg-amber-50 font-display font-bold text-sm text-navy-700 hover:text-amber-700 transition-all no-underline">
+            {l}
+          </a>
+        ))}
+      </nav>
+
+      {letters.map(letter => (
+        <div id={letter} class="mb-10">
+          <h2 class="font-display text-2xl font-bold text-navy-950 mb-4 flex items-center">
+            <span class="w-10 h-10 rounded-lg bg-amber-100 flex items-center justify-center mr-3 text-amber-700">{letter}</span>
+          </h2>
+          <div class="space-y-4">
+            {terms.filter(t => t.term[0].toUpperCase() === letter).map(t => (
+              <div class="bg-white rounded-xl p-6 border border-slate-100">
+                <dt class="font-display text-base font-bold text-navy-900 mb-2">{t.term}</dt>
+                <dd class="font-body text-sm text-slate-600 leading-relaxed">{t.definition}</dd>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

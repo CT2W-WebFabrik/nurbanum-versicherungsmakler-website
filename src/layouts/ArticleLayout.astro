@@ -1,0 +1,132 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  publishDate?: Date;
+  updatedDate?: Date;
+  category?: string;
+  readingTime?: string;
+  breadcrumbs?: { label: string; href: string }[];
+}
+
+const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs } = Astro.props;
+const formattedDate = publishDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
+const formattedUpdate = updatedDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Auto-generate reading time from slot content length if not provided
+const estimatedReadingTime = readingTime || undefined;
+
+// Build breadcrumb JSON-LD
+const breadcrumbItems = breadcrumbs || [];
+const breadcrumbSchema = breadcrumbItems.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://nurbanum.de/" },
+    ...breadcrumbItems.map((item, i) => ({
+      "@type": "ListItem",
+      "position": i + 2,
+      "name": item.label,
+      "item": `https://nurbanum.de${item.href}`
+    })),
+    { "@type": "ListItem", "position": breadcrumbItems.length + 2, "name": title }
+  ]
+} : null;
+---
+
+<BaseLayout title={`${title} — Nurbanum Versicherungsmakler`} description={description}>
+  <article class="bg-pattern">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-24">
+
+      {/* Breadcrumb navigation */}
+      {breadcrumbItems.length > 0 && (
+        <nav aria-label="Brotkrümelnavigation" class="mb-8 animate-fade-in">
+          <ol class="flex flex-wrap items-center gap-1.5 text-sm font-body text-slate-500">
+            <li>
+              <a href="/" class="hover:text-amber-600 transition-colors no-underline">Startseite</a>
+            </li>
+            {breadcrumbItems.map((item) => (
+              <li class="flex items-center gap-1.5">
+                <svg class="w-3.5 h-3.5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+                <a href={item.href} class="hover:text-amber-600 transition-colors no-underline">{item.label}</a>
+              </li>
+            ))}
+            <li class="flex items-center gap-1.5">
+              <svg class="w-3.5 h-3.5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+              <span class="text-navy-800 font-medium truncate max-w-[200px] sm:max-w-none" aria-current="page">{title}</span>
+            </li>
+          </ol>
+        </nav>
+      )}
+
+      <header class="mb-12 animate-fade-in">
+        {category && (
+          <span class="inline-block text-sm font-medium text-amber-700 bg-amber-100 px-3 py-1 rounded-full mb-4 font-body">
+            {category}
+          </span>
+        )}
+        <h1 class="mb-4">{title}</h1>
+        <div class="flex flex-wrap gap-4 text-sm text-slate-500 font-body">
+          {formattedDate && (
+            <time datetime={publishDate?.toISOString()}>
+              {formattedDate}
+            </time>
+          )}
+          {formattedUpdate && (
+            <span>Aktualisiert: {formattedUpdate}</span>
+          )}
+          {estimatedReadingTime && <span>{estimatedReadingTime} Lesezeit</span>}
+          <span>Von Thorsten Schreier</span>
+        </div>
+      </header>
+
+      <div class="prose prose-lg max-w-none
+        prose-headings:font-display prose-headings:text-navy-950
+        prose-a:text-navy-600 prose-a:decoration-amber-400
+        prose-strong:text-navy-800
+        prose-li:marker:text-amber-500
+        animate-slide-up" style="animation-delay: 0.15s">
+        <slot />
+      </div>
+
+      <footer class="mt-16 pt-8 border-t border-slate-200">
+        <div class="flex items-center gap-4">
+          <div class="w-14 h-14 rounded-full bg-navy-700 flex items-center justify-center text-white font-display text-xl font-bold shrink-0" aria-hidden="true">TS</div>
+          <div>
+            <p class="font-medium text-navy-900 font-body">Thorsten Schreier</p>
+            <p class="text-sm text-slate-500 font-body">Versicherungsmakler — Nurbanum</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </article>
+
+  {/* Article structured data */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "author": {
+      "@type": "Person",
+      "name": "Thorsten Schreier",
+      "jobTitle": "Versicherungsmakler",
+      "worksFor": { "@type": "Organization", "name": "Nurbanum Versicherungsmakler" }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Nurbanum Versicherungsmakler",
+      "url": "https://nurbanum.de"
+    },
+    "datePublished": publishDate?.toISOString(),
+    "dateModified": (updatedDate ?? publishDate)?.toISOString(),
+    "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
+  })} />
+
+  {/* Breadcrumb structured data */}
+  {breadcrumbSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  )}
+</BaseLayout>

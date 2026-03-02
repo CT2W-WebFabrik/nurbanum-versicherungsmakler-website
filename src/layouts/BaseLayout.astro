@@ -1,0 +1,116 @@
+---
+import '../styles/global.css';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
+import WhatsAppButton from '../components/interactive/WhatsAppButton.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  noIndex?: boolean;
+}
+
+const {
+  title = 'Nurbanum Versicherungsmakler — Altersvorsorge & Versicherungen in Zirndorf',
+  description = 'Unabhängiger Versicherungsmakler in Zirndorf bei Nürnberg. Spezialisiert auf Altersvorsorge, betriebliche Altersversorgung und Ruhestandsplanung.',
+  ogImage = '/images/og-default.svg',
+  noIndex = false,
+} = Astro.props;
+
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const ogImageUrl = new URL(ogImage, Astro.site);
+---
+
+<!doctype html>
+<html lang="de" class="scroll-smooth">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Preconnect to Google Fonts for faster loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- SEO -->
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    {noIndex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:site_name" content="Nurbanum Versicherungsmakler" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+
+    <!-- Theme color for mobile browsers -->
+    <meta name="theme-color" content="#0a0f1e" />
+
+    <!-- Structured Data: LocalBusiness -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "InsuranceAgency",
+      "name": "Nurbanum Versicherungsmakler",
+      "alternateName": "Nurbanum",
+      "url": "https://nurbanum.de",
+      "telephone": "+4917384444426",
+      "email": "thorsten.schreier@nurbanum.de",
+      "image": new URL('/images/og-default.svg', Astro.site).toString(),
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "[Straße Nr.]",
+        "addressLocality": "Zirndorf",
+        "postalCode": "90513",
+        "addressRegion": "Bayern",
+        "addressCountry": "DE"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 49.4403,
+        "longitude": 10.9553
+      },
+      "areaServed": {
+        "@type": "GeoCircle",
+        "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 49.4403, "longitude": 10.9553 },
+        "geoRadius": "50000"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "priceRange": "€",
+      "sameAs": []
+    })} />
+  </head>
+  <body class="min-h-screen flex flex-col bg-slate-50">
+    <!-- Skip to main content (accessibility) -->
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:px-4 focus:py-2 focus:bg-amber-500 focus:text-navy-950 focus:font-bold focus:rounded-lg focus:shadow-lg focus:outline-none">
+      Zum Hauptinhalt springen
+    </a>
+
+    <Header />
+    <main id="main-content" class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+    <WhatsAppButton />
+  </body>
+</html>

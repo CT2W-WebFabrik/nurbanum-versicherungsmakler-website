@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,400;0,600;0,800;0,900;1,400&family=Cabinet+Grotesk:wght@400;500;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* ── Color Palette: Deep Navy + Warm Amber ── */
+  --color-navy-950: #0a0f1e;
+  --color-navy-900: #0f1729;
+  --color-navy-800: #162035;
+  --color-navy-700: #1e2d4a;
+  --color-navy-600: #2a3f62;
+  --color-navy-500: #3a5580;
+  --color-navy-400: #5a7aaa;
+  --color-navy-300: #8ba4c8;
+  --color-navy-200: #b8cce0;
+  --color-navy-100: #dce6f0;
+  --color-navy-50: #f0f4f8;
+
+  --color-amber-900: #6b3a00;
+  --color-amber-800: #8c4d00;
+  --color-amber-700: #b36200;
+  --color-amber-600: #d47a00;
+  --color-amber-500: #f59e0b;
+  --color-amber-400: #fbbf24;
+  --color-amber-300: #fcd34d;
+  --color-amber-200: #fde68a;
+  --color-amber-100: #fef3c7;
+  --color-amber-50: #fffbeb;
+
+  --color-slate-900: #1a1d23;
+  --color-slate-800: #2d3139;
+  --color-slate-700: #3f444e;
+  --color-slate-600: #565c68;
+  --color-slate-500: #71788a;
+  --color-slate-400: #9098a9;
+  --color-slate-300: #b5bbc8;
+  --color-slate-200: #d4d8e0;
+  --color-slate-100: #eceef2;
+  --color-slate-50: #f8f9fb;
+
+  --color-green-600: #16a34a;
+  --color-green-500: #22c55e;
+
+  --color-success: #16a34a;
+  --color-warning: #d97706;
+  --color-error: #dc2626;
+
+  /* ── Typography ── */
+  --font-display: 'Crimson Pro', Georgia, serif;
+  --font-body: 'Cabinet Grotesk', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* ── Spacing scale ── */
+  --spacing-18: 4.5rem;
+  --spacing-22: 5.5rem;
+  --spacing-30: 7.5rem;
+
+  /* ── Animation ── */
+  --animate-fade-in: fade-in 0.6s ease-out both;
+  --animate-slide-up: slide-up 0.6s ease-out both;
+  --animate-slide-in-left: slide-in-left 0.5s ease-out both;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-in-left {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+/* ── Base styles ── */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-navy-900);
+  background-color: var(--color-slate-50);
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  line-height: 1.15;
+  font-weight: 800;
+  color: var(--color-navy-950);
+  text-wrap: balance;
+}
+
+h1 { font-size: clamp(2rem, 5vw, 4rem); }
+h2 { font-size: clamp(1.6rem, 3.5vw, 2.75rem); }
+h3 { font-size: clamp(1.2rem, 2.5vw, 1.75rem); }
+
+p {
+  text-wrap: pretty;
+}
+
+a {
+  color: var(--color-navy-600);
+  text-decoration-color: var(--color-amber-400);
+  text-underline-offset: 3px;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+a:hover {
+  color: var(--color-amber-700);
+  text-decoration-color: var(--color-amber-700);
+}
+
+/* ── Focus styles for accessibility ── */
+:focus-visible {
+  outline: 2px solid var(--color-amber-400);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Remove focus-visible outline from mouse users */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+::selection {
+  background-color: var(--color-amber-200);
+  color: var(--color-navy-950);
+}
+
+/* ── Reduce motion for users who prefer it ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── Utility classes ── */
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-navy-700), var(--color-amber-600));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-pattern {
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(245, 158, 11, 0.06) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(30, 45, 74, 0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 60% 80%, rgba(245, 158, 11, 0.03) 0%, transparent 50%);
+}
+
+.bg-hero {
+  background:
+    linear-gradient(135deg, var(--color-navy-950) 0%, var(--color-navy-800) 50%, var(--color-navy-700) 100%);
+}
+
+.bg-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 70% 30%, rgba(245, 158, 11, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse at 20% 80%, rgba(139, 164, 200, 0.08) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* ── Touch target minimum sizes ── */
+@media (pointer: coarse) {
+  a, button, [role="button"], input, select, textarea, summary {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Inline links within text should not have min-height */
+  p a, li a, dd a, td a, .prose a {
+    min-height: unset;
+    min-width: unset;
+  }
+}
