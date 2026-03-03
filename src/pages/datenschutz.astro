@@ -30,11 +30,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             <li><a href="#kontaktformular" class="hover:text-amber-400 transition-colors no-underline">6. Kontaktformular</a></li>
             <li><a href="#email" class="hover:text-amber-400 transition-colors no-underline">7. Anfrage per E-Mail oder Telefon</a></li>
             <li><a href="#cookies" class="hover:text-amber-400 transition-colors no-underline">8. Cookies</a></li>
-            <li><a href="#google-fonts" class="hover:text-amber-400 transition-colors no-underline">9. Google Fonts</a></li>
-            <li><a href="#betroffenenrechte" class="hover:text-amber-400 transition-colors no-underline">10. Betroffenenrechte</a></li>
-            <li><a href="#beschwerde" class="hover:text-amber-400 transition-colors no-underline">11. Beschwerderecht</a></li>
-            <li><a href="#widerruf" class="hover:text-amber-400 transition-colors no-underline">12. Widerrufsrecht</a></li>
-            <li><a href="#aenderungen" class="hover:text-amber-400 transition-colors no-underline">13. Änderungen</a></li>
+            <li><a href="#google-fonts" class="hover:text-amber-400 transition-colors no-underline">9. Schriftarten</a></li>
+            <li><a href="#google-maps" class="hover:text-amber-400 transition-colors no-underline">10. Google Maps</a></li>
+            <li><a href="#betroffenenrechte" class="hover:text-amber-400 transition-colors no-underline">11. Betroffenenrechte</a></li>
+            <li><a href="#beschwerde" class="hover:text-amber-400 transition-colors no-underline">12. Beschwerderecht</a></li>
+            <li><a href="#widerruf" class="hover:text-amber-400 transition-colors no-underline">13. Widerrufsrecht</a></li>
+            <li><a href="#aenderungen" class="hover:text-amber-400 transition-colors no-underline">14. Änderungen</a></li>
           </ol>
         </nav>
 
@@ -193,29 +194,40 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
         <!-- 9. Google Fonts -->
         <section id="google-fonts" class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm scroll-mt-24">
-          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">9. Google Fonts (externer Bezug)</h2>
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">9. Schriftarten (lokal eingebunden)</h2>
           <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
             <p>
-              Diese Website nutzt zur einheitlichen Darstellung von Schriftarten sogenannte Google Fonts, die von Google (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Schriftarten in Ihren Browser-Cache, um Texte und Schriftarten korrekt anzuzeigen.
+              Diese Website nutzt zur einheitlichen Darstellung von Schriftarten lokal eingebundene Fonts (u.&nbsp;a. auf Basis von Google Fonts und Fontshare). Die Schriftarten sind auf unserem eigenen Server gespeichert und werden beim Aufruf der Seite von dort geladen. Eine Verbindung zu externen Servern (z.&nbsp;B. Google) findet dabei <strong>nicht</strong> statt.
             </p>
             <p>
-              Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Fonts erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an der einheitlichen und ansprechenden Darstellung unserer Website.
-            </p>
-            <p>
-              Google Inc. ist unter dem EU-U.S. Data Privacy Framework zertifiziert, sodass ein angemessenes Datenschutzniveau gewährleistet wird.
-            </p>
-            <p>
-              Weitere Informationen zu Google Fonts finden Sie unter
-              <a href="https://fonts.google.com/knowledge" target="_blank" rel="noopener noreferrer" class="text-navy-600 hover:text-amber-600">https://fonts.google.com/knowledge</a>
-              und in der Datenschutzerklärung von Google:
-              <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" class="text-navy-600 hover:text-amber-600">https://policies.google.com/privacy</a>.
+              Es werden keine personenbezogenen Daten an Dritte übermittelt. Die Einbindung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an der einheitlichen und ansprechenden Darstellung unserer Website.
             </p>
           </div>
         </section>
 
-        <!-- 10. Betroffenenrechte -->
+        <!-- 10. Google Maps -->
+        <section id="google-maps" class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm scroll-mt-24">
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">10. Google Maps</h2>
+          <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
+            <p>
+              Wir nutzen auf unserer Kontaktseite den Kartendienst Google Maps zur Darstellung unseres Bürostandorts. Die Karte wird <strong>erst nach Ihrer ausdrücklichen Einwilligung per Klick</strong> geladen (sogenannte 2-Klick-Lösung). Ohne Ihren Klick findet keine Verbindung zu Google-Servern statt.
+            </p>
+            <p>
+              Wenn Sie die Karte laden, wird eine Verbindung zu Servern von Google hergestellt. Dabei wird Ihre IP-Adresse an Google übermittelt und Google kann Cookies auf Ihrem Endgerät setzen. Wir haben keinen Einfluss auf den Umfang der von Google erhobenen Daten.
+            </p>
+            <p>
+              Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Die Nutzung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie den Eintrag <code class="text-sm bg-slate-100 px-1.5 py-0.5 rounded">nurbanum-maps-consent</code> aus dem lokalen Speicher (localStorage) Ihres Browsers entfernen.
+            </p>
+            <p>
+              Google ist unter dem EU-U.S. Data Privacy Framework zertifiziert. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google:
+              <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" class="text-navy-600 hover:text-amber-600">https://policies.google.com/privacy</a>
+            </p>
+          </div>
+        </section>
+
+        <!-- 11. Betroffenenrechte -->
         <section id="betroffenenrechte" class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm scroll-mt-24">
-          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">10. Ihre Rechte als betroffene Person</h2>
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">11. Ihre Rechte als betroffene Person</h2>
           <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
             <p>Ihnen stehen unter den jeweiligen gesetzlichen Voraussetzungen folgende Rechte zu:</p>
 
@@ -252,9 +264,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </div>
         </section>
 
-        <!-- 11. Beschwerderecht -->
+        <!-- 12. Beschwerderecht -->
         <section id="beschwerde" class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm scroll-mt-24">
-          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">11. Recht auf Beschwerde bei einer Aufsichtsbehörde</h2>
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">12. Recht auf Beschwerde bei einer Aufsichtsbehörde</h2>
           <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
             <p>
               Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde zu, insbesondere in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
@@ -270,9 +282,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </div>
         </section>
 
-        <!-- 12. Widerrufsrecht -->
+        <!-- 13. Widerrufsrecht -->
         <section id="widerruf" class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm scroll-mt-24">
-          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">12. Widerruf Ihrer Einwilligung</h2>
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">13. Widerruf Ihrer Einwilligung</h2>
           <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
             <p>
               Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
@@ -280,9 +292,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </div>
         </section>
 
-        <!-- 13. Änderungen -->
+        <!-- 14. Änderungen -->
         <section id="aenderungen" class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm scroll-mt-24">
-          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">13. Änderungen dieser Datenschutzerklärung</h2>
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">14. Änderungen dieser Datenschutzerklärung</h2>
           <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
             <p>
               Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
