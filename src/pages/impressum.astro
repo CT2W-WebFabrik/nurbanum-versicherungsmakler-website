@@ -1,10 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../utils/paths';
 ---
 
 <BaseLayout
   title="Impressum — Nurbanum Versicherungsmakler"
   description="Impressum und Angaben gemäß § 5 DDG für Nurbanum Versicherungsmakler, Thorsten Schreier in Zirndorf."
+  noIndex={true}
 >
   <div class="bg-pattern">
     <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24">
@@ -166,6 +168,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               </p>
               <p class="mt-2">Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
             </div>
+          </div>
+        </section>
+
+        <!-- Erstinformation -->
+        <section class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm">
+          <h2 class="text-xl mb-6 pb-4 border-b border-slate-100">Erstinformation</h2>
+          <div class="text-navy-800 space-y-4 text-[0.95rem] leading-relaxed">
+            <p>
+              Unsere gesetzliche Erstinformation nach § 15 VersVermV finden Sie hier:
+            </p>
+            <p>
+              <a href={url('/erstinformation/')} class="text-navy-600 hover:text-amber-600 font-medium">Erstinformation gemäß § 15 VersVermV →</a>
+            </p>
           </div>
         </section>
 
