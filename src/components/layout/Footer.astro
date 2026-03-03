@@ -1,6 +1,15 @@
 ---
 import { url } from '../../utils/paths';
 
+const currentPath = Astro.url.pathname;
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+function isActive(href: string): boolean {
+  const home = basePath + '/';
+  if (href === home || href === basePath) return currentPath === home || currentPath === basePath;
+  return currentPath.startsWith(href);
+}
+
 const currentYear = new Date().getFullYear();
 
 const insuranceLinks = [
@@ -55,7 +64,7 @@ const specialLinks = [
         <ul class="space-y-2.5">
           {insuranceLinks.map((link) => (
             <li>
-              <a href={link.href} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">{link.label}</a>
+              <a href={link.href} class={`text-sm transition-colors no-underline ${isActive(link.href) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>{link.label}</a>
             </li>
           ))}
           <li>
@@ -70,16 +79,16 @@ const specialLinks = [
         <ul class="space-y-2.5">
           {specialLinks.map((link) => (
             <li>
-              <a href={link.href} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">{link.label}</a>
+              <a href={link.href} class={`text-sm transition-colors no-underline ${isActive(link.href) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>{link.label}</a>
             </li>
           ))}
         </ul>
         <h3 class="text-white font-bold text-sm uppercase tracking-wider mt-8 mb-4">Informationen</h3>
         <ul class="space-y-2.5">
-          <li><a href={url('/ratgeber/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Ratgeber & Tipps</a></li>
-          <li><a href={url('/faq/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Häufige Fragen</a></li>
-          <li><a href={url('/glossar/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Versicherungs-Glossar</a></li>
-          <li><a href={url('/ueber-uns/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Über uns</a></li>
+          <li><a href={url('/ratgeber/')} class={`text-sm transition-colors no-underline ${isActive(url('/ratgeber/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Ratgeber & Tipps</a></li>
+          <li><a href={url('/faq/')} class={`text-sm transition-colors no-underline ${isActive(url('/faq/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Häufige Fragen</a></li>
+          <li><a href={url('/glossar/')} class={`text-sm transition-colors no-underline ${isActive(url('/glossar/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Versicherungs-Glossar</a></li>
+          <li><a href={url('/ueber-uns/')} class={`text-sm transition-colors no-underline ${isActive(url('/ueber-uns/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Über uns</a></li>
         </ul>
       </div>
 
@@ -87,9 +96,9 @@ const specialLinks = [
       <div>
         <h3 class="text-white font-bold text-sm uppercase tracking-wider mb-4">Rechtliches</h3>
         <ul class="space-y-2.5">
-          <li><a href={url('/impressum/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Impressum</a></li>
-          <li><a href={url('/datenschutz/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Datenschutzerklärung</a></li>
-          <li><a href={url('/erstinformation/')} class="text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">Erstinformation</a></li>
+          <li><a href={url('/impressum/')} class={`text-sm transition-colors no-underline ${isActive(url('/impressum/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Impressum</a></li>
+          <li><a href={url('/datenschutz/')} class={`text-sm transition-colors no-underline ${isActive(url('/datenschutz/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Datenschutzerklärung</a></li>
+          <li><a href={url('/erstinformation/')} class={`text-sm transition-colors no-underline ${isActive(url('/erstinformation/')) ? 'text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>Erstinformation</a></li>
         </ul>
 
         <h3 class="text-white font-bold text-sm uppercase tracking-wider mt-8 mb-4">Folgen Sie uns</h3>
