@@ -59,7 +59,7 @@ Ab 40 haben Sie in der Regel ein höheres Einkommen als mit 25. Nutzen Sie das:
 
 **ETF-Sparplan (privat):** Maximale Flexibilität, niedrigste Kosten, aber kein Steuervorteil wie beim Versicherungsmantel. Erträge werden mit der Abgeltungssteuer (26,375 %) belastet.
 
-**Rürup-Rente (Basisrente):** Für Gutverdiener und Selbständige. Die Beiträge sind zu 100 % steuerlich absetzbar (2026: bis zu 27.566 Euro). Die Steuerersparnis wirkt wie eine Sofortrendite. Nachteil: Keine Kapitalauszahlung, nur lebenslange Rente.
+**Rürup-Rente (Basisrente):** Für Gutverdiener und Selbständige. Die Beiträge sind zu 100 % steuerlich absetzbar (2026: bis zu 30.826 Euro). Die Steuerersparnis wirkt wie eine Sofortrendite. Nachteil: Keine Kapitalauszahlung, nur lebenslange Rente.
 
 ### Schritt 4: Immobilie als Altersvorsorge?
 
@@ -88,3 +88,10 @@ Der teuerste Fehler. Selbst mit 45 oder 50 können Sie noch eine relevante Zusat
 Mit 40 ist der perfekte Zeitpunkt, die Altersvorsorge ernst zu nehmen. Das Einkommen ist höher, die Lebenssituation stabiler, und der Zeithorizont reicht für eine wirkungsvolle Strategie. Als unabhängiger Versicherungsmakler analysiere ich Ihre bestehenden Verträge, berechne Ihre Versorgungslücke und empfehle genau die Bausteine, die zu Ihrer Situation passen — ohne Provisionsinteresse bei bestimmten Produkten.
 
 **Vereinbaren Sie jetzt Ihr kostenloses Vorsorgegespräch** — und machen Sie den ersten Schritt.
+
+---
+
+### Quellen
+
+- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG knappschaftliche RV 124.800 Euro
+- [§ 10 Abs. 3 EStG](https://www.gesetze-im-internet.de/estg/__10.html) — Rürup-Höchstbetrag 2026: 30.826 Euro

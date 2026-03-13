@@ -28,7 +28,7 @@ Viele Auftraggeber und Berufsordnungen schreiben eine Berufshaftpflicht vor. Ohn
 
 ### Berufsunfähigkeitsversicherung
 
-Statistisch wird jeder vierte Arbeitnehmer vor der Rente berufsunfähig. Für Selbständige ist das Risiko oft noch relevanter, weil sie keinerlei gesetzliche Absicherung haben: Keine Lohnfortzahlung, keine Erwerbsminderungsrente (es sei denn, Sie zahlen freiwillig in die gesetzliche Rentenversicherung ein).
+Laut Branchenstatistiken wird etwa jeder vierte Arbeitnehmer vor der Rente berufsunfähig. Für Selbständige ist das Risiko oft noch relevanter, weil sie keinerlei gesetzliche Absicherung haben: Keine Lohnfortzahlung, keine Erwerbsminderungsrente (es sei denn, Sie zahlen freiwillig in die gesetzliche Rentenversicherung ein).
 
 Die BU sollte mindestens 75 % Ihres Nettoeinkommens absichern. Je früher Sie abschließen, desto günstiger und einfacher sind die Gesundheitsfragen.
 
@@ -78,7 +78,7 @@ Rechtsstreitigkeiten mit Kunden, Lieferanten oder Behörden können schnell fün
 
 ### Rürup-Rente (Basisrente)
 
-Die Rürup-Rente ist das Pendant zur Riester-Rente für Selbständige. Ihre Beiträge sind steuerlich absetzbar (2025: bis zu 27.565 Euro). Besonders attraktiv für Selbständige mit hohem Steuersatz. Die Beiträge sind flexibel — Sie können in guten Jahren mehr einzahlen und in schwachen Jahren weniger.
+Die Rürup-Rente ist das Pendant zur Riester-Rente für Selbständige. Ihre Beiträge sind steuerlich absetzbar (2026: bis zu 30.826 Euro). Besonders attraktiv für Selbständige mit hohem Steuersatz. Die Beiträge sind flexibel — Sie können in guten Jahren mehr einzahlen und in schwachen Jahren weniger.
 
 ### Betriebliche Altersversorgung
 
@@ -99,3 +99,11 @@ Neben der geförderten Altersvorsorge empfiehlt sich ein flexibler ETF-Sparplan 
 Die richtige Absicherung hängt von Ihrer Branche, Rechtsform, Familiensituation und Ihrem Geschäftsmodell ab. Als unabhängiger Versicherungsmakler erstelle ich einen maßgeschneiderten Versicherungsplan für Ihre Gründung — und helfe Ihnen, die wichtigen Absicherungen von den unwichtigen zu unterscheiden.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Gründer-Versicherungscheck** — damit Sie sich auf den Aufbau Ihres Geschäfts konzentrieren können.
+
+---
+
+### Quellen
+
+- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG knappschaftliche RV 124.800 Euro
+- [§ 10 Abs. 3 EStG](https://www.gesetze-im-internet.de/estg/__10.html) — Rürup-Höchstbetrag 2026: 30.826 Euro
+- [DRV: Statistiken und Berichte](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html) — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik

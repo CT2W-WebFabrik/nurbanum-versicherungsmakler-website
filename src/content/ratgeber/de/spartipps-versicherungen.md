@@ -90,3 +90,10 @@ Die größte Ersparnis liegt oft nicht im Einzeltarif, sondern in der Gesamtstra
 Sie möchten wissen, wo bei Ihren Verträgen Einsparpotenzial schlummert? Als unabhängiger Versicherungsmakler prüfe ich Ihre bestehenden Policen kostenlos und zeige Ihnen transparent auf, wo Sie sparen können — und wo es sich lohnt, vielleicht sogar etwas mehr zu investieren.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Versicherungs-Check** und finden Sie heraus, wie viel Sie sparen können.
+
+---
+
+### Quellen
+
+- [GDV: Statistiken zur deutschen Versicherungswirtschaft](https://www.gdv.de/gdv/statistik) — Kennzahlen und Versicherungsausgaben deutscher Haushalte
+- [Verbraucherzentrale: Welche Versicherungen brauche ich?](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/check-welche-versicherungen-brauche-ich-113573) — Bewertung einzelner Versicherungsarten nach Notwendigkeit

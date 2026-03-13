@@ -48,9 +48,9 @@ Bietet mehr Flexibilität bei den Beiträgen (keine steuerliche Obergrenze wie b
 
 ### Für den Arbeitnehmer
 
-Beiträge zur Direktversicherung, Pensionskasse und Pensionsfonds sind bis zu 8 % der Beitragsbemessungsgrenze (BBG) West der gesetzlichen Rentenversicherung steuerfrei (§ 3 Nr. 63 EStG). 2026 liegt die BBG bei 96.600 Euro — steuerfrei sind also bis zu 7.728 Euro jährlich (644 Euro monatlich).
+Beiträge zur Direktversicherung, Pensionskasse und Pensionsfonds sind bis zu 8 % der Beitragsbemessungsgrenze (BBG) West der gesetzlichen Rentenversicherung steuerfrei (§ 3 Nr. 63 EStG). 2026 liegt die BBG bei 101.400 Euro — steuerfrei sind also bis zu 8.112 Euro jährlich (676 Euro monatlich).
 
-Sozialversicherungsfrei sind bis zu 4 % der BBG = 3.864 Euro jährlich (322 Euro monatlich).
+Sozialversicherungsfrei sind bis zu 4 % der BBG = 4.056 Euro jährlich (338 Euro monatlich).
 
 ### Für den Arbeitgeber
 
@@ -91,3 +91,11 @@ Prüfen Sie bestehende Verträge regelmäßig: Stimmen die Bezugsrechte? Wurden 
 Die betriebliche Altersversorgung ist kein Thema, das man einmal einrichtet und dann vergisst. Es gibt laufende Pflichten, steuerliche Änderungen und Haftungsrisiken. Als unabhängiger Versicherungsmakler unterstütze ich Sie bei der Auswahl des richtigen Durchführungswegs, der Verhandlung mit Versorgungsträgern und der laufenden Bestandspflege — damit die bAV für Sie und Ihre Mitarbeiter funktioniert.
 
 **Vereinbaren Sie jetzt ein kostenloses bAV-Beratungsgespräch** — ich prüfe Ihre aktuelle Situation und zeige Ihnen Optimierungspotenzial auf.
+
+---
+
+### Quellen
+
+- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG allgemeine RV 101.400 Euro/Jahr
+- [§ 3 Nr. 63 EStG](https://www.gesetze-im-internet.de/estg/__3.html) — steuerfreie Beiträge bis 8 % der BBG
+- [§ 1a BetrAVG](https://www.gesetze-im-internet.de/betravg/__1a.html) — Rechtsanspruch auf Entgeltumwandlung

@@ -1,5 +1,5 @@
 ---
-import { url } from '../../utils/paths';
+import { url, slugify } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
@@ -51,9 +51,9 @@ const gewerbeTechnik = gewerbeProducts.filter(e =>
 );
 
 const gewerbeCategories = [
-  { label: 'Haftpflichtversicherungen', items: gewerbeHaftpflicht },
-  { label: 'Betriebs- & Sachversicherungen', items: gewerbeBetrieb },
-  { label: 'Technik & Fahrzeuge', items: gewerbeTechnik },
+  { slug: 'haftpflicht', label: 'Haftpflichtversicherungen', items: gewerbeHaftpflicht },
+  { slug: 'betrieb-sach', label: 'Betriebs- & Sachversicherungen', items: gewerbeBetrieb },
+  { slug: 'technik-fahrzeuge', label: 'Technik & Fahrzeuge', items: gewerbeTechnik },
 ];
 ---
 
@@ -97,7 +97,7 @@ const gewerbeCategories = [
       </div>
 
       {/* Personenversicherungen with subsections */}
-      <div class="mb-16">
+      <div id="privat-personenversicherungen" class="mb-16 scroll-mt-28">
         <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
           <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
           Personenversicherungen
@@ -130,7 +130,7 @@ const gewerbeCategories = [
 
       {/* Remaining privat categories (Altersvorsorge, Sach, Haftpflicht) */}
       {Object.entries(privatCategories).filter(([key]) => key !== 'personen').map(([key, { label, items }]) => items.length > 0 && (
-        <div class="mb-16 last:mb-0">
+        <div id={`privat-${slugify(key)}`} class="mb-16 last:mb-0 scroll-mt-28">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {label}
@@ -168,7 +168,7 @@ const gewerbeCategories = [
       </div>
 
       {gewerbeCategories.map((cat) => cat.items.length > 0 && (
-        <div class="mb-16 last:mb-0">
+        <div id={`gewerbe-${cat.slug}`} class="mb-16 last:mb-0 scroll-mt-28">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {cat.label}

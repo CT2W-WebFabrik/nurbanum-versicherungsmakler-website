@@ -1,5 +1,5 @@
 ---
-import { url } from '../../utils/paths';
+import { url, slugify } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
@@ -74,7 +74,7 @@ for (const guide of gewerbeGuides) {
       </div>
 
       {Object.entries(privatCategories).map(([key, { label, items }]) => items.length > 0 && (
-        <div class="mb-16 last:mb-0">
+        <div id={`privat-${slugify(key)}`} class="mb-16 last:mb-0 scroll-mt-28">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {label}
@@ -118,7 +118,7 @@ for (const guide of gewerbeGuides) {
       </div>
 
       {Object.entries(gewerbeCategories).map(([key, { label, items }]) => items.length > 0 && (
-        <div class="mb-16 last:mb-0">
+        <div id={`gewerbe-${slugify(key)}`} class="mb-16 last:mb-0 scroll-mt-28">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {label}

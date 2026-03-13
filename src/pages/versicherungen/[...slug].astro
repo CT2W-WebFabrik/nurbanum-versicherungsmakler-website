@@ -13,12 +13,30 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const categoryLabel = entry.data.category === 'personen' ? 'Personenversicherungen' :
-  entry.data.category === 'sach' ? 'Sachversicherungen' :
-  entry.data.category === 'haftpflicht' ? 'Haftpflichtversicherungen' :
-  entry.data.category === 'altersvorsorge' ? 'Altersvorsorge' :
-  'Gewerbeversicherungen';
 const audienceAnchor = entry.data.audience === 'gewerbe' ? 'gewerbe' : 'privat';
+
+// Privat: map schema category key → label + anchor slug
+const privatCategoryMap: Record<string, { label: string; slug: string }> = {
+  personen: { label: 'Personenversicherungen', slug: 'personenversicherungen' },
+  sach: { label: 'Sachversicherungen', slug: 'sach' },
+  haftpflicht: { label: 'Haftpflichtversicherungen', slug: 'haftpflicht' },
+  altersvorsorge: { label: 'Altersvorsorge', slug: 'altersvorsorge' },
+};
+
+// Gewerbe: map product ID → subcategory label + anchor slug
+const gewerbeSubcategoryMap: Record<string, { label: string; slug: string }> = Object.fromEntries([
+  ...['betriebshaftpflicht','berufshaftpflicht','dno-versicherung','vermoegensshadenhaftpflicht','produkthaftpflicht','umwelthaftpflicht']
+    .map(id => [id, { label: 'Haftpflichtversicherungen', slug: 'haftpflicht' }]),
+  ...['betriebsunterbrechung','inhaltsversicherung','betriebsgebaeudeversicherung','firmen-rechtsschutz','cyber']
+    .map(id => [id, { label: 'Betriebs- & Sachversicherungen', slug: 'betrieb-sach' }]),
+  ...['elektronikversicherung','maschinenversicherung','kfz-flotten']
+    .map(id => [id, { label: 'Technik & Fahrzeuge', slug: 'technik-fahrzeuge' }]),
+]);
+
+const isGewerbe = entry.data.audience === 'gewerbe';
+const resolved = isGewerbe ? gewerbeSubcategoryMap[entry.id] : privatCategoryMap[entry.data.category];
+const categoryLabel = resolved?.label ?? 'Gewerbeversicherungen';
+const categoryAnchorSlug = resolved?.slug ?? entry.data.category;
 ---
 
 <ArticleLayout
@@ -28,7 +46,7 @@ const audienceAnchor = entry.data.audience === 'gewerbe' ? 'gewerbe' : 'privat';
   breadcrumbs={[
     { label: 'Versicherungen', href: '/versicherungen/' },
     { label: audienceAnchor === 'gewerbe' ? 'Für Unternehmen' : 'Für Privatpersonen', href: `/versicherungen/#${audienceAnchor}` },
-    { label: categoryLabel, href: `/versicherungen/#${audienceAnchor}` },
+    { label: categoryLabel, href: `/versicherungen/#${audienceAnchor}-${categoryAnchorSlug}` },
   ]}
 >
   <Content />

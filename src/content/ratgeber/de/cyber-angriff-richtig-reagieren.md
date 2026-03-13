@@ -101,3 +101,12 @@ Viele Cyber-Versicherer bieten diese Präventionsmaßnahmen als inkludierte Zusa
 Jeder Betrieb — vom Drei-Personen-Büro bis zum Mittelständler — ist ein potenzielles Ziel. Als unabhängiger Makler analysiere ich Ihr individuelles Risikoprofil, vergleiche Tarife verschiedener Versicherer und finde den Schutz, der zu Ihrem Betrieb und Budget passt.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Cyber-Versicherungscheck** — bevor der Ernstfall eintritt.
+
+---
+
+### Quellen
+
+- [Art. 33 DSGVO — Meldung von Verletzungen an die Aufsichtsbehörde](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3490-1-1) — 72-Stunden-Meldefrist bei Datenschutzverletzungen
+- [Art. 34 DSGVO — Benachrichtigung der betroffenen Person](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3539-1-1) — Pflicht zur Benachrichtigung bei hohem Risiko
+- [Art. 83 DSGVO — Allgemeine Bedingungen für die Verhängung von Geldbußen](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e6026-1-1) — bis 20 Mio. Euro oder 4 % des Jahresumsatzes
+- [BSI: Die Lage der IT-Sicherheit in Deutschland](https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html) — aktuelle Bedrohungslage, Angriffsstatistiken

@@ -22,7 +22,7 @@ Als Arbeitgeber sind Sie verpflichtet, Ihre Mitarbeiter bei den Sozialversicheru
 | Versicherung | Beitrag (2026) | Arbeitgeberanteil |
 |---|---|---|
 | Krankenversicherung | ca. 14,6 % + Zusatzbeitrag | 50 % |
-| Pflegeversicherung | 3,4 % (kinderlos: 4,0 %) | 50 % |
+| Pflegeversicherung | 3,6 % (kinderlos: 4,2 %) | 50 % |
 | Rentenversicherung | 18,6 % | 50 % |
 | Arbeitslosenversicherung | 2,6 % | 50 % |
 | Unfallversicherung (BG) | branchenabhängig | 100 % |
@@ -92,3 +92,10 @@ Die gesetzliche Unfallversicherung über die BG greift nur bei Arbeitsunfällen 
 Die Pflichten als Arbeitgeber sind komplex und branchenabhängig. Als unabhängiger Makler helfe ich Ihnen, die Pflichtversicherungen korrekt umzusetzen und die richtigen freiwilligen Benefits auszuwählen — passend zu Ihrer Branche, Betriebsgröße und Ihren Zielen bei der Mitarbeitergewinnung.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Arbeitgeber-Versicherungscheck** — damit Sie als Arbeitgeber gut aufgestellt sind.
+
+---
+
+### Quellen
+
+- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — Beitragssätze RV 18,6 %, AV 2,6 %, KV 14,6 %, PV 3,6 %
+- [Deutsche Rentenversicherung KBS: Rechengrößen 2026](https://www.deutsche-rentenversicherung.de/KnappschaftBahnSee/DE/Aktuelles/Meldungen/2026/2026_01_02_Sozialversicherungsrechengroessen2026.html)

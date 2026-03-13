@@ -272,6 +272,30 @@
   margin-top: 0.75em;
 }
 
+/* ── Sources/Quellen footnote section ── */
+/* Everything after the last <hr> in prose gets small muted styling */
+.prose hr:last-of-type ~ * {
+  font-size: 0.8em;
+  color: var(--color-slate-500);
+  line-height: 1.5;
+}
+
+.prose hr:last-of-type ~ h3 {
+  font-size: 0.85em;
+  color: var(--color-slate-600);
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.prose hr:last-of-type ~ ul {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+.prose hr:last-of-type ~ ul li + li {
+  margin-top: 0.15em;
+}
+
 /* ── Reduce motion for users who prefer it ── */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {

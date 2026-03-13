@@ -1,5 +1,5 @@
 ---
-import { url } from '../../utils/paths';
+import { url, slugify } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const privatSubsections = [
@@ -98,7 +98,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       </div>
 
       {privatSubsections.map((sub) => (
-        <div class="mb-16 last:mb-0">
+        <div id={`privat-${slugify(sub.label)}`} class="mb-16 last:mb-0 scroll-mt-28">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {sub.label}
@@ -136,7 +136,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       </div>
 
       {gewerbeSubsections.map((sub) => (
-        <div class="mb-16 last:mb-0">
+        <div id={`gewerbe-${slugify(sub.label)}`} class="mb-16 last:mb-0 scroll-mt-28">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {sub.label}

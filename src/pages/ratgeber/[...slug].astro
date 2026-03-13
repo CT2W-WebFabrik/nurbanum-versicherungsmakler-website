@@ -1,6 +1,7 @@
 ---
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { slugify } from '../../utils/paths';
 
 export async function getStaticPaths() {
   const entries = await getCollection('ratgeber');
@@ -25,7 +26,7 @@ const audience = entry.data.audience ?? 'privat';
   breadcrumbs={[
     { label: 'Ratgeber', href: '/ratgeber/' },
     { label: audience === 'gewerbe' ? 'Für Unternehmen' : 'Für Privatpersonen', href: `/ratgeber/#${audience}` },
-    { label: entry.data.category, href: `/ratgeber/#${audience}` },
+    { label: entry.data.category, href: `/ratgeber/#${audience}-${slugify(entry.data.category)}` },
   ]}
 >
   <Content />

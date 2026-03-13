@@ -104,3 +104,10 @@ Die Berechnung der Versorgungslücke ist der erste Schritt. Die richtige Strateg
 Als unabhängiger Versicherungsmakler mit Schwerpunkt Altersvorsorge erstelle ich für Sie eine detaillierte Versorgungsanalyse und entwickle eine Strategie, die exakt auf Ihre Situation zugeschnitten ist — ohne Bindung an einzelne Versicherungsgesellschaften.
 
 **Lassen Sie uns gemeinsam Ihre Versorgungslücke berechnen** — vereinbaren Sie jetzt Ihr kostenloses Erstgespräch.
+
+---
+
+### Quellen
+
+- [DRV: Kennzahlen zur Finanzentwicklung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Kennzahlen-zur-Finanzentwicklung/kennzahlen-zur-finanzentwicklung_node.html) — aktuelles Rentenniveau, Beitragssatz, Finanzentwicklung
+- [DRV: Mein Rentenkonto](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Mein-Rentenkonto/mein-rentenkonto_node.html) — Renteninformation und Rentenauskunft online abrufen

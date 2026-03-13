@@ -33,7 +33,7 @@ Der Beitragssatz richtet sich nach der Schadenquote des gesamten Fuhrparks, der 
 
 ### Kfz-Haftpflicht (Pflicht)
 
-Gesetzlich vorgeschrieben, deckt sie Schäden, die Sie oder Ihre Mitarbeiter mit dem Firmenfahrzeug an Dritten verursachen. Die gesetzlichen Mindestdeckungssummen (7,5 Mio. Euro Personenschäden, 1,22 Mio. Euro Sachschäden, 50.000 Euro Vermögensschäden) reichen aus — höhere Summen kosten in der Praxis kaum Aufpreis und sind empfehlenswert.
+Gesetzlich vorgeschrieben, deckt sie Schäden, die Sie oder Ihre Mitarbeiter mit dem Firmenfahrzeug an Dritten verursachen. Die gesetzlichen Mindestdeckungssummen (7,5 Mio. Euro Personenschäden, 1,3 Mio. Euro Sachschäden, 50.000 Euro Vermögensschäden) reichen aus — höhere Summen kosten in der Praxis kaum Aufpreis und sind empfehlenswert.
 
 ### Teilkasko
 
@@ -105,3 +105,10 @@ Wenn Mitarbeiter auf Geschäftsreise im Ausland einen Mietwagen nutzen, ergänzt
 Die Kfz-Versicherung wird in vielen Betrieben nebenbei erledigt — oft mit der günstigsten Police, die sich online findet. Das kann im Schadenfall teuer werden. Als unabhängiger Makler analysiere ich Ihren Fuhrpark, vergleiche Einzel- und Flottenkonditionen und finde die wirtschaftlichste Lösung mit dem richtigen Deckungsumfang.
 
 **Lassen Sie uns Ihren Fuhrpark gemeinsam prüfen** — kostenlos und unverbindlich.
+
+---
+
+### Quellen
+
+- [Anlage zu § 4 Abs. 2 PflVG — Mindestversicherungssummen](https://www.gesetze-im-internet.de/pflvg/anlage.html) — 7,5 Mio. Euro Personenschäden, 1,3 Mio. Euro Sachschäden, 50.000 Euro Vermögensschäden
+- [§ 1 PflVG — Pflichtversicherung für Kraftfahrzeughalter](https://www.gesetze-im-internet.de/pflvg/__1.html) — gesetzliche Versicherungspflicht

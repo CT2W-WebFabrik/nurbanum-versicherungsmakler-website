@@ -24,7 +24,7 @@ In Deutschland besteht Versicherungspflicht. Ob gesetzlich oder privat: Ohne Kra
 
 ### Berufsunfähigkeitsversicherung
 
-Statistisch wird jeder vierte Arbeitnehmer vor dem Rentenalter berufsunfähig. Die staatliche Erwerbsminderungsrente reicht bei Weitem nicht aus, um den Lebensstandard zu halten. Eine Berufsunfähigkeitsversicherung sichert Ihr wichtigstes Kapital ab: Ihre Arbeitskraft. Je jünger und gesünder Sie beim Abschluss sind, desto günstiger ist der Beitrag.
+Laut Branchenstatistiken wird etwa jeder vierte Arbeitnehmer vor dem Rentenalter berufsunfähig. Die staatliche Erwerbsminderungsrente reicht bei Weitem nicht aus, um den Lebensstandard zu halten. Eine Berufsunfähigkeitsversicherung sichert Ihr wichtigstes Kapital ab: Ihre Arbeitskraft. Je jünger und gesünder Sie beim Abschluss sind, desto günstiger ist der Beitrag.
 
 ### Kfz-Haftpflichtversicherung
 

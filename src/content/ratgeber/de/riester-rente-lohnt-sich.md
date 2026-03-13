@@ -88,3 +88,11 @@ Wer erst wenige Jahre vor der Rente mit Riester beginnt, hat kaum Zeit, Zulagen 
 Ob Riester für Sie sinnvoll ist, hängt von Ihrer Familiensituation, Ihrem Einkommen und Ihrem Alter ab. Als unabhängiger Versicherungsmakler prüfe ich Ihren bestehenden Riester-Vertrag — oder empfehle eine Alternative, wenn sie besser passt. Ohne Verkaufsdruck, ohne Provision auf ein bestimmtes Produkt.
 
 **Vereinbaren Sie jetzt Ihr kostenloses Vorsorgegespräch** — und finden Sie heraus, ob Riester für Sie funktioniert.
+
+---
+
+### Quellen
+
+- [§ 10a EStG — Sonderausgabenabzug für Altersvorsorgebeiträge](https://www.gesetze-im-internet.de/estg/__10a.html) — Höchstbetrag 2.100 Euro, Günstigerprüfung
+- [§§ 79 ff. EStG — Altersvorsorgezulage](https://www.gesetze-im-internet.de/estg/__79.html) — Grundzulage 175 Euro, Kinderzulage 185/300 Euro
+- [§ 82 SGB XII — Einkommensbegriff](https://www.gesetze-im-internet.de/sgb_12/__82.html) — Riester-Rente wird nicht auf Grundsicherung angerechnet

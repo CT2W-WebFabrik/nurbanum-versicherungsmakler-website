@@ -10,3 +10,15 @@ export function url(path: string): string {
   }
   return base + path;
 }
+
+/**
+ * Convert a label to a URL-safe slug for use as anchor IDs.
+ * Handles German umlauts and special characters.
+ */
+export function slugify(s: string): string {
+  return s
+    .toLowerCase()
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}

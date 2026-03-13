@@ -85,3 +85,10 @@ Viele Arbeitgeber zahlen bis zu 40 Euro monatlich als VL — Geld, das Sie sonst
 Jede Familie ist anders — Einkommensstruktur, Wohnsituation, Kinderanzahl und berufliche Situation bestimmen den individuellen Bedarf. Als unabhängiger Makler analysiere ich Ihre bestehenden Verträge, identifiziere Lücken und Einsparpotenziale und erstelle einen maßgeschneiderten Absicherungsplan für Ihre Familie.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Familien-Versicherungscheck** — damit Sie sich auf das konzentrieren können, was wirklich zählt.
+
+---
+
+### Quellen
+
+- [DRV: Statistiken und Berichte](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html) — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik
+- [§ 828 BGB — Minderjährige](https://www.gesetze-im-internet.de/bgb/__828.html) — Deliktunfähigkeit bei Kindern unter 7 Jahren (im Verkehr unter 10)

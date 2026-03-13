@@ -87,3 +87,13 @@ Viele Geschäftsführer unterschätzen das Haftungsrisiko, weil sie „ja nur ei
 Als unabhängiger Versicherungsmakler vergleiche ich D&O-Tarife verschiedener Anbieter und finde den Schutz, der zu Ihrer Unternehmensgröße, Branche und Ihrem individuellen Risikoprofil passt.
 
 **Vereinbaren Sie jetzt Ihr kostenloses D&O-Beratungsgespräch** — bevor der Ernstfall eintritt.
+
+---
+
+### Quellen
+
+- [§ 43 GmbHG — Haftung der Geschäftsführer](https://www.gesetze-im-internet.de/gmbhg/__43.html) — Sorgfaltspflicht, Beweislastumkehr
+- [§ 69 AO — Haftung der Vertreter](https://www.gesetze-im-internet.de/ao_1977/__69.html) — persönliche Haftung für nicht abgeführte Steuern
+- [§ 15a InsO — Antragspflicht bei juristischen Personen](https://www.gesetze-im-internet.de/inso/__15a.html) — Fristen bei Zahlungsunfähigkeit und Überschuldung
+- [§ 266a StGB — Vorenthalten von Arbeitsentgelt](https://www.gesetze-im-internet.de/stgb/__266a.html) — Strafbarkeit bei nicht abgeführten SV-Beiträgen
+- [§ 823 BGB — Schadensersatzpflicht](https://www.gesetze-im-internet.de/bgb/__823.html) — deliktische Haftung gegenüber Dritten

@@ -96,3 +96,11 @@ Die Produkthaftpflichtversicherung schützt Hersteller, Importeure und Händler 
 Ob Maschinenbauer, Lebensmittelhersteller oder Onlinehändler mit Importware — die Produkthaftung betrifft jedes Unternehmen, das Produkte in Verkehr bringt. Als unabhängiger Versicherungsmakler finde ich den Produkthaftpflicht-Tarif, der zu Ihrem Produktportfolio, Ihren Exportmärkten und Ihrem Risikoprofil passt.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — und sichern Sie Ihre Produkthaftung richtig ab.
+
+---
+
+### Quellen
+
+- [Produkthaftungsgesetz (ProdHaftG)](https://www.gesetze-im-internet.de/prodhaftg/) — verschuldensunabhängige Haftung, Fehlerarten, Haftungshöchstgrenzen
+- [§ 4 Abs. 3 ProdHaftG — Haftung des Lieferanten](https://www.gesetze-im-internet.de/prodhaftg/__4.html) — subsidiäre Händlerhaftung, Benennung des Herstellers
+- [§ 10 ProdHaftG — Haftungshöchstbetrag](https://www.gesetze-im-internet.de/prodhaftg/__10.html) — 85 Millionen Euro bei Personenschäden
