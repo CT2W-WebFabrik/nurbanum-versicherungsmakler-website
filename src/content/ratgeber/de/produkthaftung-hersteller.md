@@ -101,6 +101,6 @@ Ob Maschinenbauer, Lebensmittelhersteller oder Onlinehändler mit Importware —
 
 ### Quellen
 
-- [Produkthaftungsgesetz (ProdHaftG)](https://www.gesetze-im-internet.de/prodhaftg/) — verschuldensunabhängige Haftung, Fehlerarten, Haftungshöchstgrenzen
-- [§ 4 Abs. 3 ProdHaftG — Haftung des Lieferanten](https://www.gesetze-im-internet.de/prodhaftg/__4.html) — subsidiäre Händlerhaftung, Benennung des Herstellers
-- [§ 10 ProdHaftG — Haftungshöchstbetrag](https://www.gesetze-im-internet.de/prodhaftg/__10.html) — 85 Millionen Euro bei Personenschäden
+- [Produkthaftungsgesetz (ProdHaftG) — verschuldensunabhängige Haftung, Fehlerarten, Haftungshöchstgrenzen](https://www.gesetze-im-internet.de/prodhaftg/)
+- [§ 4 Abs. 3 ProdHaftG — Haftung des Lieferanten — subsidiäre Händlerhaftung, Benennung des Herstellers](https://www.gesetze-im-internet.de/prodhaftg/__4.html)
+- [§ 10 ProdHaftG — Haftungshöchstbetrag — 85 Millionen Euro bei Personenschäden](https://www.gesetze-im-internet.de/prodhaftg/__10.html)

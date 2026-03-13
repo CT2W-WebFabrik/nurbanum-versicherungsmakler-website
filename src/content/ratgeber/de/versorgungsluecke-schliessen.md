@@ -109,5 +109,5 @@ Als unabhängiger Versicherungsmakler mit Schwerpunkt Altersvorsorge erstelle ic
 
 ### Quellen
 
-- [DRV: Kennzahlen zur Finanzentwicklung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Kennzahlen-zur-Finanzentwicklung/kennzahlen-zur-finanzentwicklung_node.html) — aktuelles Rentenniveau, Beitragssatz, Finanzentwicklung
-- [DRV: Mein Rentenkonto](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Mein-Rentenkonto/mein-rentenkonto_node.html) — Renteninformation und Rentenauskunft online abrufen
+- [DRV: Kennzahlen zur Finanzentwicklung — aktuelles Rentenniveau, Beitragssatz, Finanzentwicklung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Kennzahlen-zur-Finanzentwicklung/kennzahlen-zur-finanzentwicklung_node.html)
+- [DRV: Mein Rentenkonto — Renteninformation und Rentenauskunft online abrufen](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Mein-Rentenkonto/mein-rentenkonto_node.html)

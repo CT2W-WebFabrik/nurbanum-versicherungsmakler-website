@@ -121,5 +121,5 @@ PKV oder GKV — diese Entscheidung begleitet Sie Jahrzehnte. Die falsche Wahl k
 
 ### Quellen
 
-- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — JAEG 77.400 Euro, BBG KV 69.750 Euro
-- [BMG: Maßnahmen für stabile GKV-Beiträge 2026](https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/massnahmen-stabile-gkv-beitraege-2026-kabinett-15-10-25) — Kabinettsbeschluss zur Stabilisierung der GKV-Beiträge
+- [BMAS: Sozialversicherungsrechengrößen 2026 — JAEG 77.400 Euro, BBG KV 69.750 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
+- [BMG: Maßnahmen für stabile GKV-Beiträge 2026 — Kabinettsbeschluss zur Stabilisierung der GKV-Beiträge](https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/massnahmen-stabile-gkv-beitraege-2026-kabinett-15-10-25)

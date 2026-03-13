@@ -106,7 +106,7 @@ Jeder Betrieb — vom Drei-Personen-Büro bis zum Mittelständler — ist ein po
 
 ### Quellen
 
-- [Art. 33 DSGVO — Meldung von Verletzungen an die Aufsichtsbehörde](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3490-1-1) — 72-Stunden-Meldefrist bei Datenschutzverletzungen
-- [Art. 34 DSGVO — Benachrichtigung der betroffenen Person](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3539-1-1) — Pflicht zur Benachrichtigung bei hohem Risiko
-- [Art. 83 DSGVO — Allgemeine Bedingungen für die Verhängung von Geldbußen](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e6026-1-1) — bis 20 Mio. Euro oder 4 % des Jahresumsatzes
-- [BSI: Die Lage der IT-Sicherheit in Deutschland](https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html) — aktuelle Bedrohungslage, Angriffsstatistiken
+- [Art. 33 DSGVO — Meldung von Verletzungen an die Aufsichtsbehörde — 72-Stunden-Meldefrist bei Datenschutzverletzungen](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3490-1-1)
+- [Art. 34 DSGVO — Benachrichtigung der betroffenen Person — Pflicht zur Benachrichtigung bei hohem Risiko](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3539-1-1)
+- [Art. 83 DSGVO — Allgemeine Bedingungen für die Verhängung von Geldbußen — bis 20 Mio. Euro oder 4 % des Jahresumsatzes](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e6026-1-1)
+- [BSI: Die Lage der IT-Sicherheit in Deutschland — aktuelle Bedrohungslage, Angriffsstatistiken](https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html)

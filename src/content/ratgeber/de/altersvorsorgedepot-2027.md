@@ -112,6 +112,6 @@ Als unabhängiger Versicherungsmakler beobachte ich die Gesetzgebung zur Altersv
 
 ### Quellen
 
-- [BMF: FAQ zur Reform der privaten Altersvorsorge](https://www.bundesfinanzministerium.de/Content/DE/FAQ/reform-der-privaten-altersvorsorge.html) — Grundzulage, Kinderzulage, Berufseinsteiger-Bonus
-- [Bundesregierung: Reform der privaten Altersvorsorge](https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072) — Frühstartrente, Förderstruktur
-- [Bundestag: 1. Lesung Altersvorsorgereformgesetz](https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-altersvorsorge-1140384) — Drucksache 21/4088 (26.02.2026)
+- [BMF: FAQ zur Reform der privaten Altersvorsorge — Grundzulage, Kinderzulage, Berufseinsteiger-Bonus](https://www.bundesfinanzministerium.de/Content/DE/FAQ/reform-der-privaten-altersvorsorge.html)
+- [Bundesregierung: Reform der privaten Altersvorsorge — Frühstartrente, Förderstruktur](https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072)
+- [Bundestag: 1. Lesung Altersvorsorgereformgesetz — Drucksache 21/4088 (26.02.2026)](https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-altersvorsorge-1140384)

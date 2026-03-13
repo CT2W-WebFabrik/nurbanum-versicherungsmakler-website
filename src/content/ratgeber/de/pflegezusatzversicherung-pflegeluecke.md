@@ -121,5 +121,5 @@ Als unabhängiger Versicherungsmakler vergleiche ich für Sie die verschiedenen 
 
 ### Quellen
 
-- [BMG: Leistungsbeträge der Pflegeversicherung 2026 (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/P/Pflegeversicherung_Leistungsbeitraege/Uebersicht_Leistungsbetraege_2026_VA.pdf) — nach PUEG-Erhöhung +4,5 % zum 01.01.2025
-- [§ 37, § 36, § 43 SGB XI](https://www.gesetze-im-internet.de/sgb_11/__37.html) — Pflegegeld, Pflegesachleistungen, vollstationäre Pflege
+- [BMG: Leistungsbeträge der Pflegeversicherung 2026 (PDF) — nach PUEG-Erhöhung +4,5 % zum 01.01.2025](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/P/Pflegeversicherung_Leistungsbeitraege/Uebersicht_Leistungsbetraege_2026_VA.pdf)
+- [§ 37, § 36, § 43 SGB XI — Pflegegeld, Pflegesachleistungen, vollstationäre Pflege](https://www.gesetze-im-internet.de/sgb_11/__37.html)

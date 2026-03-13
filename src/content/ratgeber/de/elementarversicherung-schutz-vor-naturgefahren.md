@@ -93,4 +93,4 @@ Elementarschäden treffen nicht nur Häuser an Flüssen. Starkregen kann jedes G
 
 ### Quellen
 
-- [GDV: Naturgefahrenreport](https://www.gdv.de/gdv/themen/klima/so-sind-schaeden-durch-naturgefahren-versichert-11000) — welche Versicherungen bei Naturgefahren zahlen, erweiterter Elementarschutz
+- [GDV: Naturgefahrenreport — welche Versicherungen bei Naturgefahren zahlen, erweiterter Elementarschutz](https://www.gdv.de/gdv/themen/klima/so-sind-schaeden-durch-naturgefahren-versichert-11000)

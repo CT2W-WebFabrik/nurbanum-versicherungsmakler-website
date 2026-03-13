@@ -92,8 +92,8 @@ Als unabhängiger Versicherungsmakler vergleiche ich D&O-Tarife verschiedener An
 
 ### Quellen
 
-- [§ 43 GmbHG — Haftung der Geschäftsführer](https://www.gesetze-im-internet.de/gmbhg/__43.html) — Sorgfaltspflicht, Beweislastumkehr
-- [§ 69 AO — Haftung der Vertreter](https://www.gesetze-im-internet.de/ao_1977/__69.html) — persönliche Haftung für nicht abgeführte Steuern
-- [§ 15a InsO — Antragspflicht bei juristischen Personen](https://www.gesetze-im-internet.de/inso/__15a.html) — Fristen bei Zahlungsunfähigkeit und Überschuldung
-- [§ 266a StGB — Vorenthalten von Arbeitsentgelt](https://www.gesetze-im-internet.de/stgb/__266a.html) — Strafbarkeit bei nicht abgeführten SV-Beiträgen
-- [§ 823 BGB — Schadensersatzpflicht](https://www.gesetze-im-internet.de/bgb/__823.html) — deliktische Haftung gegenüber Dritten
+- [§ 43 GmbHG — Haftung der Geschäftsführer — Sorgfaltspflicht, Beweislastumkehr](https://www.gesetze-im-internet.de/gmbhg/__43.html)
+- [§ 69 AO — Haftung der Vertreter — persönliche Haftung für nicht abgeführte Steuern](https://www.gesetze-im-internet.de/ao_1977/__69.html)
+- [§ 15a InsO — Antragspflicht bei juristischen Personen — Fristen bei Zahlungsunfähigkeit und Überschuldung](https://www.gesetze-im-internet.de/inso/__15a.html)
+- [§ 266a StGB — Vorenthalten von Arbeitsentgelt — Strafbarkeit bei nicht abgeführten SV-Beiträgen](https://www.gesetze-im-internet.de/stgb/__266a.html)
+- [§ 823 BGB — Schadensersatzpflicht — deliktische Haftung gegenüber Dritten](https://www.gesetze-im-internet.de/bgb/__823.html)

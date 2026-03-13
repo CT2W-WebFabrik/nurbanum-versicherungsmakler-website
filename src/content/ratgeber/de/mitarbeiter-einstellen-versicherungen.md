@@ -97,5 +97,5 @@ Die Pflichten als Arbeitgeber sind komplex und branchenabhängig. Als unabhängi
 
 ### Quellen
 
-- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — Beitragssätze RV 18,6 %, AV 2,6 %, KV 14,6 %, PV 3,6 %
+- [BMAS: Sozialversicherungsrechengrößen 2026 — Beitragssätze RV 18,6 %, AV 2,6 %, KV 14,6 %, PV 3,6 %](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [Deutsche Rentenversicherung KBS: Rechengrößen 2026](https://www.deutsche-rentenversicherung.de/KnappschaftBahnSee/DE/Aktuelles/Meldungen/2026/2026_01_02_Sozialversicherungsrechengroessen2026.html)

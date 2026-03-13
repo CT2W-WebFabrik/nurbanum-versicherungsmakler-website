@@ -112,7 +112,7 @@ Ein unabhängiger Versicherungsmakler steht auf Ihrer Seite — nicht auf der Se
 
 ### Quellen
 
-- [§ 195 BGB — Regelmäßige Verjährungsfrist](https://www.gesetze-im-internet.de/bgb/__195.html) — drei Jahre für Ansprüche aus Versicherungsverträgen
-- [§ 28 VVG — Verletzung einer vertraglichen Obliegenheit](https://www.gesetze-im-internet.de/vvg_2008/__28.html) — Rechtsfolgen bei Obliegenheitsverletzungen
-- [Versicherungsombudsmann e.V.](https://www.versicherungsombudsmann.de) — kostenlose Schlichtungsstelle für Versicherungsstreitigkeiten
-- [Ombudsmann PKV](https://www.pkv-ombudsmann.de) — Schlichtungsstelle für private Kranken- und Pflegeversicherung
+- [§ 195 BGB — Regelmäßige Verjährungsfrist — drei Jahre für Ansprüche aus Versicherungsverträgen](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [§ 28 VVG — Verletzung einer vertraglichen Obliegenheit — Rechtsfolgen bei Obliegenheitsverletzungen](https://www.gesetze-im-internet.de/vvg_2008/__28.html)
+- [Versicherungsombudsmann e.V. — kostenlose Schlichtungsstelle für Versicherungsstreitigkeiten](https://www.versicherungsombudsmann.de)
+- [Ombudsmann PKV — Schlichtungsstelle für private Kranken- und Pflegeversicherung](https://www.pkv-ombudsmann.de)

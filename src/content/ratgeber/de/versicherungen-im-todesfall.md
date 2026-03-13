@@ -107,6 +107,6 @@ In den Wochen nach einem Todesfall kommen viele Aufgaben zusammen. Die Versicher
 
 ### Quellen
 
-- [§ 95 VVG — Veräußerung der versicherten Sache](https://www.gesetze-im-internet.de/vvg_2008/__95.html) — Versicherung geht bei Eigentümerwechsel auf den Erwerber über
-- [§ 16 ErbStG — Freibeträge](https://www.gesetze-im-internet.de/erbstg_1974/__16.html) — Ehegatten 500.000 Euro, Kinder 400.000 Euro
-- [§ 3 Abs. 1 Nr. 4 ErbStG — Lebensversicherung als Erwerb von Todes wegen](https://www.gesetze-im-internet.de/erbstg_1974/__3.html) — Erbschaftsteuerpflicht bei Versicherungsleistungen
+- [§ 95 VVG — Veräußerung der versicherten Sache — Versicherung geht bei Eigentümerwechsel auf den Erwerber über](https://www.gesetze-im-internet.de/vvg_2008/__95.html)
+- [§ 16 ErbStG — Freibeträge — Ehegatten 500.000 Euro, Kinder 400.000 Euro](https://www.gesetze-im-internet.de/erbstg_1974/__16.html)
+- [§ 3 Abs. 1 Nr. 4 ErbStG — Lebensversicherung als Erwerb von Todes wegen — Erbschaftsteuerpflicht bei Versicherungsleistungen](https://www.gesetze-im-internet.de/erbstg_1974/__3.html)

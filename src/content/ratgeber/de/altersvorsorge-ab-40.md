@@ -93,5 +93,5 @@ Mit 40 ist der perfekte Zeitpunkt, die Altersvorsorge ernst zu nehmen. Das Einko
 
 ### Quellen
 
-- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG knappschaftliche RV 124.800 Euro
-- [§ 10 Abs. 3 EStG](https://www.gesetze-im-internet.de/estg/__10.html) — Rürup-Höchstbetrag 2026: 30.826 Euro
+- [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
+- [§ 10 Abs. 3 EStG — Rürup-Höchstbetrag 2026: 30.826 Euro](https://www.gesetze-im-internet.de/estg/__10.html)

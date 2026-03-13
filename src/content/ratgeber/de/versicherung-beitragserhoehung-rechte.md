@@ -93,6 +93,6 @@ Beitragserhöhungen sind kein Grund zur Panik, aber ein Anlass zum Handeln. Als 
 
 ### Quellen
 
-- [§ 40 VVG — Kündigung bei Prämienerhöhung](https://www.gesetze-im-internet.de/vvg_2008/__40.html) — Sonderkündigungsrecht bei Beitragserhöhung ohne Leistungsverbesserung
-- [§ 203 VVG — Prämienanpassung in der Krankenversicherung](https://www.gesetze-im-internet.de/vvg_2008/__203.html) — Treuhänder-Verfahren bei PKV-Beitragsanpassung
-- [§ 204 VVG — Tarifwechsel in der Krankenversicherung](https://www.gesetze-im-internet.de/vvg_2008/__204.html) — Recht auf Wechsel in gleichartigen Tarif ohne Verlust der Altersrückstellungen
+- [§ 40 VVG — Kündigung bei Prämienerhöhung — Sonderkündigungsrecht bei Beitragserhöhung ohne Leistungsverbesserung](https://www.gesetze-im-internet.de/vvg_2008/__40.html)
+- [§ 203 VVG — Prämienanpassung in der Krankenversicherung — Treuhänder-Verfahren bei PKV-Beitragsanpassung](https://www.gesetze-im-internet.de/vvg_2008/__203.html)
+- [§ 204 VVG — Tarifwechsel in der Krankenversicherung — Recht auf Wechsel in gleichartigen Tarif ohne Verlust der Altersrückstellungen](https://www.gesetze-im-internet.de/vvg_2008/__204.html)

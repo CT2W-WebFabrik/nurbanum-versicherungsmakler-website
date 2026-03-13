@@ -273,6 +273,11 @@
 }
 
 /* ── Sources/Quellen footnote section ── */
+/* Space before the Quellen separator */
+.prose hr:last-of-type {
+  margin-top: 3rem;
+}
+
 /* Everything after the last <hr> in prose gets small muted styling */
 .prose hr:last-of-type ~ * {
   font-size: 0.8em;
@@ -294,6 +299,18 @@
 
 .prose hr:last-of-type ~ ul li + li {
   margin-top: 0.15em;
+}
+
+/* Make Quellen links visible — underline the full link text */
+.prose hr:last-of-type ~ ul a {
+  color: var(--color-slate-500);
+  text-decoration: underline;
+  text-decoration-color: var(--color-slate-300);
+}
+
+.prose hr:last-of-type ~ ul a:hover {
+  color: var(--color-navy-600);
+  text-decoration-color: var(--color-navy-400);
 }
 
 /* ── Reduce motion for users who prefer it ── */

@@ -104,6 +104,6 @@ Die richtige Absicherung hängt von Ihrer Branche, Rechtsform, Familiensituation
 
 ### Quellen
 
-- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG knappschaftliche RV 124.800 Euro
-- [§ 10 Abs. 3 EStG](https://www.gesetze-im-internet.de/estg/__10.html) — Rürup-Höchstbetrag 2026: 30.826 Euro
-- [DRV: Statistiken und Berichte](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html) — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik
+- [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
+- [§ 10 Abs. 3 EStG — Rürup-Höchstbetrag 2026: 30.826 Euro](https://www.gesetze-im-internet.de/estg/__10.html)
+- [DRV: Statistiken und Berichte — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html)

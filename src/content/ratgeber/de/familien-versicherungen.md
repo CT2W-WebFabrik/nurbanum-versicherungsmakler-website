@@ -90,5 +90,5 @@ Jede Familie ist anders — Einkommensstruktur, Wohnsituation, Kinderanzahl und 
 
 ### Quellen
 
-- [DRV: Statistiken und Berichte](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html) — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik
-- [§ 828 BGB — Minderjährige](https://www.gesetze-im-internet.de/bgb/__828.html) — Deliktunfähigkeit bei Kindern unter 7 Jahren (im Verkehr unter 10)
+- [DRV: Statistiken und Berichte — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html)
+- [§ 828 BGB — Minderjährige — Deliktunfähigkeit bei Kindern unter 7 Jahren (im Verkehr unter 10)](https://www.gesetze-im-internet.de/bgb/__828.html)

@@ -96,6 +96,6 @@ Die betriebliche Altersversorgung ist kein Thema, das man einmal einrichtet und 
 
 ### Quellen
 
-- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG allgemeine RV 101.400 Euro/Jahr
-- [§ 3 Nr. 63 EStG](https://www.gesetze-im-internet.de/estg/__3.html) — steuerfreie Beiträge bis 8 % der BBG
-- [§ 1a BetrAVG](https://www.gesetze-im-internet.de/betravg/__1a.html) — Rechtsanspruch auf Entgeltumwandlung
+- [BMAS: Sozialversicherungsrechengrößen 2026 — BBG allgemeine RV 101.400 Euro/Jahr](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
+- [§ 3 Nr. 63 EStG — steuerfreie Beiträge bis 8 % der BBG](https://www.gesetze-im-internet.de/estg/__3.html)
+- [§ 1a BetrAVG — Rechtsanspruch auf Entgeltumwandlung](https://www.gesetze-im-internet.de/betravg/__1a.html)

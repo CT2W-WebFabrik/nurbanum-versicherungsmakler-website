@@ -128,6 +128,6 @@ Die steuerliche Absetzbarkeit sollte nie das Hauptargument für oder gegen eine 
 
 ### Quellen
 
-- [BMAS: Sozialversicherungsrechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html) — BBG knappschaftliche RV 124.800 Euro
-- [§ 10 Abs. 3 EStG](https://www.gesetze-im-internet.de/estg/__10.html) — Rürup-Höchstbetrag 2026: 30.826 Euro / 61.652 Euro
-- [§ 10 Abs. 1 Nr. 3a EStG](https://www.gesetze-im-internet.de/estg/__10.html) — Vorsorgeaufwendungen Höchstbeträge 1.900 / 2.800 Euro
+- [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
+- [§ 10 Abs. 3 EStG — Rürup-Höchstbetrag 2026: 30.826 Euro / 61.652 Euro](https://www.gesetze-im-internet.de/estg/__10.html)
+- [§ 10 Abs. 1 Nr. 3a EStG — Vorsorgeaufwendungen Höchstbeträge 1.900 / 2.800 Euro](https://www.gesetze-im-internet.de/estg/__10.html)
