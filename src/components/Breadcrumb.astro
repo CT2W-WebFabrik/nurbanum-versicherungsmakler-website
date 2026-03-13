@@ -7,6 +7,23 @@ interface Props {
 }
 
 const { items, current } = Astro.props;
+
+// Build BreadcrumbList JSON-LD
+const siteBase = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Startseite", "item": siteBase + '/' },
+    ...items.map((item, i) => ({
+      "@type": "ListItem",
+      "position": i + 2,
+      "name": item.label,
+      "item": siteBase + item.href,
+    })),
+    { "@type": "ListItem", "position": items.length + 2, "name": current },
+  ],
+};
 ---
 
 <nav aria-label="Brotkrümelnavigation" class="mb-8">
@@ -26,3 +43,5 @@ const { items, current } = Astro.props;
     </li>
   </ol>
 </nav>
+
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />

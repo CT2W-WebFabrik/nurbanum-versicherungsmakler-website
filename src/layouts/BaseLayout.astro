@@ -54,7 +54,7 @@ const ogImageUrl = new URL(url(ogImage), Astro.site);
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href={url('/favicon.svg')} />
     <link rel="icon" type="image/x-icon" href={url('/favicon.ico')} />
-    <link rel="apple-touch-icon" href={url('/favicon.svg')} />
+    <link rel="apple-touch-icon" href={url('/favicon.ico')} />
 
     <!-- Theme color for mobile browsers -->
     <meta name="theme-color" content="#0a0f1e" />
@@ -65,7 +65,7 @@ const ogImageUrl = new URL(url(ogImage), Astro.site);
       "@type": "InsuranceAgency",
       "name": "Nurbanum Versicherungsmakler",
       "alternateName": "Nurbanum",
-      "url": "https://nurbanum.de",
+      "url": Astro.site?.toString() ?? "https://nurbanum.de",
       "telephone": "+4917384444426",
       "email": "thorsten.schreier@nurbanum.de",
       "image": new URL(url('/images/og-default.png'), Astro.site).toString(),
