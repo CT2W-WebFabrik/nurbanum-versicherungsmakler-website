@@ -74,7 +74,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
   </section>
 
   <!-- Anchor navigation -->
-  <div class="bg-white border-b border-slate-200 sticky top-16 z-40">
+  <div class="bg-white border-b border-slate-200 sticky top-16 sm:top-[6.25rem] z-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <nav class="flex gap-1 py-3 overflow-x-auto" aria-label="Spezialisierungskategorien">
         <a href="#privat" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
@@ -90,7 +90,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
   </div>
 
   <!-- Für Privatpersonen -->
-  <section id="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28">
+  <section id="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28 sm:scroll-mt-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-12">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Privatpersonen & Familien</p>
@@ -98,7 +98,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       </div>
 
       {privatSubsections.map((sub) => (
-        <div id={`privat-${slugify(sub.label)}`} class="mb-16 last:mb-0 scroll-mt-28">
+        <div id={`privat-${slugify(sub.label)}`} class="mb-16 last:mb-0 scroll-mt-28 sm:scroll-mt-40">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {sub.label}
@@ -128,7 +128,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
   </section>
 
   <!-- Für Unternehmen -->
-  <section id="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 scroll-mt-28">
+  <section id="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 scroll-mt-28 sm:scroll-mt-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-12">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Unternehmen & Selbständige</p>
@@ -136,7 +136,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       </div>
 
       {gewerbeSubsections.map((sub) => (
-        <div id={`gewerbe-${slugify(sub.label)}`} class="mb-16 last:mb-0 scroll-mt-28">
+        <div id={`gewerbe-${slugify(sub.label)}`} class="mb-16 last:mb-0 scroll-mt-28 sm:scroll-mt-40">
           <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
             <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
             {sub.label}
