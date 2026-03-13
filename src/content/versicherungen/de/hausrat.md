@@ -2,8 +2,9 @@
 title: "Hausratversicherung"
 description: "Die Hausratversicherung schützt Ihr Hab und Gut gegen Feuer, Einbruch, Leitungswasser und Sturm. Erfahren Sie, worauf Sie achten sollten."
 category: "sach"
+audience: "privat"
 icon: "home"
-order: 6
+order: 31
 ---
 
 ## Was ist eine Hausratversicherung?

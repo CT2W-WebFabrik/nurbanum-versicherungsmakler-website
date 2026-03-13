@@ -2,8 +2,9 @@
 title: "Risikolebensversicherung"
 description: "Die Risikolebensversicherung schützt Ihre Familie finanziell im Todesfall. Erfahren Sie, wer sie braucht und worauf es bei der Auswahl ankommt."
 category: "personen"
+audience: "privat"
 icon: "heart"
-order: 9
+order: 3
 ---
 
 ## Was ist eine Risikolebensversicherung?

@@ -1,0 +1,96 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Private Krankenversicherung', href: url('/versicherungen/krankenversicherung/'), description: 'PKV vs. GKV oberhalb der Versicherungspflichtgrenze — worauf es beim Wechsel ankommt.' },
+  { title: 'Betriebliche Altersversorgung', href: url('/versicherungen/betriebliche-altersversorgung/'), description: 'Entgeltumwandlung, Arbeitgeberzuschuss und Durchführungswege optimal nutzen.' },
+  { title: 'Berufsunfähigkeitsversicherung', href: url('/versicherungen/berufsunfaehigkeit/'), description: 'Einkommensabsicherung auf dem Niveau Ihres tatsächlichen Lebensstandards.' },
+  { title: 'Zahnzusatzversicherung', href: url('/versicherungen/zahnzusatzversicherung/'), description: 'Hochwertiger Zahnersatz, Implantate und Prophylaxe — Eigenanteile reduzieren.' },
+  { title: 'Stationäre Zusatzversicherung', href: url('/versicherungen/stationaere-zusatzversicherung/'), description: 'Chefarztbehandlung und Einzelzimmer im Krankenhaus — auch bei Verbleib in der GKV.' },
+  { title: 'Krankentagegeld', href: url('/versicherungen/krankentagegeld/'), description: 'Einkommenslücke nach 42 Tagen Lohnfortzahlung schließen — besonders bei hohem Gehalt.' },
+];
+---
+
+<BaseLayout
+  title="Angestellte & Gutverdiener absichern — Nurbanum Versicherungsmakler"
+  description="PKV oder GKV? bAV-Optimierung, Zusatzversicherungen, Einkommenssicherung — Versicherungsberatung für Angestellte oberhalb der Beitragsbemessungsgrenze."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Angestellte & Gutverdiener</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Wer gut verdient, hat besondere Möglichkeiten — und besondere Lücken. Ich zeige Ihnen, wie Sie PKV, bAV und Zusatzversicherungen optimal kombinieren.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Privatpersonen', href: '/spezialisierungen/#privat' }, { label: 'Absicherung im Beruf', href: '/spezialisierungen/#privat' }]} current="Angestellte & Gutverdiener" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Warum brauchen Gutverdiener eine eigene Beratung?</h2>
+        <p>Angestellte mit einem Bruttoeinkommen oberhalb der Jahresarbeitsentgeltgrenze (JAEG, 2026: 77.400 Euro) haben Zugang zur privaten Krankenversicherung. Gleichzeitig greift die gesetzliche Absicherung bei hohem Einkommen oft zu kurz: Krankengeld ist gedeckelt, die gesetzliche Rente ersetzt nur einen Bruchteil des Nettoeinkommens, und die Berufsunfähigkeitsabsicherung fehlt im gesetzlichen System fast vollständig.</p>
+        <p>Die richtige Strategie hängt von Ihrer individuellen Situation ab — Familienstand, Karrierepläne, Gesundheitszustand und Risikobereitschaft spielen eine wichtige Rolle.</p>
+
+        <h2>PKV oder GKV — die Gretchenfrage</h2>
+        <p>Oberhalb der Versicherungspflichtgrenze können Sie in die private Krankenversicherung wechseln. Die Vorteile liegen auf der Hand: bessere Leistungen, oft günstigere Beiträge in jungen Jahren, kein Arbeitgeberwechsel-Risiko bei Angestellten. Aber der Wechsel will gut überlegt sein:</p>
+        <ul>
+          <li><strong>Für wen lohnt sich die PKV?</strong> — Kinderlose Angestellte und DINKs (Double Income, No Kids) profitieren am stärksten. Jeder Familienangehörige braucht einen eigenen Vertrag, anders als in der beitragsfreien GKV-Familienversicherung.</li>
+          <li><strong>Wann besser in der GKV bleiben?</strong> — Bei Familienplanung mit einem Alleinverdiener, bei Vorerkrankungen oder wenn ein Wechsel in die Selbständigkeit geplant ist (kein Arbeitgeberzuschuss).</li>
+          <li><strong>GKV mit Zusatzversicherungen</strong> — Oft die klügere Wahl: GKV-Beitrag mit Arbeitgeberzuschuss plus Zahnzusatz, stationäre Zusatzversicherung und ambulante Zusatzversicherung schließen die wichtigsten Leistungslücken.</li>
+        </ul>
+
+        <h2>Betriebliche Altersversorgung optimal nutzen</h2>
+        <p>Als Angestellter haben Sie einen gesetzlichen Anspruch auf Entgeltumwandlung. Seit 2019 muss Ihr Arbeitgeber bei Neuverträgen mindestens 15 % Zuschuss zahlen — viele zahlen deutlich mehr. Mit der richtigen bAV-Strategie können Sie:</p>
+        <ul>
+          <li><strong>Steuern und Sozialabgaben sparen</strong> — Beiträge bis 302 Euro/Monat (2025) sind steuer- und sozialversicherungsfrei.</li>
+          <li><strong>Arbeitgeberzuschuss maximieren</strong> — Manche Arbeitgeber verdoppeln Ihren Beitrag oder zahlen einen festen Euro-Betrag obendrauf.</li>
+          <li><strong>Bestehende bAV prüfen</strong> — Alte Verträge haben oft hohe Kosten und niedrige Renditen. Ein Wechsel oder eine Optimierung lohnt sich häufig.</li>
+        </ul>
+
+        <h2>Einkommenslücken schließen</h2>
+        <p>Je höher das Einkommen, desto größer die Lücke zwischen gesetzlicher Absicherung und tatsächlichem Lebensstandard:</p>
+        <ul>
+          <li><strong>Berufsunfähigkeit</strong> — Die gesetzliche Erwerbsminderungsrente deckt maximal 40 % des letzten Bruttoeinkommens — und auch das nur bei voller Erwerbsminderung. Eine private BU-Versicherung ist unverzichtbar.</li>
+          <li><strong>Krankentagegeld</strong> — Nach 42 Tagen Lohnfortzahlung zahlt die GKV maximal 120,75 Euro/Tag (2025). Bei einem Gehalt von 6.000 Euro brutto fehlen schnell 2.000 Euro netto pro Monat.</li>
+          <li><strong>Altersvorsorge</strong> — Die gesetzliche Rente ist bei der Beitragsbemessungsgrenze gedeckelt. Die Rentenlücke wächst mit dem Einkommen überproportional.</li>
+        </ul>
+
+        <h2>Zusatzversicherungen: Was sich lohnt</h2>
+        <ul>
+          <li><strong>Zahnzusatzversicherung</strong> — Implantate, Inlays und hochwertige Kronen kosten schnell 3.000–5.000 Euro pro Behandlung. Die Kasse zahlt nur den Festzuschuss.</li>
+          <li><strong>Stationäre Zusatzversicherung</strong> — Chefarztbehandlung und Einbettzimmer im Krankenhaus, auch bei Verbleib in der GKV.</li>
+          <li><strong>Ambulante Zusatzversicherung</strong> — Heilpraktikerleistungen, Vorsorgeuntersuchungen und Sehhilfen über den GKV-Katalog hinaus.</li>
+        </ul>
+      </div>
+
+      <!-- Product links -->
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für Gutverdiener</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Mehr erfahren
+                <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Einkommens-Check: Nutzen Sie Ihre Möglichkeiten?</h3>
+        <p class="text-slate-300 mb-6">Ich analysiere Ihre aktuelle Absicherung und zeige Ihnen, wo Sie mit wenig Aufwand deutlich besser aufgestellt sind — kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

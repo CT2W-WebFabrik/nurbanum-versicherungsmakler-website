@@ -2,8 +2,9 @@
 title: "Unfallversicherung"
 description: "Die private Unfallversicherung leistet bei dauerhaften Unfallfolgen. Erfahren Sie, für wen sie sinnvoll ist und welche Leistungen wichtig sind."
 category: "personen"
+audience: "privat"
 icon: "activity"
-order: 11
+order: 4
 ---
 
 ## Was ist eine private Unfallversicherung?

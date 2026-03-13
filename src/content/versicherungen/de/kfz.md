@@ -2,8 +2,9 @@
 title: "Kfz-Versicherung"
 description: "Kfz-Versicherung verständlich erklärt: Haftpflicht, Teilkasko, Vollkasko -- worauf Sie achten müssen und wie Sie sinnvoll sparen."
 category: "sach"
+audience: "privat"
 icon: "car"
-order: 5
+order: 30
 ---
 
 ## Was ist eine Kfz-Versicherung?

@@ -1,9 +1,10 @@
 ---
 title: "Tierhalterhaftpflicht"
-description: "Hundehaftpflicht und Pferdehaftpflicht: Schützen Sie sich als Tierhalter vor Schadensersatzansprüchen. Beratung in Nürnberg."
+description: "Hundehaftpflicht und Pferdehaftpflicht: Schützen Sie sich als Tierhalter vor Schadensersatzansprüchen. In vielen Bundesländern Pflicht."
 category: "haftpflicht"
+audience: "privat"
 icon: "shield"
-order: 15
+order: 41
 ---
 
 ## Was ist eine Tierhalterhaftpflicht?

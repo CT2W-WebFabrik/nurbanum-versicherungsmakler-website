@@ -1,0 +1,167 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const privatSubsections = [
+  {
+    label: 'Lebensphasen',
+    items: [
+      { href: url('/spezialisierungen/berufseinsteiger-junge-erwachsene/'), title: 'Berufseinsteiger & junge Erwachsene', description: 'Welche Versicherungen am Karrierestart wirklich wichtig sind — und welche warten können.' },
+      { href: url('/spezialisierungen/familien-kinder/'), title: 'Familien & Kinder', description: 'Kinder schützen, Eltern absichern. Die richtige Priorität bei der Familienabsicherung.' },
+      { href: url('/spezialisierungen/immobilienbesitzer-vermieter/'), title: 'Immobilienbesitzer & Vermieter', description: 'Wohngebäude, Grundbesitzerhaftpflicht, Photovoltaik — Schutz für Ihre Immobilie.' },
+    ],
+  },
+  {
+    label: 'Vorsorge & Ruhestand',
+    items: [
+      { href: url('/spezialisierungen/altersvorsorge/'), title: 'Private Altersvorsorge', description: 'Riester, Rürup, ETF-Police — welcher Vorsorgeweg passt zu Ihrer Situation?' },
+      { href: url('/spezialisierungen/ruhestandsplanung/'), title: 'Ruhestandsplanung', description: 'Den Übergang in den Ruhestand finanziell und versicherungstechnisch vorbereiten.' },
+    ],
+  },
+  {
+    label: 'Absicherung im Beruf',
+    items: [
+      { href: url('/spezialisierungen/betriebliche-altersversorgung/'), title: 'Betriebliche Altersversorgung', description: 'Entgeltumwandlung, Arbeitgeberzuschuss, Durchführungswege — bAV verständlich erklärt.' },
+      { href: url('/spezialisierungen/angestellte-gutverdiener/'), title: 'Angestellte & Gutverdiener', description: 'PKV, bAV-Optimierung, Zusatzversicherungen — das Beste aus Ihrem Einkommen herausholen.' },
+    ],
+  },
+];
+
+const gewerbeSubsections = [
+  {
+    label: 'Freie Berufe & Dienstleistung',
+    items: [
+      { href: url('/spezialisierungen/selbstaendige-freiberufler/'), title: 'Selbständige & Freiberufler', description: 'Berufshaftpflicht, BU, Krankenversicherung — die wichtigsten Absicherungen ohne Arbeitgeber-Netz.' },
+      { href: url('/spezialisierungen/heilberufe-praxen/'), title: 'Heilberufe & Praxen', description: 'Berufshaftpflicht, Cyber, Praxisschutz — für Ärzte, Zahnärzte, Therapeuten und Heilpraktiker.' },
+      { href: url('/spezialisierungen/it-medien-kreativwirtschaft/'), title: 'IT, Medien & Kreativwirtschaft', description: 'Vermögensschadenhaftpflicht, Cyber, Elektronik — Schutz für digitale und kreative Dienstleister.' },
+    ],
+  },
+  {
+    label: 'Handwerk, Handel & Industrie',
+    items: [
+      { href: url('/spezialisierungen/handwerk-baubetriebe/'), title: 'Handwerk & Baubetriebe', description: 'Betriebshaftpflicht, Maschinenversicherung, Kfz-Flotte — Schutz für den Handwerksbetrieb.' },
+      { href: url('/spezialisierungen/gastronomie-hotellerie/'), title: 'Gastronomie & Hotellerie', description: 'Betriebshaftpflicht, Inhaltsversicherung, Produkthaftung — Schutz für Ihren Gastrobetrieb.' },
+      { href: url('/spezialisierungen/produktion-industrie/'), title: 'Produzierendes Gewerbe & Industrie', description: 'Produkthaftpflicht, Maschinenversicherung, Umwelthaftpflicht — Schutz für Industriebetriebe.' },
+      { href: url('/spezialisierungen/handel-transport-logistik/'), title: 'Handel, Transport & Logistik', description: 'Frachtführerhaftung, Kfz-Flotte, Lagerrisiken — Schutz für Speditionen und Handelsunternehmen.' },
+    ],
+  },
+  {
+    label: 'Vereine & Organisationen',
+    items: [
+      { href: url('/spezialisierungen/vereine-ehrenamt/'), title: 'Vereine & Ehrenamt', description: 'Vereinshaftpflicht, D&O für Vorstände, Unfallschutz — Schutz für ehrenamtliches Engagement.' },
+      { href: url('/spezialisierungen/soziale-einrichtungen-pflege/'), title: 'Soziale Einrichtungen & Pflege', description: 'Kitas, Pflegeheime, soziale Träger — Haftpflicht, D&O, Cyber und Berufshaftpflicht für soziale Organisationen.' },
+    ],
+  },
+];
+
+const privatCount = privatSubsections.reduce((sum, s) => sum + s.items.length, 0);
+const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length, 0);
+---
+
+<BaseLayout
+  title="Spezialisierungen — Nurbanum Versicherungsmakler"
+  description="Versicherungsberatung für Ihre Lebenssituation: Familien, Berufseinsteiger, Selbständige, Handwerker, Gastronomen, IT-Unternehmen und mehr."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierungen</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up" style="animation-delay: 0.1s;">Beratung für Ihre Situation</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.2s;">
+        Jede Lebenssituation und jede Branche bringt eigene Risiken mit sich. Ich zeige Ihnen, welche Versicherungen für Sie wirklich wichtig sind.
+      </p>
+    </div>
+  </section>
+
+  <!-- Anchor navigation -->
+  <div class="bg-white border-b border-slate-200 sticky top-16 z-40">
+    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="flex gap-1 py-3 overflow-x-auto" aria-label="Spezialisierungskategorien">
+        <a href="#privat" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
+          Für Privatpersonen
+          <span class="ml-1.5 text-xs text-slate-400 font-normal">{privatCount}</span>
+        </a>
+        <a href="#gewerbe" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
+          Für Unternehmen
+          <span class="ml-1.5 text-xs text-slate-400 font-normal">{gewerbeCount}</span>
+        </a>
+      </nav>
+    </div>
+  </div>
+
+  <!-- Für Privatpersonen -->
+  <section id="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28">
+    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-12">
+        <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Privatpersonen & Familien</p>
+        <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Spezialisierungen für Privatpersonen</h2>
+      </div>
+
+      {privatSubsections.map((sub) => (
+        <div class="mb-16 last:mb-0">
+          <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
+            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
+            {sub.label}
+          </h3>
+          <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {sub.items.map((item) => (
+              <a
+                href={item.href}
+                class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+              >
+                <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
+                  {item.title}
+                </h4>
+                <p class="text-base text-slate-600 leading-relaxed mb-4">
+                  {item.description}
+                </p>
+                <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                  Mehr erfahren
+                  <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                </span>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Für Unternehmen -->
+  <section id="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 scroll-mt-28">
+    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-12">
+        <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Unternehmen & Selbständige</p>
+        <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Spezialisierungen für Unternehmen</h2>
+      </div>
+
+      {gewerbeSubsections.map((sub) => (
+        <div class="mb-16 last:mb-0">
+          <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
+            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
+            {sub.label}
+          </h3>
+          <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {sub.items.map((item) => (
+              <a
+                href={item.href}
+                class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+              >
+                <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
+                  {item.title}
+                </h4>
+                <p class="text-base text-slate-600 leading-relaxed mb-4">
+                  {item.description}
+                </p>
+                <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                  Mehr erfahren
+                  <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                </span>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

@@ -2,8 +2,9 @@
 title: "Rechtsschutzversicherung"
 description: "Die Rechtsschutzversicherung übernimmt Anwalts- und Gerichtskosten bei rechtlichen Streitigkeiten. Was sie leistet und wo die Grenzen liegen."
 category: "sach"
+audience: "privat"
 icon: "scale"
-order: 8
+order: 33
 ---
 
 ## Was ist eine Rechtsschutzversicherung?

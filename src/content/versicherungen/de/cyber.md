@@ -1,9 +1,10 @@
 ---
 title: "Cyber-Versicherung"
-description: "Schutz gegen Hackerangriffe, Datenverlust und IT-Ausfälle. Cyber-Versicherung für Unternehmen — unabhängige Beratung in Nürnberg."
+description: "Schutz gegen Hackerangriffe, Datenverlust und IT-Ausfälle. Cyber-Versicherung für Unternehmen jeder Größe und Branche."
 category: "gewerbe"
+audience: "gewerbe"
 icon: "shield"
-order: 14
+order: 5
 ---
 
 ## Was ist eine Cyber-Versicherung?

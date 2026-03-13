@@ -2,8 +2,9 @@
 title: "Betriebliche Altersversorgung (bAV)"
 description: "Alles zur betrieblichen Altersversorgung: Durchführungswege, Entgeltumwandlung, Arbeitgeberzuschuss und steuerliche Vorteile verständlich erklärt."
 category: "altersvorsorge"
+audience: "privat"
 icon: "building"
-order: 4
+order: 21
 ---
 
 ## Was ist die betriebliche Altersversorgung?

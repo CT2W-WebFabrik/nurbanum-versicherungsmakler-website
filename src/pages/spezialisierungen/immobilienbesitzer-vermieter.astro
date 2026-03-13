@@ -1,0 +1,85 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Wohngebäudeversicherung', href: url('/versicherungen/wohngebaeude/'), description: 'Schutz für Ihr Eigenheim gegen Feuer, Sturm, Hagel und Leitungswasser.' },
+  { title: 'Hausratversicherung', href: url('/versicherungen/hausrat/'), description: 'Absicherung Ihres Hab und Guts gegen Feuer, Einbruch und Wasserschäden.' },
+  { title: 'Haus- und Grundbesitzerhaftpflicht', href: url('/versicherungen/haus-grundbesitzerhaftpflicht/'), description: 'Pflicht für Vermieter — Schutz vor Haftungsansprüchen aus dem Grundstücksbesitz.' },
+  { title: 'Photovoltaikversicherung', href: url('/versicherungen/photovoltaikversicherung/'), description: 'Allgefahrendeckung für Ihre Solaranlage inklusive Ertragsausfall.' },
+  { title: 'Rechtsschutzversicherung', href: url('/versicherungen/rechtsschutz/'), description: 'Mietstreitigkeiten, Nachbarschaftskonflikte, Baumängel — Ihr Recht durchsetzen.' },
+  { title: 'Bauherrenhaftpflicht', href: url('/versicherungen/bauherrenhaftpflicht/'), description: 'Schutz während der Bauphase bei Neubau, Anbau oder Sanierung.' },
+];
+---
+
+<BaseLayout
+  title="Versicherungen für Immobilienbesitzer & Vermieter — Nurbanum Versicherungsmakler"
+  description="Welche Versicherungen brauchen Immobilienbesitzer und Vermieter? Wohngebäude, Grundbesitzerhaftpflicht, Photovoltaik — unabhängige Beratung."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Immobilienbesitzer & Vermieter</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Ihr Eigentum verdient den richtigen Schutz. Ich zeige Ihnen, welche Versicherungen für Ihre Immobilie unverzichtbar sind.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Privatpersonen', href: '/spezialisierungen/#privat' }, { label: 'Lebensphasen', href: '/spezialisierungen/#privat' }]} current="Immobilienbesitzer & Vermieter" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Warum Immobilienbesitzer besonderen Schutz brauchen</h2>
+        <p>Eine Immobilie ist für die meisten Menschen die größte Investition ihres Lebens. Gleichzeitig bringt sie erhebliche Risiken mit sich: Feuer, Sturm, Leitungswasserschäden, aber auch Haftungsrisiken gegenüber Mietern, Besuchern und Passanten. Ein Großschaden kann den Wert der Immobilie vernichten — oder Sie als Eigentümer persönlich in die Haftung nehmen.</p>
+
+        <h2>Unverzichtbar: Wohngebäudeversicherung</h2>
+        <p>Die Wohngebäudeversicherung ist das Fundament. Sie schützt die Bausubstanz gegen Feuer, Sturm, Hagel und Leitungswasser. Ohne sie haften Sie bei einem Brand oder Wasserschaden mit dem vollen Wiederbeschaffungswert — schnell mehrere hunderttausend Euro.</p>
+        <p>Besonders wichtig: Der <strong>Elementarschutz</strong>. Überschwemmung, Starkregen und Rückstau sind in der Standard-Wohngebäudeversicherung nicht enthalten, aber angesichts zunehmender Extremwetterereignisse dringend empfohlen. In einigen Bundesländern wird eine Elementarpflichtversicherung diskutiert.</p>
+
+        <h2>Für Vermieter: Haus- und Grundbesitzerhaftpflicht</h2>
+        <p>Als Vermieter tragen Sie die Verkehrssicherungspflicht für Ihr Objekt. Wenn ein Mieter auf der vereisten Treppe stürzt, ein Dachziegel auf ein Auto fällt oder ein Besucher im Treppenhaus ausrutscht, haften Sie persönlich. Die Haus- und Grundbesitzerhaftpflicht übernimmt berechtigte Ansprüche und wehrt unberechtigte ab.</p>
+        <p>Wichtig: Die Beiträge können als Betriebskosten auf die Mieter umgelegt werden.</p>
+
+        <h2>Photovoltaikanlage richtig versichern</h2>
+        <p>Wenn Sie eine Solaranlage auf dem Dach haben, prüfen Sie zunächst, ob Ihre Wohngebäudeversicherung diese mit abdeckt. Häufig ist der Schutz nur rudimentär. Eine eigenständige Photovoltaikversicherung bietet eine Allgefahrendeckung — inklusive Kurzschluss, Tierbiss, Bedienungsfehler und Ertragsausfall.</p>
+
+        <h2>Beim Bauen und Sanieren</h2>
+        <ul>
+          <li><strong>Bauherrenhaftpflicht</strong> — Schützt Sie als Bauherr während der Bauphase vor Haftungsansprüchen. Prüfen Sie zuerst, ob Ihre Privathaftpflicht eine Bauherrendeckung enthält (oft bis 50.000–100.000 Euro Bausumme).</li>
+          <li><strong>Feuerrohbauversicherung</strong> — Während der Bauphase ist das Gebäude besonders brandgefährdet. Die Wohngebäudeversicherung greift meist erst nach Fertigstellung.</li>
+          <li><strong>Bauleistungsversicherung</strong> — Schützt die eingebrachten Bauleistungen gegen Beschädigung durch Unwetter, Vandalismus oder Materialfehler.</li>
+        </ul>
+
+        <h2>Rechtsschutz für Immobilienbesitzer</h2>
+        <p>Mietstreitigkeiten, Nachbarschaftskonflikte, Baumängel — als Immobilienbesitzer sind Sie überdurchschnittlich häufig in Rechtsstreitigkeiten involviert. Eine Rechtsschutzversicherung mit dem Baustein „Wohnen/Vermieten" übernimmt die Kosten.</p>
+      </div>
+
+      <!-- Product links -->
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für Immobilienbesitzer</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Mehr erfahren
+                <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Immobilien-Versicherungscheck</h3>
+        <p class="text-slate-300 mb-6">Ich prüfe den Versicherungsschutz Ihrer Immobilie — Deckungslücken finden, unnötige Policen kündigen. Kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

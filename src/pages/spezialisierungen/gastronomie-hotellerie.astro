@@ -1,0 +1,85 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Betriebshaftpflichtversicherung', href: url('/versicherungen/betriebshaftpflicht/'), description: 'Schutz bei Personen- und Sachschäden durch Ihren Gastronomiebetrieb.' },
+  { title: 'Geschäftsinhaltsversicherung', href: url('/versicherungen/inhaltsversicherung/'), description: 'Absicherung von Küchengeräten, Mobiliar, Warenbeständen und Betriebseinrichtung.' },
+  { title: 'Betriebsunterbrechungsversicherung', href: url('/versicherungen/betriebsunterbrechung/'), description: 'Einnahmenersatz und laufende Kosten bei erzwungenem Betriebsstillstand.' },
+  { title: 'Betriebsgebäudeversicherung', href: url('/versicherungen/betriebsgebaeudeversicherung/'), description: 'Schutz der Immobilie gegen Feuer, Sturm, Leitungswasser und Elementarschäden.' },
+  { title: 'Elektronikversicherung', href: url('/versicherungen/elektronikversicherung/'), description: 'Absicherung von Kassensystemen, Buchungssoftware und IT-Infrastruktur.' },
+  { title: 'Produkthaftpflichtversicherung', href: url('/versicherungen/produkthaftpflicht/'), description: 'Schutz bei Ansprüchen durch verunreinigte oder fehlerhafte Lebensmittel.' },
+];
+---
+
+<BaseLayout
+  title="Versicherungen für Gastronomie & Hotellerie — Nurbanum Versicherungsmakler"
+  description="Welche Versicherungen brauchen Gastronomen und Hoteliers? Betriebshaftpflicht, Inhaltsversicherung, Betriebsunterbrechung — unabhängige Beratung."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Gastronomie & Hotellerie</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Restaurants, Hotels, Cafés und Catering — die Branche bringt besondere Risiken mit sich. Ich finde den passenden Versicherungsschutz für Ihren Betrieb.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Unternehmen', href: '/spezialisierungen/#gewerbe' }, { label: 'Handwerk, Handel & Industrie', href: '/spezialisierungen/#gewerbe' }]} current="Gastronomie & Hotellerie" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Besondere Risiken in der Gastronomie</h2>
+        <p>Gastronomen und Hoteliers arbeiten mit offenem Feuer, heißem Fett, verderblichen Lebensmitteln und einer hohen Kundenfrequenz. Ein Fettbrand in der Küche, eine Lebensmittelvergiftung durch kontaminierte Ware oder ein Sturz eines Gastes auf nassem Boden — die Risiken sind vielfältig und können schnell existenzbedrohend werden.</p>
+        <p>Hinzu kommt: Die Branche ist kapitalintensiv. Professionelle Küchengeräte, Einrichtung, Warenbestände und oft auch die Immobilie selbst repräsentieren erhebliche Werte.</p>
+
+        <h2>Betriebshaftpflicht — die Basis</h2>
+        <p>Die Betriebshaftpflicht ist die wichtigste Versicherung für jeden Gastronomiebetrieb. Sie deckt Personen- und Sachschäden, die Gästen oder Dritten durch Ihren Betrieb entstehen. Beispiele: Ein Gast rutscht auf dem frisch gewischten Boden aus, ein Kellner verschüttet heißen Kaffee, ein herabfallendes Schild verletzt einen Passanten.</p>
+        <p>Wichtig: Achten Sie auf den Einschluss von Be- und Verarbeitungsschäden sowie Schäden durch Lebensmittel (Produkthaftpflicht).</p>
+
+        <h2>Lebensmittelhaftung und Produkthaftpflicht</h2>
+        <p>Wer Speisen und Getränke zubereitet und ausgibt, haftet nach dem Produkthaftungsgesetz für gesundheitliche Schäden durch verunreinigte oder fehlerhafte Produkte. Eine Produkthaftpflichtversicherung deckt diese Ansprüche ab — unabhängig davon, ob Sie selbst kochen, einen Caterer beauftragen oder verpackte Lebensmittel verkaufen.</p>
+
+        <h2>Betriebsinhalt und Einrichtung</h2>
+        <p>Profiküche, Gastraum-Möbel, Kassentechnik, Kühlanlagen, Weinbestände — der Wert der Betriebseinrichtung und Vorräte in der Gastronomie ist erheblich. Die Geschäftsinhaltsversicherung schützt gegen Feuer, Einbruchdiebstahl, Leitungswasser und Sturm. Achten Sie auf eine realistische Versicherungssumme, damit Sie im Schadenfall nicht unterversichert sind.</p>
+
+        <h2>Wenn der Betrieb stillsteht</h2>
+        <p>Ein Küchenbrand, ein schwerer Wasserschaden oder eine behördliche Schließung können Ihren Betrieb für Wochen lahmlegen. Die laufenden Kosten — Miete, Personalkosten, Kreditraten — laufen weiter. Die Betriebsunterbrechungsversicherung ersetzt Ihren entgangenen Gewinn und die Fixkosten für die Dauer des Stillstands.</p>
+
+        <h2>Weitere wichtige Absicherungen</h2>
+        <ul>
+          <li><strong>Betriebsgebäudeversicherung</strong> — Wenn Sie Eigentümer der Immobilie sind: Schutz gegen Feuer, Sturm, Hagel und Leitungswasser. Der Elementarschutz ist besonders in hochwassergefährdeten Lagen wichtig.</li>
+          <li><strong>Elektronikversicherung</strong> — Kassensysteme, Reservierungssoftware, Überwachungstechnik — ein Ausfall kann den Betriebsablauf empfindlich stören.</li>
+          <li><strong>Firmen-Rechtsschutz</strong> — Bei Auseinandersetzungen mit Lieferanten, Behörden oder im Arbeitsrecht.</li>
+        </ul>
+      </div>
+
+      <!-- Product links -->
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für Gastronomie & Hotels</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Mehr erfahren
+                <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Versicherungscheck für Ihren Gastrobetrieb</h3>
+        <p class="text-slate-300 mb-6">Ich prüfe Ihren bestehenden Schutz und zeige Ihnen, wo Handlungsbedarf besteht — kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

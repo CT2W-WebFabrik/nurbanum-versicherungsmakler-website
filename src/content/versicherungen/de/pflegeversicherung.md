@@ -1,9 +1,10 @@
 ---
 title: "Pflegeversicherung"
-description: "Private Pflegezusatzversicherung: Schließen Sie die Pflegelücke und sichern Sie sich und Ihre Angehörigen ab. Beratung vom Makler in Nürnberg."
+description: "Private Pflegezusatzversicherung: Schließen Sie die Pflegelücke und sichern Sie sich und Ihre Angehörigen finanziell ab."
 category: "personen"
+audience: "privat"
 icon: "heart"
-order: 12
+order: 5
 ---
 
 ## Was ist eine Pflegeversicherung?

@@ -5,13 +5,49 @@ const currentPath = Astro.url.pathname;
 
 const navItems = [
   { href: url('/'), label: 'Startseite' },
-  { href: url('/versicherungen/'), label: 'Versicherungen' },
-  { href: url('/spezialisierungen/altersvorsorge/'), label: 'Spezialisierungen', children: [
-    { href: url('/spezialisierungen/altersvorsorge/'), label: 'Private Altersvorsorge' },
-    { href: url('/spezialisierungen/betriebliche-altersversorgung/'), label: 'Betriebliche Altersversorgung' },
-    { href: url('/spezialisierungen/ruhestandsplanung/'), label: 'Ruhestandsplanung' },
+  { href: url('/versicherungen/'), label: 'Versicherungen', children: [
+    { label: 'Für Privatpersonen', section: true },
+    { href: url('/versicherungen/haftpflicht/'), label: 'Privathaftpflichtversicherung' },
+    { href: url('/versicherungen/berufsunfaehigkeit/'), label: 'Berufsunfähigkeitsversicherung' },
+    { href: url('/versicherungen/kfz/'), label: 'Kfz-Versicherung' },
+    { href: url('/versicherungen/hausrat/'), label: 'Hausratversicherung' },
+    { href: url('/versicherungen/wohngebaeude/'), label: 'Wohngebäudeversicherung' },
+    { href: url('/versicherungen/#privat'), label: 'Alle ansehen →' },
+    { label: 'Für Unternehmen', section: true },
+    { href: url('/versicherungen/betriebshaftpflicht/'), label: 'Betriebshaftpflichtversicherung' },
+    { href: url('/versicherungen/berufshaftpflicht/'), label: 'Berufshaftpflichtversicherung' },
+    { href: url('/versicherungen/dno-versicherung/'), label: 'D&O-Versicherung' },
+    { href: url('/versicherungen/cyber/'), label: 'Cyber-Versicherung' },
+    { href: url('/versicherungen/#gewerbe'), label: 'Alle ansehen →' },
   ]},
-  { href: url('/ratgeber/'), label: 'Ratgeber' },
+  { href: url('/spezialisierungen/'), label: 'Spezialisierungen', children: [
+    { label: 'Für Privatpersonen', section: true },
+    { href: url('/spezialisierungen/berufseinsteiger-junge-erwachsene/'), label: 'Berufseinsteiger & junge Erwachsene' },
+    { href: url('/spezialisierungen/familien-kinder/'), label: 'Familien & Kinder' },
+    { href: url('/spezialisierungen/immobilienbesitzer-vermieter/'), label: 'Immobilienbesitzer & Vermieter' },
+    { href: url('/spezialisierungen/angestellte-gutverdiener/'), label: 'Angestellte & Gutverdiener' },
+    { href: url('/spezialisierungen/#privat'), label: 'Alle ansehen →' },
+    { label: 'Für Unternehmen', section: true },
+    { href: url('/spezialisierungen/selbstaendige-freiberufler/'), label: 'Selbständige & Freiberufler' },
+    { href: url('/spezialisierungen/handwerk-baubetriebe/'), label: 'Handwerk & Baubetriebe' },
+    { href: url('/spezialisierungen/heilberufe-praxen/'), label: 'Heilberufe & Praxen' },
+    { href: url('/spezialisierungen/soziale-einrichtungen-pflege/'), label: 'Soziale Einrichtungen & Pflege' },
+    { href: url('/spezialisierungen/#gewerbe'), label: 'Alle ansehen →' },
+  ]},
+  { href: url('/ratgeber/'), label: 'Ratgeber', children: [
+    { label: 'Für Privatpersonen', section: true },
+    { href: url('/ratgeber/welche-versicherungen-brauche-ich/'), label: 'Welche Versicherungen brauche ich?' },
+    { href: url('/ratgeber/familien-versicherungen/'), label: 'Versicherungen für Familien' },
+    { href: url('/ratgeber/berufseinsteiger-versicherungen/'), label: 'Versicherungen für Berufseinsteiger' },
+    { href: url('/ratgeber/immobilienkauf-versicherungen/'), label: 'Versicherungen beim Immobilienkauf' },
+    { href: url('/ratgeber/#privat'), label: 'Alle ansehen →' },
+    { label: 'Für Unternehmen', section: true },
+    { href: url('/ratgeber/gewerbeversicherungen-ueberblick/'), label: 'Gewerbeversicherungen im Überblick' },
+    { href: url('/ratgeber/selbstaendige-versicherungen/'), label: 'Versicherungen für Selbständige' },
+    { href: url('/ratgeber/cyber-angriff-richtig-reagieren/'), label: 'Cyber-Angriff: So reagieren Sie' },
+    { href: url('/ratgeber/geschaeftsfuehrer-haftung/'), label: 'Geschäftsführerhaftung' },
+    { href: url('/ratgeber/#gewerbe'), label: 'Alle ansehen →' },
+  ]},
   { href: url('/ueber-uns/'), label: 'Über uns' },
   { href: url('/kontakt/'), label: 'Kontakt' },
 ];
@@ -76,12 +112,14 @@ function isActive(href: string): boolean {
               )}
             </a>
             {item.children && (
-              <div class="absolute top-full left-0 mt-1 w-64 bg-navy-900 rounded-lg shadow-xl border border-navy-700/50 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 translate-y-1 group-hover:translate-y-0" role="menu">
+              <div class="absolute top-full left-0 mt-1 w-72 bg-navy-900 rounded-lg shadow-xl border border-navy-700/50 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 translate-y-1 group-hover:translate-y-0" role="menu">
                 <div class="py-2">
                   {item.children.map((child) => (
-                    <a href={child.href} class="block px-4 py-2.5 text-sm text-navy-200 hover:text-amber-400 hover:bg-navy-800/50 transition-colors no-underline" role="menuitem">
-                      {child.label}
-                    </a>
+                    child.section
+                      ? <p class="px-4 pt-3 pb-1 text-xs font-bold text-navy-400 uppercase tracking-wider first:pt-1">{child.label}</p>
+                      : <a href={child.href} class={`block px-4 py-2.5 text-sm transition-colors no-underline ${child.label.includes('→') ? 'text-amber-500 hover:text-amber-400 font-medium' : 'text-navy-200 hover:text-amber-400 hover:bg-navy-800/50'}`} role="menuitem">
+                          {child.label}
+                        </a>
                   ))}
                 </div>
               </div>
@@ -131,9 +169,11 @@ function isActive(href: string): boolean {
             {item.label}
           </a>
           {item.children?.map((child) => (
-            <a href={child.href} class="block pl-8 pr-3 py-2.5 text-sm text-navy-300 hover:text-amber-400 transition-colors no-underline">
-              {child.label}
-            </a>
+            child.section
+              ? <p class="pl-8 pr-3 pt-3 pb-1 text-xs font-bold text-navy-400 uppercase tracking-wider">{child.label}</p>
+              : <a href={child.href} class={`block pl-8 pr-3 py-2.5 text-sm transition-colors no-underline ${child.label.includes('→') ? 'text-amber-500 hover:text-amber-400 font-medium' : 'text-navy-300 hover:text-amber-400'}`}>
+                  {child.label}
+                </a>
           ))}
         </>
       ))}

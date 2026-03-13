@@ -12,17 +12,24 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+const categoryLabel = entry.data.category === 'personen' ? 'Personenversicherungen' :
+  entry.data.category === 'sach' ? 'Sachversicherungen' :
+  entry.data.category === 'haftpflicht' ? 'Haftpflichtversicherungen' :
+  entry.data.category === 'altersvorsorge' ? 'Altersvorsorge' :
+  'Gewerbeversicherungen';
+const audienceAnchor = entry.data.audience === 'gewerbe' ? 'gewerbe' : 'privat';
 ---
 
 <ArticleLayout
   title={entry.data.title}
   description={entry.data.description}
-  category={entry.data.category === 'personen' ? 'Personenversicherung' :
-            entry.data.category === 'sach' ? 'Sachversicherung' :
-            entry.data.category === 'haftpflicht' ? 'Haftpflichtversicherung' :
-            entry.data.category === 'gewerbe' ? 'Gewerbeversicherung' :
-            entry.data.category === 'altersvorsorge' ? 'Altersvorsorge' : ''}
-  breadcrumbs={[{ label: 'Versicherungen', href: '/versicherungen/' }]}
+  category={categoryLabel}
+  breadcrumbs={[
+    { label: 'Versicherungen', href: '/versicherungen/' },
+    { label: audienceAnchor === 'gewerbe' ? 'Für Unternehmen' : 'Für Privatpersonen', href: `/versicherungen/#${audienceAnchor}` },
+    { label: categoryLabel, href: `/versicherungen/#${audienceAnchor}` },
+  ]}
 >
   <Content />
 </ArticleLayout>

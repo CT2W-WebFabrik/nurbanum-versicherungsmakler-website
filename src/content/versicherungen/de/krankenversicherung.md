@@ -2,8 +2,9 @@
 title: "Private Krankenversicherung & Krankenzusatz"
 description: "PKV oder GKV mit Zusatzversicherung? Erfahren Sie, welche Krankenversicherung zu Ihnen passt und worauf Sie bei der Wahl achten müssen."
 category: "personen"
+audience: "privat"
 icon: "stethoscope"
-order: 10
+order: 2
 ---
 
 ## Was ist die private Krankenversicherung?
@@ -16,7 +17,7 @@ Neben der Vollversicherung gibt es die Krankenzusatzversicherung: Sie ergänzt d
 
 ### Private Krankenversicherung (PKV-Vollversicherung)
 
-In die PKV wechseln können Angestellte mit einem Einkommen über der Jahresarbeitsentgeltgrenze (2024: 69.300 Euro brutto), Beamte, Selbstständige und Freiberufler.
+In die PKV wechseln können Angestellte mit einem Einkommen über der Jahresarbeitsentgeltgrenze (2026: 77.400 Euro brutto), Beamte, Selbstständige und Freiberufler.
 
 Die PKV ist besonders attraktiv für:
 

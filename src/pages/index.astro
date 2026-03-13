@@ -4,22 +4,34 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
 const latestRatgeber = (await getCollection('ratgeber'))
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
   .slice(0, 3);
 
-const insuranceTypes = [
-  { title: 'Haftpflichtversicherung', href: '/versicherungen/haftpflicht/', icon: 'shield' },
-  { title: 'Berufsunfähigkeit', href: '/versicherungen/berufsunfaehigkeit/', icon: 'briefcase' },
-  { title: 'KFZ-Versicherung', href: '/versicherungen/kfz/', icon: 'car' },
-  { title: 'Hausratversicherung', href: '/versicherungen/hausrat/', icon: 'home' },
-  { title: 'Wohngebäudeversicherung', href: '/versicherungen/wohngebaeude/', icon: 'building' },
-  { title: 'Rechtsschutzversicherung', href: '/versicherungen/rechtsschutz/', icon: 'scale' },
-  { title: 'Risikolebensversicherung', href: '/versicherungen/risikoleben/', icon: 'heart' },
-  { title: 'Krankenversicherung', href: '/versicherungen/krankenversicherung/', icon: 'medical' },
-  { title: 'Unfallversicherung', href: '/versicherungen/unfallversicherung/', icon: 'alert' },
-  { title: 'Pflegeversicherung', href: '/versicherungen/pflegeversicherung/', icon: 'care' },
-  { title: 'Gewerbeversicherung', href: '/versicherungen/gewerbe/', icon: 'office' },
-  { title: 'Cyberversicherung', href: '/versicherungen/cyber/', icon: 'cyber' },
+const privatTypes = [
+  { title: 'Haftpflichtversicherung', href: '/versicherungen/haftpflicht/' },
+  { title: 'Berufsunfähigkeit', href: '/versicherungen/berufsunfaehigkeit/' },
+  { title: 'Kfz-Versicherung', href: '/versicherungen/kfz/' },
+  { title: 'Hausratversicherung', href: '/versicherungen/hausrat/' },
+  { title: 'Wohngebäudeversicherung', href: '/versicherungen/wohngebaeude/' },
+  { title: 'Rechtsschutzversicherung', href: '/versicherungen/rechtsschutz/' },
+  { title: 'Risikolebensversicherung', href: '/versicherungen/risikoleben/' },
+  { title: 'Krankenversicherung', href: '/versicherungen/krankenversicherung/' },
+  { title: 'Unfallversicherung', href: '/versicherungen/unfallversicherung/' },
+  { title: 'Pflegeversicherung', href: '/versicherungen/pflegeversicherung/' },
+  { title: 'Tierhalterhaftpflicht', href: '/versicherungen/tierhalterhaftpflicht/' },
+  { title: 'Zahnzusatzversicherung', href: '/versicherungen/zahnzusatzversicherung/' },
+  { title: 'Photovoltaikversicherung', href: '/versicherungen/photovoltaikversicherung/' },
+  { title: 'Kinderabsicherung', href: '/versicherungen/kinderabsicherung/' },
+];
+
+const gewerbeTypes = [
+  { title: 'Betriebshaftpflicht', href: '/versicherungen/betriebshaftpflicht/' },
+  { title: 'Berufshaftpflicht', href: '/versicherungen/berufshaftpflicht/' },
+  { title: 'D&O-Versicherung', href: '/versicherungen/dno-versicherung/' },
+  { title: 'Betriebsunterbrechung', href: '/versicherungen/betriebsunterbrechung/' },
+  { title: 'Cyber-Versicherung', href: '/versicherungen/cyber/' },
+  { title: 'Firmen-Rechtsschutz', href: '/versicherungen/firmen-rechtsschutz/' },
+  { title: 'Vermögensschadenhaftpflicht', href: '/versicherungen/vermoegensshadenhaftpflicht/' },
 ];
 ---
 
@@ -138,25 +150,55 @@ const insuranceTypes = [
       <div class="text-center mb-14">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-4">Versicherungen</p>
         <h2 class="text-2xl sm:text-3xl font-800 text-navy-950 mb-6">Rundum gut versichert</h2>
-        <p class="text-lg text-slate-600 max-w-2xl mx-auto">Von Haftpflicht bis Cyber — ich finde für jede Lebenslage den passenden Schutz.</p>
+        <p class="text-lg text-slate-600 max-w-2xl mx-auto">Von Haftpflicht bis D&O — ich finde für jede Lebenslage und jedes Unternehmen den passenden Schutz.</p>
       </div>
 
-      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
-        {insuranceTypes.map(item => (
-          <a href={url(item.href)} class="group flex flex-col sm:flex-row items-center gap-2 sm:gap-3 bg-slate-50 hover:bg-amber-50 rounded-xl p-3 sm:p-4 border border-slate-100 hover:border-amber-200 transition-all no-underline overflow-hidden">
-            <div class="w-10 h-10 rounded-lg bg-navy-950 flex items-center justify-center shrink-0 group-hover:bg-amber-500 transition-colors">
-              <svg class="w-5 h-5 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" /></svg>
-            </div>
-            <span class="text-xs sm:text-sm font-medium text-navy-800 group-hover:text-amber-800 transition-colors text-center sm:text-left break-words min-w-0">{item.title}</span>
+      <!-- Privatversicherungen -->
+      <div class="mb-12">
+        <h3 class="text-lg font-bold text-navy-950 mb-5 flex items-center">
+          <span class="w-6 h-0.5 bg-amber-400 mr-3"></span>
+          Für Privatpersonen
+        </h3>
+        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+          {privatTypes.map(item => (
+            <a href={url(item.href)} class="group flex flex-col sm:flex-row items-center gap-2 sm:gap-3 bg-slate-50 hover:bg-amber-50 rounded-xl p-3 sm:p-4 border border-slate-100 hover:border-amber-200 transition-all no-underline overflow-hidden">
+              <div class="w-10 h-10 rounded-lg bg-navy-950 flex items-center justify-center shrink-0 group-hover:bg-amber-500 transition-colors">
+                <svg class="w-5 h-5 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" /></svg>
+              </div>
+              <span class="text-xs sm:text-sm font-medium text-navy-800 group-hover:text-amber-800 transition-colors text-center sm:text-left break-words min-w-0">{item.title}</span>
+            </a>
+          ))}
+        </div>
+        <div class="text-right mt-4">
+          <a href={url('/versicherungen/#privat')} class="inline-flex items-center gap-1.5 text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
+            Alle ansehen
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
           </a>
-        ))}
+        </div>
       </div>
 
-      <div class="text-center mt-10">
-        <a href={url('/versicherungen/')} class="inline-flex items-center gap-2 text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
-          Alle Versicherungen anzeigen
-          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
-        </a>
+      <!-- Gewerbeversicherungen -->
+      <div>
+        <h3 class="text-lg font-bold text-navy-950 mb-5 flex items-center">
+          <span class="w-6 h-0.5 bg-amber-400 mr-3"></span>
+          Für Unternehmen
+        </h3>
+        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+          {gewerbeTypes.map(item => (
+            <a href={url(item.href)} class="group flex flex-col sm:flex-row items-center gap-2 sm:gap-3 bg-navy-50 hover:bg-amber-50 rounded-xl p-3 sm:p-4 border border-navy-100 hover:border-amber-200 transition-all no-underline overflow-hidden">
+              <div class="w-10 h-10 rounded-lg bg-navy-950 flex items-center justify-center shrink-0 group-hover:bg-amber-500 transition-colors">
+                <svg class="w-5 h-5 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 0h.008v.008h-.008V7.5z" /></svg>
+              </div>
+              <span class="text-xs sm:text-sm font-medium text-navy-800 group-hover:text-amber-800 transition-colors text-center sm:text-left break-words min-w-0">{item.title}</span>
+            </a>
+          ))}
+        </div>
+        <div class="text-right mt-4">
+          <a href={url('/versicherungen/#gewerbe')} class="inline-flex items-center gap-1.5 text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
+            Alle ansehen
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+          </a>
+        </div>
       </div>
     </div>
   </section>
@@ -235,7 +277,7 @@ const insuranceTypes = [
 
       <div class="text-center mt-10">
         <a href={url('/ratgeber/')} class="inline-flex items-center gap-2 text-sm font-semibold text-navy-600 hover:text-amber-700 transition-colors no-underline">
-          Alle Ratgeber anzeigen
+          Alle Ratgeber ansehen
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
         </a>
       </div>

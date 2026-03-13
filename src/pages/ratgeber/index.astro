@@ -5,11 +5,38 @@ import { getCollection } from 'astro:content';
 
 const guides = await getCollection('ratgeber');
 const sorted = guides.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const privatGuides = sorted.filter(g => (g.data.audience ?? 'privat') === 'privat');
+const gewerbeGuides = sorted.filter(g => g.data.audience === 'gewerbe');
+
+const privatCategories: Record<string, { label: string; items: typeof sorted }> = {
+  'Grundlagen': { label: 'Grundlagen', items: [] },
+  'Lebenssituationen': { label: 'Lebenssituationen', items: [] },
+  'Altersvorsorge': { label: 'Altersvorsorge', items: [] },
+  'Schadenfall': { label: 'Schadenfall & Praxis', items: [] },
+};
+
+for (const guide of privatGuides) {
+  const cat = guide.data.category;
+  if (privatCategories[cat]) privatCategories[cat].items.push(guide);
+}
+
+const gewerbeCategories: Record<string, { label: string; items: typeof sorted }> = {
+  'Grundlagen': { label: 'Grundlagen', items: [] },
+  'Haftung & Recht': { label: 'Haftung & Recht', items: [] },
+  'Betrieb & Sicherheit': { label: 'Betrieb & Sicherheit', items: [] },
+  'Arbeitgeber': { label: 'Arbeitgeber', items: [] },
+};
+
+for (const guide of gewerbeGuides) {
+  const cat = guide.data.category;
+  if (gewerbeCategories[cat]) gewerbeCategories[cat].items.push(guide);
+}
 ---
 
 <BaseLayout
   title="Ratgeber & Tipps — Nurbanum Versicherungsmakler"
-  description="Versicherungstipps, Spartipps und Ratgeber für jede Lebenssituation. Verständlich erklärt vom unabhängigen Makler in Nürnberg."
+  description="Versicherungstipps, Spartipps und Ratgeber für Privatpersonen und Unternehmen. Verständlich erklärt vom unabhängigen Makler."
 >
   <section class="bg-hero relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
@@ -22,34 +49,107 @@ const sorted = guides.sort((a, b) => b.data.publishDate.getTime() - a.data.publi
     </div>
   </section>
 
-  <section class="py-20 sm:py-28 bg-pattern">
+  <!-- Anchor navigation -->
+  <div class="bg-white border-b border-slate-200 sticky top-16 z-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {sorted.map((guide, i) => (
-          <a
-            href={url(`/ratgeber/${guide.id}/`)}
-            class="group block bg-white rounded-xl p-8 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300 animate-slide-up"
-            style={`animation-delay: ${0.1 + i * 0.1}s;`}
-          >
-            <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
-              {guide.data.category}
-            </span>
-            <h2 class="text-lg font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">
-              {guide.data.title}
-            </h2>
-            <p class="text-base text-slate-600 leading-relaxed mb-4">
-              {guide.data.description}
-            </p>
-            <div class="flex items-center justify-between">
-              <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
-              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
-                Lesen
-                <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-              </span>
-            </div>
-          </a>
-        ))}
+      <nav class="flex gap-1 py-3 overflow-x-auto" aria-label="Ratgeberkategorien">
+        <a href="#privat" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
+          Für Privatpersonen
+          <span class="ml-1.5 text-xs text-slate-400 font-normal">{privatGuides.length}</span>
+        </a>
+        <a href="#gewerbe" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
+          Für Unternehmen
+          <span class="ml-1.5 text-xs text-slate-400 font-normal">{gewerbeGuides.length}</span>
+        </a>
+      </nav>
+    </div>
+  </div>
+
+  <!-- Für Privatpersonen -->
+  <section id="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28">
+    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-12">
+        <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Privatpersonen & Familien</p>
+        <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Ratgeber für Privatpersonen</h2>
       </div>
+
+      {Object.entries(privatCategories).map(([key, { label, items }]) => items.length > 0 && (
+        <div class="mb-16 last:mb-0">
+          <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
+            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
+            {label}
+          </h3>
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {items.map((guide) => (
+              <a
+                href={url(`/ratgeber/${guide.id}/`)}
+                class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+              >
+                <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
+                  {guide.data.category}
+                </span>
+                <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
+                  {guide.data.title}
+                </h4>
+                <p class="text-base text-slate-600 leading-relaxed mb-4">
+                  {guide.data.description}
+                </p>
+                <div class="flex items-center justify-between">
+                  <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
+                  <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                    Lesen
+                    <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                  </span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Für Unternehmen -->
+  <section id="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 scroll-mt-28">
+    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-12">
+        <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Unternehmen & Selbständige</p>
+        <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Ratgeber für Unternehmen</h2>
+      </div>
+
+      {Object.entries(gewerbeCategories).map(([key, { label, items }]) => items.length > 0 && (
+        <div class="mb-16 last:mb-0">
+          <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
+            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
+            {label}
+          </h3>
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {items.map((guide) => (
+              <a
+                href={url(`/ratgeber/${guide.id}/`)}
+                class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+              >
+                <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
+                  {guide.data.category}
+                </span>
+                <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
+                  {guide.data.title}
+                </h4>
+                <p class="text-base text-slate-600 leading-relaxed mb-4">
+                  {guide.data.description}
+                </p>
+                <div class="flex items-center justify-between">
+                  <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
+                  <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                    Lesen
+                    <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                  </span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
     </div>
   </section>
 </BaseLayout>

@@ -2,8 +2,9 @@
 title: "Private Altersvorsorge"
 description: "Überblick über die private Altersvorsorge: Riester, Rürup, private Rentenversicherung und ETF-Sparpläne im Vergleich. Was passt zu Ihnen?"
 category: "altersvorsorge"
+audience: "privat"
 icon: "piggy-bank"
-order: 3
+order: 20
 ---
 
 ## Was ist private Altersvorsorge?

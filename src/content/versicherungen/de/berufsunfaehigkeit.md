@@ -2,8 +2,9 @@
 title: "Berufsunfähigkeitsversicherung"
 description: "Die Berufsunfähigkeitsversicherung sichert Ihr Einkommen ab, wenn Sie aus gesundheitlichen Gründen nicht mehr arbeiten können. Alle wichtigen Fakten."
 category: "personen"
+audience: "privat"
 icon: "briefcase"
-order: 2
+order: 1
 ---
 
 ## Was ist eine Berufsunfähigkeitsversicherung?

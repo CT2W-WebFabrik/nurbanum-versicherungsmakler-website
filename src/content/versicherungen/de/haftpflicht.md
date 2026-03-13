@@ -2,8 +2,9 @@
 title: "Privathaftpflichtversicherung"
 description: "Die Privathaftpflichtversicherung schützt Sie vor den finanziellen Folgen von Schäden, die Sie anderen zufügen. Erfahren Sie, worauf es ankommt."
 category: "haftpflicht"
+audience: "privat"
 icon: "shield"
-order: 1
+order: 40
 ---
 
 ## Was ist eine Privathaftpflichtversicherung?

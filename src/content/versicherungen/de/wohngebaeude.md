@@ -2,8 +2,9 @@
 title: "Wohngebäudeversicherung"
 description: "Die Wohngebäudeversicherung schützt Ihr Eigenheim gegen Feuer, Sturm, Hagel und Leitungswasser. Unverzichtbar für jeden Immobilienbesitzer."
 category: "sach"
+audience: "privat"
 icon: "building-2"
-order: 7
+order: 32
 ---
 
 ## Was ist eine Wohngebäudeversicherung?

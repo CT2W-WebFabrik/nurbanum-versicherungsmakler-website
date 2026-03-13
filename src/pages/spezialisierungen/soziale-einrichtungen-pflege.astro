@@ -1,0 +1,99 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Betriebshaftpflichtversicherung', href: url('/versicherungen/betriebshaftpflicht/'), description: 'Schutz bei Personen- und Sachschäden in Kitas, Pflegeheimen und sozialen Einrichtungen.' },
+  { title: 'Berufshaftpflichtversicherung', href: url('/versicherungen/berufshaftpflicht/'), description: 'Absicherung für Pflegekräfte, Erzieher und Sozialarbeiter bei beruflichen Fehlern.' },
+  { title: 'D&O-Versicherung', href: url('/versicherungen/dno-versicherung/'), description: 'Schutz für Geschäftsführer und Leitungskräfte sozialer Träger vor persönlicher Haftung.' },
+  { title: 'Cyber-Versicherung', href: url('/versicherungen/cyber/'), description: 'Schutz bei Datenpannen mit Patienten-, Klienten- und Mitarbeiterdaten.' },
+  { title: 'Geschäftsinhaltsversicherung', href: url('/versicherungen/inhaltsversicherung/'), description: 'Absicherung von Einrichtung, Ausstattung, medizinischen Geräten und Spielgeräten.' },
+  { title: 'Betriebsgebäudeversicherung', href: url('/versicherungen/betriebsgebaeudeversicherung/'), description: 'Schutz für eigene oder gemietete Gebäude gegen Feuer, Sturm und Leitungswasser.' },
+];
+---
+
+<BaseLayout
+  title="Soziale Einrichtungen & Pflege absichern — Nurbanum Versicherungsmakler"
+  description="Versicherungen für Kitas, Pflegeheime, soziale Träger: Betriebshaftpflicht, D&O, Cyber, Berufshaftpflicht — unabhängige Beratung für soziale Organisationen."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Soziale Einrichtungen & Pflege</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Kitas, Pflegeheime, ambulante Dienste, Jugendhilfe — soziale Einrichtungen tragen große Verantwortung für vulnerable Gruppen. Ich sorge dafür, dass Ihre Organisation richtig abgesichert ist.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Unternehmen', href: '/spezialisierungen/#gewerbe' }, { label: 'Vereine & Organisationen', href: '/spezialisierungen/#gewerbe' }]} current="Soziale Einrichtungen & Pflege" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Besondere Risiken sozialer Einrichtungen</h2>
+        <p>Soziale Einrichtungen betreuen und versorgen Menschen, die besonderen Schutz brauchen: Kinder, pflegebedürftige Senioren, Menschen mit Behinderungen, Jugendliche in schwierigen Lebenssituationen. Diese Verantwortung bringt spezifische Haftungsrisiken mit sich, die weit über die eines normalen Gewerbebetriebs hinausgehen.</p>
+        <p>Gleichzeitig unterliegen soziale Träger strengen Datenschutzanforderungen: Gesundheitsdaten, Sozialdaten und Informationen über Schutzbefohlene gehören zu den sensibelsten Datenkategorien der DSGVO.</p>
+
+        <h2>Betriebshaftpflicht — die Grundlage</h2>
+        <p>Die Betriebshaftpflichtversicherung ist für jede soziale Einrichtung unverzichtbar. Sie schützt bei Personen- und Sachschäden, die im Rahmen der Betreuungstätigkeit entstehen. Typische Schadenszenarien:</p>
+        <ul>
+          <li>Ein Kind verletzt sich auf dem Kita-Gelände durch mangelnde Aufsicht</li>
+          <li>Ein Pflegebedürftiger stürzt beim Transfer und erleidet einen Oberschenkelhalsbruch</li>
+          <li>Ein Bewohner beschädigt Eigentum Dritter während einer Betreuungsmaßnahme</li>
+          <li>Ein Besucher stürzt auf dem Gelände der Einrichtung</li>
+        </ul>
+        <p>Achten Sie auf ausreichende Deckungssummen — bei Personenschäden mit Schutzbefohlenen können Forderungen schnell in den Millionenbereich gehen.</p>
+
+        <h2>Berufshaftpflicht für Pflegekräfte und Erzieher</h2>
+        <p>Neben der Betriebshaftpflicht des Trägers brauchen Fachkräfte in der Pflege und Betreuung eine eigene Absicherung gegen berufliche Fehler. Medikationsfehler, Dokumentationsmängel oder Aufsichtspflichtverletzungen können zu persönlicher Haftung führen — auch wenn der Arbeitgeber im Innenverhältnis Regress nehmen kann.</p>
+        <p>Besonders wichtig ist dies für Leitungskräfte (Pflegedienstleitung, Kita-Leitung), die eine erweiterte Verantwortung für Organisation und Personal tragen.</p>
+
+        <h2>D&O-Versicherung für Leitungskräfte</h2>
+        <p>Geschäftsführer und Vorstände sozialer Träger — ob gGmbH, eingetragener Verein oder Stiftung — haften persönlich für Pflichtverletzungen. Fehlerhafte Abrechnungen mit Kostenträgern, verspätete Insolvenzanmeldung, Verstöße gegen Arbeitsschutzvorschriften oder Datenschutzpannen können zur persönlichen Inanspruchnahme führen.</p>
+        <p>Die D&O-Versicherung übernimmt die Kosten der Rechtsverteidigung und schützt das Privatvermögen der Leitungskräfte.</p>
+
+        <h2>Cyber-Risiken und Datenschutz</h2>
+        <p>Soziale Einrichtungen verarbeiten hochsensible Daten: Gesundheitsdaten von Pflegebedürftigen, Entwicklungsberichte von Kindern, Sozialdaten von Klienten. Ein Datenverlust oder Cyber-Angriff kann existenzbedrohend sein:</p>
+        <ul>
+          <li><strong>DSGVO-Bußgelder</strong> — Bei Gesundheitsdaten (Art. 9 DSGVO) drohen besonders hohe Sanktionen.</li>
+          <li><strong>Betriebsunterbrechung</strong> — Wenn die digitale Pflegedokumentation ausfällt, steht der Betrieb still.</li>
+          <li><strong>Reputationsschaden</strong> — Das Vertrauen von Angehörigen und Kostenträgern ist das wichtigste Kapital sozialer Einrichtungen.</li>
+        </ul>
+
+        <h2>Weitere wichtige Absicherungen</h2>
+        <ul>
+          <li><strong>Betriebsgebäudeversicherung</strong> — Schutz für eigene oder gemietete Gebäude, besonders wichtig bei älteren Immobilien mit Sanierungsstau.</li>
+          <li><strong>Geschäftsinhaltsversicherung</strong> — Einrichtung, medizinische Geräte, Pflegebetten, Spielgeräte und Küchentechnik absichern.</li>
+          <li><strong>Betriebsunterbrechungsversicherung</strong> — Laufende Kosten (Personal, Miete) weiter decken, wenn der Betrieb nach einem Schaden stillsteht.</li>
+          <li><strong>Rechtsschutzversicherung</strong> — Bei Streitigkeiten mit Kostenträgern, Behörden oder Mitarbeitern.</li>
+        </ul>
+      </div>
+
+      <!-- Product links -->
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für soziale Einrichtungen</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Mehr erfahren
+                <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Einrichtungs-Check: Ist Ihre Organisation richtig abgesichert?</h3>
+        <p class="text-slate-300 mb-6">Ich prüfe den Versicherungsschutz Ihrer sozialen Einrichtung und zeige Ihnen, wo Handlungsbedarf besteht — kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
