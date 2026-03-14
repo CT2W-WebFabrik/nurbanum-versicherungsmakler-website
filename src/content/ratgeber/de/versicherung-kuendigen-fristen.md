@@ -150,6 +150,12 @@ Ja, ein Versicherungsmakler kann in Ihrem Auftrag und mit einer entsprechenden V
 
 Bevor Sie kündigen, lassen Sie mich die Konditionen prüfen. Oft kann ich bei Ihrem bestehenden Versicherer bessere Bedingungen aushandeln — oder finde eine echte Verbesserung am Markt. Als unabhängiger Makler bin ich nicht an einen Anbieter gebunden.
 
+### Weiterlesen
+
+- [Versicherung wechseln: So gelingt der Umstieg](/ratgeber/versicherung-wechseln/)
+- [Beitragserhöhung: Ihre Rechte](/ratgeber/versicherung-beitragserhoehung-rechte/)
+- [Versicherung kündigt nach Schaden](/ratgeber/versicherung-kuendigt-was-tun/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -159,9 +165,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherung wechseln: So gelingt der Umstieg](/ratgeber/versicherung-wechseln/)
-- [Beitragserhöhung: Ihre Rechte](/ratgeber/versicherung-beitragserhoehung-rechte/)
-- [Versicherung kündigt nach Schaden](/ratgeber/versicherung-kuendigt-was-tun/)

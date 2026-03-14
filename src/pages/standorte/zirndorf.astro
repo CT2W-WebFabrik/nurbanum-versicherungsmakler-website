@@ -1,0 +1,86 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+---
+
+<BaseLayout
+  title="Versicherungsmakler in Zirndorf — Nurbanum Versicherungsmakler"
+  description="Ihr unabhängiger Versicherungsmakler direkt in Zirndorf. Persönliche Beratung zu Altersvorsorge, bAV, Ruhestandsplanung und Versicherungen — Hans-Sachs-Straße 2."
+>
+
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Unser Standort</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Versicherungsmakler in Zirndorf</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Persönliche Beratung vor Ort in der Hans-Sachs-Straße 2 — mitten in Zirndorf, direkt erreichbar aus der gesamten Rangau-Region.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Standorte', href: '/standorte/' }]} current="Zirndorf" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Ihr Versicherungsmakler direkt in Zirndorf</h2>
+        <p>Nurbanum Versicherungsmakler hat seinen Sitz in der Hans-Sachs-Straße 2 in Zirndorf — im Herzen der Stadt, unweit der historischen Altstadt mit ihrer traditionsreichen Geschichte rund um die Alte Veste. Als Versicherungsmakler vor Ort kenne ich die Lebensrealitäten der Menschen im Rangau: Familien, die ihr Eigenheim absichern möchten, Handwerker, die ihren Betrieb in der Region führen, und Angestellte, die sich eine solide Altersvorsorge wünschen.</p>
+        <p>Was mich von einem Versicherungsvertreter unterscheidet: Ich bin an keine Gesellschaft gebunden. Als unabhängiger Makler vertrete ich ausschließlich Ihre Interessen, vergleiche den gesamten Markt und finde die Lösung, die zu Ihrem Leben und Ihrem Budget passt. Das Erstgespräch ist immer kostenlos und unverbindlich.</p>
+
+        <h2>Warum ein Makler vor Ort den Unterschied macht</h2>
+        <p>Online-Vergleichsportale liefern Ergebnisse in Sekunden — aber sie kennen weder Ihre Lebenssituation noch die Besonderheiten der Region. In Zirndorf, einer wachsenden Stadt im Landkreis Fürth mit einer Mischung aus jungen Familien, etablierten Gewerbebetrieben und lebendiger Vereinskultur, brauchen Sie einen Berater, der zuhört und mitdenkt.</p>
+        <p>Persönliche Beratung heißt bei mir: Wir treffen uns in meinem Büro in der Hans-Sachs-Straße, bei Ihnen zu Hause oder in Ihrem Betrieb. Kein Callcenter, kein anonymer Online-Chat — ein Ansprechpartner, den Sie kennen und der auch nach dem Abschluss für Sie da ist.</p>
+
+        <h2>Beratungsspektrum</h2>
+        <ul>
+          <li><strong><a href={url('/spezialisierungen/altersvorsorge/')}>Altersvorsorge & Ruhestandsplanung</a>:</strong> Von der privaten Rentenversicherung über Riester und Rürup bis zur individuellen Ruhestandsstrategie. Gerade zwischen 50 und 67 lohnt sich ein professioneller Blick auf Ihre Versorgungslücke.</li>
+          <li><strong><a href={url('/spezialisierungen/betriebliche-altersversorgung/')}>Betriebliche Altersversorgung (bAV)</a>:</strong> Für Arbeitgeber in Zirndorf und Umgebung gestalte ich bAV-Konzepte, die Mitarbeiter binden und steuerlich optimal aufgestellt sind.</li>
+          <li><strong>Gewerbeversicherung:</strong> <a href={url('/versicherungen/betriebshaftpflicht/')}>Betriebshaftpflicht</a>, <a href={url('/versicherungen/inhaltsversicherung/')}>Inhaltsversicherung</a>, <a href={url('/versicherungen/cyber/')}>Cyber-Schutz</a> und <a href={url('/versicherungen/firmen-rechtsschutz/')}>Rechtsschutz</a> für die mittelständischen Betriebe der Region.</li>
+          <li><strong>Privatversicherung:</strong> <a href={url('/versicherungen/haftpflicht/')}>Haftpflicht</a>, <a href={url('/versicherungen/hausrat/')}>Hausrat</a>, <a href={url('/versicherungen/wohngebaeude/')}>Wohngebäude</a>, <a href={url('/versicherungen/kfz/')}>Kfz</a>, <a href={url('/versicherungen/berufsunfaehigkeit/')}>Berufsunfähigkeit</a> und Krankenzusatz.</li>
+        </ul>
+
+        <h2>Zirndorf und die Metropolregion Nürnberg</h2>
+        <p>Zirndorf liegt verkehrsgünstig am westlichen Rand der Metropolregion Nürnberg. Die Rangaubahn verbindet die Stadt mit Fürth und Nürnberg, und über die B 8 sind Sie in wenigen Minuten auf der A 73. Für Kunden aus Oberasbach, Stein oder Roßtal bin ich ebenso schnell erreichbar wie für Zirndorfer selbst.</p>
+        <p>Natürlich berate ich auch über Zirndorf hinaus: Kunden aus <a href={url('/standorte/fuerth/')}>Fürth</a>, <a href={url('/standorte/nuernberg/')}>Nürnberg</a> und dem gesamten Landkreis nutzen mein Angebot regelmäßig. Hausbesuche und Videoberatung sind selbstverständlich möglich.</p>
+
+        <h2>So erreichen Sie mich</h2>
+        <p>Mein Büro in der Hans-Sachs-Straße 2, 90513 Zirndorf, ist montags bis freitags von 9 bis 18 Uhr besetzt. Termine außerhalb dieser Zeiten sind nach Absprache möglich.</p>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Persönliche Beratung in Zirndorf</h3>
+        <p class="text-slate-300 mb-6">Im Büro, bei Ihnen zu Hause oder per Video — das Erstgespräch ist kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "InsuranceAgency",
+    "@id": "https://nurbanum.de/#organization",
+    "name": "Nurbanum Versicherungsmakler",
+    "telephone": "+4917384444426",
+    "email": "thorsten.schreier@nurbanum.de",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hans-Sachs-Straße 2",
+      "addressLocality": "Zirndorf",
+      "postalCode": "90513",
+      "addressRegion": "Bayern",
+      "addressCountry": "DE"
+    },
+    "geo": { "@type": "GeoCoordinates", "latitude": 49.4403, "longitude": 10.9553 },
+    "areaServed": { "@type": "City", "name": "Zirndorf" },
+    "url": "https://nurbanum.de",
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  })} />
+
+</BaseLayout>

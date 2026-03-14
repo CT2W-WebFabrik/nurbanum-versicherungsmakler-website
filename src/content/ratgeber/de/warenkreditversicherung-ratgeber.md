@@ -170,16 +170,6 @@ Die meisten Kreditversicherer verlangen eine sogenannte Globaldeckung: Sie versi
 
 Ob Warenkreditversicherung, Factoring oder eine Kombination aus beidem — die richtige Lösung hängt von Ihrer Branche, Ihrer Kundenstruktur und Ihrer Liquiditätssituation ab. Als unabhängiger Versicherungsmakler vergleiche ich die Angebote der Kreditversicherer und finde die passende Absicherung für Ihr Forderungsportfolio.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Exportversicherung: Auslandsrisiken absichern](/ratgeber/export-versicherung-auslandsrisiken/)
@@ -192,3 +182,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 17 InsO — Zahlungsunfähigkeit](https://www.gesetze-im-internet.de/inso/__17.html)
 - [§ 26 InsO — Abweisung mangels Masse](https://www.gesetze-im-internet.de/inso/__26.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

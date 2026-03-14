@@ -178,16 +178,6 @@ Die ZÜRS-Daten werden regelmäßig aktualisiert. Eine Hochstufung kann zu höhe
 
 Die richtige Elementarversicherung für Ihren Gewerbebetrieb hängt von Standort, Branche, Gebäudeart und Wertkonzentration ab. Als unabhängiger Versicherungsmakler analysiere ich Ihr Standortrisiko, prüfe die ZÜRS-Einstufung und finde eine Lösung — auch für schwierig versicherbare Standorte.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Elementarschutz: Brauche ich eine Versicherung gegen Hochwasser?](/ratgeber/elementarschutz-hochwasser-starkregen/)
@@ -200,3 +190,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [GDV: Naturgefahrenreport — Elementarschutz für Unternehmen](https://www.gdv.de/gdv/themen/klima/so-sind-schaeden-durch-naturgefahren-versichert-11000)
 - [§ 1 UmweltHG — Anlagenhaftung](https://www.gesetze-im-internet.de/umwelthg/__1.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

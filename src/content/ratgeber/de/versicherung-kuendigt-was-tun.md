@@ -176,6 +176,12 @@ Die Beratung und Vermittlung durch einen unabhängigen Versicherungsmakler ist f
 
 Eine Versichererkündigung nach Schaden ist ärgerlich, aber lösbar. Mit dem richtigen Makler finden Sie auch mit Vorschadenhistorie einen neuen Versicherer — oft schneller und günstiger, als Sie denken.
 
+### Weiterlesen
+
+- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
+- [Versicherung wechseln: So gelingt der Umstieg](/ratgeber/versicherung-wechseln/)
+- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -185,9 +191,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
-- [Versicherung wechseln: So gelingt der Umstieg](/ratgeber/versicherung-wechseln/)
-- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)

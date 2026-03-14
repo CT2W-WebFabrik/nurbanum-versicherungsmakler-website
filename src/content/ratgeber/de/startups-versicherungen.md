@@ -131,6 +131,12 @@ Sobald Mitarbeiter Zugang zu Geld, Konten oder wertvollen Vermögenswerten haben
 
 Ich arbeite regelmäßig mit Startups und kenne die Herausforderungen der verschiedenen Wachstumsphasen. Als unabhängiger Makler finde ich die richtige Absicherung, die zu Ihrem Budget und Ihrer Risikolage passt — und ich weiß, was Investoren in der Due Diligence sehen wollen.
 
+### Weiterlesen
+
+- [Versicherungen für Existenzgründer](/ratgeber/existenzgruender-versicherungen/)
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [D&O-Versicherung](/versicherungen/dno-versicherung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -140,9 +146,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherungen für Existenzgründer](/ratgeber/existenzgruender-versicherungen/)
-- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
-- [D&O-Versicherung](/versicherungen/dno-versicherung/)

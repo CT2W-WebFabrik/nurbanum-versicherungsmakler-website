@@ -199,16 +199,6 @@ Ja, über das sogenannte Wohn-Riester können Sie Ihr angespartes Guthaben förd
 
 Ob Riester für Sie sinnvoll ist, hängt von Ihrer Familiensituation, Ihrem Einkommen und Ihrem Alter ab. Als unabhängiger Versicherungsmakler prüfe ich Ihren bestehenden Riester-Vertrag — oder empfehle eine Alternative, wenn sie besser passt. Ohne Verkaufsdruck, ohne Provision auf ein bestimmtes Produkt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Altersvorsorge ab 40](/ratgeber/altersvorsorge-ab-40/)
@@ -222,3 +212,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 10a EStG — Sonderausgabenabzug für Altersvorsorgebeiträge — Höchstbetrag 2.100 Euro, Günstigerprüfung](https://www.gesetze-im-internet.de/estg/__10a.html)
 - [§ 79 EStG — Anspruch auf Altersvorsorgezulage, Mindesteigenbeitrag 60 Euro](https://www.gesetze-im-internet.de/estg/__79.html)
 - [§ 82 SGB XII — Einkommensbegriff in der Sozialhilfe, Freibeträge für zusätzliche Altersvorsorge](https://www.gesetze-im-internet.de/sgb_12/__82.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

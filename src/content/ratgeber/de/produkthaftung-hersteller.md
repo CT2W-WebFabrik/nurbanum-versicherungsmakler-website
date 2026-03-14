@@ -198,16 +198,6 @@ Die absolute Verjährungsfrist beträgt 10 Jahre ab dem Zeitpunkt, zu dem der He
 
 Ob Maschinenbauer, Lebensmittelhersteller oder Onlinehändler mit Importware — die Produkthaftung betrifft jedes Unternehmen, das Produkte in Verkehr bringt. Als unabhängiger Versicherungsmakler finde ich den Produkthaftpflicht-Tarif, der zu Ihrem Produktportfolio, Ihren Exportmärkten und Ihrem Risikoprofil passt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
@@ -221,3 +211,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [Produkthaftungsgesetz (ProdHaftG) — verschuldensunabhängige Haftung, Fehlerarten, Haftungshöchstgrenzen](https://www.gesetze-im-internet.de/prodhaftg/)
 - [§ 4 Abs. 3 ProdHaftG — Haftung des Lieferanten — subsidiäre Händlerhaftung, Benennung des Herstellers](https://www.gesetze-im-internet.de/prodhaftg/__4.html)
 - [§ 10 ProdHaftG — Haftungshöchstbetrag — 85 Millionen Euro bei Personenschäden](https://www.gesetze-im-internet.de/prodhaftg/__10.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

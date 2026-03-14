@@ -186,16 +186,6 @@ Die Unterscheidung ist rechtlich erheblich. Ein Erfüllungsgehilfe (§ 278 BGB) 
 
 Die Zusammenarbeit mit Subunternehmern ist aus Ihrem Geschäftsmodell nicht wegzudenken. Umso wichtiger ist eine professionelle Absicherung der Haftungskette. Als unabhängiger Versicherungsmakler prüfe ich Ihre Betriebshaftpflicht auf Subunternehmerklauseln und helfe Ihnen, die richtigen Versicherungsnachweise von Ihren Subunternehmern einzufordern.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
@@ -208,3 +198,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 278 BGB — Verantwortlichkeit für Dritte (Erfüllungsgehilfe)](https://www.gesetze-im-internet.de/bgb/__278.html)
 - [§ 831 BGB — Haftung für den Verrichtungsgehilfen](https://www.gesetze-im-internet.de/bgb/__831.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

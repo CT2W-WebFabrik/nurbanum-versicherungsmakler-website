@@ -184,16 +184,6 @@ Nutzen Sie diese Checkliste am Jahresende, um sicherzustellen, dass Sie alle ste
 
 Die steuerliche Behandlung von Versicherungen ist ein Teilaspekt — der wichtigere ist der richtige Versicherungsschutz. Als unabhängiger Versicherungsmakler sorge ich dafür, dass Ihre Betriebsversicherungen zum Risiko passen. Die steuerliche Einordnung besprechen Sie mit Ihrem Steuerberater.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Versicherungen steuerlich absetzen (privat)](/ratgeber/versicherungen-steuerlich-absetzen/)
@@ -207,3 +197,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 4 Abs. 4 EStG — Betriebsausgaben](https://www.gesetze-im-internet.de/estg/__4.html)
 - [§ 4d EStG — Zuwendungen an Unterstützungskassen](https://www.gesetze-im-internet.de/estg/__4d.html)
 - [§ 1 VersStG — Gegenstand der Versicherungsteuer](https://www.gesetze-im-internet.de/versstg/__1.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

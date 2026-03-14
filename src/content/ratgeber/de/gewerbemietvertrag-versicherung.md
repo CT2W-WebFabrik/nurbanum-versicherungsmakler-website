@@ -160,16 +160,6 @@ Grundsätzlich haftet der Verursacher. Beschädigt ein Kunde Ihre Einrichtung, k
 
 Bevor Sie einen Gewerbemietvertrag unterschreiben, sollten die Versicherungsklauseln von einem Fachmann geprüft werden. Als unabhängiger Versicherungsmakler analysiere ich die mietvertraglichen Anforderungen und sorge dafür, dass Ihr Versicherungsschutz die vertraglichen Pflichten erfüllt — ohne Lücken und ohne unnötige Kosten.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
@@ -182,3 +172,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 536a BGB — Schadensersatzansprüche des Mieters](https://www.gesetze-im-internet.de/bgb/__536a.html)
 - [§ 538 BGB — Abnutzung der Mietsache durch vertragsgemäßen Gebrauch](https://www.gesetze-im-internet.de/bgb/__538.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

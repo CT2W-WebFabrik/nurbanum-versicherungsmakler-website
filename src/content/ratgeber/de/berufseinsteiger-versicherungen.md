@@ -164,6 +164,12 @@ Die Entscheidungen, die Sie am Berufsanfang treffen, wirken sich über Jahrzehnt
 
 Als unabhängiger Makler berate ich Sie ohne Verkaufsdruck und finde die Tarife, die wirklich zu Ihrer Situation passen — nicht die, die die höchste Provision zahlen.
 
+### Weiterlesen
+
+- [Versicherungen nach der Hochzeit — was ändert sich?](/ratgeber/versicherungen-nach-der-hochzeit/)
+- [Welche Versicherungen brauche ich wirklich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Berufsunfähigkeitsversicherung](/versicherungen/berufsunfaehigkeit/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -173,9 +179,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherungen nach der Hochzeit — was ändert sich?](/ratgeber/versicherungen-nach-der-hochzeit/)
-- [Welche Versicherungen brauche ich wirklich?](/ratgeber/welche-versicherungen-brauche-ich/)
-- [Berufsunfähigkeitsversicherung](/versicherungen/berufsunfaehigkeit/)

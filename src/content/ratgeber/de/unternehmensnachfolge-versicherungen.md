@@ -131,6 +131,12 @@ Bei einem Share Deal laufen betriebliche Altersversorgung und betriebliche Krank
 
 Die Unternehmensnachfolge ist ein komplexer Prozess — auch versicherungstechnisch. Als unabhängiger Makler begleite ich beide Seiten durch den Übergang und stelle sicher, dass keine Lücken entstehen. Ich prüfe die Bestandsverträge, identifiziere Change-of-Control-Klauseln und sorge für einen nahtlosen Versicherungsübergang.
 
+### Weiterlesen
+
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [Gewerbeversicherungen regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
+- [D&O-Versicherung](/versicherungen/dno-versicherung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -140,9 +146,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
-- [Gewerbeversicherungen regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
-- [D&O-Versicherung](/versicherungen/dno-versicherung/)

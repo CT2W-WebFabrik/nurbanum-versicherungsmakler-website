@@ -180,16 +180,6 @@ Grundsätzlich ja. Bei Freiberuflern (Ärzte, Anwälte, Architekten, Steuerberat
 
 Welche Versicherungen für Ihr konkretes Gewerbe gesetzlich vorgeschrieben sind, hängt von Branche, Rechtsform und Tätigkeitsprofil ab. Als unabhängiger Versicherungsmakler prüfe ich, ob Sie alle Pflichten erfüllen — und ob Ihre Deckungssummen auch wirtschaftlich ausreichen.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
@@ -204,3 +194,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 67 StBerG — Berufshaftpflichtversicherung für Steuerberater](https://www.gesetze-im-internet.de/stberg/__67.html)
 - [§ 34d GewO — Versicherungsvermittler und Versicherungsberater](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [Anlage zu § 4 Abs. 2 PflVG — Mindestversicherungssummen Kfz](https://www.gesetze-im-internet.de/pflvg/anlage.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

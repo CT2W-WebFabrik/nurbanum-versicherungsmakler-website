@@ -160,16 +160,6 @@ Bei der Erweiterung um einen Lieferservice entstehen neue Risiken, die in Ihrer 
 
 Jeder Gastronomiebetrieb hat sein eigenes Risikoprofil — ein Imbiss braucht eine andere Absicherung als ein Sterne-Restaurant. Als unabhängiger Versicherungsmakler analysiere ich Ihren Betrieb, identifiziere die relevanten Risiken und finde Tarife, die zu Ihrer Branche und Ihrem Budget passen.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
@@ -182,3 +172,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 823 BGB — Schadensersatzpflicht](https://www.gesetze-im-internet.de/bgb/__823.html)
 - [Art. 14 Verordnung (EG) 178/2002 — Lebensmittelsicherheitsanforderungen](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002R0178)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

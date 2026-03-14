@@ -185,6 +185,12 @@ Die Betriebshaftpflicht zahlt nicht bei Vorsatz, bei Schäden an eigenen Sachen 
 
 Ohne Betriebshaftpflicht setzen Sie alles aufs Spiel, was Sie aufgebaut haben. Ein einziger Personenschaden auf Ihrem Betriebsgelände oder beim Kunden kann sechsstellige Kosten verursachen. Als unabhängiger Versicherungsmakler vergleiche ich für Sie die Tarife der führenden Gewerbeversicherer und finde den Schutz, der zu Ihrer Branche und Ihrem Risikoprofil passt — ohne Lücken, ohne überflüssige Bausteine.
 
+### Weiterlesen
+
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Produkthaftung: Wann haften Hersteller?](/ratgeber/produkthaftung-hersteller/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -194,9 +200,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
-- [Produkthaftung: Wann haften Hersteller?](/ratgeber/produkthaftung-hersteller/)
-- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)

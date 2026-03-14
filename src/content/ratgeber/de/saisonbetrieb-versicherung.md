@@ -172,16 +172,6 @@ Versicherungsprämien für Ihren Gewerbebetrieb sind vollständig als Betriebsau
 
 Saisonale Geschäftsmodelle brauchen maßgeschneiderte Versicherungslösungen. Als unabhängiger Versicherungsmakler kenne ich die Versicherer, die saisonale Tarife anbieten, und finde die wirtschaftlichste Lösung für Ihren Betrieb.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gastronomie-Versicherungen: Leitfaden](/ratgeber/gastronomie-versicherungen-leitfaden/)
@@ -194,3 +184,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 23 VVG — Gefahrerhöhung](https://www.gesetze-im-internet.de/vvg_2008/__23.html)
 - [§ 9 FZV — Saisonkennzeichen](https://www.gesetze-im-internet.de/fzv_2023/__9.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

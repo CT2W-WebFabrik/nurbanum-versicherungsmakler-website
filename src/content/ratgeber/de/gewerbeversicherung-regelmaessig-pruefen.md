@@ -151,16 +151,6 @@ Erfahrungsgemäß besteht der größte Handlungsbedarf bei der Betriebshaftpflic
 
 Als unabhängiger Versicherungsmakler übernehme ich den kompletten Jahres-Check für Sie: Ich analysiere alle bestehenden Verträge, gleiche sie mit Ihrem aktuellen Risikoprofil ab und identifiziere Optimierungspotenzial — sowohl bei der Deckung als auch beim Beitrag.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen verwalten](/ratgeber/gewerbeversicherung-vertragsmanagement/)
@@ -173,3 +163,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 23 VVG — Gefahrerhöhung](https://www.gesetze-im-internet.de/vvg_2008/__23.html)
 - [§ 75 VVG — Unterversicherung](https://www.gesetze-im-internet.de/vvg_2008/__75.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

@@ -158,6 +158,12 @@ Ja, das ist unter bestimmten Umständen möglich. Wenn Sie als **Bezugsberechtig
 
 Im Trauerfall gibt es genug zu bewältigen. Als unabhängiger Makler unterstütze ich Angehörige dabei, die Versicherungsangelegenheiten der verstorbenen Person zu klären und zu regeln — strukturiert und mit Feingefühl.
 
+### Weiterlesen
+
+- [Todesfall: Was Angehörige bei Versicherungen tun müssen](/ratgeber/versicherungen-im-todesfall/)
+- [Versicherung kündigt: Was tun?](/ratgeber/versicherung-kuendigt-was-tun/)
+- [Risikolebensversicherung](/versicherungen/risikoleben/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -167,9 +173,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Todesfall: Was Angehörige bei Versicherungen tun müssen](/ratgeber/versicherungen-im-todesfall/)
-- [Versicherung kündigt: Was tun?](/ratgeber/versicherung-kuendigt-was-tun/)
-- [Risikolebensversicherung](/versicherungen/risikoleben/)

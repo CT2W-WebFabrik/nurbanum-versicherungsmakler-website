@@ -182,16 +182,6 @@ Achten Sie auf: Eintragung im IHK-Vermittlerregister als Makler (nicht als Vertr
 
 Dieser Vergleich kommt von einem Versicherungsmakler — das ist Ihnen sicher aufgefallen. Ich bin überzeugt, dass der Maklerweg für Gewerbekunden der bessere ist. Aber ich empfehle Ihnen: Vergleichen Sie selbst. Holen Sie ein Angebot beim Vertreter, beim Online-Portal und bei einem Makler ein — und entscheiden Sie nach Beratungsqualität, nicht nach Preis.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
@@ -204,3 +194,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 59 VVG — Begriffsbestimmungen Versicherungsvermittler](https://www.gesetze-im-internet.de/vvg_2008/__59.html)
 - [§ 84 HGB — Handelsvertreter](https://www.gesetze-im-internet.de/hgb/__84.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

@@ -226,6 +226,12 @@ Ja. Die Beiträge zur BU-Versicherung sind als Betriebsausgabe voll steuerlich a
 
 Jeder Betrieb, der Fixkosten hat — und das sind praktisch alle — braucht eine Betriebsunterbrechungsversicherung. Die Frage ist nicht, ob ein Schaden passiert, sondern ob Sie ihn finanziell überleben. Als unabhängiger Makler kalkuliere ich Ihren individuellen Absicherungsbedarf und finde den Tarif, der zu Ihrem Betrieb passt.
 
+### Weiterlesen
+
+- [Gewerbe-Schadenfall richtig melden](/ratgeber/gewerbe-schadenfall-richtig-melden/)
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Betriebsunterbrechungsversicherung](/versicherungen/betriebsunterbrechung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -235,9 +241,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Gewerbe-Schadenfall richtig melden](/ratgeber/gewerbe-schadenfall-richtig-melden/)
-- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
-- [Betriebsunterbrechungsversicherung](/versicherungen/betriebsunterbrechung/)

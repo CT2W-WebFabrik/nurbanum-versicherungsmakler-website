@@ -150,16 +150,6 @@ Die Betriebshaftpflichtversicherung. Sie schützt vor den größten finanziellen
 
 Bevor Sie einen Franchise-Vertrag unterschreiben, sollten Sie die Versicherungsklauseln von einem unabhängigen Makler prüfen lassen. Als unabhängiger Versicherungsmakler analysiere ich die vertraglichen Anforderungen, vergleiche sie mit dem Markt und finde Lösungen, die sowohl den Vorgaben des Franchisegebers als auch Ihrem individuellen Schutzbedarf entsprechen.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
@@ -172,3 +162,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 34d GewO — Versicherungsvermittler und Versicherungsberater](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [§ 1 PflVG — Pflichtversicherung für Kraftfahrzeughalter](https://www.gesetze-im-internet.de/pflvg/__1.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

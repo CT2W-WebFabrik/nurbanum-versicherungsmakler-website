@@ -173,16 +173,6 @@ Ein Gewerbe-Bündelvertrag wird ab etwa drei bis fünf einzelnen Gewerbepolicen 
 
 Als unabhängiger Versicherungsmakler biete ich Selbständigen in der Metropolregion Nürnberg einen kostenlosen jährlichen Vertragscheck: Deckungssummen prüfen, Verträge vergleichen, neue Risiken absichern und Beiträge optimieren. Damit Ihr Versicherungsschutz mit Ihrem Geschäft wächst.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Versicherungen für Existenzgründer: Was vor Tag 1 stehen muss](/ratgeber/existenzgruender-versicherungen/)
@@ -195,3 +185,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [§ 10 Abs. 3 EStG — Sonderausgabenabzug bis zum Höchstbeitrag der knappschaftlichen Rentenversicherung](https://www.gesetze-im-internet.de/estg/__10.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

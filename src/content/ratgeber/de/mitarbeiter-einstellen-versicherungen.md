@@ -160,16 +160,6 @@ Die wichtigsten Fristen: Anmeldung bei der Berufsgenossenschaft innerhalb einer 
 
 Die Pflichten als Arbeitgeber sind komplex und branchenabhängig. Als unabhängiger Makler helfe ich Ihnen, die Pflichtversicherungen korrekt umzusetzen und die richtigen freiwilligen Benefits auszuwählen — passend zu Ihrer Branche, Betriebsgröße und Ihren Zielen bei der Mitarbeitergewinnung.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [bAV: Was Arbeitgeber wissen müssen](/ratgeber/bav-fuer-arbeitgeber/)
@@ -182,3 +172,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — Beitragssätze RV 18,6 %, AV 2,6 %, KV 14,6 %, PV 3,6 %](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [Deutsche Rentenversicherung KBS: Rechengrößen 2026](https://www.deutsche-rentenversicherung.de/KnappschaftBahnSee/DE/Aktuelles/Meldungen/2026/2026_01_02_Sozialversicherungsrechengroessen2026.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

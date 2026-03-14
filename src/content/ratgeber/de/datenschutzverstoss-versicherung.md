@@ -245,16 +245,6 @@ Sobald Sie als Geschäftsführer einer GmbH oder als Vorstand einer AG tätig si
 
 Die Frage „Welche Versicherung zahlt bei einem Datenschutzverstoß?" sollten Sie vor dem Vorfall klären — nicht danach. Als unabhängiger Versicherungsmakler analysiere ich Ihre bestehenden Policen auf DSGVO-Tauglichkeit und schließe Deckungslücken.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Cyber-Angriff: So reagieren Sie richtig](/ratgeber/cyber-angriff-richtig-reagieren/)
@@ -268,3 +258,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [Art. 33 DSGVO — Meldung von Verletzungen an die Aufsichtsbehörde](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3490-1-1)
 - [Art. 82 DSGVO — Haftung und Recht auf Schadenersatz](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e5979-1-1)
 - [Art. 83 DSGVO — Allgemeine Bedingungen für die Verhängung von Geldbußen](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e6026-1-1)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

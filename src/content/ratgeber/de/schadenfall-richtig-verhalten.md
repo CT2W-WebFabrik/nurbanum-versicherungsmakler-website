@@ -199,6 +199,12 @@ Ablehnen kann er den Schaden deshalb nicht, aber die Regulierung verzögert sich
 
 Als unabhängiger Versicherungsmakler stehe ich Ihnen im Schadenfall zur Seite. Ich unterstütze Sie bei der korrekten Schadenmeldung, kommuniziere mit dem Versicherer und setze mich für eine faire Regulierung ein. Anders als ein Versicherungsvertreter vertrete ich dabei Ihre Interessen — nicht die des Versicherers.
 
+### Weiterlesen
+
+- [Gutachter und Schadenregulierung: Ihre Rechte](/ratgeber/gutachter-schadenregulierung/)
+- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
+- [Versicherung kündigt nach Schaden: Was tun?](/ratgeber/versicherung-kuendigt-was-tun/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -208,9 +214,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Gutachter und Schadenregulierung: Ihre Rechte](/ratgeber/gutachter-schadenregulierung/)
-- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
-- [Versicherung kündigt nach Schaden: Was tun?](/ratgeber/versicherung-kuendigt-was-tun/)

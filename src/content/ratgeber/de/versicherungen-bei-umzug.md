@@ -168,6 +168,12 @@ Eine Umzugsversicherung kostet je nach Versicherungssumme und Transportentfernun
 
 Ein Umzug ist der perfekte Zeitpunkt für einen Versicherungscheck. Als unabhängiger Makler gehe ich Ihre Verträge durch und sorge dafür, dass alles passt — kostenlos und unverbindlich.
 
+### Weiterlesen
+
+- [Immobilie kaufen: Welche Versicherungen?](/ratgeber/immobilienkauf-versicherungen/)
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Hausratversicherung](/versicherungen/hausrat/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -177,9 +183,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Immobilie kaufen: Welche Versicherungen?](/ratgeber/immobilienkauf-versicherungen/)
-- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
-- [Hausratversicherung](/versicherungen/hausrat/)

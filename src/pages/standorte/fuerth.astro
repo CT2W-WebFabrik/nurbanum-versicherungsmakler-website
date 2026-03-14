@@ -1,0 +1,80 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+---
+
+<BaseLayout
+  title="Versicherungsmakler Fürth — Nurbanum Versicherungsmakler"
+  description="Ihr unabhängiger Versicherungsmakler für Fürth: Privat- und Gewerbeversicherung, bAV und Altersvorsorge. Persönliche Beratung direkt aus dem Nachbarort Zirndorf."
+>
+
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Einzugsgebiet Fürth</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Versicherungsmakler für Fürth</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.1s;">Unabhängige Versicherungsberatung aus dem Nachbarort Zirndorf — persönlich vor Ort in Fürth oder bequem per Video.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Standorte', href: '/standorte/' }]} current="Fürth" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Versicherungsmakler für Fürth — direkt aus der Nachbarschaft</h2>
+        <p>Zirndorf und Fürth sind unmittelbare Nachbarn: Die Stadtgrenzen berühren sich, und wer von meinem Büro in der Hans-Sachs-Straße über die Rothenburger Straße nach Fürth fährt, ist in weniger als zehn Minuten an der Fürther Freiheit. Diese Nähe ist kein Zufall, sondern der Grund, warum viele meiner Kunden aus Fürth kommen — sie schätzen die kurzen Wege und die persönliche Beratung.</p>
+        <p>Als unabhängiger Versicherungsmakler bin ich keiner Gesellschaft verpflichtet. Ich stehe auf Ihrer Seite, vergleiche den gesamten Versicherungsmarkt und empfehle nur das, was Sie wirklich brauchen. Ob Sie in der Fürther Südstadt wohnen, ein Geschäft nahe der Gustavstraße betreiben oder in Stadeln Ihren Handwerksbetrieb führen — ich bin schnell bei Ihnen.</p>
+
+        <h2>Fürths Wirtschaft braucht maßgeschneiderten Schutz</h2>
+        <p>Fürth ist eine Stadt des Mittelstands. Rund 130.000 Einwohner, eine gesunde Mischung aus Handwerk, Dienstleistung, Einzelhandel und einer wachsenden Gründerszene rund um den Technikpark und das Uferstadt-Areal. Gleichzeitig ist Fürth eine Wohnstadt mit hoher Lebensqualität — viele Familien pendeln nach <a href={url('/standorte/nuernberg/')}>Nürnberg</a> und schätzen die günstigere Wohnlage.</p>
+        <p>Für Fürther Betriebe bedeutet das: Der Versicherungsbedarf ist so vielfältig wie die Wirtschaftsstruktur. Der Schreiner in Unterfarrnbach braucht eine andere <a href={url('/versicherungen/betriebshaftpflicht/')}>Betriebshaftpflicht</a> als der IT-Berater in der Südstadt. Ein Online-Händler in Poppenreuth hat andere Cyber-Risiken als ein Gastronom in der Altstadt.</p>
+
+        <h2>Beratungsschwerpunkte für Fürther Kunden</h2>
+
+        <h3>Gewerbeschutz für den Mittelstand</h3>
+        <p>Die Betriebshaftpflicht ist die Grundlage jeder gewerblichen Absicherung. Darauf aufbauend prüfe ich, welche Ergänzungen für Ihren Betrieb sinnvoll sind: <a href={url('/versicherungen/inhaltsversicherung/')}>Inhaltsversicherung</a> für Ihre Geschäftsausstattung, <a href={url('/versicherungen/betriebsunterbrechung/')}>Betriebsunterbrechungsversicherung</a> für den Fall eines Stillstands, <a href={url('/versicherungen/firmen-rechtsschutz/')}>Gewerbe-Rechtsschutz</a> bei Streitigkeiten und <a href={url('/versicherungen/cyber/')}>Cyber-Versicherung</a> gegen digitale Bedrohungen.</p>
+
+        <h3>Betriebliche Altersversorgung als Wettbewerbsvorteil</h3>
+        <p>Der Fachkräftemangel macht auch vor Fürth nicht halt. Eine gut strukturierte <a href={url('/spezialisierungen/betriebliche-altersversorgung/')}>betriebliche Altersversorgung</a> ist längst kein reines Großunternehmer-Thema mehr: Auch für Betriebe mit fünf oder zehn Mitarbeitern lassen sich bAV-Modelle gestalten, die steuerlich attraktiv sind und Ihre Arbeitgebermarke stärken.</p>
+
+        <h3>Privatversicherung und Vorsorge</h3>
+        <p>Für Fürther Privathaushalte analysiere ich den bestehenden Versicherungsschutz systematisch: <a href={url('/versicherungen/haftpflicht/')}>Haftpflicht</a>, <a href={url('/versicherungen/hausrat/')}>Hausrat</a>, <a href={url('/versicherungen/wohngebaeude/')}>Wohngebäude</a>, <a href={url('/versicherungen/kfz/')}>Kfz</a>, Krankenzusatz und <a href={url('/versicherungen/berufsunfaehigkeit/')}>Berufsunfähigkeit</a>. Zusätzlich berate ich zur <a href={url('/spezialisierungen/altersvorsorge/')}>privaten Altersvorsorge</a> — besonders wichtig für junge Familien, die gerade eine Immobilie finanzieren.</p>
+
+        <h2>Persönliche Beratung ohne Umwege</h2>
+        <p>Ob wir uns in meinem Büro in <a href={url('/standorte/zirndorf/')}>Zirndorf</a> treffen, ob ich zu Ihnen nach Fürth komme oder ob wir einen Videotermin vereinbaren — Sie entscheiden. Das Erstgespräch ist selbstverständlich kostenlos.</p>
+        <p>Fürth und Zirndorf gehören zum selben Lebensraum. Viele meiner Kunden kennen beide Städte gleichermaßen. Genau in dieser Nachbarschaft liegt mein Vorteil: Ich kenne die Lebenswirklichkeit vor Ort und bin nicht erst nach einer Stunde Anfahrt bei Ihnen, wenn es darauf ankommt.</p>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Beratung für Fürth vereinbaren</h3>
+        <p class="text-slate-300 mb-6">Bei Ihnen in Fürth, in meinem Büro in Zirndorf oder per Video — kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "InsuranceAgency",
+    "@id": "https://nurbanum.de/#organization",
+    "name": "Nurbanum Versicherungsmakler",
+    "telephone": "+4917384444426",
+    "email": "thorsten.schreier@nurbanum.de",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hans-Sachs-Straße 2",
+      "addressLocality": "Zirndorf",
+      "postalCode": "90513",
+      "addressRegion": "Bayern",
+      "addressCountry": "DE"
+    },
+    "geo": { "@type": "GeoCoordinates", "latitude": 49.4403, "longitude": 10.9553 },
+    "areaServed": { "@type": "City", "name": "Fürth" },
+    "url": "https://nurbanum.de"
+  })} />
+
+</BaseLayout>

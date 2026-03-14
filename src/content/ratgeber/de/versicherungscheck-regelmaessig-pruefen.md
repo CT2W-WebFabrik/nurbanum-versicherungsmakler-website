@@ -155,6 +155,12 @@ Verträge, die Sie **regelmäßig wechseln** sollten:
 
 Einen professionellen Versicherungscheck gibt es bei mir kostenlos und unverbindlich. Als unabhängiger Makler bin ich an keinen Anbieter gebunden und kann Ihnen objektiv sagen, wo Handlungsbedarf besteht — und wo nicht.
 
+### Weiterlesen
+
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Versicherungen und Inflation](/ratgeber/versicherungen-inflation-summen-anpassen/)
+- [Versicherung wechseln](/ratgeber/versicherung-wechseln/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -164,9 +170,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
-- [Versicherungen und Inflation](/ratgeber/versicherungen-inflation-summen-anpassen/)
-- [Versicherung wechseln](/ratgeber/versicherung-wechseln/)

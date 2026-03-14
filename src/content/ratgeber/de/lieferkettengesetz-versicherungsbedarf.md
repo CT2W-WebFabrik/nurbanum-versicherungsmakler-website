@@ -164,16 +164,6 @@ Ja, auch Dienstleistungsunternehmen haben Lieferketten — etwa bei der Beauftra
 
 LkSG und CSRD sind keine reinen Rechtsthemen — sie verändern das Risikoprofil Ihres Unternehmens. Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre bestehenden Policen die neuen Compliance-Risiken abdecken, und finde Lösungen für offene Lücken.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [ESG und Nachhaltigkeit: Neue Versicherungsrisiken](/ratgeber/esg-nachhaltigkeit-versicherungsbedarf/)
@@ -186,3 +176,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [LkSG — Lieferkettensorgfaltspflichtengesetz](https://www.gesetze-im-internet.de/lksg/)
 - [Richtlinie 2022/2464/EU — CSRD](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L2464)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

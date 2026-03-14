@@ -240,16 +240,6 @@ Nicht automatisch. Eine Gefahrerhöhung liegt vor, wenn sich die tatsächlichen 
 
 Jeder Wachstumsschritt verändert Ihr Risikoprofil. Als unabhängiger Versicherungsmakler begleite ich Ihre Unternehmensentwicklung und sorge dafür, dass Ihre Versicherungen mitwachsen — rechtzeitig, nicht erst nach dem Schadenfall.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
@@ -262,3 +252,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 23 VVG — Gefahrerhöhung](https://www.gesetze-im-internet.de/vvg_2008/__23.html)
 - [§ 43 GmbHG — Haftung der Geschäftsführer](https://www.gesetze-im-internet.de/gmbhg/__43.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

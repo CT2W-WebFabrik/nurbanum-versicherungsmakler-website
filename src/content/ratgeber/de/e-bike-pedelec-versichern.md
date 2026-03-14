@@ -135,6 +135,12 @@ Bei Dienstrad-Leasing (z. B. über JobRad oder BusinessBike) ist in der Regel ei
 
 Als unabhängiger Makler vergleiche ich die E-Bike-Tarife und finde den Schutz, der zu Ihrem Rad passt — ob Alltagspendler oder Mountainbike-Enthusiast.
 
+### Weiterlesen
+
+- [Haustiere versichern](/ratgeber/haustiere-versichern/)
+- [Privathaftpflichtversicherung](/versicherungen/haftpflicht/)
+- [Unfallversicherung](/versicherungen/unfallversicherung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -144,9 +150,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Haustiere versichern](/ratgeber/haustiere-versichern/)
-- [Privathaftpflichtversicherung](/versicherungen/haftpflicht/)
-- [Unfallversicherung](/versicherungen/unfallversicherung/)

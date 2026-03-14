@@ -162,16 +162,6 @@ Bei Arbeitsunfällen — und eine Verletzung auf einer anerkannten Betriebsfeier
 
 Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre Betriebshaftpflicht auch Firmenveranstaltungen abdeckt, und organisiere bei Bedarf eine Veranstaltungshaftpflicht für Ihr nächstes Event.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Mitarbeiter einstellen: Versicherungspflichten](/ratgeber/mitarbeiter-einstellen-versicherungen/)
@@ -184,3 +174,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 8 Abs. 1 SGB VII — Arbeitsunfall](https://www.gesetze-im-internet.de/sgb_7/__8.html)
 - [§ 823 BGB — Schadensersatzpflicht](https://www.gesetze-im-internet.de/bgb/__823.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

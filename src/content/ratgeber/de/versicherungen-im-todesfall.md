@@ -171,16 +171,6 @@ Ohne Makler müssen die Erben jeden Versicherer einzeln kontaktieren. Das setzt 
 
 In den Wochen nach einem Todesfall kommen viele Aufgaben zusammen. Die Versicherungsangelegenheiten lassen sich delegieren. Als unabhängiger Versicherungsmakler übernehme ich die systematische Erfassung aller Verträge, die Kommunikation mit den Versicherern, die Einhaltung der Fristen und die Neuordnung des Versicherungsschutzes für die Hinterbliebenen.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Versicherungen im Erbfall](/ratgeber/versicherungen-im-erbfall/)
@@ -194,3 +184,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 95 VVG — Veräußerung der versicherten Sache — Versicherung geht bei Eigentümerwechsel auf den Erwerber über](https://www.gesetze-im-internet.de/vvg_2008/__95.html)
 - [§ 16 ErbStG — Freibeträge — Ehegatten 500.000 Euro, Kinder 400.000 Euro](https://www.gesetze-im-internet.de/erbstg_1974/__16.html)
 - [§ 3 Abs. 1 Nr. 4 ErbStG — Lebensversicherung als Erwerb von Todes wegen — Erbschaftsteuerpflicht bei Versicherungsleistungen](https://www.gesetze-im-internet.de/erbstg_1974/__3.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

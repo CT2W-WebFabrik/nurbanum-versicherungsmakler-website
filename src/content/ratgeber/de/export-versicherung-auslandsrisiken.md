@@ -192,16 +192,6 @@ In vielen Fällen ja, aber es kommt auf die Details an. Die meisten Versicherer 
 
 Exportgeschäfte brauchen maßgeschneiderte Versicherungslösungen. Als unabhängiger Versicherungsmakler analysiere ich Ihre Exportmärkte und Lieferbedingungen und finde die passenden Deckungen — von der Hermesdeckung bis zur USA-Produkthaftpflicht.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Warenkreditversicherung: Forderungsausfälle absichern](/ratgeber/warenkreditversicherung-ratgeber/)
@@ -214,3 +204,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [AGA-Report — Exportkreditgarantien der Bundesrepublik Deutschland](https://www.agaportal.de/exportkreditgarantien)
 - [§ 4 ProdHaftG — Haftung bei grenzüberschreitendem Produktvertrieb](https://www.gesetze-im-internet.de/prodhaftg/__4.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

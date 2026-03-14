@@ -170,16 +170,6 @@ Wenn Sie unsicher sind, wo Sie anfangen sollen: Laden Sie alle Ihre Versicherung
 
 Ein unabhängiger Versicherungsmakler übernimmt das Vertragsmanagement für Sie: Er führt das Versicherungsregister, überwacht Fristen, identifiziert Lücken und Doppelversicherungen und koordiniert die Kommunikation mit den Versicherern. Als Ihr Interessenvertreter handelt er in Ihrem Auftrag — nicht im Auftrag der Versicherer.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbeversicherungen regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
@@ -193,3 +183,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 11 VVG — Vertragsdauer](https://www.gesetze-im-internet.de/vvg_2008/__11.html)
 - [§ 78 VVG — Mehrfache Versicherung](https://www.gesetze-im-internet.de/vvg_2008/__78.html)
 - [§ 92 VVG — Kündigung nach Versicherungsfall](https://www.gesetze-im-internet.de/vvg_2008/__92.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

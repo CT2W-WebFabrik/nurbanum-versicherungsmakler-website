@@ -165,6 +165,12 @@ Ja, sämtliche Gewerbeversicherungen sind als Betriebsausgaben voll steuerlich a
 
 Jeder Betrieb hat ein eigenes Risikoprofil. Ein IT-Berater braucht andere Absicherungen als ein Schreiner oder ein Gastronom. Als unabhängiger Makler analysiere ich Ihre branchenspezifischen Risiken, prüfe bestehende Verträge auf Lücken und Doppelversicherungen und erstelle ein maßgeschneidertes Absicherungskonzept.
 
+### Weiterlesen
+
+- [Versicherungen für Existenzgründer](/ratgeber/existenzgruender-versicherungen/)
+- [Selbständig werden: Versicherungen](/ratgeber/selbstaendige-versicherungen/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -174,9 +180,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherungen für Existenzgründer](/ratgeber/existenzgruender-versicherungen/)
-- [Selbständig werden: Versicherungen](/ratgeber/selbstaendige-versicherungen/)
-- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)

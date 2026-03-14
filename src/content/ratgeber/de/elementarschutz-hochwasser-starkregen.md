@@ -180,16 +180,6 @@ Die ZÜRS-Daten werden vom Gesamtverband der Deutschen Versicherungswirtschaft (
 
 Elementarschäden treffen nicht nur Häuser an Flüssen. Starkregen kann jedes Gebäude in Deutschland erreichen. Als unabhängiger Versicherungsmakler prüfe ich Ihren bestehenden Schutz, ermittle die ZÜRS-Zone Ihres Gebäudes und finde den passenden Elementartarif — auch wenn Ihr bisheriger Versicherer keinen anbietet.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Klimarisiken im Gewerbe: Elementarversicherung](/ratgeber/klimarisiken-gewerbe-elementarversicherung/)
@@ -201,3 +191,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 ### Quellen
 
 - [GDV: Naturgefahrenreport — welche Versicherungen bei Naturgefahren zahlen, erweiterter Elementarschutz](https://www.gdv.de/gdv/themen/klima/so-sind-schaeden-durch-naturgefahren-versichert-11000)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

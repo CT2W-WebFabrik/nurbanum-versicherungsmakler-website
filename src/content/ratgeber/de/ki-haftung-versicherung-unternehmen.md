@@ -166,16 +166,6 @@ Die Umsetzung erfolgt stufenweise: Seit Februar 2025 gelten die Verbote für ina
 
 Der KI-Einsatz im Unternehmen ist längst keine Zukunftsmusik mehr — aber die Versicherungsbranche hinkt der Entwicklung noch hinterher. Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre bestehenden Policen KI-Risiken abdecken, und finde Lösungen für offene Lücken.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
@@ -189,3 +179,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [Verordnung (EU) 2024/1689 — EU AI Act](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689)
 - [Art. 22 DSGVO — Automatisierte Entscheidungen im Einzelfall](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e2838-1-1)
 - [§ 823 BGB — Schadensersatzpflicht](https://www.gesetze-im-internet.de/bgb/__823.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

@@ -132,6 +132,12 @@ Ja. Als Händler haften Sie gegenüber dem Endkunden für die Sicherheit der Pro
 
 E-Commerce wächst schnell — und die Risiken wachsen mit. Als unabhängiger Makler kenne ich die speziellen Anforderungen des Onlinehandels und finde den passenden Schutz für Ihr Geschäft — ob Ein-Personen-Etsy-Shop oder wachsender Amazon-Händler.
 
+### Weiterlesen
+
+- [Cyber-Angriff: So reagieren Sie richtig](/ratgeber/cyber-angriff-richtig-reagieren/)
+- [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
+- [Cyber-Versicherung](/versicherungen/cyber/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -141,9 +147,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Cyber-Angriff: So reagieren Sie richtig](/ratgeber/cyber-angriff-richtig-reagieren/)
-- [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
-- [Cyber-Versicherung](/versicherungen/cyber/)

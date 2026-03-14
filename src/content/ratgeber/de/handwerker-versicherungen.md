@@ -168,6 +168,12 @@ Grundsätzlich haftet der Subunternehmer für seine eigenen Fehler. Allerdings k
 
 Jeder Handwerksbetrieb ist anders — der Elektroinstallateur hat andere Risiken als der Zimmerer oder der Kfz-Mechatroniker. Als unabhängiger Versicherungsmakler analysiere ich Ihre betrieblichen Risiken und stelle ein Versicherungspaket zusammen, das passt — ohne Lücken und ohne überflüssige Bausteine.
 
+### Weiterlesen
+
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -177,9 +183,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
-- [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
-- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)

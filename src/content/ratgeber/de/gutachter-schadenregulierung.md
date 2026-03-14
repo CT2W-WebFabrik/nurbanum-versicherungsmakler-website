@@ -180,6 +180,12 @@ Wenn der Versicherer Ihr Gutachten ablehnt, haben Sie mehrere Optionen: Sie kön
 
 Als Ihr Versicherungsmakler stehe ich bei der Schadenregulierung auf Ihrer Seite — nicht auf der Seite des Versicherers. Ich prüfe Regulierungsangebote, interveniere bei zu niedrigen Angeboten und kenne die Verhandlungsspielräume der einzelnen Versicherer.
 
+### Weiterlesen
+
+- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
+- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
+- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -189,9 +195,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
-- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
-- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)

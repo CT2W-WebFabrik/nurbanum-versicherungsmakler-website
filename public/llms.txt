@@ -51,15 +51,13 @@ Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unab
 ### Ratgeber (80 Artikel)
 
 - [Welche Versicherungen brauche ich?](https://nurbanum.de/ratgeber/welche-versicherungen-brauche-ich/)
-- [Altersvorsorge ab 30](https://nurbanum.de/ratgeber/altersvorsorge-ab-30/)
 - [Altersvorsorge ab 40](https://nurbanum.de/ratgeber/altersvorsorge-ab-40/)
-- [Altersvorsorge ab 50](https://nurbanum.de/ratgeber/altersvorsorge-ab-50/)
-- [Berufsunfähigkeit — worauf achten?](https://nurbanum.de/ratgeber/berufsunfaehigkeit-worauf-achten/)
-- [Versicherungen für Familien](https://nurbanum.de/ratgeber/versicherungen-fuer-familien/)
+- [Versicherungen für Familien](https://nurbanum.de/ratgeber/familien-versicherungen/)
 - [Versicherungen für Berufseinsteiger](https://nurbanum.de/ratgeber/berufseinsteiger-versicherungen/)
-- [Versicherungen für Selbständige](https://nurbanum.de/ratgeber/versicherungen-fuer-selbstaendige/)
-- [Versicherungen für Existenzgründer](https://nurbanum.de/ratgeber/versicherungen-fuer-existenzgruender/)
-- [Haftpflicht-Ratgeber](https://nurbanum.de/ratgeber/haftpflichtversicherung-ratgeber/)
+- [Versicherungen für Selbständige](https://nurbanum.de/ratgeber/selbstaendige-versicherungen/)
+- [Versicherungen für Existenzgründer](https://nurbanum.de/ratgeber/existenzgruender-versicherungen/)
+- [Senioren: Versicherungen ab 50+](https://nurbanum.de/ratgeber/senioren-versicherungen-50-plus/)
+- [Riester-Rente: Lohnt sich das noch?](https://nurbanum.de/ratgeber/riester-rente-lohnt-sich/)
 - [Alle Ratgeber](https://nurbanum.de/ratgeber/)
 
 ### Spezialisierungen (28 Seiten)
@@ -74,3 +72,17 @@ Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unab
 - [Heilberufe & Praxen](https://nurbanum.de/spezialisierungen/heilberufe-praxen/)
 - [IT, Medien & Kreativwirtschaft](https://nurbanum.de/spezialisierungen/it-medien-kreativwirtschaft/)
 - [Alle Spezialisierungen](https://nurbanum.de/spezialisierungen/)
+
+### Standorte
+
+- [Versicherungsmakler in Zirndorf](https://nurbanum.de/standorte/zirndorf/)
+- [Versicherungsmakler Nürnberg](https://nurbanum.de/standorte/nuernberg/)
+- [Versicherungsmakler Fürth](https://nurbanum.de/standorte/fuerth/)
+- [Alle Standorte](https://nurbanum.de/standorte/)
+
+### Blog
+
+- [Versicherungen 2026: Die wichtigsten Änderungen](https://nurbanum.de/blog/versicherungen-2026-aenderungen/)
+- [Altersvorsorge für Berufseinsteiger: 5 teure Fehler](https://nurbanum.de/blog/altersvorsorge-berufseinsteiger-fehler/)
+- [bAV: Leitfaden für Arbeitgeber](https://nurbanum.de/blog/bav-arbeitgeber-leitfaden/)
+- [Alle Blog-Artikel](https://nurbanum.de/blog/)

@@ -200,16 +200,6 @@ Ein Versichererwechsel während einer laufenden Regulierung ist nicht sinnvoll, 
 
 Als unabhängiger Versicherungsmakler unterstütze ich Sie im Schadenfall von der ersten Meldung bis zur vollständigen Regulierung. Ich kenne die Anforderungen der Versicherer, sorge für eine lückenlose Dokumentation und setze mich für Ihre Ansprüche ein.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
@@ -223,3 +213,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 82 VVG — Abwendung und Minderung des Schadens](https://www.gesetze-im-internet.de/vvg_2008/__82.html)
 - [§ 30 VVG — Anzeigepflicht bei Versicherungsfall](https://www.gesetze-im-internet.de/vvg_2008/__30.html)
 - [§ 28 VVG — Verletzung einer vertraglichen Obliegenheit](https://www.gesetze-im-internet.de/vvg_2008/__28.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

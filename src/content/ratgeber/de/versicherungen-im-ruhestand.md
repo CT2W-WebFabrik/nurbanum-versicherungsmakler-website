@@ -179,6 +179,12 @@ Das hängt von Ihrer Disziplin und Ihrer finanziellen Situation ab. Eine Sterbeg
 
 Der Übergang in den Ruhestand ist der ideale Zeitpunkt, alle Versicherungen auf den Prüfstand zu stellen. Als unabhängiger Versicherungsmakler gehe ich jeden Vertrag mit Ihnen durch, streiche Überflüssiges, passe Tarife an und schließe Lücken — damit Ihr Versicherungsschutz zu Ihrem neuen Lebensabschnitt passt, ohne unnötig Geld zu kosten.
 
+### Weiterlesen
+
+- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
+- [Versicherungen ab 50](/ratgeber/senioren-versicherungen-50-plus/)
+- [Pflegeversicherung](/versicherungen/pflegeversicherung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -188,9 +194,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
-- [Versicherungen ab 50](/ratgeber/senioren-versicherungen-50-plus/)
-- [Pflegeversicherung](/versicherungen/pflegeversicherung/)

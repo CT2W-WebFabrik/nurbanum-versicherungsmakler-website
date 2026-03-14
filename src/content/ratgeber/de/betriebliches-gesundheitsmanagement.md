@@ -130,6 +130,12 @@ Die wichtigsten Rechtsgrundlagen für steuerliche Vorteile im BGM:
 
 BGM ist kein Luxus für Großkonzerne — auch KMU können mit überschaubarem Budget wirkungsvolle Maßnahmen umsetzen. Ich helfe Ihnen, das richtige Paket zusammenzustellen und die steuerlichen Vorteile optimal zu nutzen.
 
+### Weiterlesen
+
+- [Betriebliche Gesundheitsförderung](/ratgeber/betriebliche-gesundheitsfoerderung-versicherung/)
+- [Mitarbeiter-Benefits](/ratgeber/mitarbeiter-benefits-versicherungen/)
+- [bAV: Was Arbeitgeber wissen müssen](/ratgeber/bav-fuer-arbeitgeber/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -139,9 +145,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Betriebliche Gesundheitsförderung](/ratgeber/betriebliche-gesundheitsfoerderung-versicherung/)
-- [Mitarbeiter-Benefits](/ratgeber/mitarbeiter-benefits-versicherungen/)
-- [bAV: Was Arbeitgeber wissen müssen](/ratgeber/bav-fuer-arbeitgeber/)

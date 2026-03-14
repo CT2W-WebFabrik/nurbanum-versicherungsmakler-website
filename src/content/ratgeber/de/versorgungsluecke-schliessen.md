@@ -192,16 +192,6 @@ Die Berechnung der Versorgungslücke ist der erste Schritt. Die richtige Strateg
 
 Als unabhängiger Versicherungsmakler mit Schwerpunkt Altersvorsorge erstelle ich für Sie eine detaillierte Versorgungsanalyse und entwickle eine Strategie, die exakt auf Ihre Situation zugeschnitten ist — ohne Bindung an einzelne Versicherungsgesellschaften.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Altersvorsorge ab 40](/ratgeber/altersvorsorge-ab-40/)
@@ -214,3 +204,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [DRV: Kennzahlen zur Finanzentwicklung — aktuelles Rentenniveau, Beitragssatz, Finanzentwicklung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Kennzahlen-zur-Finanzentwicklung/kennzahlen-zur-finanzentwicklung_node.html)
 - [DRV: Mein Rentenkonto — Renteninformation und Rentenauskunft online abrufen](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Mein-Rentenkonto/mein-rentenkonto_node.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

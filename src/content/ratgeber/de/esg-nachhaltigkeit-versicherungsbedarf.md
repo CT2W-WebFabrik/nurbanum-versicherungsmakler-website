@@ -163,16 +163,6 @@ Grundsätzlich ist jedes Unternehmen, das mit Gefahrstoffen umgeht, Abwasser ein
 
 Nachhaltigkeit schafft Chancen — aber auch neue Haftungsrisiken. Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre bestehenden Policen ESG-Risiken abdecken, und finde Lösungen für offene Lücken.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Lieferkettengesetz: Neue Versicherungsrisiken](/ratgeber/lieferkettengesetz-versicherungsbedarf/)
@@ -185,3 +175,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [UmweltHG — Umwelthaftungsgesetz](https://www.gesetze-im-internet.de/umwelthg/)
 - [USchadG — Umweltschadensgesetz](https://www.gesetze-im-internet.de/uschadg/)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

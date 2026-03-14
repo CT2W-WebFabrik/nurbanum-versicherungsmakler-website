@@ -181,16 +181,6 @@ Eine pauschale Altersgrenze gibt es nicht, aber ab 40 Jahren wird ein Wechsel in
 
 PKV oder GKV — diese Entscheidung begleitet Sie Jahrzehnte. Die falsche Wahl kann Sie im Alter viel Geld kosten, die richtige Wahl Ihren Versicherungsschutz deutlich verbessern. Als unabhängiger Versicherungsmakler berechne ich beide Varianten für Ihre konkrete Situation, vergleiche die Beitragsentwicklung über die Laufzeit und empfehle den Weg, der langfristig zu Ihnen passt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Selbständig werden: Diese Versicherungen brauchen Sie](/ratgeber/selbstaendige-versicherungen/)
@@ -203,3 +193,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — JAEG 77.400 Euro, BBG KV 69.750 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [BMG: Maßnahmen für stabile GKV-Beiträge 2026 — Kabinettsbeschluss zur Stabilisierung der GKV-Beiträge](https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/massnahmen-stabile-gkv-beitraege-2026-kabinett-15-10-25)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

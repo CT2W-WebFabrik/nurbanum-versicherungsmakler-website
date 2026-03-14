@@ -166,16 +166,6 @@ Bei den meisten Versicherern können Familienangehörige (Ehepartner und Kinder)
 
 Die richtige Kombination aus Gehaltsbestandteilen und Versicherungsbenefits hängt von Ihrer Branche, Ihrer Belegschaft und Ihrem Budget ab. Als unabhängiger Versicherungsmakler entwickle ich ein Benefits-Konzept, das Ihre Mitarbeiter überzeugt und steuerlich optimal gestaltet ist.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Betriebliches Gesundheitsmanagement](/ratgeber/betriebliches-gesundheitsmanagement/)
@@ -188,3 +178,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 8 Abs. 2 Satz 11 EStG — Sachbezugsfreigrenze 50 Euro](https://www.gesetze-im-internet.de/estg/__8.html)
 - [§ 3 Nr. 63 EStG — Steuerfreie Beiträge zur bAV](https://www.gesetze-im-internet.de/estg/__3.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

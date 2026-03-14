@@ -167,16 +167,6 @@ Das hängt von Ihrer Tätigkeit ab. Die Berufshaftpflicht versichert Vermögenss
 
 Eine durchdachte Absicherung gehört zum Businessplan. Als unabhängiger Versicherungsmakler erstelle ich für Gründer in der Metropolregion Nürnberg eine kostenlose Bestandsaufnahme: Welche Versicherungen brauchen Sie sofort, welche können warten und wo gibt es Sparpotenzial — ohne auf Schutz zu verzichten.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Selbständig werden: Versicherungen laufend optimieren](/ratgeber/selbstaendige-versicherungen/)
@@ -189,3 +179,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [§ 10 Abs. 3 EStG — Sonderausgabenabzug bis zum Höchstbeitrag der knappschaftlichen Rentenversicherung](https://www.gesetze-im-internet.de/estg/__10.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

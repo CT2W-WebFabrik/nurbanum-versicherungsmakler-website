@@ -191,6 +191,12 @@ Für Freigänger-Katzen ist eine OP-Versicherung empfehlenswert, da das Unfallri
 
 Beginnen Sie mit der Haftpflicht (für Hunde und Pferde), und prüfen Sie dann, ob eine OP-Versicherung für Ihr Tier sinnvoll ist. Als unabhängiger Makler vergleiche ich die Tarife und finde die passende Absicherung für Ihr Tier.
 
+### Weiterlesen
+
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Tierhalterhaftpflicht](/versicherungen/tierhalterhaftpflicht/)
+- [Hundehaftpflichtversicherung](/versicherungen/hundehaftpflicht/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -200,9 +206,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
-- [Tierhalterhaftpflicht](/versicherungen/tierhalterhaftpflicht/)
-- [Hundehaftpflichtversicherung](/versicherungen/hundehaftpflicht/)

@@ -172,6 +172,12 @@ Luft-Wasser-Wärmepumpen mit frei zugänglichem Außengerät sind ein zunehmend 
 
 PV-Anlage, Speicher und Wärmepumpe sind komplexe Systeme mit spezifischen Versicherungsanforderungen. Eine pauschale Lösung gibt es nicht — der richtige Schutz hängt von Anlagengröße, Standort und Ihrer bestehenden Versicherungssituation ab. Als unabhängiger Versicherungsmakler prüfe ich Ihre aktuellen Policen auf Lücken und finde die passende Absicherung für Ihre Energietechnik.
 
+### Weiterlesen
+
+- [Immobilie kaufen: Welche Versicherungen?](/ratgeber/immobilienkauf-versicherungen/)
+- [Photovoltaikversicherung](/versicherungen/photovoltaikversicherung/)
+- [Wohngebäudeversicherung](/versicherungen/wohngebaeude/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -181,9 +187,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Immobilie kaufen: Welche Versicherungen?](/ratgeber/immobilienkauf-versicherungen/)
-- [Photovoltaikversicherung](/versicherungen/photovoltaikversicherung/)
-- [Wohngebäudeversicherung](/versicherungen/wohngebaeude/)

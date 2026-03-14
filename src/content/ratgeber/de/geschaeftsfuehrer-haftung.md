@@ -156,16 +156,6 @@ Viele Geschäftsführer unterschätzen das Haftungsrisiko, weil sie „ja nur ei
 
 Als unabhängiger Versicherungsmakler vergleiche ich D&O-Tarife verschiedener Anbieter und finde den Schutz, der zu Ihrer Unternehmensgröße, Branche und Ihrem individuellen Risikoprofil passt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Pflichtversicherungen für Unternehmen](/ratgeber/pflichtversicherungen-unternehmen/)
@@ -181,3 +171,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 15a InsO — Antragspflicht bei juristischen Personen — Fristen bei Zahlungsunfähigkeit und Überschuldung](https://www.gesetze-im-internet.de/inso/__15a.html)
 - [§ 266a StGB — Vorenthalten von Arbeitsentgelt — Strafbarkeit bei nicht abgeführten SV-Beiträgen](https://www.gesetze-im-internet.de/stgb/__266a.html)
 - [§ 823 BGB — Schadensersatzpflicht — deliktische Haftung gegenüber Dritten](https://www.gesetze-im-internet.de/bgb/__823.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

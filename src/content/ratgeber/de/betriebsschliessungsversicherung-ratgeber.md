@@ -154,16 +154,6 @@ Ja. Die Beiträge zur Betriebsschließungsversicherung sind als Betriebsausgabe 
 
 Als unabhängiger Versicherungsmakler vergleiche ich die Bedingungen der Betriebsschließungsversicherungen am Markt und finde den Tarif, der zu Ihrem Betrieb passt — mit realistischem Leistungsversprechen, nicht mit Ausschlüssen im Kleingedruckten.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Betriebsunterbrechung: So schützen Sie Ihren Umsatz](/ratgeber/betriebsunterbrechung-vorsorge/)
@@ -176,3 +166,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 6 IfSG — Meldepflichtige Krankheiten](https://www.gesetze-im-internet.de/ifsg/__6.html)
 - [§ 28 IfSG — Schutzmaßnahmen der zuständigen Behörde](https://www.gesetze-im-internet.de/ifsg/__28.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

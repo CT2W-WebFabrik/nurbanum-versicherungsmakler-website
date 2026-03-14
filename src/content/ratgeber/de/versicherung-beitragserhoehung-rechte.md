@@ -149,16 +149,6 @@ Bis zum Wirksamwerden der Kündigung besteht Ihr Versicherungsschutz unveränder
 
 Beitragserhöhungen sind kein Grund zur Panik, aber ein Anlass zum Handeln. Als unabhängiger Versicherungsmakler prüfe ich jede Erhöhung, nutze Ihr Sonderkündigungsrecht oder Tarifwechselrecht gezielt und finde die wirtschaftlich beste Lösung — ob das ein Anbieterwechsel, ein interner Tarifwechsel oder eine Vertragsanpassung ist.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
@@ -172,3 +162,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 40 VVG — Kündigung bei Prämienerhöhung — Sonderkündigungsrecht bei Beitragserhöhung ohne Leistungsverbesserung](https://www.gesetze-im-internet.de/vvg_2008/__40.html)
 - [§ 203 VVG — Prämienanpassung in der Krankenversicherung — Treuhänder-Verfahren bei PKV-Beitragsanpassung](https://www.gesetze-im-internet.de/vvg_2008/__203.html)
 - [§ 204 VVG — Tarifwechsel in der Krankenversicherung — Recht auf Wechsel in gleichartigen Tarif ohne Verlust der Altersrückstellungen](https://www.gesetze-im-internet.de/vvg_2008/__204.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

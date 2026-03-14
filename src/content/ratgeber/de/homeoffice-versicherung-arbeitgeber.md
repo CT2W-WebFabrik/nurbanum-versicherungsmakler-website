@@ -148,16 +148,6 @@ Das ist ein klassischer Fall, der in der Praxis häufig vorkommt. Kippt das Kind
 
 Hybrides Arbeiten ist die neue Normalität — aber viele Versicherungsverträge stammen noch aus der Vor-Corona-Zeit. Als unabhängiger Versicherungsmakler prüfe ich Ihre bestehenden Policen auf Homeoffice-Tauglichkeit und identifiziere Deckungslücken, bevor ein Schadenfall sie aufdeckt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Mitarbeiter einstellen: Versicherungspflichten](/ratgeber/mitarbeiter-einstellen-versicherungen/)
@@ -170,3 +160,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 8 Abs. 1 SGB VII — Arbeitsunfall (inkl. Homeoffice-Erweiterung 2021)](https://www.gesetze-im-internet.de/sgb_7/__8.html)
 - [Art. 32 DSGVO — Sicherheit der Verarbeitung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3383-1-1)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

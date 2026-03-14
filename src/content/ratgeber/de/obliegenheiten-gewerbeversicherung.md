@@ -190,16 +190,6 @@ Prüfen Sie zunächst, ob der Versicherer Sie bei Vertragsschluss ordnungsgemä�
 
 Als Ihr unabhängiger Versicherungsmakler kenne ich die Obliegenheiten Ihrer Verträge im Detail. Ich helfe Ihnen, die Anforderungen umzusetzen und unterstütze Sie im Schadenfall bei der korrekten Meldung und Dokumentation — damit Ihr Versicherer keinen Grund hat, die Leistung zu kürzen.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Gewerbe-Schadenfall richtig melden](/ratgeber/gewerbe-schadenfall-richtig-melden/)
@@ -213,3 +203,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 23 VVG — Gefahrerhöhung](https://www.gesetze-im-internet.de/vvg_2008/__23.html)
 - [§ 28 VVG — Verletzung einer vertraglichen Obliegenheit](https://www.gesetze-im-internet.de/vvg_2008/__28.html)
 - [§ 82 VVG — Abwendung und Minderung des Schadens](https://www.gesetze-im-internet.de/vvg_2008/__82.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

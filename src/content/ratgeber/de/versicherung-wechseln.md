@@ -143,6 +143,12 @@ Das kommt auf die Leistungsdifferenz an. Ein Beitragsunterschied von 20 oder 30 
 
 Bevor Sie wechseln, lassen Sie mich die Konditionen prüfen. Oft kann ich bei Ihrem bestehenden Versicherer bessere Bedingungen aushandeln — oder finde eine echte Verbesserung am Markt. Als unabhängiger Makler begleite ich den gesamten Wechselprozess für Sie: von der Analyse Ihres bestehenden Vertrags über den Marktvergleich bis zur Abwicklung der Kündigung und des Neuabschlusses. So stellen Sie sicher, dass keine Deckungslücke entsteht und Sie tatsächlich besseren Schutz erhalten.
 
+### Weiterlesen
+
+- [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
+- [8 Spartipps für Ihre Versicherungen](/ratgeber/spartipps-versicherungen/)
+- [Versicherungscheck: Verträge prüfen](/ratgeber/versicherungscheck-regelmaessig-pruefen/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -152,9 +158,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
-- [8 Spartipps für Ihre Versicherungen](/ratgeber/spartipps-versicherungen/)
-- [Versicherungscheck: Verträge prüfen](/ratgeber/versicherungscheck-regelmaessig-pruefen/)

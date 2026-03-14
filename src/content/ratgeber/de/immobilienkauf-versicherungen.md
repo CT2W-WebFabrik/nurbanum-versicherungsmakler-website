@@ -163,6 +163,12 @@ Versicherungen für eine selbst genutzte Immobilie sind in der Regel nicht als W
 
 Welche Versicherungen Sie konkret brauchen, hängt von der Art der Immobilie (Eigentumswohnung, Einfamilienhaus, Mehrfamilienhaus), der Nutzung (Eigennutzung, Vermietung) und Ihrer persönlichen Situation ab. Als unabhängiger Makler analysiere ich Ihre Situation und finde die optimale Absicherung — ohne unnötige Policen.
 
+### Weiterlesen
+
+- [Elementarschutz: Hochwasser und Starkregen](/ratgeber/elementarschutz-hochwasser-starkregen/)
+- [Photovoltaik und Wärmepumpe versichern](/ratgeber/photovoltaik-waermepumpe-versichern/)
+- [Wohngebäudeversicherung](/versicherungen/wohngebaeude/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -172,9 +178,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Elementarschutz: Hochwasser und Starkregen](/ratgeber/elementarschutz-hochwasser-starkregen/)
-- [Photovoltaik und Wärmepumpe versichern](/ratgeber/photovoltaik-waermepumpe-versichern/)
-- [Wohngebäudeversicherung](/versicherungen/wohngebaeude/)

@@ -246,6 +246,12 @@ Die häufigsten Fehler betreffen die Sachbezugsgrenze von 50 Euro pro Monat. Wir
 
 Als unabhängiger Versicherungsmakler vergleiche ich Gruppentarife verschiedener Anbieter und stelle ein Benefits-Paket zusammen, das zu Ihrer Unternehmensgröße und Ihrem Budget passt. Ich übernehme die Einrichtung, die Mitarbeiter-Kommunikation und die laufende Verwaltung.
 
+### Weiterlesen
+
+- [bAV: Was Arbeitgeber wissen müssen](/ratgeber/bav-fuer-arbeitgeber/)
+- [Betriebliche Gesundheitsförderung](/ratgeber/betriebliche-gesundheitsfoerderung-versicherung/)
+- [Betriebliche Altersversorgung](/versicherungen/betriebliche-altersversorgung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -255,9 +261,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [bAV: Was Arbeitgeber wissen müssen](/ratgeber/bav-fuer-arbeitgeber/)
-- [Betriebliche Gesundheitsförderung](/ratgeber/betriebliche-gesundheitsfoerderung-versicherung/)
-- [Betriebliche Altersversorgung](/versicherungen/betriebliche-altersversorgung/)

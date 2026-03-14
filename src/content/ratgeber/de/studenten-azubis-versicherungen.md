@@ -156,6 +156,12 @@ Auch als Student oder Azubi können Sie bestimmte Versicherungsbeiträge steuerl
 
 Starten Sie mit einer Privathaftpflicht (falls nicht über die Eltern versichert) und einer Berufsunfähigkeitsversicherung. Alles andere kann warten, bis Sie im Beruf stehen und ein eigenes Einkommen haben.
 
+### Weiterlesen
+
+- [Versicherungen für Berufseinsteiger](/ratgeber/berufseinsteiger-versicherungen/)
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Privathaftpflichtversicherung](/versicherungen/haftpflicht/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -165,9 +171,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherungen für Berufseinsteiger](/ratgeber/berufseinsteiger-versicherungen/)
-- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
-- [Privathaftpflichtversicherung](/versicherungen/haftpflicht/)

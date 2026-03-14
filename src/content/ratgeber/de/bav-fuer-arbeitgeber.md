@@ -153,16 +153,6 @@ Für die Ersteinrichtung benötigen Sie: eine Versorgungsordnung (Spielregeln f�
 
 Die betriebliche Altersversorgung ist kein Thema, das man einmal einrichtet und dann vergisst. Es gibt laufende Pflichten, steuerliche Änderungen und Haftungsrisiken. Als unabhängiger Versicherungsmakler unterstütze ich Sie bei der Auswahl des richtigen Durchführungswegs, der Verhandlung mit Versorgungsträgern und der laufenden Bestandspflege — damit die bAV für Sie und Ihre Mitarbeiter funktioniert.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Mitarbeiter-Benefits: Versicherungen als Recruiting-Vorteil](/ratgeber/mitarbeiter-benefits-versicherungen/)
@@ -179,3 +169,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [§ 1 BetrAVG — Subsidiärhaftung des Arbeitgebers für die Versorgungszusage](https://www.gesetze-im-internet.de/betravg/__1.html)
 - [§ 4 BetrAVG — Übertragung (Portabilität) bei Arbeitgeberwechsel](https://www.gesetze-im-internet.de/betravg/__4.html)
 - [PSVaG: Pensions-Sicherungs-Verein — Insolvenzschutz der betrieblichen Altersversorgung](https://www.psvag.de/)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

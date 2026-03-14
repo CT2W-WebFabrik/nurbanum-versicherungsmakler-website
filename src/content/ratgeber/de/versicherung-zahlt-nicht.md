@@ -174,16 +174,6 @@ Der Rechtsweg lohnt sich, wenn der Streitwert die zu erwartenden Prozesskosten d
 
 Ein unabhängiger Versicherungsmakler steht auf Ihrer Seite — nicht auf der Seite des Versicherers. Im Schadenfall unterstütze ich Sie bei der korrekten Schadenmeldung, prüfe die Ablehnungsgründe, formuliere den Widerspruch und schalte bei Bedarf den Ombudsmann oder einen Fachanwalt ein.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
@@ -200,3 +190,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [Ombudsmann PKV — Schlichtungsstelle für private Kranken- und Pflegeversicherung](https://www.pkv-ombudsmann.de)
 - [§ 81 VVG — Herbeiführung des Versicherungsfalles — Leistungsfreiheit bei grober Fahrlässigkeit](https://www.gesetze-im-internet.de/vvg_2008/__81.html)
 - [RVG — Rechtsanwaltsvergütungsgesetz — Grundlage für die Berechnung von Anwaltsgebühren](https://www.gesetze-im-internet.de/rvg/)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

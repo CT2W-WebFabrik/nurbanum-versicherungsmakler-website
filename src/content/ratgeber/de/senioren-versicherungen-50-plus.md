@@ -165,6 +165,12 @@ Mindestens alle drei bis fünf Jahre — und bei jeder größeren Lebensverände
 
 Die Phase ab 50 ist der ideale Zeitpunkt für einen umfassenden Versicherungscheck. Als unabhängiger Makler helfe ich Ihnen, Ihren Schutz an die neue Lebensphase anzupassen — ohne unnötige Kosten, ohne Lücken.
 
+### Weiterlesen
+
+- [Versicherungen im Ruhestand](/ratgeber/versicherungen-im-ruhestand/)
+- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
+- [Pflegeversicherung](/versicherungen/pflegeversicherung/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -174,9 +180,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherungen im Ruhestand](/ratgeber/versicherungen-im-ruhestand/)
-- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
-- [Pflegeversicherung](/versicherungen/pflegeversicherung/)

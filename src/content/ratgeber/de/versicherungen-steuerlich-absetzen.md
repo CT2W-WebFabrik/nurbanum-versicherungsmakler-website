@@ -203,16 +203,6 @@ Ja, die Zahnzusatzversicherung ist als sonstige Vorsorgeaufwendung grundsätzlic
 
 Die steuerliche Absetzbarkeit sollte nie das Hauptargument für oder gegen eine Versicherung sein — der Schutz steht im Vordergrund. Trotzdem lohnt sich ein Blick auf die steuerlichen Möglichkeiten. Als unabhängiger Versicherungsmakler helfe ich Ihnen, Ihren Versicherungsschutz zu optimieren und die steuerlichen Vorteile mitzudenken.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [8 Spartipps für Ihre Versicherungen](/ratgeber/spartipps-versicherungen/)
@@ -226,3 +216,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [§ 10 Abs. 3 EStG — Sonderausgabenabzug bis zum Höchstbeitrag der knappschaftlichen Rentenversicherung](https://www.gesetze-im-internet.de/estg/__10.html)
 - [§ 10 Abs. 4 EStG — Vorsorgeaufwendungen Höchstbeträge 1.900 / 2.800 Euro](https://www.gesetze-im-internet.de/estg/__10.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

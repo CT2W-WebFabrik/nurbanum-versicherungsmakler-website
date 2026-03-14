@@ -197,6 +197,12 @@ Ja, das ist jederzeit möglich und auch sinnvoll. Eine zu hohe Versicherungssumm
 
 Inflation ist ein schleichender Risikofaktor. Als unabhängiger Makler prüfe ich Ihre Versicherungssummen und stelle sicher, dass Ihr Schutz mit den steigenden Kosten Schritt hält.
 
+### Weiterlesen
+
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Versicherungscheck: Verträge prüfen](/ratgeber/versicherungscheck-regelmaessig-pruefen/)
+- [Hausratversicherung](/versicherungen/hausrat/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -206,9 +212,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
-- [Versicherungscheck: Verträge prüfen](/ratgeber/versicherungscheck-regelmaessig-pruefen/)
-- [Hausratversicherung](/versicherungen/hausrat/)

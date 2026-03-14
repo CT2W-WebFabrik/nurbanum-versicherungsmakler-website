@@ -188,16 +188,6 @@ Sie müssen alle Kosten selbst tragen — und passende Dienstleister unter extre
 
 Jeder Betrieb — vom Drei-Personen-Büro bis zum Mittelständler — ist ein potenzielles Ziel. Als unabhängiger Makler analysiere ich Ihr individuelles Risikoprofil, vergleiche Tarife verschiedener Versicherer und finde den Schutz, der zu Ihrem Betrieb und Budget passt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
@@ -212,3 +202,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [Art. 34 DSGVO — Benachrichtigung der betroffenen Person — Pflicht zur Benachrichtigung bei hohem Risiko](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e3539-1-1)
 - [Art. 83 DSGVO — Allgemeine Bedingungen für die Verhängung von Geldbußen — bis 20 Mio. Euro oder 4 % des Jahresumsatzes](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e6026-1-1)
 - [BSI: Die Lage der IT-Sicherheit in Deutschland — aktuelle Bedrohungslage, Angriffsstatistiken](https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

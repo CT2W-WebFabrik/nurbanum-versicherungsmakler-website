@@ -198,16 +198,6 @@ Das Altersvorsorgedepot ist ein vielversprechendes Instrument, das die private A
 
 Als unabhängiger Versicherungsmakler beobachte ich die Gesetzgebung zur Altersvorsorge-Reform laufend und berate Sie, sobald die konkreten Produkte verfügbar sind. Schon jetzt können wir Ihre bestehende Vorsorge analysieren und eine Strategie entwickeln, die sowohl die heutigen als auch die zukünftigen Fördermöglichkeiten optimal nutzt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Riester-Rente: Lohnt sich das noch?](/ratgeber/riester-rente-lohnt-sich/)
@@ -221,3 +211,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 - [BMF: FAQ zur Reform der privaten Altersvorsorge — Grundzulage, Kinderzulage, Berufseinsteiger-Bonus](https://www.bundesfinanzministerium.de/Content/DE/FAQ/reform-der-privaten-altersvorsorge.html)
 - [Bundesregierung: Reform der privaten Altersvorsorge — Frühstartrente, Förderstruktur](https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072)
 - [Bundestag: 1. Lesung Altersvorsorgereformgesetz — Drucksache 21/4088 (26.02.2026)](https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-altersvorsorge-1140384)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

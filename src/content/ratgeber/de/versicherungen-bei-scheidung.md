@@ -164,6 +164,12 @@ Nein, eine Kündigung ist meist nicht nötig. In den meisten Fällen reicht es, 
 
 Eine Scheidung bringt viele organisatorische Aufgaben mit sich — die Versicherungen sollten dabei nicht auf der langen Bank landen. Als unabhängiger Versicherungsmakler unterstütze ich Sie bei der strukturierten Überprüfung aller bestehenden Verträge, kläre offene Fragen mit den Versicherern und sorge dafür, dass Sie nach der Trennung lückenlos und sinnvoll abgesichert sind.
 
+### Weiterlesen
+
+- [Heirat und Versicherungen](/ratgeber/versicherungen-nach-der-hochzeit/)
+- [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
+- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -173,9 +179,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Heirat und Versicherungen](/ratgeber/versicherungen-nach-der-hochzeit/)
-- [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
-- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)

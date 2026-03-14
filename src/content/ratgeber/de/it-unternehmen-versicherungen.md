@@ -153,16 +153,6 @@ Die meisten Cyber-Versicherungen bieten eine 24/7-Notfall-Hotline, über die Sie
 
 Jedes IT-Unternehmen hat ein anderes Risikoprofil — ein Managed-Service-Provider braucht eine andere Absicherung als eine Webdesign-Agentur. Als unabhängiger Versicherungsmakler analysiere ich Ihr Geschäftsmodell, Ihre Vertragsstrukturen und Ihre IT-Infrastruktur und stelle ein Versicherungspaket zusammen, das Ihre realen Risiken abdeckt.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Cyber-Angriff: So reagieren Sie richtig](/ratgeber/cyber-angriff-richtig-reagieren/)
@@ -175,3 +165,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [Art. 82 DSGVO — Haftung und Recht auf Schadenersatz](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679#d1e5979-1-1)
 - [§ 823 BGB — Schadensersatzpflicht](https://www.gesetze-im-internet.de/bgb/__823.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

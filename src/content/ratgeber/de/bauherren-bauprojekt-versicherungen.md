@@ -187,16 +187,6 @@ Für Bauträger und Projektentwickler kommen weitere Versicherungen hinzu:
 
 Jedes Bauprojekt ist anders — Größe, Komplexität, Beteiligte und Baugrund bestimmen den Versicherungsbedarf. Als unabhängiger Versicherungsmakler erstelle ich ein Versicherungskonzept, das alle Bauphasen abdeckt und Lücken vermeidet.
 
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
-
 ### Weiterlesen
 
 - [Versicherungsschutz auf Baustellen](/ratgeber/baustelle-montage-versicherung/)
@@ -209,3 +199,13 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 
 - [§ 836 BGB — Haftung des Grundstücksbesitzers](https://www.gesetze-im-internet.de/bgb/__836.html)
 - [§ 634a BGB — Verjährung der Mängelansprüche](https://www.gesetze-im-internet.de/bgb/__634a.html)
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

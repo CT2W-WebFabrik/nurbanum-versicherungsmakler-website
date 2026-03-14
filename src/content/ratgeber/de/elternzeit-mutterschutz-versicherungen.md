@@ -114,6 +114,12 @@ Ja. Prüfen Sie insbesondere Privathaftpflicht (ein Familientarif statt zwei Ein
 
 Die Geburt eines Kindes ist der zweitwichtigste Versicherungs-Checkpunkt im Leben (nach dem Berufseinstieg). Planen Sie den Versicherungscheck idealerweise ab dem zweiten Trimester. Als unabhängiger Makler stelle ich sicher, dass Ihre Familie richtig abgesichert ist — und dass Sie in der Elternzeit keine unnötigen Beiträge zahlen.
 
+### Weiterlesen
+
+- [Versicherungen für Familien](/ratgeber/familien-versicherungen/)
+- [Heirat und Versicherungen](/ratgeber/versicherungen-nach-der-hochzeit/)
+- [Risikolebensversicherung](/versicherungen/risikoleben/)
+
 <div class="cta-box">
 
 **Kostenlose Beratung anfragen**
@@ -123,9 +129,3 @@ Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, 
 [Jetzt Beratungstermin vereinbaren →](/kontakt/)
 
 </div>
-
-### Weiterlesen
-
-- [Versicherungen für Familien](/ratgeber/familien-versicherungen/)
-- [Heirat und Versicherungen](/ratgeber/versicherungen-nach-der-hochzeit/)
-- [Risikolebensversicherung](/versicherungen/risikoleben/)
