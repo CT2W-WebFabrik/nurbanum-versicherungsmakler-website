@@ -82,13 +82,3 @@ Für einfache Fahrräder unter 1.000 Euro reicht meist der Fahrrad-Baustein der 
 ## E-Bike-Versicherung lohnt sich
 
 Bei einem E-Bike ab 2.000 Euro ist eine spezialisierte Fahrradversicherung fast immer sinnvoll — insbesondere wenn Sie das Rad täglich nutzen und es regelmäßig draußen abstellen müssen. Als unabhängiger Versicherungsmakler vergleiche ich die Tarife der führenden Anbieter und finde den Schutz, der zu Ihrem Rad, Ihrer Nutzung und Ihrem Budget passt.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

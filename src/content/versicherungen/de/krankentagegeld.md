@@ -68,13 +68,3 @@ Die Beiträge hängen stark vom Eintrittsalter, Beruf, gewähltem Tagessatz und 
 ## Mein Beratungsansatz
 
 Ich berechne Ihre tatsächliche Einkommenslücke im Krankheitsfall, empfehle die passende Karenzzeit und vergleiche die Tarife unabhängig. So ist Ihr Einkommen auch bei längerer Krankheit gesichert — ohne unnötige Doppelabsicherung.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

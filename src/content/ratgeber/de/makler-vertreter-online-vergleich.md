@@ -194,13 +194,3 @@ Dieser Vergleich kommt von einem Versicherungsmakler — das ist Ihnen sicher au
 
 - [§ 59 VVG — Begriffsbestimmungen Versicherungsvermittler](https://www.gesetze-im-internet.de/vvg_2008/__59.html)
 - [§ 84 HGB — Handelsvertreter](https://www.gesetze-im-internet.de/hgb/__84.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

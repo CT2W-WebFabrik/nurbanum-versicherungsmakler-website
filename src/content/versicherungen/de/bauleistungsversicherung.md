@@ -80,13 +80,3 @@ Die beiden Versicherungen ergänzen sich, decken aber grundverschiedene Risiken 
 ## Mein Rat
 
 Die Bauleistungsversicherung ist bei jedem größeren Bauvorhaben dringend empfohlen. Als unabhängiger Makler finde ich den passenden Tarif für Ihr Bauprojekt — ob Einfamilienhaus oder Gewerbebau.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

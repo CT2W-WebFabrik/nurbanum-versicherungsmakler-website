@@ -87,12 +87,8 @@ Die Beiträge variieren je nach Branche, Sicherheitsausstattung, Standort und ge
 
 Ich ermittle den Wert Ihres Geschäftsinhalts gemeinsam mit Ihnen, identifiziere die relevanten Risiken und vergleiche die Angebote führender Versicherer. So erhalten Sie eine passgenaue Absicherung — nicht zu viel, nicht zu wenig. Als unabhängiger Makler überprüfe und optimiere ich Ihren Schutz regelmäßig, damit Ihr Versicherungsschutz mit Ihrem Unternehmen mitwächst.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Gewerbeversicherung regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
+- [Betriebserweiterung: Versicherung anpassen](/ratgeber/betriebserweiterung-versicherung-anpassen/)

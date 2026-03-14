@@ -81,13 +81,3 @@ In Deutschland besteht keine generelle Versicherungspflicht für Sportboote. In 
 ## Mein Rat
 
 Ob kleines Segelboot oder schnelles Motorboot — die richtige Absicherung schützt Sie vor den erheblichen Haftungsrisiken auf dem Wasser. Als unabhängiger Makler finde ich den passenden Schutz für Ihr Boot und Ihr Revier.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

@@ -69,12 +69,8 @@ Die Unfallversicherung wirkt auf den ersten Blick einfach, aber die Details -- G
 
 Ich berate Sie individuell und helfe Ihnen, die Unfallversicherung sinnvoll in Ihr Gesamtkonzept einzubetten — als Ergänzung zur Berufsunfähigkeitsversicherung, nicht als deren Ersatz.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Versicherungen für Berufseinsteiger](/ratgeber/berufseinsteiger-versicherungen/)
+- [Familien richtig versichern](/ratgeber/familien-versicherungen/)
+- [Spartipps bei Versicherungen](/ratgeber/spartipps-versicherungen/)

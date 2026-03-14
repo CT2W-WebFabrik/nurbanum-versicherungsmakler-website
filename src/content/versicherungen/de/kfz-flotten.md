@@ -78,12 +78,8 @@ Ab drei Fahrzeugen ist ein Flottenvertrag grundsätzlich möglich, die attraktiv
 
 Ich analysiere Ihren Fuhrpark, verhandele Flottenrabatte mit den relevanten Versicherern und sorge für einen reibungslosen Vertragswechsel. Dabei berücksichtige ich sowohl den Kostenvorteil als auch die Qualität der Schadenregulierung — denn im Schadenfall zählt ein zuverlässiger Partner.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Fuhrpark versichern](/ratgeber/fuhrpark-versichern/)
+- [Gewerbeversicherungen im Überblick](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Gewerbe-Versicherungen steuerlich absetzen](/ratgeber/gewerbe-versicherungen-steuerlich-absetzen/)

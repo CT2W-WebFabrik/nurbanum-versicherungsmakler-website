@@ -86,12 +86,8 @@ Die Inhaltsversicherung deckt Maschinen nur gegen benannte Gefahren (Feuer, Einb
 
 Ich erfasse Ihren Maschinenpark, bewerte die individuellen Risiken und vergleiche die Angebote führender Versicherer. So erhalten Sie eine wirtschaftliche Absicherung, die genau zu Ihrem Betrieb passt — ob für eine einzelne Spezialmaschine oder eine komplette Fertigungslinie.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Handwerker-Versicherungen](/ratgeber/handwerker-versicherungen/)
+- [Betriebserweiterung: Versicherung anpassen](/ratgeber/betriebserweiterung-versicherung-anpassen/)
+- [Gewerbeversicherungen im Überblick](/ratgeber/gewerbeversicherungen-ueberblick/)

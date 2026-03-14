@@ -75,12 +75,8 @@ Betriebshaftpflicht und Berufshaftpflicht ergänzen sich und sind keine Alternat
 
 Jede Berufsgruppe hat andere Risiken und andere regulatorische Anforderungen. Ich kenne die branchenüblichen Deckungskonzepte und vergleiche die relevanten Anbieter für Sie. So erhalten Sie einen maßgeschneiderten Schutz, der genau zu Ihrer beruflichen Tätigkeit und Ihrem Risikoprofil passt — ohne Lücken und ohne unnötige Kosten.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [IT-Unternehmen versichern](/ratgeber/it-unternehmen-versicherungen/)
+- [Handwerker-Versicherungen](/ratgeber/handwerker-versicherungen/)
+- [Produkthaftung für Hersteller](/ratgeber/produkthaftung-hersteller/)

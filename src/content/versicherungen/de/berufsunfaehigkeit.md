@@ -70,12 +70,8 @@ Bei der Berufsunfähigkeitsversicherung ist professionelle Beratung keine Option
 
 Als unabhängiger Makler führe ich mit Ihnen eine anonyme Voranfrage bei mehreren Versicherern durch. So erfahren wir vorab, welche Gesellschaften Ihnen zu welchen Bedingungen Versicherungsschutz bieten -- ohne dass eine Ablehnung aktenkundig wird.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Versorgungslücke schließen](/ratgeber/versorgungsluecke-schliessen/)
+- [Versicherungen für Berufseinsteiger](/ratgeber/berufseinsteiger-versicherungen/)
+- [Versicherungen für Selbständige](/ratgeber/selbstaendige-versicherungen/)

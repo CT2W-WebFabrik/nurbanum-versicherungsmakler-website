@@ -79,12 +79,7 @@ Die Auslandsreise-Krankenversicherung als Jahrespolice ist mit Abstand das beste
 
 Ich empfehle die Reiseversicherungen, die Sie wirklich brauchen, und rate von unnötigem Schutz ab. Eine Auslandsreise-Krankenversicherung gehört in jedes Portfolio. Bei Rücktritt und Gepäck hängt es von der Reise und Ihrem individuellen Risiko ab.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Spartipps bei Versicherungen](/ratgeber/spartipps-versicherungen/)

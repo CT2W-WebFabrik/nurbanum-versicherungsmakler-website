@@ -40,4 +40,20 @@ const sorted = posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publis
       </div>
     </div>
   </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Blog — Nurbanum Versicherungsmakler",
+    "description": "Neuigkeiten, Einblicke und Aktuelles von Ihrem Versicherungsmakler in Zirndorf bei Nürnberg.",
+    "publisher": { "@id": "https://nurbanum.de/#organization" },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": sorted.map((post, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": new URL(url(`/blog/${post.id}/`), Astro.site).toString()
+      }))
+    }
+  })} />
 </BaseLayout>

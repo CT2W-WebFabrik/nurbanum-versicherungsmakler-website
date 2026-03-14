@@ -83,13 +83,3 @@ Die Prüfung darf nur durch zugelassene Sachverständigenorganisationen (z. B. T
 ## Mein Rat
 
 Wenn Sie einen Öltank besitzen, ist die Gewässerschadenhaftpflicht unverzichtbar. Als unabhängiger Makler prüfe ich Ihre bestehenden Policen auf vorhandene Einschlüsse und finde bei Bedarf den passenden separaten Schutz.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

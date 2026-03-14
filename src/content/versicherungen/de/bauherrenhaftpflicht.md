@@ -67,13 +67,3 @@ Die Bauherrenhaftpflicht wird als Einmalprämie für die gesamte Bauzeit gezahlt
 ## Mein Beratungsansatz
 
 Ich prüfe zuerst, ob Ihre bestehende Privathaftpflicht den geplanten Bau bereits abdeckt. Wenn nicht, empfehle ich eine passende Bauherrenhaftpflicht — abgestimmt auf Bausumme, Eigenleistung und Projektdauer. Unabhängig verglichen und transparent beraten.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

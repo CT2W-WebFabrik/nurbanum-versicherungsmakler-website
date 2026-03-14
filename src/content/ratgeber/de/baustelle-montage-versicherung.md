@@ -217,13 +217,3 @@ Als unabhängiger Versicherungsmakler kenne ich die spezifischen Risiken von Bau
 
 - [§ 631 BGB — Vertragstypische Pflichten beim Werkvertrag](https://www.gesetze-im-internet.de/bgb/__631.html)
 - [§ 644 BGB — Gefahrtragung](https://www.gesetze-im-internet.de/bgb/__644.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

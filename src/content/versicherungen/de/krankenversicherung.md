@@ -80,12 +80,8 @@ Die Wahl zwischen PKV und GKV sowie die Auswahl der richtigen Zusatzversicherung
 
 Ich analysiere Ihre persönliche Situation, berechne verschiedene Szenarien und berate Sie ergebnisoffen -- auch wenn das Ergebnis ist, dass die GKV für Sie die bessere Wahl bleibt.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [PKV oder GKV?](/ratgeber/pkv-oder-gkv/)
+- [Versicherungen im Ruhestand](/ratgeber/versicherungen-im-ruhestand/)
+- [Senioren: Versicherungen ab 50+](/ratgeber/senioren-versicherungen-50-plus/)

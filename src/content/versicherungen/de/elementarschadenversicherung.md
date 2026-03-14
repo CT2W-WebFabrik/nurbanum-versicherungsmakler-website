@@ -77,13 +77,3 @@ In ZÜRS-Zone 3 und 4 steigen die Beiträge deutlich — aber genau dort ist der
 Auch wenn Franken keine klassische Hochwasserregion ist: Starkregenereignisse können überall auftreten. Zirndorf, Fürth und Nürnberg hatten in den letzten Jahren mehrfach lokale Überschwemmungen durch Starkregen. Eine ZÜRS-Abfrage für Ihre konkrete Adresse zeigt Ihnen Ihr individuelles Risiko.
 
 Als unabhängiger Versicherungsmakler prüfe ich, ob Ihr bestehendes Wohngebäude- und Hausratversicherungspaket Elementarschutz enthält, und finde die beste Lösung für Ihre Adresse — auch wenn der bisherige Versicherer ablehnt.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

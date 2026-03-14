@@ -78,13 +78,3 @@ Die Prämie berechnet sich als Promillesatz des versicherten Warenwertes — typ
 ## Mein Rat
 
 Die Lücke zwischen Frachtführerhaftung und tatsächlichem Warenwert kann existenzbedrohend sein. Als unabhängiger Makler finde ich die passende Transportversicherung für Ihr Geschäft — ob Einzelsendung, laufende Umsatzpolice oder internationale Warenströme mit komplexen Lieferbedingungen.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

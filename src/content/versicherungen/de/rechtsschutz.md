@@ -71,12 +71,8 @@ Die Rechtsschutzversicherung hat viele Ausschlüsse und Einschränkungen, die in
 
 Ich analysiere Ihre Lebenssituation, identifiziere die relevanten Rechtsgebiete und empfehle Ihnen einen maßgeschneiderten Schutz -- ohne überflüssige Bausteine, aber auch ohne gefährliche Lücken.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Schadenfall: richtig verhalten](/ratgeber/schadenfall-richtig-verhalten/)
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Versicherung zahlt nicht — was tun?](/ratgeber/versicherung-zahlt-nicht/)

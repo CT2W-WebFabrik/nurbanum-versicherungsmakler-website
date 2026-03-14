@@ -74,12 +74,8 @@ Die Berufshaftpflichtversicherung ist eine gesetzlich vorgeschriebene Pflichtver
 
 Ich prüfe, welcher Schutz für Ihre Tätigkeit der richtige ist — ob eigenständige Vermögensschadenhaftpflicht, Berufshaftpflicht oder eine Kombination aus beidem. Als unabhängiger Makler vergleiche ich die Angebote und achte auf branchenspezifische Besonderheiten.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [IT-Unternehmen versichern](/ratgeber/it-unternehmen-versicherungen/)
+- [Geschäftsführer-Haftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [Existenzgründer-Versicherungen](/ratgeber/existenzgruender-versicherungen/)

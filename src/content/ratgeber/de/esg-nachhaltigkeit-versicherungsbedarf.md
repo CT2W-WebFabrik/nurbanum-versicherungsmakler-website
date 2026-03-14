@@ -175,13 +175,3 @@ Nachhaltigkeit schafft Chancen — aber auch neue Haftungsrisiken. Als unabhäng
 
 - [UmweltHG — Umwelthaftungsgesetz](https://www.gesetze-im-internet.de/umwelthg/)
 - [USchadG — Umweltschadensgesetz](https://www.gesetze-im-internet.de/uschadg/)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

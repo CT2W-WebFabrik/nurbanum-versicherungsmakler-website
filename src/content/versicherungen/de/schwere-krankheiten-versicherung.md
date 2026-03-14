@@ -71,13 +71,3 @@ Die Beiträge sind in der Regel günstiger als bei einer Berufsunfähigkeitsvers
 Ich prüfe, ob eine Dread-Disease-Versicherung in Ihrem Absicherungskonzept sinnvoll ist — als Ergänzung zur BU oder als eigenständiger Baustein. Dabei analysiere ich die Krankheitsdefinitionen der verschiedenen Anbieter im Detail und empfehle den Tarif, der im Ernstfall tatsächlich leistet.
 
 Besonders wichtig ist die Kombination mit anderen Absicherungen: Eine Dread Disease allein reicht nicht aus, um Ihr Einkommen langfristig zu sichern. In Kombination mit einer BU oder Grundfähigkeitenversicherung ergibt sie jedoch ein starkes Gesamtkonzept: Die Dread Disease liefert sofortige Liquidität bei Diagnose, während die BU oder Grundfähigkeitenversicherung die laufenden Lebenshaltungskosten abdeckt. Ich zeige Ihnen, welche Kombination für Ihre persönliche Situation optimal ist.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

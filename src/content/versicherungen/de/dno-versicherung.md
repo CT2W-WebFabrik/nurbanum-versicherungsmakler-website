@@ -80,12 +80,8 @@ Die Beiträge richten sich nach Unternehmensgröße, Branche, Anzahl der versich
 
 Die D&O-Versicherung erfordert eine sorgfältige Analyse der Unternehmensstruktur und der individuellen Haftungsrisiken. Ich berate Sie zu passenden Deckungssummen, sinnvollen Erweiterungen und achte auf die Details im Kleingedruckten, die im Schadenfall entscheidend sind.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Geschäftsführer-Haftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [Startups versichern](/ratgeber/startups-versicherungen/)
+- [Pflichtversicherungen für Unternehmen](/ratgeber/pflichtversicherungen-unternehmen/)

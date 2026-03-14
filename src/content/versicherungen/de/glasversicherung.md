@@ -84,12 +84,7 @@ Die Kosten für den Austausch von Glasflächen werden häufig unterschätzt. Ein
 
 Ich prüfe, ob eine eigenständige Glasversicherung in Ihrem Fall wirtschaftlich sinnvoll ist oder ob ein Glasbruch-Baustein in Ihrer Hausrat- oder Wohngebäudeversicherung ausreicht. Ehrliche Beratung — auch wenn die Antwort lautet, dass Sie die Versicherung nicht brauchen.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Spartipps bei Versicherungen](/ratgeber/spartipps-versicherungen/)

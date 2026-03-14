@@ -74,12 +74,8 @@ Die Inhaltsversicherung (Geschäftsinhaltsversicherung) deckt nur benannte Gefah
 
 Ich ermittle den tatsächlichen Wert Ihrer elektronischen Ausstattung und die relevanten Risiken. Dann vergleiche ich unabhängig die Angebote und finde einen Tarif, der zu Ihrem Betrieb passt — ob für ein kleines Büro oder eine komplexe IT-Infrastruktur.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [IT-Unternehmen versichern](/ratgeber/it-unternehmen-versicherungen/)
+- [Gewerbeversicherung regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)

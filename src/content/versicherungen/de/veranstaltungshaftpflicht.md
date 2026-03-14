@@ -75,13 +75,3 @@ Die Prämie richtet sich nach Art, Dauer, Besucherzahl und Risikoprofil der Vera
 ## Mein Rat
 
 Jedes Firmenevent braucht eine eigenständige Haftpflichtabsicherung — die Betriebshaftpflicht reicht dafür selten aus. Als unabhängiger Makler finde ich den passenden Schutz für Ihre Veranstaltung, abgestimmt auf Art, Größe und Risikoprofil des Events.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

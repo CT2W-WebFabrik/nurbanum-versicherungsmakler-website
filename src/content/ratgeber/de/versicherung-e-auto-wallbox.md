@@ -157,13 +157,3 @@ Die Versicherung eines E-Autos unterscheidet sich in wichtigen Details vom Verbr
 ### Quellen
 
 - [GDV: Dossier Elektromobilität versichern — Reparaturkosten, Akkurisiken, Schadenstatistik E-Autos](https://www.gdv.de/gdv/themen/mobilitaet/dossier-elektromobilitaet)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

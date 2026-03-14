@@ -80,13 +80,3 @@ In Bayern gibt es keine allgemeine Versicherungspflicht für Hunde, wohl aber f�
 ## Mein Rat
 
 Die Hundehaftpflicht gehört zu den Versicherungen, die jeder Hundehalter haben muss — Pflicht oder nicht. Als unabhängiger Versicherungsmakler finde ich den passenden Tarif für Ihren Hund, auch bei schwierigen Rassen.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

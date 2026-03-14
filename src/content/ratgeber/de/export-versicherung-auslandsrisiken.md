@@ -204,13 +204,3 @@ Exportgeschäfte brauchen maßgeschneiderte Versicherungslösungen. Als unabhän
 
 - [AGA-Report — Exportkreditgarantien der Bundesrepublik Deutschland](https://www.agaportal.de/exportkreditgarantien)
 - [§ 4 ProdHaftG — Haftung bei grenzüberschreitendem Produktvertrieb](https://www.gesetze-im-internet.de/prodhaftg/__4.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

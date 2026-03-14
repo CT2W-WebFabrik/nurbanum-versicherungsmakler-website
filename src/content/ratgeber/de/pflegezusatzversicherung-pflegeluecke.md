@@ -204,13 +204,3 @@ Als unabhängiger Versicherungsmakler vergleiche ich für Sie die verschiedenen 
 
 - [BMG: Leistungsbeträge der Pflegeversicherung 2026 (PDF) — nach PUEG-Erhöhung +4,5 % zum 01.01.2025](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/P/Pflegeversicherung_Leistungsbeitraege/Uebersicht_Leistungsbetraege_2026_VA.pdf)
 - [§ 37, § 36, § 43 SGB XI — Pflegegeld, Pflegesachleistungen, vollstationäre Pflege](https://www.gesetze-im-internet.de/sgb_11/__37.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

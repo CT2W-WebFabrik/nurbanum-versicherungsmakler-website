@@ -357,4 +357,12 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       }
     }
   </script>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Spezialisierungen — Nurbanum Versicherungsmakler",
+    "description": "Zielgruppengerechte Versicherungsberatung: Von Berufseinsteigern über Familien bis zu Handwerksbetrieben.",
+    "publisher": { "@id": "https://nurbanum.de/#organization" }
+  })} />
 </BaseLayout>

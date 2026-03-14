@@ -85,13 +85,3 @@ Wohnmobile haben spezifische Versicherungsanforderungen, die über den normalen 
 ## Mein Rat
 
 Ein Wohnmobil ist eine erhebliche Investition — der Versicherungsschutz sollte dem Wert entsprechen. Als unabhängiger Makler vergleiche ich spezialisierte Wohnmobiltarife und finde den Schutz, der zu Ihrem Fahrzeug, Ihrem Budget und Ihrem Reisestil passt.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

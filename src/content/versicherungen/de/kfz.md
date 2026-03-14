@@ -73,12 +73,8 @@ Der Kfz-Versicherungsmarkt ist unübersichtlich, und die Tarifstrukturen ändern
 
 Besonders bei Sonderfällen -- etwa Fahranfänger, Wenigfahrer, Oldtimer oder gewerbliche Nutzung -- lohnt sich eine individuelle Beratung.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [E-Auto und Wallbox versichern](/ratgeber/versicherung-e-auto-wallbox/)
+- [Versicherung kündigen: Fristen](/ratgeber/versicherung-kuendigen-fristen/)
+- [Versicherung wechseln](/ratgeber/versicherung-wechseln/)

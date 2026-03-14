@@ -84,12 +84,8 @@ Die Kosten hängen von der Betriebsgröße, der Mitarbeiterzahl und den gewählt
 
 Ich analysiere Ihre typischen Geschäftsrisiken und empfehle einen Rechtsschutztarif, der genau die Bausteine enthält, die Sie wirklich brauchen. Keine unnötigen Extras, kein fehlender Schutz. Als Makler vergleiche ich unabhängig die Leistungen und Bedingungen der relevanten Anbieter.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Gewerbe-Schadenfall richtig melden](/ratgeber/gewerbe-schadenfall-richtig-melden/)
+- [Gewerbemietvertrag und Versicherung](/ratgeber/gewerbemietvertrag-versicherung/)
+- [Gewerbeversicherungen im Überblick](/ratgeber/gewerbeversicherungen-ueberblick/)

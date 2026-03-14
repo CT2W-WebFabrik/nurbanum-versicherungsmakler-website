@@ -78,12 +78,7 @@ Die Gewässerschadenhaftpflicht ist speziell für Besitzer von Heizöltanks und 
 
 Ich prüfe, welches Umwelthaftungsrisiko Ihr Betrieb tatsächlich trägt, und empfehle den passenden Schutz — ob als Erweiterung der Betriebshaftpflicht oder als eigenständige Umwelthaftpflichtpolice. Dabei berücksichtige ich branchenspezifische Risiken, Standortfaktoren und die gesetzlichen Anforderungen. Unabhängig, sorgfältig und auf Ihre Branche zugeschnitten.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Klimarisiken und Elementarversicherung](/ratgeber/klimarisiken-gewerbe-elementarversicherung/)
+- [Pflichtversicherungen für Unternehmen](/ratgeber/pflichtversicherungen-unternehmen/)

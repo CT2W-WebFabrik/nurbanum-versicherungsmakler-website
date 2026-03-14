@@ -353,4 +353,20 @@ const gewerbeCategories = [
       }
     }
   </script>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Versicherungen — Nurbanum Versicherungsmakler",
+    "description": "Alle Versicherungen im Überblick: Privat- und Gewerbeversicherungen unabhängig verglichen.",
+    "publisher": { "@id": "https://nurbanum.de/#organization" },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": sorted.map((entry, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": new URL(url(`/versicherungen/${entry.id}/`), Astro.site).toString()
+      }))
+    }
+  })} />
 </BaseLayout>

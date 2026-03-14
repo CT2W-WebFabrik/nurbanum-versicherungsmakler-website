@@ -68,12 +68,8 @@ Die Wohngebäudeversicherung ist ein komplexes Produkt mit vielen Stellschrauben
 
 Ich überprüfe Ihren bestehenden Vertrag, ermittle den korrekten Versicherungswert und stelle sicher, dass Ihr Eigenheim umfassend geschützt ist -- auch gegen die Risiken, die in den letzten Jahren deutlich an Bedeutung gewonnen haben.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Versicherungen beim Immobilienkauf](/ratgeber/immobilienkauf-versicherungen/)
+- [Elementarschutz: Hochwasser und Starkregen](/ratgeber/elementarschutz-hochwasser-starkregen/)
+- [Photovoltaik und Wärmepumpe versichern](/ratgeber/photovoltaik-waermepumpe-versichern/)

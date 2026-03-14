@@ -68,12 +68,8 @@ Die bAV ist ein Zusammenspiel aus Arbeitsrecht, Steuerrecht, Sozialversicherungs
 
 Ich berate Sie auf beiden Seiten: Arbeitnehmer unterstütze ich bei der Auswahl und Optimierung ihrer bAV, Arbeitgebern helfe ich bei der Konzeption und Einrichtung eines attraktiven Versorgungswerks. Dabei begleite ich den gesamten Prozess — von der ersten Analyse über die Auswahl des passenden Durchführungswegs bis zur laufenden Betreuung und Anpassung an gesetzliche Änderungen.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [bAV für Arbeitgeber](/ratgeber/bav-fuer-arbeitgeber/)
+- [Mitarbeiter-Benefits und Versicherungen](/ratgeber/mitarbeiter-benefits-versicherungen/)
+- [Mitarbeiter einstellen: Versicherungen](/ratgeber/mitarbeiter-einstellen-versicherungen/)

@@ -66,12 +66,8 @@ Die Risikolebensversicherung ist grundsätzlich ein vergleichsweise einfaches Pr
 
 Ich berechne mit Ihnen den passenden Absicherungsbedarf, wähle das richtige Modell (konstant, fallend, Überkreuz), führe bei Bedarf anonyme Voranfragen durch und finde den Tarif mit dem besten Preis-Leistungs-Verhältnis.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Versicherungen im Todesfall](/ratgeber/versicherungen-im-todesfall/)
+- [Versicherungen nach der Hochzeit](/ratgeber/versicherungen-nach-der-hochzeit/)
+- [Versicherungen beim Immobilienkauf](/ratgeber/immobilienkauf-versicherungen/)

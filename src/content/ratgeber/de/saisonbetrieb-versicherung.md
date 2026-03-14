@@ -184,13 +184,3 @@ Saisonale Geschäftsmodelle brauchen maßgeschneiderte Versicherungslösungen. A
 
 - [§ 23 VVG — Gefahrerhöhung](https://www.gesetze-im-internet.de/vvg_2008/__23.html)
 - [§ 9 FZV — Saisonkennzeichen](https://www.gesetze-im-internet.de/fzv_2023/__9.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

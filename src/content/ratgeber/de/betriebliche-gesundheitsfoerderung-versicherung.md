@@ -178,13 +178,3 @@ Die richtige Kombination aus Gehaltsbestandteilen und Versicherungsbenefits hän
 
 - [§ 8 Abs. 2 Satz 11 EStG — Sachbezugsfreigrenze 50 Euro](https://www.gesetze-im-internet.de/estg/__8.html)
 - [§ 3 Nr. 63 EStG — Steuerfreie Beiträge zur bAV](https://www.gesetze-im-internet.de/estg/__3.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

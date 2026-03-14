@@ -70,13 +70,3 @@ Der geringe Beitrag steht in keinem Verhältnis zu den möglichen Schadensummen 
 ## Mein Rat
 
 Die Jagdhaftpflicht ist Pflicht — aber die Qualität der Tarife unterscheidet sich deutlich. Von der Deckungssumme über Jagdhunde bis zum Auslandsschutz und Jagdpachtrisiko gibt es erhebliche Unterschiede. Als unabhängiger Makler finde ich den Tarif mit den besten Bedingungen für Ihre jagdliche Tätigkeit.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

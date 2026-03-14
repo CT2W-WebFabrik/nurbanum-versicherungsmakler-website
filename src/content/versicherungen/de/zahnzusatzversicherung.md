@@ -73,12 +73,8 @@ Ich analysiere Ihren aktuellen Zahnstatus, Ihre Erwartungen und Ihren bisherigen
 
 Besonders wichtig: Wenn bereits Behandlungsbedarf besteht, gibt es spezielle Tarife, die auch angeratene Behandlungen abdecken — allerdings zu höheren Beiträgen und mit längeren Zahnstaffeln. Auch Tarife ohne Wartezeiten und ohne Gesundheitsfragen existieren, haben aber meist niedrigere Erstattungsgrenzen in den ersten Jahren. Ich finde für jede Ausgangssituation die beste Lösung — ob als Vorsorge für gesunde Zähne oder als nachträgliche Absicherung bei bestehendem Behandlungsbedarf.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Spartipps bei Versicherungen](/ratgeber/spartipps-versicherungen/)
+- [PKV oder GKV?](/ratgeber/pkv-oder-gkv/)

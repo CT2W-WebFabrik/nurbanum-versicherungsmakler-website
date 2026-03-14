@@ -65,12 +65,8 @@ Die Hausratversicherung erscheint auf den ersten Blick einfach, birgt aber zahlr
 
 Ich prüfe Ihren bestehenden Vertrag, identifiziere Lücken und finde die passende Absicherung -- ohne unnötige Bausteine und zu einem fairen Beitrag.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Versicherungen bei Umzug](/ratgeber/versicherungen-bei-umzug/)
+- [Schadenfall richtig melden](/ratgeber/schadenfall-richtig-verhalten/)
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)

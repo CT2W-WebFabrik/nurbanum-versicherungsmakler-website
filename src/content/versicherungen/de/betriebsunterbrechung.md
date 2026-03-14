@@ -73,12 +73,8 @@ Die Betriebsunterbrechungsversicherung wird häufig als Zusatzbaustein zur Inhal
 
 Ich berechne gemeinsam mit Ihnen die richtige Versicherungssumme und Haftzeit, stimme die Betriebsunterbrechungsversicherung auf Ihre Sachversicherung ab und achte darauf, dass keine Deckungslücken entstehen. So sind Sie im Schadenfall vollständig abgesichert.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Betriebsunterbrechung: Vorsorge](/ratgeber/betriebsunterbrechung-vorsorge/)
+- [Saisonbetrieb versichern](/ratgeber/saisonbetrieb-versicherung/)
+- [Gewerbeversicherungen im Überblick](/ratgeber/gewerbeversicherungen-ueberblick/)

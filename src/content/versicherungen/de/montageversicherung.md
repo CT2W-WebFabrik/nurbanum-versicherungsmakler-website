@@ -85,13 +85,3 @@ Bei Projekten, die sowohl Bau- als auch Montageleistungen umfassen (z. B. Neubau
 ## Mein Rat
 
 Die Montageversicherung schützt Ihr Unternehmen vor den erheblichen Risiken technischer Installationen. Als unabhängiger Makler finde ich den passenden Schutz für Ihre Montageprojekte — ob als Einzelpolice für ein Großprojekt oder als laufende Umsatzpolice für den gesamten Jahresumsatz.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

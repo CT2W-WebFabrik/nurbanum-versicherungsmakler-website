@@ -68,13 +68,3 @@ Die freie Krankenhauswahl ermöglicht es Ihnen zudem, Spezialkliniken aufzusuche
 ## Mein Beratungsansatz
 
 Ich vergleiche die Tarife der relevanten Anbieter nach Leistungsumfang, Beitragsentwicklung und Bedingungswerk. Dabei berücksichtige ich Ihr Alter, Ihren Gesundheitszustand und Ihre individuellen Anforderungen. So finden Sie den Schutz, der zu Ihren Wünschen und Ihrem Budget passt — ohne versteckte Einschränkungen im Kleingedruckten.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

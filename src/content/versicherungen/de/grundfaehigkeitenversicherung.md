@@ -77,13 +77,3 @@ Die Grundfähigkeitenversicherung ist besonders für körperlich arbeitende Beru
 Ich prüfe, ob eine Grundfähigkeitenversicherung für Sie die richtige Wahl ist — als Alternative oder als Ergänzung zur BU. Dabei vergleiche ich die Fähigkeitskataloge und Leistungsdefinitionen der verschiedenen Anbieter im Detail, damit Sie im Ernstfall tatsächlich abgesichert sind.
 
 Besonders wichtig: Vor dem Abschluss sollte immer geprüft werden, ob nicht doch eine Berufsunfähigkeitsversicherung möglich ist — auch mit Einschränkungen oder Risikozuschlägen. Die BU bietet den umfassenderen Schutz. Nur wenn eine BU nicht oder nicht zu vertretbaren Konditionen erhältlich ist, empfehle ich die Grundfähigkeitenversicherung als beste verfügbare Alternative. Bei Bedarf kombiniere ich beide Produkte für maximalen Schutz Ihrer Arbeitskraft.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

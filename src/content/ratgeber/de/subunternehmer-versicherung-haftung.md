@@ -198,13 +198,3 @@ Die Zusammenarbeit mit Subunternehmern ist aus Ihrem Geschäftsmodell nicht wegz
 
 - [§ 278 BGB — Verantwortlichkeit für Dritte (Erfüllungsgehilfe)](https://www.gesetze-im-internet.de/bgb/__278.html)
 - [§ 831 BGB — Haftung für den Verrichtungsgehilfen](https://www.gesetze-im-internet.de/bgb/__831.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

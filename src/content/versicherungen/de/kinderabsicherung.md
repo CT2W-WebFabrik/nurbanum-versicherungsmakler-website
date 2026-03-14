@@ -85,12 +85,7 @@ Nicht alle Versicherungen müssen sofort abgeschlossen werden. Eine sinnvolle Re
 
 Ich erstelle ein Gesamtkonzept für die Absicherung Ihrer Familie: Kinder und Eltern. Dabei setze ich Prioritäten — nicht jede Versicherung ist sofort nötig, aber die wichtigsten sollten frühzeitig bestehen. Unabhängig, verständlich und auf Ihre Familiensituation zugeschnitten.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Familien richtig versichern](/ratgeber/familien-versicherungen/)
+- [Versicherungen für Berufseinsteiger](/ratgeber/berufseinsteiger-versicherungen/)

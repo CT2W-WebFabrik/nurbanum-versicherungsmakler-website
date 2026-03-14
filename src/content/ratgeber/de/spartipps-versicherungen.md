@@ -212,13 +212,3 @@ Sie möchten wissen, wo bei Ihren Verträgen Einsparpotenzial schlummert? Als un
 
 - [GDV: Statistiken zur deutschen Versicherungswirtschaft — Kennzahlen und Versicherungsausgaben deutscher Haushalte](https://www.gdv.de/gdv/statistik)
 - [Verbraucherzentrale: Welche Versicherungen brauche ich? — Bewertung einzelner Versicherungsarten nach Notwendigkeit](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/check-welche-versicherungen-brauche-ich-113573)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

@@ -75,13 +75,3 @@ Die Prämie richtet sich nach Branche, Umsatz, Mitarbeiterzahl und gewünschter 
 ## Mein Rat
 
 Die Vertrauensschadenversicherung ist eine der am häufigsten unterschätzten Gewerbeversicherungen. Als unabhängiger Makler helfe ich Ihnen, Ihr Risiko einzuschätzen und den passenden Schutz zu finden.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

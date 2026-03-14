@@ -190,13 +190,3 @@ Die richtige Elementarversicherung für Ihren Gewerbebetrieb hängt von Standort
 
 - [GDV: Naturgefahrenreport — Elementarschutz für Unternehmen](https://www.gdv.de/gdv/themen/klima/so-sind-schaeden-durch-naturgefahren-versichert-11000)
 - [§ 1 UmweltHG — Anlagenhaftung](https://www.gesetze-im-internet.de/umwelthg/__1.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

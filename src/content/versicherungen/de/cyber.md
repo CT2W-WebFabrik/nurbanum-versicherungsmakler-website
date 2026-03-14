@@ -93,12 +93,8 @@ Viele Versicherer bieten im Rahmen der Police kostenlose Sicherheits-Checks und 
 
 Der Cyber-Versicherungsmarkt ist jung und unübersichtlich. Tarife unterscheiden sich erheblich in Leistungen, Ausschlüssen und Obliegenheiten. Als unabhängiger Makler vergleiche ich die Angebote, prüfe die Obliegenheiten und finde den Tarif, der zu Ihrem Risikoprofil und Ihrem IT-Sicherheitsniveau passt.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Cyber-Angriff: richtig reagieren](/ratgeber/cyber-angriff-richtig-reagieren/)
+- [Datenschutzverstoß und Versicherung](/ratgeber/datenschutzverstoss-versicherung/)
+- [KI-Haftung und Versicherung](/ratgeber/ki-haftung-versicherung-unternehmen/)

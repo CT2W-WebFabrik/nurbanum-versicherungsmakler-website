@@ -68,12 +68,8 @@ Die Vielzahl der Produkte, die steuerlichen Regelungen und die individuellen Fö
 
 Ich analysiere Ihre aktuelle Situation, berechne Ihre individuelle Versorgungslücke und entwickle mit Ihnen ein Vorsorgekonzept, das zu Ihren Zielen, Ihrem Budget und Ihrer Risikobereitschaft passt.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Altersvorsorge ab 40](/ratgeber/altersvorsorge-ab-40/)
+- [Altersvorsorgedepot 2027](/ratgeber/altersvorsorgedepot-2027/)
+- [Versorgungslücke schließen](/ratgeber/versorgungsluecke-schliessen/)

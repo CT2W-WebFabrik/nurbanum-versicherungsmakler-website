@@ -78,13 +78,3 @@ Angesichts der minimalen Kosten ist die Auslandskrankenversicherung die Versiche
 ## Mein Rat
 
 Die Auslandskrankenversicherung ist die günstigste Versicherung mit dem größten Nutzen: Für unter 25 Euro pro Jahr sind Sie weltweit geschützt. Als unabhängiger Makler finde ich den Tarif, der zu Ihrem persönlichen Reiseverhalten und Ihren Bedürfnissen passt.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

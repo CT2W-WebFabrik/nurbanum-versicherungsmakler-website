@@ -182,13 +182,3 @@ Ob Warenkreditversicherung, Factoring oder eine Kombination aus beidem — die r
 
 - [§ 17 InsO — Zahlungsunfähigkeit](https://www.gesetze-im-internet.de/inso/__17.html)
 - [§ 26 InsO — Abweisung mangels Masse](https://www.gesetze-im-internet.de/inso/__26.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

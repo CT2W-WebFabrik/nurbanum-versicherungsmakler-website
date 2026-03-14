@@ -77,13 +77,3 @@ Selbst wenn nur eine dieser Fragen mit „Ja" beantwortet wird, lohnt sich die V
 ## Mein Rat
 
 Besonders bei Hochzeiten und größeren Feiern mit fünfstelligem Budget ist die Veranstaltungsversicherung eine sinnvolle Investition. Als unabhängiger Makler helfe ich Ihnen, den richtigen Schutz für Ihr Event zusammenzustellen — individuell abgestimmt auf Veranstaltungsart, Gästezahl und Budget.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

@@ -334,4 +334,20 @@ for (const guide of gewerbeGuides) {
       }
     }
   </script>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Ratgeber & Tipps — Nurbanum Versicherungsmakler",
+    "description": "Verständlich erklärt: Ratgeber zu Versicherungen, Altersvorsorge und Gewerbeabsicherung.",
+    "publisher": { "@id": "https://nurbanum.de/#organization" },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": sorted.map((entry, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": new URL(url(`/ratgeber/${entry.id}/`), Astro.site).toString()
+      }))
+    }
+  })} />
 </BaseLayout>

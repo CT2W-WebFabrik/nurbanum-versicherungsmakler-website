@@ -162,13 +162,3 @@ Bevor Sie einen Franchise-Vertrag unterschreiben, sollten Sie die Versicherungsk
 
 - [§ 34d GewO — Versicherungsvermittler und Versicherungsberater](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [§ 1 PflVG — Pflichtversicherung für Kraftfahrzeughalter](https://www.gesetze-im-internet.de/pflvg/__1.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

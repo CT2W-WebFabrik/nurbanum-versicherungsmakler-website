@@ -78,12 +78,7 @@ Viele Wohngebäudeversicherungen schließen fest installierte PV-Anlagen in ihre
 
 Ich prüfe, ob Ihre Wohngebäudeversicherung die PV-Anlage ausreichend absichert oder ob eine eigenständige Photovoltaikversicherung sinnvoll ist. Dabei berücksichtige ich Anlagengröße, Speicher, Einspeisevergütung und Ihre individuelle Risikolage — unabhängig und passgenau.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Photovoltaik und Wärmepumpe versichern](/ratgeber/photovoltaik-waermepumpe-versichern/)
+- [Versicherungen beim Immobilienkauf](/ratgeber/immobilienkauf-versicherungen/)

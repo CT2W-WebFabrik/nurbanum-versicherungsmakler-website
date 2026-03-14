@@ -199,13 +199,3 @@ Jedes Bauprojekt ist anders — Größe, Komplexität, Beteiligte und Baugrund b
 
 - [§ 836 BGB — Haftung des Grundstücksbesitzers](https://www.gesetze-im-internet.de/bgb/__836.html)
 - [§ 634a BGB — Verjährung der Mängelansprüche](https://www.gesetze-im-internet.de/bgb/__634a.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

@@ -79,12 +79,8 @@ Die Beiträge hängen von Bauart, Nutzung, Standort (ZÜRS-Zone) und gewähltem 
 
 Ich bewerte Ihr Gewerbegebäude nach den tatsächlichen Risiken, ermittle den korrekten Versicherungswert und vergleiche die Angebote der relevanten Versicherer. So erhalten Sie einen umfassenden Gebäudeschutz ohne Deckungslücken — abgestimmt auf Nutzung, Bauweise und Standort.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Klimarisiken und Elementarversicherung](/ratgeber/klimarisiken-gewerbe-elementarversicherung/)
+- [Gewerbeversicherung regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)

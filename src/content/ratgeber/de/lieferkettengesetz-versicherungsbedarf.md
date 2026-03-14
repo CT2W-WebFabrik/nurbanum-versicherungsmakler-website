@@ -176,13 +176,3 @@ LkSG und CSRD sind keine reinen Rechtsthemen — sie verändern das Risikoprofil
 
 - [LkSG — Lieferkettensorgfaltspflichtengesetz](https://www.gesetze-im-internet.de/lksg/)
 - [Richtlinie 2022/2464/EU — CSRD](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L2464)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

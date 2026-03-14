@@ -76,13 +76,3 @@ Die Sterbegeldversicherung ist ausschließlich zur Deckung der Bestattungskosten
 ## Mein Beratungsansatz
 
 Ich berate Sie ehrlich, ob eine Sterbegeldversicherung in Ihrer Situation sinnvoll ist oder ob eine andere Lösung besser passt. Wenn ja, vergleiche ich die Tarife und achte auf ein faires Beitrags-Leistungs-Verhältnis.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

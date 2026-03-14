@@ -200,13 +200,3 @@ Jede Familie ist anders — Einkommensstruktur, Wohnsituation, Kinderanzahl und 
 
 - [DRV: Statistiken und Berichte — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html)
 - [§ 828 BGB — Minderjährige — Deliktunfähigkeit bei Kindern unter 7 Jahren (im Verkehr unter 10)](https://www.gesetze-im-internet.de/bgb/__828.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

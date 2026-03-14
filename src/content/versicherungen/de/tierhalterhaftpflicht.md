@@ -78,12 +78,7 @@ In sechs Bundesländern ist die Hundehaftpflicht für alle Hunde gesetzlich vorg
 
 Die Tarife unterscheiden sich in den Details erheblich — von der Deckungssumme über Mietsachschäden bis zum Fremdhüterrisiko. Ich vergleiche für Sie die Angebote und finde den optimalen Schutz für Sie und Ihren Vierbeiner — zu einem fairen Beitrag.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Haustiere versichern](/ratgeber/haustiere-versichern/)
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)

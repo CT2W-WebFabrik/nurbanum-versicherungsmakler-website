@@ -69,12 +69,7 @@ Der Versicherer prüft die Bonität Ihrer Kunden und vergibt für jeden Abnehmer
 
 Die Warenkreditversicherung ist besonders für Unternehmen mit hohem B2B-Anteil und Zahlungszielen über 30 Tage ein wichtiges Instrument. Als unabhängiger Makler vergleiche ich die Konditionen der führenden Kreditversicherer und finde die passende Lösung für Ihr Geschäft.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Warenkreditversicherung-Ratgeber](/ratgeber/warenkreditversicherung-ratgeber/)
+- [Export und Auslandsrisiken](/ratgeber/export-versicherung-auslandsrisiken/)

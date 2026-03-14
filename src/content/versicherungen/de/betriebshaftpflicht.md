@@ -77,12 +77,8 @@ Die Beiträge richten sich nach Branche, Umsatz, Mitarbeiterzahl und dem konkret
 
 Kein Unternehmen gleicht dem anderen — deshalb gibt es auch keine Betriebshaftpflicht von der Stange. Ich analysiere Ihre konkreten Betriebsrisiken, vergleiche passende Tarife am Markt und sorge dafür, dass Ihre Deckung zu Ihrem tatsächlichen Geschäftsbetrieb passt — ohne unnötige Bausteine und ohne gefährliche Deckungslücken. Als unabhängiger Makler bin ich nicht an bestimmte Versicherer gebunden.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Betriebshaftpflicht-Ratgeber](/ratgeber/betriebshaftpflicht-ratgeber/)
+- [Handwerker-Versicherungen](/ratgeber/handwerker-versicherungen/)
+- [Existenzgründer-Versicherungen](/ratgeber/existenzgruender-versicherungen/)

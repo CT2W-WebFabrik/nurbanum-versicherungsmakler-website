@@ -82,12 +82,8 @@ Je früher der Abschluss, desto günstiger der Beitrag — und desto wahrscheinl
 
 Die Pflegeversicherung ist ein komplexes Thema mit vielen Tarifvarianten und unterschiedlichen Leistungsauslösern. Als unabhängiger Makler vergleiche ich die Angebote am Markt und finde die Absicherung, die zu Ihrem Budget und Ihren Bedürfnissen passt.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
+- [Senioren: Versicherungen ab 50+](/ratgeber/senioren-versicherungen-50-plus/)
+- [Versicherungen im Erbfall](/ratgeber/versicherungen-im-erbfall/)

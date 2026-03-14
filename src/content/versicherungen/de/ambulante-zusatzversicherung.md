@@ -70,13 +70,3 @@ Die ambulante Zusatzversicherung kostet je nach Leistungsumfang und Eintrittsalt
 ## Mein Beratungsansatz
 
 Ich ermittle, welche ambulanten Leistungen für Sie tatsächlich relevant sind, und empfehle einen Tarif, der genau diese Bereiche abdeckt. Dabei prüfe ich auch, welche Leistungen Ihre GKV bereits freiwillig übernimmt — so vermeiden Sie doppelte Absicherung. Keine überflüssigen Bausteine, keine fehlenden Leistungen — passgenau und unabhängig verglichen.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

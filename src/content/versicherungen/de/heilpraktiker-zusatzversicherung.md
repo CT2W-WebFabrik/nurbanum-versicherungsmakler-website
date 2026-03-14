@@ -71,13 +71,3 @@ Bei regelmäßiger Nutzung — beispielsweise 6 Osteopathie-Sitzungen à 100 Eur
 ## Mein Beratungsansatz
 
 Ich vergleiche die spezialisierten Heilpraktikertarife und die ambulanten Kombitarife am Markt, um die beste Lösung für Ihren individuellen Bedarf zu finden. Dabei prüfe ich auch die Satzungsleistungen Ihrer GKV — so vermeiden Sie doppelte Absicherung und finden den Tarif, der Ihre tatsächliche Versorgungslücke schließt. Ob eigenständiger Tarif oder als Teil eines umfassenderen Pakets — ich berate Sie unabhängig.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

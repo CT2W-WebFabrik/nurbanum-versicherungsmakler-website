@@ -75,12 +75,7 @@ Die Pandemie hat den Markt für Betriebsschließungsversicherungen grundlegend v
 
 Gerade für Gastronomen und Lebensmittelbetriebe ist die Betriebsschließungsversicherung ein wichtiger Baustein. Als unabhängiger Makler prüfe ich die Bedingungen genau — insbesondere den Krankheitskatalog und die Pandemie-Regelungen.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Betriebsschließungsversicherung-Ratgeber](/ratgeber/betriebsschliessungsversicherung-ratgeber/)
+- [Gastronomie-Versicherungen](/ratgeber/gastronomie-versicherungen-leitfaden/)

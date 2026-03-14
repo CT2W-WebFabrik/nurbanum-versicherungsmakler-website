@@ -225,13 +225,3 @@ Die Kfz-Versicherung wird in vielen Betrieben nebenbei erledigt — oft mit der 
 
 - [Anlage zu § 4 Abs. 2 PflVG — Mindestversicherungssummen — 7,5 Mio. Euro Personenschäden, 1,3 Mio. Euro Sachschäden, 50.000 Euro Vermögensschäden](https://www.gesetze-im-internet.de/pflvg/anlage.html)
 - [§ 1 PflVG — Pflichtversicherung für Kraftfahrzeughalter — gesetzliche Versicherungspflicht](https://www.gesetze-im-internet.de/pflvg/__1.html)
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

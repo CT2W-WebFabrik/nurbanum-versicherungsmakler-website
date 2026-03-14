@@ -77,13 +77,3 @@ Für gewerbliche Piloten, die in der Kategorie „Specific" fliegen (z. B. bei I
 ## Mein Rat
 
 Prüfen Sie zunächst, ob Ihre bestehende Privathaftpflichtversicherung Drohnen einschließt — und ob die Deckungssumme den EU-Anforderungen genügt. Falls nicht, finde ich als unabhängiger Makler den passenden Tarif — ob als Erweiterung Ihrer Haftpflicht oder als separate Police für private oder gewerbliche Nutzung.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

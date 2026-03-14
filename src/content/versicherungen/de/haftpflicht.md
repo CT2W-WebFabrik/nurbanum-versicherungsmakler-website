@@ -73,12 +73,8 @@ Eine Privathaftpflichtversicherung können Sie grundsätzlich selbst abschließe
 
 Als unabhängiger Versicherungsmakler vergleiche ich für Sie die Bedingungswerke zahlreicher Anbieter und finde den Tarif, der wirklich zu Ihrer Lebenssituation passt -- nicht den, der in der Werbung am lautesten ist.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Familien richtig versichern](/ratgeber/familien-versicherungen/)
+- [Haustiere versichern](/ratgeber/haustiere-versichern/)

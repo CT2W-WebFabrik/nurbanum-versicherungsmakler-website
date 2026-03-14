@@ -70,13 +70,3 @@ Die Beiträge sind als Betriebskosten auf die Mieter umlagefähig. Bei mehreren 
 ## Mein Beratungsansatz
 
 Ich prüfe Ihren Immobilienbestand und die damit verbundenen Haftungsrisiken. Ob eine einzelne vermietete Eigentumswohnung oder ein Portfolio aus Mietshäusern — ich finde den passenden Schutz, berücksichtige Bündelrabatte und vergleiche die Angebote unabhängig.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

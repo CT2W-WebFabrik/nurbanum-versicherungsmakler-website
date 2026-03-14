@@ -78,13 +78,3 @@ Ab einer Mietdauer von etwa 5 bis 7 Jahren übersteigen die kumulierten Beiträg
 ## Mein Rat
 
 Die Mietkautionsversicherung ist kein Muss, aber ein sinnvolles Instrument in bestimmten Lebenssituationen. Als unabhängiger Versicherungsmakler helfe ich Ihnen bei der Entscheidung, ob sich die Bürgschaft in Ihrem Fall lohnt, und finde den günstigsten Anbieter für Ihre individuelle Situation und Mietdauer.
-
-<div class="cta-box">
-
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>

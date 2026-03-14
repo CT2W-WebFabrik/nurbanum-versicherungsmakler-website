@@ -71,12 +71,8 @@ Die Standard-Produkthaftpflicht deckt Personen- und Sachschäden durch fehlerhaf
 
 Ich prüfe Ihre Produktpalette, Ihre Absatzmärkte und das damit verbundene Haftungsrisiko. Ob als Baustein in der Betriebshaftpflicht oder als eigenständige Police mit Rückrufkostendeckung — ich finde die richtige Deckung für Ihr Unternehmen und vergleiche unabhängig die Angebote relevanter Versicherer.
 
-<div class="cta-box">
+### Weiterlesen
 
-**Kostenlose Beratung anfragen**
-
-Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
-
-[Jetzt Beratungstermin vereinbaren →](/kontakt/)
-
-</div>
+- [Produkthaftung für Hersteller](/ratgeber/produkthaftung-hersteller/)
+- [Export und Auslandsrisiken](/ratgeber/export-versicherung-auslandsrisiken/)
+- [Pflichtversicherungen für Unternehmen](/ratgeber/pflichtversicherungen-unternehmen/)
