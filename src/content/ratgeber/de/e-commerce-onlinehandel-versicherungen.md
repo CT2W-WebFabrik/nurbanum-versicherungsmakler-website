@@ -3,7 +3,7 @@ title: "Versicherungen für E-Commerce und Onlinehandel"
 description: "Produkthaftung, Cyber, Transport — welche Versicherungen Onlinehändler brauchen und worauf sie achten müssen."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-13
 readingTime: "6 Min."
 ---
 
@@ -53,3 +53,11 @@ Schützt Ihren Warenbestand im Lager vor Feuer, Einbruchdiebstahl, Leitungswasse
 E-Commerce wächst schnell — und die Risiken wachsen mit. Als unabhängiger Makler kenne ich die speziellen Anforderungen des Onlinehandels und finde den passenden Schutz für Ihr Geschäft.
 
 **Sprechen Sie mich an** — damit Sie sich auf Ihr Geschäft konzentrieren können.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Cyber-Angriff: So reagieren Sie richtig](/ratgeber/cyber-angriff-richtig-reagieren/)
+- [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
+- [Cyber-Versicherung](/versicherungen/cyber/)

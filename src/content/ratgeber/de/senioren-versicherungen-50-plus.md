@@ -3,7 +3,7 @@ title: "Versicherungen ab 50: Was ändert sich, was brauchen Sie noch?"
 description: "Ab 50 ändern sich die Prioritäten. Welche Versicherungen Sie behalten, anpassen oder kündigen sollten."
 category: "Lebenssituationen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-03-06
 readingTime: "6 Min."
 ---
 
@@ -49,3 +49,11 @@ Im Ruhestand haben viele mehr Zeit zum Reisen. Eine Auslandskrankenversicherung 
 Die Phase ab 50 ist der ideale Zeitpunkt für einen umfassenden Versicherungscheck. Als unabhängiger Makler helfe ich Ihnen, Ihren Schutz an die neue Lebensphase anzupassen — ohne unnötige Kosten, ohne Lücken.
 
 **Vereinbaren Sie einen Termin** — ich berate Sie persönlich und unverbindlich.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherungen im Ruhestand](/ratgeber/versicherungen-im-ruhestand/)
+- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
+- [Pflegeversicherung](/versicherungen/pflegeversicherung/)

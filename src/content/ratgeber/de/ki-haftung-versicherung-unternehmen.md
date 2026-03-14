@@ -3,7 +3,7 @@ title: "KI im Unternehmen: Haftungsrisiken und Versicherungsschutz"
 description: "EU AI Act, Haftung bei KI-Fehlern, bestehende Versicherungslücken — was Unternehmen beim Einsatz künstlicher Intelligenz beachten müssen."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-13
 readingTime: "8 Min."
 ---
 
@@ -76,6 +76,15 @@ KI-Systeme verarbeiten häufig personenbezogene Daten. Automatisierte Einzelents
 Der KI-Einsatz im Unternehmen ist längst keine Zukunftsmusik mehr — aber die Versicherungsbranche hinkt der Entwicklung noch hinterher. Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre bestehenden Policen KI-Risiken abdecken, und finde Lösungen für offene Lücken.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit der KI-Einsatz in Ihrem Unternehmen abgesichert ist.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [Cyber-Versicherung](/versicherungen/cyber/)
 
 ---
 

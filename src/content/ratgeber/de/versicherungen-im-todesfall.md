@@ -3,7 +3,7 @@ title: "Todesfall: Was Angehörige bei Versicherungen tun müssen"
 description: "Welche Versicherungen müssen nach einem Todesfall gemeldet, gekündigt oder umgeschrieben werden? Ein Leitfaden mit Fristen, Checkliste und praktischen Hinweisen."
 category: "Vorsorge"
 audience: "privat"
-publishDate: 2026-03-13
+publishDate: 2026-02-17
 readingTime: "8 Min."
 ---
 
@@ -102,6 +102,15 @@ Falls ein Versicherungsmakler die Verträge betreut hat, kann dieser eine Übers
 In den Wochen nach einem Todesfall kommen viele Aufgaben zusammen. Die Versicherungsangelegenheiten lassen sich delegieren. Als unabhängiger Versicherungsmakler übernehme ich die systematische Erfassung aller Verträge, die Kommunikation mit den Versicherern, die Einhaltung der Fristen und die Neuordnung des Versicherungsschutzes für die Hinterbliebenen.
 
 **Melden Sie sich, wenn Sie Unterstützung brauchen** — ich kümmere mich um die Formalitäten, damit Sie sich auf das konzentrieren können, was jetzt wirklich zählt.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Versicherungen im Erbfall](/ratgeber/versicherungen-im-erbfall/)
+- [Versicherungen für Familien](/ratgeber/familien-versicherungen/)
+- [Risikolebensversicherung](/versicherungen/risikoleben/)
 
 ---
 

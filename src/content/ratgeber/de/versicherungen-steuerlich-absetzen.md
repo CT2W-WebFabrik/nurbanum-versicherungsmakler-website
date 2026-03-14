@@ -2,7 +2,7 @@
 title: "Welche Versicherungen kann ich von der Steuer absetzen?"
 description: "Haftpflicht, BU, Krankenversicherung — welche Versicherungen steuerlich absetzbar sind, wo die Grenzen liegen und was Selbständige beachten müssen."
 category: "Finanztipps"
-publishDate: 2026-03-13
+publishDate: 2026-02-26
 readingTime: "7 Min."
 ---
 
@@ -123,6 +123,15 @@ Bei Verheirateten verdoppeln sich die Höchstbeträge für Vorsorgeaufwendungen.
 Die steuerliche Absetzbarkeit sollte nie das Hauptargument für oder gegen eine Versicherung sein — der Schutz steht im Vordergrund. Trotzdem lohnt sich ein Blick auf die steuerlichen Möglichkeiten. Als unabhängiger Versicherungsmakler helfe ich Ihnen, Ihren Versicherungsschutz zu optimieren und die steuerlichen Vorteile mitzudenken.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Versicherungscheck** — und bringen Sie Schutz und Steuerersparnis zusammen.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [8 Spartipps für Ihre Versicherungen](/ratgeber/spartipps-versicherungen/)
+- [Gewerbeversicherungen steuerlich absetzen](/ratgeber/gewerbe-versicherungen-steuerlich-absetzen/)
+- [Berufsunfähigkeitsversicherung](/versicherungen/berufsunfaehigkeit/)
 
 ---
 

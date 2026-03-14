@@ -3,7 +3,7 @@ title: "Scheidung und Versicherungen: Was Sie beachten müssen"
 description: "Nach einer Trennung müssen viele Versicherungen angepasst werden. Haftpflicht, Krankenversicherung, Risikoleben, Kfz — alle Schritte und Fristen im Überblick."
 category: "Lebensplanung"
 audience: "privat"
-publishDate: 2026-03-13
+publishDate: 2026-01-14
 readingTime: "8 Min."
 ---
 
@@ -101,3 +101,11 @@ Der Versorgungsausgleich wird vom Familiengericht durchgeführt und ist Teil des
 Eine Scheidung bringt viele organisatorische Aufgaben mit sich — die Versicherungen sollten dabei nicht auf der langen Bank landen. Als unabhängiger Versicherungsmakler unterstütze ich Sie bei der strukturierten Überprüfung aller bestehenden Verträge, kläre offene Fragen mit den Versicherern und sorge dafür, dass Sie nach der Trennung lückenlos und sinnvoll abgesichert sind.
 
 **Vereinbaren Sie jetzt Ihr vertrauliches Beratungsgespräch** — damit der Neuanfang auf einem soliden Fundament steht.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Heirat und Versicherungen](/ratgeber/versicherungen-nach-der-hochzeit/)
+- [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
+- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)

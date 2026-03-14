@@ -3,7 +3,7 @@ title: "ESG und Nachhaltigkeit: Neue Versicherungsrisiken für Unternehmen"
 description: "Greenwashing-Haftung, ESG-Berichtspflichten, Umweltrisiken — wie Nachhaltigkeitsanforderungen den Versicherungsbedarf von Unternehmen verändern."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-21
 readingTime: "7 Min."
 ---
 
@@ -84,6 +84,15 @@ CSRD, EU-Taxonomie und das Hinweisgeberschutzgesetz schaffen neue Compliance-Anf
 Nachhaltigkeit schafft Chancen — aber auch neue Haftungsrisiken. Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre bestehenden Policen ESG-Risiken abdecken, und finde Lösungen für offene Lücken.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit Nachhaltigkeit kein unversichertes Risiko bleibt.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Lieferkettengesetz: Neue Versicherungsrisiken](/ratgeber/lieferkettengesetz-versicherungsbedarf/)
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [D&O-Versicherung](/versicherungen/dno-versicherung/)
 
 ---
 

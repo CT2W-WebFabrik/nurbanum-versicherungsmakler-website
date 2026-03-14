@@ -3,7 +3,7 @@ title: "Lieferkettengesetz und CSRD: Neue Versicherungsrisiken für Unternehmen"
 description: "Wie das Lieferkettensorgfaltspflichtengesetz und die CSRD-Berichtspflicht Ihren Versicherungsbedarf verändern — D&O, Haftpflicht, Compliance."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-24
 readingTime: "8 Min."
 ---
 
@@ -82,6 +82,15 @@ BAFA-Verfahren, zivilrechtliche Klagen von NGOs oder Betroffenen, Verteidigung g
 LkSG und CSRD sind keine reinen Rechtsthemen — sie verändern das Risikoprofil Ihres Unternehmens. Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre bestehenden Policen die neuen Compliance-Risiken abdecken, und finde Lösungen für offene Lücken.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit neue Pflichten nicht zu unversicherten Risiken werden.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [ESG und Nachhaltigkeit: Neue Versicherungsrisiken](/ratgeber/esg-nachhaltigkeit-versicherungsbedarf/)
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [D&O-Versicherung](/versicherungen/dno-versicherung/)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Versicherungen und Inflation: Summen rechtzeitig anpassen"
 description: "Steigende Baukosten, höhere Wiederbeschaffungswerte — warum Sie Ihre Versicherungssummen regelmäßig prüfen müssen."
 category: "Grundlagen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-02-18
 readingTime: "5 Min."
 ---
 
@@ -43,3 +43,11 @@ Wenn Ihre Versicherungssumme unter dem tatsächlichen Wert liegt, kürzt der Ver
 Inflation ist ein schleichender Risikofaktor. Als unabhängiger Makler prüfe ich Ihre Versicherungssummen und stelle sicher, dass Ihr Schutz mit den steigenden Kosten Schritt hält.
 
 **Vereinbaren Sie einen Termin** — eine Summenprüfung dauert nur wenige Minuten und kann im Schadenfall Zehntausende Euro ausmachen.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Versicherungscheck: Verträge prüfen](/ratgeber/versicherungscheck-regelmaessig-pruefen/)
+- [Hausratversicherung](/versicherungen/hausrat/)

@@ -3,7 +3,7 @@ title: "Firmenwagen und Fuhrpark richtig versichern"
 description: "Kfz-Haftpflicht, Kasko, Flottenversicherung — wie Sie Ihren Fuhrpark optimal absichern und wo Sie als Unternehmer Beiträge sparen können."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-02-05
 readingTime: "8 Min."
 ---
 
@@ -105,6 +105,15 @@ Wenn Mitarbeiter auf Geschäftsreise im Ausland einen Mietwagen nutzen, ergänzt
 Die Kfz-Versicherung wird in vielen Betrieben nebenbei erledigt — oft mit der günstigsten Police, die sich online findet. Das kann im Schadenfall teuer werden. Als unabhängiger Makler analysiere ich Ihren Fuhrpark, vergleiche Einzel- und Flottenkonditionen und finde die wirtschaftlichste Lösung mit dem richtigen Deckungsumfang.
 
 **Lassen Sie uns Ihren Fuhrpark gemeinsam prüfen** — kostenlos und unverbindlich.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [E-Auto und Wallbox richtig versichern](/ratgeber/versicherung-e-auto-wallbox/)
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Kfz-Flottenversicherung](/versicherungen/kfz-flotten/)
 
 ---
 

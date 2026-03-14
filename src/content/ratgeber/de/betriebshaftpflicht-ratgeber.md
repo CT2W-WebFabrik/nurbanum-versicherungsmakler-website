@@ -3,7 +3,7 @@ title: "Betriebshaftpflicht: Was muss versichert sein?"
 description: "Betriebshaftpflicht ist die wichtigste Gewerbeversicherung. Welche Schäden sie deckt, wann die Deckung greift und welche Ausschlüsse Sie kennen müssen."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-02-10
 readingTime: "9 Min."
 ---
 
@@ -82,3 +82,11 @@ Die Betriebshaftpflicht wird nicht nach einem Standardtarif berechnet. Jede Bran
 Ohne Betriebshaftpflicht setzen Sie alles aufs Spiel, was Sie aufgebaut haben. Ein einziger Personenschaden auf Ihrem Betriebsgelände oder beim Kunden kann sechsstellige Kosten verursachen. Als unabhängiger Versicherungsmakler vergleiche ich für Sie die Tarife der führenden Gewerbeversicherer und finde den Schutz, der zu Ihrer Branche und Ihrem Risikoprofil passt — ohne Lücken, ohne überflüssige Bausteine.
 
 **Lassen Sie uns Ihre Betriebshaftpflicht prüfen** — kostenlos und unverbindlich.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Produkthaftung: Wann haften Hersteller?](/ratgeber/produkthaftung-hersteller/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)

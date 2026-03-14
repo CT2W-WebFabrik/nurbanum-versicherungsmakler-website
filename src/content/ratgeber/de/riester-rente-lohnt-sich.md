@@ -2,7 +2,7 @@
 title: "Riester-Rente: Lohnt sich das noch?"
 description: "Zulagen, Steuervorteile, Kosten — eine ehrliche Bilanz der Riester-Rente. Für wen sie sich lohnt, wann Alternativen besser sind und was bei der Wahl zählt."
 category: "Altersvorsorge"
-publishDate: 2026-03-13
+publishDate: 2026-01-23
 readingTime: "9 Min."
 ---
 
@@ -88,6 +88,15 @@ Wer erst wenige Jahre vor der Rente mit Riester beginnt, hat kaum Zeit, Zulagen 
 Ob Riester für Sie sinnvoll ist, hängt von Ihrer Familiensituation, Ihrem Einkommen und Ihrem Alter ab. Als unabhängiger Versicherungsmakler prüfe ich Ihren bestehenden Riester-Vertrag — oder empfehle eine Alternative, wenn sie besser passt. Ohne Verkaufsdruck, ohne Provision auf ein bestimmtes Produkt.
 
 **Vereinbaren Sie jetzt Ihr kostenloses Vorsorgegespräch** — und finden Sie heraus, ob Riester für Sie funktioniert.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Altersvorsorge ab 40](/ratgeber/altersvorsorge-ab-40/)
+- [Versorgungslücke berechnen und schließen](/ratgeber/versorgungsluecke-schliessen/)
+- [Betriebliche Altersversorgung](/versicherungen/betriebliche-altersversorgung/)
 
 ---
 

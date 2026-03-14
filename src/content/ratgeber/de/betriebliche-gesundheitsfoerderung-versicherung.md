@@ -3,7 +3,7 @@ title: "Betriebliche Gesundheitsförderung und Gruppenversicherungen"
 description: "Betriebliche Krankenversicherung (bKV), Gruppenunfall, Krankentagegeld — wie Sie als Arbeitgeber mit Versicherungen Mitarbeiter binden und steuerlich profitieren."
 category: "Arbeitgeber"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-06
 readingTime: "7 Min."
 ---
 
@@ -87,6 +87,15 @@ Alle Mitarbeiter einer definierten Gruppe (z. B. alle Festangestellten, alle Mit
 Die richtige Kombination aus Gehaltsbestandteilen und Versicherungsbenefits hängt von Ihrer Branche, Ihrer Belegschaft und Ihrem Budget ab. Als unabhängiger Versicherungsmakler entwickle ich ein Benefits-Konzept, das Ihre Mitarbeiter überzeugt und steuerlich optimal gestaltet ist.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — und machen Sie Versicherungen zum Recruiting-Vorteil.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Betriebliches Gesundheitsmanagement](/ratgeber/betriebliches-gesundheitsmanagement/)
+- [Mitarbeiter-Benefits](/ratgeber/mitarbeiter-benefits-versicherungen/)
+- [Krankentagegeldversicherung](/versicherungen/krankentagegeld/)
 
 ---
 

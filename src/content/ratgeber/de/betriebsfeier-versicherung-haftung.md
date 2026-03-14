@@ -3,7 +3,7 @@ title: "Betriebsfeier und Firmenevent: Versicherungsschutz und Haftung"
 description: "Wann die gesetzliche Unfallversicherung bei Firmenfeiern greift, wer bei Schäden haftet und wie Sie Events richtig absichern."
 category: "Arbeitgeber"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-07
 readingTime: "7 Min."
 ---
 
@@ -74,6 +74,15 @@ Alkohol ist bei den meisten Betriebsfeiern Teil des Programms — und ein Haftun
 Als unabhängiger Versicherungsmakler prüfe ich, ob Ihre Betriebshaftpflicht auch Firmenveranstaltungen abdeckt, und organisiere bei Bedarf eine Veranstaltungshaftpflicht für Ihr nächstes Event.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit Sie Ihre Betriebsfeier sorgenfrei genießen können.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Mitarbeiter einstellen: Versicherungspflichten](/ratgeber/mitarbeiter-einstellen-versicherungen/)
+- [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Versicherungen bei Umzug: Was Sie ändern müssen"
 description: "Adressänderung, Wohngebäude, Hausrat — welche Versicherungen Sie beim Umzug anpassen, kündigen oder neu abschließen müssen."
 category: "Lebenssituationen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-01-28
 readingTime: "5 Min."
 ---
 
@@ -50,3 +50,11 @@ Wenn Ihr Versicherer nach dem Umzug den Beitrag erhöht (z. B. wegen höherer Re
 Ein Umzug ist der perfekte Zeitpunkt für einen Versicherungscheck. Als unabhängiger Makler gehe ich Ihre Verträge durch und sorge dafür, dass alles passt — kostenlos und unverbindlich.
 
 **Sprechen Sie mich an** — am besten noch vor dem Umzug.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Immobilie kaufen: Welche Versicherungen?](/ratgeber/immobilienkauf-versicherungen/)
+- [Unterversicherung vermeiden](/ratgeber/unterversicherung-vermeiden/)
+- [Hausratversicherung](/versicherungen/hausrat/)

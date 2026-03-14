@@ -2,7 +2,7 @@
 title: "Heirat und Versicherungen: Was Ehepaare jetzt ändern sollten"
 description: "Nach der Hochzeit Versicherungen zusammenlegen, Bezugsrechte ändern, Familientarife nutzen — was Ehepaare bei Haftpflicht, Hausrat, Risikoleben und Co. beachten müssen."
 category: "Lebensplanung"
-publishDate: 2026-03-13
+publishDate: 2026-01-09
 readingTime: "8 Min."
 ---
 
@@ -105,3 +105,11 @@ Ohne Testament erben der überlebende Ehepartner und die Kinder gemeinsam. In de
 Die Wochen nach der Hochzeit sind der ideale Zeitpunkt, alle Policen gemeinsam zu prüfen. Als unabhängiger Versicherungsmakler helfe ich Ihnen, doppelte Verträge zu identifizieren, Lücken zu schließen und die richtigen Tarife für Ihre gemeinsame Lebenssituation zu finden. So starten Sie finanziell gut aufgestellt in die Ehe.
 
 **Vereinbaren Sie ein kostenloses Beratungsgespräch** — und bringen Sie Ordnung in Ihre gemeinsame Absicherung.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherungen für Familien](/ratgeber/familien-versicherungen/)
+- [Scheidung und Versicherungen](/ratgeber/versicherungen-bei-scheidung/)
+- [Risikolebensversicherung](/versicherungen/risikoleben/)

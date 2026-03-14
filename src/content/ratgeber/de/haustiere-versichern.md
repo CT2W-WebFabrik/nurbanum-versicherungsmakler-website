@@ -3,7 +3,7 @@ title: "Haustiere versichern: Haftpflicht, OP und Krankenversicherung"
 description: "Welche Versicherungen braucht mein Haustier? Von der Hundehaftpflicht über die Tier-OP-Versicherung bis zur Tierkrankenversicherung."
 category: "Grundlagen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-03-12
 readingTime: "6 Min."
 ---
 
@@ -50,3 +50,11 @@ Die Tierkrankenversicherung (Tier-Vollversicherung) übernimmt auch ambulante Be
 Beginnen Sie mit der Haftpflicht (für Hunde und Pferde), und prüfen Sie dann, ob eine OP-Versicherung für Ihr Tier sinnvoll ist. Als unabhängiger Makler vergleiche ich die Tarife und finde die passende Absicherung für Ihr Tier.
 
 **Sprechen Sie mich an** — ich berate Sie gerne.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Welche Versicherungen brauche ich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Tierhalterhaftpflicht](/versicherungen/tierhalterhaftpflicht/)
+- [Hundehaftpflichtversicherung](/versicherungen/hundehaftpflicht/)

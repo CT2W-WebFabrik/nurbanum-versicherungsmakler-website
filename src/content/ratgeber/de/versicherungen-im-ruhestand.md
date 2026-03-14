@@ -2,7 +2,7 @@
 title: "Versicherungen im Ruhestand: Was Rentner wirklich brauchen"
 description: "Welche Versicherungen Rentner behalten, kündigen oder anpassen sollten — und welche im Alter wichtiger werden als vorher."
 category: "Ruhestandsplanung"
-publishDate: 2026-03-13
+publishDate: 2026-03-03
 readingTime: "8 Min."
 ---
 
@@ -103,3 +103,11 @@ Besonders wichtig im Alter: Mietrechtsschutz (falls Sie zur Miete wohnen) und So
 Der Übergang in den Ruhestand ist der ideale Zeitpunkt, alle Versicherungen auf den Prüfstand zu stellen. Als unabhängiger Versicherungsmakler gehe ich jeden Vertrag mit Ihnen durch, streiche Überflüssiges, passe Tarife an und schließe Lücken — damit Ihr Versicherungsschutz zu Ihrem neuen Lebensabschnitt passt, ohne unnötig Geld zu kosten.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Ruhestandscheck** — und starten Sie sorgenfrei in den neuen Lebensabschnitt.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Pflegezusatzversicherung: Pflegelücke schließen](/ratgeber/pflegezusatzversicherung-pflegeluecke/)
+- [Versicherungen ab 50](/ratgeber/senioren-versicherungen-50-plus/)
+- [Pflegeversicherung](/versicherungen/pflegeversicherung/)

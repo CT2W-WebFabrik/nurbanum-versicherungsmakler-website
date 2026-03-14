@@ -88,3 +88,11 @@ Alte Verträge mit Garantiezinsen von drei oder vier Prozent sind heute kaum noc
 Als unabhängiger Versicherungsmakler begleite ich den gesamten Wechselprozess für Sie: von der Analyse Ihres bestehenden Vertrags über den Marktvergleich bis zur Abwicklung der Kündigung und des Neuabschlusses. So stellen Sie sicher, dass keine Deckungslücke entsteht und Sie tatsächlich besseren Schutz erhalten.
 
 **Lassen Sie Ihre bestehenden Verträge kostenlos prüfen** — oft ergibt sich Optimierungspotenzial, ohne dass ein Wechsel nötig ist.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherung kündigen: Fristen und Tipps](/ratgeber/versicherung-kuendigen-fristen/)
+- [8 Spartipps für Ihre Versicherungen](/ratgeber/spartipps-versicherungen/)
+- [Versicherungscheck: Verträge prüfen](/ratgeber/versicherungscheck-regelmaessig-pruefen/)

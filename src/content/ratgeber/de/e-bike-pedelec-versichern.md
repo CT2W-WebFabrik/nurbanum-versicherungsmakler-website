@@ -3,7 +3,7 @@ title: "E-Bike und Pedelec richtig versichern"
 description: "Diebstahl, Elektronikschäden, Haftpflicht — wie Sie Ihr E-Bike oder Pedelec optimal absichern und was die Hausrat wirklich leistet."
 category: "Grundlagen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-03-13
 readingTime: "5 Min."
 ---
 
@@ -46,3 +46,11 @@ Für ein E-Bike ab 1.500 Euro ist eine spezielle Fahrradversicherung fast immer 
 Als unabhängiger Makler vergleiche ich die E-Bike-Tarife und finde den Schutz, der zu Ihrem Rad passt — ob Alltagspendler oder Mountainbike-Enthusiast.
 
 **Sprechen Sie mich an** — damit Ihr E-Bike rundum geschützt ist.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Haustiere versichern](/ratgeber/haustiere-versichern/)
+- [Privathaftpflichtversicherung](/versicherungen/haftpflicht/)
+- [Unfallversicherung](/versicherungen/unfallversicherung/)

@@ -3,7 +3,7 @@ title: "Versicherungen für Handwerksbetriebe: Was Sie brauchen"
 description: "Betriebshaftpflicht, Maschinenversicherung, Kfz-Flotte — welche Versicherungen Handwerker brauchen und worauf Sie beim Abschluss achten sollten."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-02-20
 readingTime: "9 Min."
 ---
 
@@ -95,3 +95,11 @@ Streitigkeiten mit Kunden, Lieferanten oder Mitarbeitern gehören im Handwerk zu
 Jeder Handwerksbetrieb ist anders — der Elektroinstallateur hat andere Risiken als der Zimmerer oder der Kfz-Mechatroniker. Als unabhängiger Versicherungsmakler analysiere ich Ihre betrieblichen Risiken und stelle ein Versicherungspaket zusammen, das passt — ohne Lücken und ohne überflüssige Bausteine.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — und sichern Sie Ihren Betrieb richtig ab.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)

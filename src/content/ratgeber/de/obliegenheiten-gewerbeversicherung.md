@@ -3,7 +3,7 @@ title: "Obliegenheiten in Gewerbeversicherungen: Was das Kleingedruckte verlangt
 description: "Welche Pflichten Ihr Versicherungsvertrag Ihnen auferlegt und wie Sie vermeiden, dass der Versicherer im Schadenfall die Leistung kürzt oder verweigert."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-24
 readingTime: "8 Min."
 ---
 
@@ -97,6 +97,15 @@ Die Rechtsfolgen richten sich nach § 28 VVG und dem Grad des Verschuldens:
 Als Ihr unabhängiger Versicherungsmakler kenne ich die Obliegenheiten Ihrer Verträge im Detail. Ich helfe Ihnen, die Anforderungen umzusetzen und unterstütze Sie im Schadenfall bei der korrekten Meldung und Dokumentation — damit Ihr Versicherer keinen Grund hat, die Leistung zu kürzen.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — und lassen Sie uns Ihre Verträge gemeinsam auf Obliegenheiten prüfen.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Gewerbe-Schadenfall richtig melden](/ratgeber/gewerbe-schadenfall-richtig-melden/)
+- [Gewerbeversicherungen verwalten](/ratgeber/gewerbeversicherung-vertragsmanagement/)
+- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
 
 ---
 

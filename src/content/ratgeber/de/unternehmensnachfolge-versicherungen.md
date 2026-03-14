@@ -3,7 +3,7 @@ title: "Versicherungen bei Unternehmensnachfolge: Was Übergeber und Übernehmer
 description: "Betriebsübernahme, Gesellschafterwechsel, Generationenwechsel — welche Versicherungen Sie anpassen, übertragen oder neu abschließen müssen."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-30
 readingTime: "7 Min."
 ---
 
@@ -51,3 +51,11 @@ Bei einer Unternehmensnachfolge stehen Unternehmensbewertung, Kaufpreis und Steu
 Die Unternehmensnachfolge ist ein komplexer Prozess — auch versicherungstechnisch. Als unabhängiger Makler begleite ich beide Seiten durch den Übergang und stelle sicher, dass keine Lücken entstehen.
 
 **Sprechen Sie mich frühzeitig an** — idealerweise 6 bis 12 Monate vor der geplanten Übergabe.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [Gewerbeversicherungen regelmäßig prüfen](/ratgeber/gewerbeversicherung-regelmaessig-pruefen/)
+- [D&O-Versicherung](/versicherungen/dno-versicherung/)

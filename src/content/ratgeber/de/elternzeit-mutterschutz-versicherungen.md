@@ -3,7 +3,7 @@ title: "Versicherungen in Elternzeit und Mutterschutz"
 description: "Was passiert mit Ihren Versicherungen während Elternzeit und Mutterschutz? Krankenversicherung, BU, Beiträge — alles Wichtige."
 category: "Lebenssituationen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-01-05
 readingTime: "5 Min."
 ---
 
@@ -44,3 +44,11 @@ Mit einem Kind verändert sich der Hausrat (Kinderzimmer, Kinderwagen, Spielzeug
 Die Geburt eines Kindes ist der zweitwichtigste Versicherungs-Checkpunkt im Leben (nach dem Berufseinstieg). Als unabhängiger Makler stelle ich sicher, dass Ihre Familie richtig abgesichert ist.
 
 **Sprechen Sie mich an** — ich berate Sie gerne vor oder nach der Geburt.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherungen für Familien](/ratgeber/familien-versicherungen/)
+- [Heirat und Versicherungen](/ratgeber/versicherungen-nach-der-hochzeit/)
+- [Risikolebensversicherung](/versicherungen/risikoleben/)

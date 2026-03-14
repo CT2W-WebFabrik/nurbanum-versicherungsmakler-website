@@ -3,7 +3,7 @@ title: "Subunternehmer und Nachunternehmer: Haftung und Versicherung"
 description: "Wer haftet in der Subunternehmer-Kette? Welche Versicherungsnachweise Sie verlangen sollten und wie Sie Haftungslücken vermeiden."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-15
 readingTime: "7 Min."
 ---
 
@@ -93,6 +93,15 @@ Wenn ein vermeintlicher Subunternehmer tatsächlich weisungsgebunden, in Ihre Or
 Die Zusammenarbeit mit Subunternehmern ist aus Ihrem Geschäftsmodell nicht wegzudenken. Umso wichtiger ist eine professionelle Absicherung der Haftungskette. Als unabhängiger Versicherungsmakler prüfe ich Ihre Betriebshaftpflicht auf Subunternehmerklauseln und helfe Ihnen, die richtigen Versicherungsnachweise von Ihren Subunternehmern einzufordern.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit die Haftungskette keine Schwachstelle hat.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
+- [Versicherungen für Handwerksbetriebe](/ratgeber/handwerker-versicherungen/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
 
 ---
 

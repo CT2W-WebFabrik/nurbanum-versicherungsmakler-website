@@ -3,7 +3,7 @@ title: "Versicherung kündigen: Fristen, Sonderkündigung und Tipps"
 description: "Wie Sie Versicherungsverträge richtig kündigen — ordentlich, außerordentlich oder per Sonderkündigungsrecht."
 category: "Grundlagen"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-02-10
 readingTime: "5 Min."
 ---
 
@@ -50,3 +50,11 @@ Bei schwerwiegenden Vertragsverletzungen des Versicherers können Sie fristlos k
 Bevor Sie kündigen, lassen Sie mich die Konditionen prüfen. Oft kann ich bei Ihrem bestehenden Versicherer bessere Bedingungen aushandeln — oder finde eine echte Verbesserung am Markt. Als unabhängiger Makler bin ich nicht an einen Anbieter gebunden.
 
 **Sprechen Sie mich an** — Kündigung oder Optimierung, ich helfe Ihnen bei der richtigen Entscheidung.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherung wechseln: So gelingt der Umstieg](/ratgeber/versicherung-wechseln/)
+- [Beitragserhöhung: Ihre Rechte](/ratgeber/versicherung-beitragserhoehung-rechte/)
+- [Versicherung kündigt nach Schaden](/ratgeber/versicherung-kuendigt-was-tun/)

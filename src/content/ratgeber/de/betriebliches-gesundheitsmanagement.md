@@ -3,7 +3,7 @@ title: "Betriebliches Gesundheitsmanagement: Versicherungen als Mitarbeiter-Bene
 description: "Wie Sie mit Gesundheitsleistungen Mitarbeiter binden und gleichzeitig Krankheitskosten senken."
 category: "Arbeitgeber"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-06
 readingTime: "5 Min."
 ---
 
@@ -53,3 +53,11 @@ Kein direktes Gesundheitsthema, aber ein wichtiger Baustein der Mitarbeiterbindu
 BGM ist kein Luxus für Großkonzerne — auch KMU können mit überschaubarem Budget wirkungsvolle Maßnahmen umsetzen. Ich helfe Ihnen, das richtige Paket zusammenzustellen.
 
 **Vereinbaren Sie ein Beratungsgespräch** — und machen Sie Gesundheit zum Wettbewerbsvorteil.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Betriebliche Gesundheitsförderung](/ratgeber/betriebliche-gesundheitsfoerderung-versicherung/)
+- [Mitarbeiter-Benefits](/ratgeber/mitarbeiter-benefits-versicherungen/)
+- [bAV: Was Arbeitgeber wissen müssen](/ratgeber/bav-fuer-arbeitgeber/)

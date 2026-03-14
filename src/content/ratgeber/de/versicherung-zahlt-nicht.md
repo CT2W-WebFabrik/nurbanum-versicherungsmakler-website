@@ -2,7 +2,7 @@
 title: "Versicherung zahlt nicht: Ihre Rechte bei Leistungsablehnung"
 description: "Was Sie tun können, wenn Ihre Versicherung den Schaden ablehnt — von Widerspruch über Ombudsmann bis Anwalt. Mit Fristen und praktischen Tipps."
 category: "Schadenfall"
-publishDate: 2026-03-13
+publishDate: 2026-01-27
 readingTime: "8 Min."
 ---
 
@@ -107,6 +107,15 @@ Wichtig: Das Ombudsverfahren hemmt die Verjährung, solange es läuft. Wenn der 
 Ein unabhängiger Versicherungsmakler steht auf Ihrer Seite — nicht auf der Seite des Versicherers. Im Schadenfall unterstütze ich Sie bei der korrekten Schadenmeldung, prüfe die Ablehnungsgründe, formuliere den Widerspruch und schalte bei Bedarf den Ombudsmann oder einen Fachanwalt ein.
 
 **Haben Sie eine Leistungsablehnung erhalten?** Melden Sie sich bei mir — gemeinsam prüfen wir Ihre Möglichkeiten und setzen Ihre berechtigten Ansprüche durch.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
+- [Gutachter und Schadenregulierung](/ratgeber/gutachter-schadenregulierung/)
+- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Gewerbeversicherungen steuerlich absetzen: Was Unternehmer wissen müsse
 description: "Welche Betriebsversicherungen als Betriebsausgaben absetzbar sind, wie Sie sie korrekt buchen und was bei einer Betriebsprüfung zählt."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-03-10
 readingTime: "7 Min."
 ---
 
@@ -90,6 +90,15 @@ Bei einer Betriebsprüfung achtet das Finanzamt auf:
 Die steuerliche Behandlung von Versicherungen ist ein Teilaspekt — der wichtigere ist der richtige Versicherungsschutz. Als unabhängiger Versicherungsmakler sorge ich dafür, dass Ihre Betriebsversicherungen zum Risiko passen. Die steuerliche Einordnung besprechen Sie mit Ihrem Steuerberater.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit Ihre Versicherungen sowohl betriebswirtschaftlich als auch steuerlich optimal aufgestellt sind.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Versicherungen steuerlich absetzen (privat)](/ratgeber/versicherungen-steuerlich-absetzen/)
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Gewerbe-Schadenfall: Schritt für Schritt richtig melden"
 description: "Wie Sie als Unternehmer einen Schaden korrekt melden, dokumentieren und regulieren. Fristen, Pflichten und häufige Fehler bei gewerblichen Schadenfällen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-12
 readingTime: "8 Min."
 ---
 
@@ -96,6 +96,15 @@ Idealerweise Ihrem Versicherungsmakler — er koordiniert die Meldung an den ric
 Als unabhängiger Versicherungsmakler unterstütze ich Sie im Schadenfall von der ersten Meldung bis zur vollständigen Regulierung. Ich kenne die Anforderungen der Versicherer, sorge für eine lückenlose Dokumentation und setze mich für Ihre Ansprüche ein.
 
 **Schaden melden? Rufen Sie mich an** — ich kümmere mich um den Rest.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
+- [Betriebsunterbrechung: So schützen Sie Ihren Umsatz](/ratgeber/betriebsunterbrechung-vorsorge/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
 
 ---
 

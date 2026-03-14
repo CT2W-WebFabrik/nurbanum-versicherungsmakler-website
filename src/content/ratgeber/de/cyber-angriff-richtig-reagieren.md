@@ -3,7 +3,7 @@ title: "Cyber-Angriff auf den Betrieb: So reagieren Sie richtig"
 description: "Ransomware, Datenleck, gehackte Systeme — was Sie in den ersten Stunden nach einem Cyber-Angriff tun müssen und wie eine Cyber-Versicherung hilft."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-02-25
 readingTime: "8 Min."
 ---
 
@@ -101,6 +101,15 @@ Viele Cyber-Versicherer bieten diese Präventionsmaßnahmen als inkludierte Zusa
 Jeder Betrieb — vom Drei-Personen-Büro bis zum Mittelständler — ist ein potenzielles Ziel. Als unabhängiger Makler analysiere ich Ihr individuelles Risikoprofil, vergleiche Tarife verschiedener Versicherer und finde den Schutz, der zu Ihrem Betrieb und Budget passt.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Cyber-Versicherungscheck** — bevor der Ernstfall eintritt.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Datenschutzverstoß: Welche Versicherung zahlt?](/ratgeber/datenschutzverstoss-versicherung/)
+- [Betriebsunterbrechung: So schützen Sie Ihren Umsatz](/ratgeber/betriebsunterbrechung-vorsorge/)
+- [Cyber-Versicherung](/versicherungen/cyber/)
 
 ---
 

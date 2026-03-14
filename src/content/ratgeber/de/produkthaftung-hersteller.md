@@ -3,7 +3,7 @@ title: "Produkthaftung: Wann haften Hersteller und Händler?"
 description: "Fehlerhafte Produkte können Millionenschäden verursachen. Wer haftet nach dem ProdHaftG, welche Pflichten gelten und wie Sie sich absichern."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-01-29
 readingTime: "8 Min."
 ---
 
@@ -96,6 +96,15 @@ Die Produkthaftpflichtversicherung schützt Hersteller, Importeure und Händler 
 Ob Maschinenbauer, Lebensmittelhersteller oder Onlinehändler mit Importware — die Produkthaftung betrifft jedes Unternehmen, das Produkte in Verkehr bringt. Als unabhängiger Versicherungsmakler finde ich den Produkthaftpflicht-Tarif, der zu Ihrem Produktportfolio, Ihren Exportmärkten und Ihrem Risikoprofil passt.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — und sichern Sie Ihre Produkthaftung richtig ab.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Betriebshaftpflicht: Was muss versichert sein?](/ratgeber/betriebshaftpflicht-ratgeber/)
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Produkthaftpflichtversicherung](/versicherungen/produkthaftpflicht/)
 
 ---
 

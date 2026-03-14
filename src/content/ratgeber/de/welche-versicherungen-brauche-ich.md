@@ -91,3 +91,11 @@ Diese Einteilung bietet eine allgemeine Orientierung. Welche Versicherungen Sie 
 Als unabhängiger Versicherungsmakler analysiere ich Ihre Situation umfassend und erstelle einen maßgeschneiderten Versicherungsplan. Dabei prüfe ich auch bestehende Verträge auf Lücken und Einsparpotenziale.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Versicherungscheck** — und gewinnen Sie Klarheit über Ihren tatsächlichen Absicherungsbedarf.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherungen für Berufseinsteiger](/ratgeber/berufseinsteiger-versicherungen/)
+- [8 Spartipps für Ihre Versicherungen](/ratgeber/spartipps-versicherungen/)
+- [Privathaftpflichtversicherung](/versicherungen/haftpflicht/)

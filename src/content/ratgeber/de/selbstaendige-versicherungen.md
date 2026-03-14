@@ -3,7 +3,7 @@ title: "Selbständig werden: Diese Versicherungen brauchen Sie"
 description: "Versicherungs-Checkliste für Selbständige und Freiberufler. Berufshaftpflicht, BU, Krankenversicherung — was Sie ohne Arbeitgeber-Netz wirklich brauchen."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-02-13
 readingTime: "10 Min."
 ---
 
@@ -99,6 +99,15 @@ Neben der geförderten Altersvorsorge empfiehlt sich ein flexibler ETF-Sparplan 
 Die richtige Absicherung hängt von Ihrer Branche, Rechtsform, Familiensituation und Ihrem Geschäftsmodell ab. Als unabhängiger Versicherungsmakler erstelle ich einen maßgeschneiderten Versicherungsplan für Ihre Gründung — und helfe Ihnen, die wichtigen Absicherungen von den unwichtigen zu unterscheiden.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Gründer-Versicherungscheck** — damit Sie sich auf den Aufbau Ihres Geschäfts konzentrieren können.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Versicherungen für Existenzgründer](/ratgeber/existenzgruender-versicherungen/)
+- [PKV oder GKV?](/ratgeber/pkv-oder-gkv/)
+- [Berufshaftpflichtversicherung](/versicherungen/berufshaftpflicht/)
 
 ---
 

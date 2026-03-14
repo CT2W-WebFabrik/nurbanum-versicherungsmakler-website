@@ -3,7 +3,7 @@ title: "Exportversicherung: Auslandsrisiken richtig absichern"
 description: "Hermesdeckung, Transportversicherung, Produkthaftung im Ausland — welche Versicherungen exportierende Unternehmen brauchen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-12
 readingTime: "7 Min."
 ---
 
@@ -94,6 +94,15 @@ Nicht versicherbar im klassischen Sinne, aber erwähnenswert:
 Exportgeschäfte brauchen maßgeschneiderte Versicherungslösungen. Als unabhängiger Versicherungsmakler analysiere ich Ihre Exportmärkte und Lieferbedingungen und finde die passenden Deckungen — von der Hermesdeckung bis zur USA-Produkthaftpflicht.
 
 **Vereinbaren Sie jetzt ein kostenloses Beratungsgespräch** — damit Ihr Auslandsgeschäft abgesichert ist.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Warenkreditversicherung: Forderungsausfälle absichern](/ratgeber/warenkreditversicherung-ratgeber/)
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Transportversicherung](/versicherungen/transportversicherung/)
 
 ---
 

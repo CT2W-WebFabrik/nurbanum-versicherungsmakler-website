@@ -90,3 +90,11 @@ Die Entscheidungen, die Sie am Berufsanfang treffen, wirken sich über Jahrzehnt
 Als unabhängiger Makler berate ich Sie ohne Verkaufsdruck und finde die Tarife, die wirklich zu Ihrer Situation passen — nicht die, die die höchste Provision zahlen.
 
 **Vereinbaren Sie Ihr kostenloses Erstgespräch** und starten Sie gut abgesichert ins Berufsleben.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Versicherungen für Studenten und Azubis](/ratgeber/studenten-azubis-versicherungen/)
+- [Welche Versicherungen brauche ich wirklich?](/ratgeber/welche-versicherungen-brauche-ich/)
+- [Berufsunfähigkeitsversicherung](/versicherungen/berufsunfaehigkeit/)

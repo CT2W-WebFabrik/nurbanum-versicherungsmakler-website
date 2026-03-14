@@ -3,7 +3,7 @@ title: "Versicherungen im Erbfall: Was Erben wissen müssen"
 description: "Was passiert mit den Versicherungen einer verstorbenen Person? Welche Verträge gehen auf die Erben über, welche enden automatisch?"
 category: "Schadenfall"
 audience: "privat"
-publishDate: 2026-03-14
+publishDate: 2026-03-04
 readingTime: "6 Min."
 ---
 
@@ -49,3 +49,11 @@ Wenn ein Angehöriger stirbt, stehen Erben vor vielen Aufgaben — darunter auch
 Im Trauerfall gibt es genug zu bewältigen. Als unabhängiger Makler unterstütze ich Angehörige dabei, die Versicherungsangelegenheiten der verstorbenen Person zu klären und zu regeln — strukturiert und mit Feingefühl.
 
 **Sprechen Sie mich an** — ich helfe Ihnen bei der Abwicklung.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Todesfall: Was Angehörige bei Versicherungen tun müssen](/ratgeber/versicherungen-im-todesfall/)
+- [Versicherung kündigt: Was tun?](/ratgeber/versicherung-kuendigt-was-tun/)
+- [Risikolebensversicherung](/versicherungen/risikoleben/)

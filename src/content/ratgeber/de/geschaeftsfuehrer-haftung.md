@@ -3,7 +3,7 @@ title: "Geschäftsführerhaftung: Wann haften Sie persönlich?"
 description: "GmbH-Geschäftsführer haften persönlich und unbeschränkt. Wann greift die Haftung, was deckt eine D&O-Versicherung ab und welche Fehler sind vermeidbar?"
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-02-20
 readingTime: "8 Min."
 ---
 
@@ -87,6 +87,15 @@ Viele Geschäftsführer unterschätzen das Haftungsrisiko, weil sie „ja nur ei
 Als unabhängiger Versicherungsmakler vergleiche ich D&O-Tarife verschiedener Anbieter und finde den Schutz, der zu Ihrer Unternehmensgröße, Branche und Ihrem individuellen Risikoprofil passt.
 
 **Vereinbaren Sie jetzt Ihr kostenloses D&O-Beratungsgespräch** — bevor der Ernstfall eintritt.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Pflichtversicherungen für Unternehmen](/ratgeber/pflichtversicherungen-unternehmen/)
+- [Obliegenheiten in Gewerbeversicherungen](/ratgeber/obliegenheiten-gewerbeversicherung/)
+- [D&O-Versicherung](/versicherungen/dno-versicherung/)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Homeoffice und Remote-Arbeit: Versicherungspflichten für Arbeitgeber"
 description: "Unfallversicherung, Haftpflicht, Datenschutz — welche Versicherungen Arbeitgeber bei Homeoffice und Remote-Arbeit brauchen und was sich seit 2021 geändert hat."
 category: "Arbeitgeber"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-01-06
 readingTime: "8 Min."
 ---
 
@@ -67,6 +67,15 @@ Eine schriftliche Homeoffice-Vereinbarung regelt nicht nur Arbeitszeiten und Err
 Hybrides Arbeiten ist die neue Normalität — aber viele Versicherungsverträge stammen noch aus der Vor-Corona-Zeit. Als unabhängiger Versicherungsmakler prüfe ich Ihre bestehenden Policen auf Homeoffice-Tauglichkeit und identifiziere Deckungslücken, bevor ein Schadenfall sie aufdeckt.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Homeoffice-Versicherungscheck** — für alle, die Remote-Arbeit richtig absichern wollen.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Mitarbeiter einstellen: Versicherungspflichten](/ratgeber/mitarbeiter-einstellen-versicherungen/)
+- [Pflichtversicherungen für Unternehmen](/ratgeber/pflichtversicherungen-unternehmen/)
+- [Cyber-Versicherung](/versicherungen/cyber/)
 
 ---
 

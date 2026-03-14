@@ -3,7 +3,7 @@ title: "Photovoltaik und Wärmepumpe richtig versichern"
 description: "PV-Anlage, Batteriespeicher und Wärmepumpe absichern: Gebäudeversicherung, Ertragsausfall, Betreiberhaftpflicht und Montageversicherung verständlich erklärt."
 category: "Sachversicherung"
 audience: "privat"
-publishDate: 2026-03-13
+publishDate: 2026-02-04
 readingTime: "8 Min."
 ---
 
@@ -110,3 +110,11 @@ Betreiben Sie eine größere Anlage als Gewerbe, gelten andere Regeln: Die Versi
 PV-Anlage, Speicher und Wärmepumpe sind komplexe Systeme mit spezifischen Versicherungsanforderungen. Eine pauschale Lösung gibt es nicht — der richtige Schutz hängt von Anlagengröße, Standort und Ihrer bestehenden Versicherungssituation ab. Als unabhängiger Versicherungsmakler prüfe ich Ihre aktuellen Policen auf Lücken und finde die passende Absicherung für Ihre Energietechnik.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Beratungstermin** — damit Ihre Investition von Anfang an geschützt ist.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Immobilie kaufen: Welche Versicherungen?](/ratgeber/immobilienkauf-versicherungen/)
+- [Photovoltaikversicherung](/versicherungen/photovoltaikversicherung/)
+- [Wohngebäudeversicherung](/versicherungen/wohngebaeude/)

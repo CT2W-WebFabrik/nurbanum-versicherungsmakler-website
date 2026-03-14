@@ -2,7 +2,7 @@
 title: "Gutachter und Schadenregulierung: Ihre Rechte"
 description: "Wie die Schadenregulierung abläuft, wann Sie einen eigenen Gutachter beauftragen sollten und welche Rechte Sie gegenüber der Versicherung haben."
 category: "Schadenfall"
-publishDate: 2026-03-13
+publishDate: 2026-02-03
 readingTime: "8 Min."
 ---
 
@@ -87,3 +87,11 @@ Können Sie und der Versicherer sich nicht auf die Schadenhöhe einigen, sehen v
 Als Ihr Versicherungsmakler stehe ich bei der Schadenregulierung auf Ihrer Seite — nicht auf der Seite des Versicherers. Ich prüfe Regulierungsangebote, interveniere bei zu niedrigen Angeboten und kenne die Verhandlungsspielräume der einzelnen Versicherer.
 
 **Melden Sie mir jeden Schaden direkt** — ich begleite Sie durch die Regulierung und sorge dafür, dass Sie bekommen, was Ihnen zusteht.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
+- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
+- [Rechtsschutzversicherung](/versicherungen/rechtsschutz/)

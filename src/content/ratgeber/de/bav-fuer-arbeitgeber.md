@@ -3,7 +3,7 @@ title: "Betriebliche Altersversorgung: Was Arbeitgeber wissen müssen"
 description: "Rechtsanspruch auf Entgeltumwandlung, Arbeitgeberzuschuss, Durchführungswege — was Sie als Arbeitgeber zur betrieblichen Altersversorgung wissen müssen."
 category: "Arbeitgeber"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-05
 readingTime: "9 Min."
 ---
 
@@ -91,6 +91,15 @@ Prüfen Sie bestehende Verträge regelmäßig: Stimmen die Bezugsrechte? Wurden 
 Die betriebliche Altersversorgung ist kein Thema, das man einmal einrichtet und dann vergisst. Es gibt laufende Pflichten, steuerliche Änderungen und Haftungsrisiken. Als unabhängiger Versicherungsmakler unterstütze ich Sie bei der Auswahl des richtigen Durchführungswegs, der Verhandlung mit Versorgungsträgern und der laufenden Bestandspflege — damit die bAV für Sie und Ihre Mitarbeiter funktioniert.
 
 **Vereinbaren Sie jetzt ein kostenloses bAV-Beratungsgespräch** — ich prüfe Ihre aktuelle Situation und zeige Ihnen Optimierungspotenzial auf.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Mitarbeiter-Benefits: Versicherungen als Recruiting-Vorteil](/ratgeber/mitarbeiter-benefits-versicherungen/)
+- [Mitarbeiter einstellen: Versicherungspflichten](/ratgeber/mitarbeiter-einstellen-versicherungen/)
+- [Betriebliche Altersversorgung](/versicherungen/betriebliche-altersversorgung/)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Pflichtversicherungen für Unternehmen: Was gesetzlich vorgeschrieben is
 description: "Welche Versicherungen sind für Ihr Unternehmen gesetzlich Pflicht? Übersicht nach Branche und Rechtsform — von Betriebshaftpflicht bis Berufshaftpflicht."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-14
+publishDate: 2026-02-11
 readingTime: "9 Min."
 ---
 
@@ -78,6 +78,15 @@ Die gesetzlichen Mindestdeckungssummen sind Untergrenzen — sie spiegeln nicht 
 Welche Versicherungen für Ihr konkretes Gewerbe gesetzlich vorgeschrieben sind, hängt von Branche, Rechtsform und Tätigkeitsprofil ab. Als unabhängiger Versicherungsmakler prüfe ich, ob Sie alle Pflichten erfüllen — und ob Ihre Deckungssummen auch wirtschaftlich ausreichen.
 
 **Vereinbaren Sie jetzt Ihren kostenlosen Pflichtversicherungs-Check** — damit Sie rechtlich auf der sicheren Seite sind.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+
+### Weiterlesen
+
+- [Geschäftsführerhaftung](/ratgeber/geschaeftsfuehrer-haftung/)
+- [Gewerbeversicherungen: Welche braucht mein Betrieb?](/ratgeber/gewerbeversicherungen-ueberblick/)
+- [Betriebshaftpflichtversicherung](/versicherungen/betriebshaftpflicht/)
 
 ---
 

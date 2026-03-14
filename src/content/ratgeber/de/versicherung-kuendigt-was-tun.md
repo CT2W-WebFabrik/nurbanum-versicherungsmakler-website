@@ -2,7 +2,7 @@
 title: "Versicherung kündigt nach Schaden: Was tun?"
 description: "Ihre Versicherung hat nach einem Schaden gekündigt? Welche Rechte Sie haben, wie Sie neuen Schutz finden und warum ein Makler jetzt wichtig ist."
 category: "Schadenfall"
-publishDate: 2026-03-13
+publishDate: 2026-01-21
 readingTime: "7 Min."
 ---
 
@@ -74,3 +74,11 @@ Die Kfz-Haftpflicht ist eine Pflichtversicherung. Wenn kein Versicherer Sie anni
 Eine Versichererkündigung nach Schaden ist ärgerlich, aber lösbar. Mit dem richtigen Makler finden Sie auch mit Vorschadenhistorie einen neuen Versicherer — oft schneller und günstiger, als Sie denken.
 
 **Melden Sie sich bei mir** — ich finde auch in schwierigen Fällen eine Lösung.
+
+[Jetzt Beratung vereinbaren →](/kontakt/)
+
+### Weiterlesen
+
+- [Schadenfall: So verhalten Sie sich richtig](/ratgeber/schadenfall-richtig-verhalten/)
+- [Versicherung wechseln: So gelingt der Umstieg](/ratgeber/versicherung-wechseln/)
+- [Versicherung zahlt nicht: Ihre Rechte](/ratgeber/versicherung-zahlt-nicht/)
