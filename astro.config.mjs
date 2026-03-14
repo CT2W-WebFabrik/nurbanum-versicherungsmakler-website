@@ -18,9 +18,9 @@ export default defineConfig({
   integrations: [
     sitemap({
       filter: (page) =>
-        !page.includes('/impressum') &&
-        !page.includes('/datenschutz') &&
-        !page.includes('/erstinformation'),
+        !page.endsWith('/impressum/') &&
+        !page.endsWith('/datenschutz/') &&
+        !page.endsWith('/erstinformation/'),
     }),
   ],
   markdown: {

@@ -76,25 +76,24 @@ const breadcrumbItems = breadcrumbs || [];
   </article>
 
   {/* Article structured data */}
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": title,
-    "description": description,
-    "author": {
-      "@type": "Person",
-      "name": "Thorsten Schreier",
-      "jobTitle": "Versicherungsmakler",
-      "worksFor": { "@type": "Organization", "name": "Nurbanum Versicherungsmakler" }
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Nurbanum Versicherungsmakler",
-      "url": Astro.site?.toString() ?? "https://nurbanum.de"
-    },
-    "datePublished": publishDate?.toISOString(),
-    "dateModified": (updatedDate ?? publishDate)?.toISOString(),
-    "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
-  })} />
+  {publishDate && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": title,
+      "description": description,
+      "image": new URL(url('/images/og-default.png'), Astro.site).toString(),
+      "author": {
+        "@id": "https://nurbanum.de/#person-thorsten-schreier",
+        "@type": "Person",
+        "name": "Thorsten Schreier",
+        "jobTitle": "Versicherungsmakler"
+      },
+      "publisher": { "@id": "https://nurbanum.de/#organization" },
+      "datePublished": publishDate.toISOString(),
+      "dateModified": (updatedDate ?? publishDate).toISOString(),
+      "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
+    })} />
+  )}
 
 </BaseLayout>

@@ -321,18 +321,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    "mainEntity": {
-      "@type": "InsuranceAgency",
-      "name": "Nurbanum Versicherungsmakler",
-      "telephone": "+4917384444426",
-      "email": "thorsten.schreier@nurbanum.de",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Zirndorf",
-        "postalCode": "90513",
-        "addressRegion": "Bayern",
-        "addressCountry": "DE"
-      }
-    }
+    "mainEntity": { "@id": "https://nurbanum.de/#organization" }
   })} />
 </BaseLayout>

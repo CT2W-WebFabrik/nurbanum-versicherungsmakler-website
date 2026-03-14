@@ -223,18 +223,45 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     "@context": "https://schema.org",
     "@type": "AboutPage",
     "mainEntity": {
+      "@id": "https://nurbanum.de/#person-thorsten-schreier",
       "@type": "Person",
       "name": "Thorsten Schreier",
       "jobTitle": "Versicherungsmakler",
-      "worksFor": {
-        "@type": "InsuranceAgency",
-        "name": "Nurbanum Versicherungsmakler"
-      },
+      "image": new URL(url('/images/thorsten-schreier.jpg'), Astro.site).toString(),
+      "worksFor": { "@id": "https://nurbanum.de/#organization" },
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "Hans-Sachs-Straße 2",
         "addressLocality": "Zirndorf",
+        "postalCode": "90513",
         "addressRegion": "Bayern",
         "addressCountry": "DE"
+      },
+      "knowsAbout": [
+        "Altersvorsorge",
+        "Betriebliche Altersversorgung",
+        "Ruhestandsplanung",
+        "Berufsunfähigkeitsversicherung",
+        "Gewerbeversicherung",
+        "Privathaftpflichtversicherung"
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "professional certification",
+          "name": "Versicherungsmakler nach § 34d GewO",
+          "recognizedBy": { "@type": "Organization", "name": "IHK Nürnberg für Mittelfranken" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "professional certification",
+          "name": "DVA-Abschluss — Deutsche Versicherungsakademie"
+        }
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "Vermittlerregister-Nr.",
+        "value": "D-9TPM-5XPAS-59"
       }
     }
   })} />

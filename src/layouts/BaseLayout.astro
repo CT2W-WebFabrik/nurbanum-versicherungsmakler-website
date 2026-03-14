@@ -19,8 +19,10 @@ const {
   noIndex = false,
 } = Astro.props;
 
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const pathname = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : Astro.url.pathname + '/';
+const canonicalUrl = new URL(pathname, Astro.site);
 const ogImageUrl = new URL(url(ogImage), Astro.site);
+const siteUrl = 'https://nurbanum.de';
 ---
 
 <!doctype html>
@@ -59,16 +61,20 @@ const ogImageUrl = new URL(url(ogImage), Astro.site);
     <!-- Theme color for mobile browsers -->
     <meta name="theme-color" content="#0a0f1e" />
 
-    <!-- Structured Data: LocalBusiness -->
+    <!-- Structured Data: Organization -->
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "InsuranceAgency",
+      "@id": `${siteUrl}/#organization`,
       "name": "Nurbanum Versicherungsmakler",
       "alternateName": "Nurbanum",
-      "url": Astro.site?.toString() ?? "https://nurbanum.de",
+      "description": "Unabhängiger Versicherungsmakler in Zirndorf bei Nürnberg. Spezialisiert auf Altersvorsorge, betriebliche Altersversorgung und Ruhestandsplanung.",
+      "url": siteUrl,
       "telephone": "+4917384444426",
       "email": "thorsten.schreier@nurbanum.de",
       "image": new URL(url('/images/og-default.png'), Astro.site).toString(),
+      "logo": new URL(url('/images/og-default.png'), Astro.site).toString(),
+      "founder": { "@id": `${siteUrl}/#person-thorsten-schreier` },
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Hans-Sachs-Straße 2",
@@ -93,8 +99,18 @@ const ogImageUrl = new URL(url(ogImage), Astro.site);
         "opens": "09:00",
         "closes": "18:00"
       },
-      "priceRange": "€",
-      "sameAs": []
+      "sameAs": ["https://www.vermittlerregister.info/recherche"]
+    })} />
+
+    <!-- Structured Data: WebSite -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": `${siteUrl}/#website`,
+      "name": "Nurbanum Versicherungsmakler",
+      "url": siteUrl,
+      "publisher": { "@id": `${siteUrl}/#organization` },
+      "inLanguage": "de-DE"
     })} />
   </head>
   <body class="min-h-screen flex flex-col bg-slate-50">
