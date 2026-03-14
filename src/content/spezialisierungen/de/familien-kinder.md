@@ -1,6 +1,6 @@
 ---
 title: "Familien & Kinder absichern"
-description: "Welche Versicherungen brauchen Familien mit Kindern? Kinderabsicherung, Risikoleben, Haftpflicht, Zahnzusatz — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Familien mit Kindern? Kinderabsicherung, Risikoleben, Haftpflicht, Zahnzusatz."
 h1: "Familien & Kinder"
 heroDescription: "Kinder schützen, Eltern absichern. Ich zeige Ihnen, welche Versicherungen für Ihre Familie wirklich wichtig sind — und welche Sie sich sparen können."
 audience: privat

@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Handwerk & Baubetriebe"
-description: "Welche Versicherungen brauchen Handwerker und Baubetriebe? Betriebshaftpflicht, Maschinenversicherung, Kfz-Flotte — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Handwerker und Baubetriebe? Betriebshaftpflicht, Maschinenversicherung, Kfz-Flotte."
 h1: "Handwerk & Baubetriebe"
 heroDescription: "Auf der Baustelle, in der Werkstatt, beim Kunden — Handwerker tragen besondere Risiken. Ich sorge dafür, dass Ihr Betrieb richtig abgesichert ist."
 audience: gewerbe

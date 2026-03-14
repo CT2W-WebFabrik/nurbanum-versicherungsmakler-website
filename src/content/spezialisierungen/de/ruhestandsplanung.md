@@ -1,6 +1,6 @@
 ---
 title: Ruhestandsplanung
-description: "Reicht Ihre Rente? Versorgungslücke berechnen, Renteninformation verstehen, Ruhestand planen. Unabhängige Beratung — persönlich oder digital."
+description: "Reicht Ihre Rente? Versorgungslücke berechnen, Renteninformation verstehen, Ruhestand planen."
 h1: Ruhestandsplanung
 heroDescription: "Wie viel Rente brauchen Sie wirklich? Ich analysiere Ihre Situation und entwickle einen konkreten Plan."
 audience: privat

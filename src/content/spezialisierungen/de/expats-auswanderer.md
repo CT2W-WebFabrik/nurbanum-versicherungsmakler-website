@@ -1,6 +1,6 @@
 ---
 title: "Expats & Auswanderer absichern"
-description: "Versicherungen für Expats und Auswanderer: Auslandskranken, PKV-Anwartschaft, Altersvorsorge — unabhängige Beratung."
+description: "Versicherungen für Expats und Auswanderer: Auslandskranken, PKV-Anwartschaft, Altersvorsorge."
 h1: "Expats & Auswanderer"
 heroDescription: "Ob Entsendung oder Auswanderung — ich sorge dafür, dass Ihr Versicherungsschutz auch jenseits der Grenze funktioniert."
 audience: privat

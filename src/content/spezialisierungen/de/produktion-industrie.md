@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Produktion & Industrie"
-description: "Welche Versicherungen brauchen produzierende Unternehmen? Produkthaftpflicht, Maschinenversicherung, Umwelthaftpflicht — unabhängige Beratung."
+description: "Welche Versicherungen brauchen produzierende Unternehmen? Produkthaftpflicht, Maschinenversicherung, Umwelthaftpflicht."
 h1: "Produzierendes Gewerbe & Industrie"
 heroDescription: "Produktionsanlagen, Lieferketten, Produkthaftung — industrielle Risiken sind komplex. Ich entwickle ein Versicherungskonzept, das Ihren Betrieb umfassend schützt."
 audience: gewerbe

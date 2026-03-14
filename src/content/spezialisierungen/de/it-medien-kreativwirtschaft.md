@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für IT, Medien & Kreativwirtschaft"
-description: "Welche Versicherungen brauchen IT-Dienstleister, Agenturen und Kreative? Berufshaftpflicht, Cyber, Vermögensschaden — unabhängige Beratung."
+description: "Welche Versicherungen brauchen IT-Dienstleister, Agenturen und Kreative? Berufshaftpflicht, Cyber, Vermögensschaden."
 h1: "IT, Medien & Kreativwirtschaft"
 heroDescription: "Software, Agenturen, Design, Film — digitale und kreative Dienstleister brauchen Schutz vor Vermögensschäden, Cyberrisiken und Urheberrechtskonflikten."
 audience: gewerbe

@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Immobilienbesitzer & Vermieter"
-description: "Welche Versicherungen brauchen Immobilienbesitzer und Vermieter? Wohngebäude, Grundbesitzerhaftpflicht, Photovoltaik — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Immobilienbesitzer und Vermieter? Wohngebäude, Grundbesitzerhaftpflicht, Photovoltaik."
 h1: "Immobilienbesitzer & Vermieter"
 heroDescription: "Ihr Eigentum verdient den richtigen Schutz. Ich zeige Ihnen, welche Versicherungen für Ihre Immobilie unverzichtbar sind."
 audience: privat

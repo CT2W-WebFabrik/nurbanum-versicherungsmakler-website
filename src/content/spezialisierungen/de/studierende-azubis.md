@@ -1,6 +1,6 @@
 ---
 title: "Studierende & Azubis absichern"
-description: "Welche Versicherungen brauchen Studenten und Auszubildende? Haftpflicht, BU, Krankenversicherung — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Studenten und Auszubildende? Haftpflicht, BU, Krankenversicherung."
 h1: "Studierende & Azubis"
 heroDescription: "Der Start in die Eigenverantwortung. Ich zeige Ihnen, welche Versicherungen jetzt wichtig sind — und welche noch warten können."
 audience: privat

@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Gastronomie & Hotellerie"
-description: "Welche Versicherungen brauchen Gastronomen und Hoteliers? Betriebshaftpflicht, Inhaltsversicherung, Betriebsunterbrechung — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Gastronomen und Hoteliers? Betriebshaftpflicht, Inhaltsversicherung, Betriebsunterbrechung."
 h1: "Gastronomie & Hotellerie"
 heroDescription: "Restaurants, Hotels, Cafés und Catering — die Branche bringt besondere Risiken mit sich. Ich finde den passenden Versicherungsschutz für Ihren Betrieb."
 audience: gewerbe

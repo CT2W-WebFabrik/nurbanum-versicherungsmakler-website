@@ -1,6 +1,6 @@
 ---
 title: Private Altersvorsorge
-description: "Riester, Rürup, private Rentenversicherung oder ETF-Rente: Finden Sie die Altersvorsorge, die zu Ihnen passt. Unabhängige Beratung — persönlich oder digital."
+description: "Riester, Rürup, private Rentenversicherung oder ETF-Rente: Finden Sie die Altersvorsorge, die zu Ihnen passt."
 h1: Private Altersvorsorge
 heroDescription: "Die gesetzliche Rente allein reicht nicht. Ich zeige Ihnen, wie Sie die Versorgungslücke gezielt schließen."
 audience: privat

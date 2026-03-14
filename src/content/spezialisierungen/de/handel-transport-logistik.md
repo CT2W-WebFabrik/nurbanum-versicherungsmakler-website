@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Handel, Transport & Logistik"
-description: "Welche Versicherungen brauchen Speditionen, Logistiker und Handelsunternehmen? Betriebshaftpflicht, Kfz-Flotte, Transportversicherung — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Speditionen, Logistiker und Handelsunternehmen? Betriebshaftpflicht, Kfz-Flotte, Transportversicherung."
 h1: "Handel, Transport & Logistik"
 heroDescription: "Warenströme, Fuhrpark, Lagerrisiken — die Logistikbranche braucht maßgeschneiderten Versicherungsschutz. Ich kenne die Risiken und finde die passende Lösung."
 audience: gewerbe

@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Vereine & Ehrenamt"
-description: "Welche Versicherungen brauchen Vereine und ehrenamtliche Organisationen? Vereinshaftpflicht, D&O für Vorstände, Unfallschutz — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Vereine und ehrenamtliche Organisationen? Vereinshaftpflicht, D&O für Vorstände, Unfallschutz."
 h1: "Vereine & Ehrenamt"
 heroDescription: "Sportverein, Kulturverein, Förderverein — ehrenamtliches Engagement braucht den richtigen Versicherungsschutz. Ich sorge dafür, dass Verein und Vorstand abgesichert sind."
 audience: gewerbe

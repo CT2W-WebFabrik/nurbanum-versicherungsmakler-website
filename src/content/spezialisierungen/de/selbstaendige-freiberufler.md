@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Selbständige & Freiberufler"
-description: "Welche Versicherungen brauchen Selbständige? Berufshaftpflicht, BU, Krankenversicherung, D&O — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Selbständige? Berufshaftpflicht, BU, Krankenversicherung, D&O."
 h1: "Selbständige & Freiberufler"
 heroDescription: "Als Selbständiger tragen Sie alle Risiken selbst. Ich sorge dafür, dass die richtigen Versicherungen stehen — und keine unnötigen."
 audience: gewerbe

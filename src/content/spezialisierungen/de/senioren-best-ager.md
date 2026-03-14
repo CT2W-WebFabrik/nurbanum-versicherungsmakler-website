@@ -1,6 +1,6 @@
 ---
 title: "Senioren & Best Ager absichern"
-description: "Versicherungen ab 50: Pflegezusatz, Sterbegeld, Unfallschutz, Auslandskranken — unabhängige Beratung für die zweite Lebenshälfte."
+description: "Versicherungen ab 50: Pflegezusatz, Sterbegeld, Unfallschutz, Auslandskranken — Schutz für die zweite Lebenshälfte."
 h1: "Senioren & Best Ager"
 heroDescription: "Ab 50 ändern sich die Prioritäten. Ich helfe Ihnen, Ihren Versicherungsschutz an die neue Lebensphase anzupassen — ohne unnötige Kosten."
 audience: privat

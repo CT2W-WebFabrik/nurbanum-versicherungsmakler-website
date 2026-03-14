@@ -1,6 +1,6 @@
 ---
 title: "Versicherungen für Heilberufe & Praxen"
-description: "Welche Versicherungen brauchen Ärzte, Zahnärzte, Therapeuten und Heilpraktiker? Berufshaftpflicht, Cyber, Praxisschutz — unabhängige Beratung."
+description: "Welche Versicherungen brauchen Ärzte, Zahnärzte, Therapeuten und Heilpraktiker? Berufshaftpflicht, Cyber, Praxisschutz."
 h1: "Heilberufe & Praxen"
 heroDescription: "Ärzte, Zahnärzte, Therapeuten und Heilpraktiker tragen eine besondere Verantwortung. Ich sorge dafür, dass Ihre Praxis und Ihre berufliche Existenz geschützt sind."
 audience: gewerbe

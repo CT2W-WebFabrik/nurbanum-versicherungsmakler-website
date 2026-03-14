@@ -1,6 +1,6 @@
 ---
 title: "Soziale Einrichtungen & Pflege absichern"
-description: "Versicherungen für Kitas, Pflegeheime, soziale Träger: Betriebshaftpflicht, D&O, Cyber, Berufshaftpflicht — unabhängige Beratung für soziale Organisationen."
+description: "Versicherungen für Kitas, Pflegeheime, soziale Träger: Betriebshaftpflicht, D&O, Cyber, Berufshaftpflicht."
 h1: "Soziale Einrichtungen & Pflege"
 heroDescription: "Kitas, Pflegeheime, ambulante Dienste, Jugendhilfe — soziale Einrichtungen tragen große Verantwortung für vulnerable Gruppen. Ich sorge dafür, dass Ihre Organisation richtig abgesichert ist."
 audience: gewerbe

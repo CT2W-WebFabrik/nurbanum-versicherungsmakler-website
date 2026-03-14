@@ -1,6 +1,6 @@
 ---
 title: Betriebliche Altersversorgung (bAV)
-description: "Betriebliche Altersversorgung für Arbeitgeber und Arbeitnehmer: Durchführungswege, Arbeitgeberzuschuss, Entgeltumwandlung. Unabhängige Beratung — persönlich oder digital."
+description: "Betriebliche Altersversorgung für Arbeitgeber und Arbeitnehmer: Durchführungswege, Arbeitgeberzuschuss, Entgeltumwandlung."
 h1: Betriebliche Altersversorgung
 heroDescription: "Steuervorteile, Arbeitgeberzuschuss und solide Vorsorge — ich berate Unternehmen und Arbeitnehmer gleichermaßen."
 audience: privat

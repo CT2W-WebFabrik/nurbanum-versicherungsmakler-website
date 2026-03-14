@@ -1,6 +1,6 @@
 ---
 title: "Land- & Forstwirtschaft absichern"
-description: "Versicherungen für Landwirte und Forstbetriebe: Betriebshaftpflicht, Maschinen, Gebäude, Ernteschäden — unabhängige Beratung."
+description: "Versicherungen für Landwirte und Forstbetriebe: Betriebshaftpflicht, Maschinen, Gebäude, Ernteschäden."
 h1: "Land- & Forstwirtschaft"
 heroDescription: "Wetterrisiken, teure Maschinen, hohe Unfallgefahr — landwirtschaftliche Betriebe brauchen maßgeschneiderten Versicherungsschutz."
 audience: gewerbe
