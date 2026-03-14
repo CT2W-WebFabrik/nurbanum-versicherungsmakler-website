@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 const audience = entry.data.audience ?? 'privat';
 const faqSchema = buildFaqSchema(extractFaqFromMarkdown(entry.body ?? ''));
 ---
@@ -25,6 +25,7 @@ const faqSchema = buildFaqSchema(extractFaqFromMarkdown(entry.body ?? ''));
   updatedDate={entry.data.updatedDate}
   category={entry.data.category}
   readingTime={entry.data.readingTime}
+  headings={headings}
   faqSchema={faqSchema}
   breadcrumbs={[
     { label: 'Ratgeber', href: '/ratgeber/' },

@@ -1,0 +1,41 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+}
+
+const { headings } = Astro.props;
+
+const filtered = headings.filter(h =>
+  h.depth >= 2 && h.depth <= 3 &&
+  !['Weiterlesen', 'Quellen', 'Kostenlose Beratung anfragen'].includes(h.text)
+);
+
+const show = filtered.length >= 3;
+---
+
+{show && (
+  <nav class="toc not-prose mb-10 rounded-xl border border-slate-200 bg-slate-50/80 p-5 sm:p-6" aria-label="Inhaltsverzeichnis">
+    <p class="text-sm font-bold text-navy-900 uppercase tracking-wide mb-3">Inhalt</p>
+    <ol class="space-y-1.5 text-sm">
+      {filtered.map(h => (
+        <li class:list={[h.depth === 3 && 'ml-4']}>
+          <a
+            href={`#${h.slug}`}
+            class:list={[
+              'block py-0.5 text-slate-600 hover:text-amber-700 transition-colors no-underline',
+              h.depth === 2 && 'font-medium text-navy-800',
+            ]}
+          >
+            {h.text}
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

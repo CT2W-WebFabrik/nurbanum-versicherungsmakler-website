@@ -138,27 +138,6 @@ const siteUrl = 'https://nurbanum.de';
         table.parentNode?.insertBefore(wrapper, table);
         wrapper.appendChild(table);
       });
-
-      // Auto-generate TOC for pages that don't have a server-rendered one
-      document.querySelectorAll('.prose').forEach((prose) => {
-        if (prose.querySelector('.toc')) return;
-        const headings = prose.querySelectorAll('h2, h3');
-        if (headings.length < 3) return;
-        headings.forEach((h) => {
-          if (!h.id) h.id = h.textContent!.trim().toLowerCase().replace(/[^a-zäöüß0-9]+/g, '-').replace(/^-|-$/g, '');
-        });
-        const items = Array.from(headings)
-          .filter(h => !['Weiterlesen', 'Quellen'].includes(h.textContent!.trim()))
-          .map(h => `<li class="${h.tagName === 'H3' ? 'ml-4' : ''}"><a href="#${h.id}" class="block py-0.5 text-slate-600 hover:text-amber-700 transition-colors no-underline ${h.tagName === 'H2' ? 'font-medium text-navy-800' : ''}">${h.textContent!.trim()}</a></li>`)
-          .join('');
-        if (!items) return;
-        const nav = document.createElement('nav');
-        nav.className = 'toc not-prose mb-10 rounded-xl border border-slate-200 bg-slate-50/80 p-5 sm:p-6';
-        nav.setAttribute('aria-label', 'Inhaltsverzeichnis');
-        nav.innerHTML = `<p class="text-sm font-bold text-navy-900 uppercase tracking-wide mb-3">Inhalt</p><ol class="space-y-1.5 text-sm">${items}</ol>`;
-        const first = prose.querySelector('h2');
-        if (first) prose.insertBefore(nav, first);
-      });
     </script>
   </body>
 </html>
