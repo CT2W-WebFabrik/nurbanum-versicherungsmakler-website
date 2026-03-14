@@ -238,10 +238,20 @@ for (const guide of gewerbeGuides) {
       });
     });
 
-    // Accordion
+    // Accordion — exclusive: opening one closes others in the same section
     document.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(btn => {
       btn.addEventListener('click', () => {
         const expanded = btn.getAttribute('aria-expanded') === 'true';
+        const section = btn.closest('[data-audience]');
+        if (section && !expanded) {
+          section.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(other => {
+            if (other !== btn) {
+              other.setAttribute('aria-expanded', 'false');
+              const ob = document.getElementById(other.getAttribute('aria-controls') || '');
+              if (ob) ob.dataset.open = 'false';
+            }
+          });
+        }
         btn.setAttribute('aria-expanded', String(!expanded));
         const body = document.getElementById(btn.getAttribute('aria-controls') || '');
         if (body) body.dataset.open = String(!expanded);
@@ -306,6 +316,14 @@ for (const guide of gewerbeGuides) {
     if (hash.includes('-')) {
       const el = document.getElementById(hash);
       if (el) {
+        const section = el.closest('[data-audience]');
+        if (section) {
+          section.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(other => {
+            other.setAttribute('aria-expanded', 'false');
+            const ob = document.getElementById(other.getAttribute('aria-controls') || '');
+            if (ob) ob.dataset.open = 'false';
+          });
+        }
         const toggle = el.querySelector<HTMLButtonElement>('.accordion-toggle');
         if (toggle) {
           toggle.setAttribute('aria-expanded', 'true');

@@ -39,6 +39,14 @@ const personenSubsections = [
   { label: 'Spezialversicherungen', items: personenSpezial },
 ];
 
+const allPrivatAccordions = [
+  ...personenSubsections.map(sub => ({ slug: slugify(sub.label), label: sub.label, items: sub.items })),
+  ...Object.entries(privatCategories)
+    .filter(([key]) => key !== 'personen')
+    .filter(([, { items }]) => items.length > 0)
+    .map(([key, { label, items }]) => ({ slug: slugify(key), label, items })),
+];
+
 // Group Gewerbe into subcategories
 const gewerbeHaftpflicht = gewerbeProducts.filter(e =>
   ['betriebshaftpflicht', 'berufshaftpflicht', 'dno-versicherung', 'vermoegensschadenhaftpflicht', 'produkthaftpflicht', 'umwelthaftpflicht'].includes(e.id)
@@ -117,76 +125,26 @@ const gewerbeCategories = [
         <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Privatversicherungen</h2>
       </div>
 
-      {/* Personenversicherungen with subsections */}
-      <div id="privat-personenversicherungen" class="category-accordion mb-2 scroll-mt-28 sm:scroll-mt-40">
-        <button
-          class="accordion-toggle w-full flex items-center justify-between py-4 px-3 -mx-3 rounded-lg hover:bg-navy-50/50 transition-colors text-left"
-          aria-expanded="true"
-          aria-controls="content-privat-personenversicherungen"
-        >
-          <h3 class="text-xl font-bold text-navy-950 flex items-center">
-            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
-            Personenversicherungen
-            <span class="ml-2 text-sm font-normal text-slate-400">{personenItems.length}</span>
-          </h3>
-          <svg class="accordion-chevron w-5 h-5 text-slate-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-          </svg>
-        </button>
-        <div id="content-privat-personenversicherungen" class="accordion-body" data-open="true">
-          <div>
-            <div class="pt-4 pb-8">
-              {personenSubsections.map((sub) => sub.items.length > 0 && (
-                <div class="mb-10 last:mb-0">
-                  <p class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-4 ml-1">{sub.label}</p>
-                  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {sub.items.map((entry) => (
-                      <a
-                        href={url(`/versicherungen/${entry.id}/`)}
-                        class="search-card group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
-                        data-search={`${entry.data.title} ${entry.data.description}`.toLowerCase()}
-                      >
-                        <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
-                          {entry.data.title}
-                        </h4>
-                        <p class="text-base text-slate-600 leading-relaxed mb-4">
-                          {entry.data.description}
-                        </p>
-                        <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
-                          Mehr erfahren
-                          <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-                        </span>
-                      </a>
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Remaining privat categories (Altersvorsorge, Sach, Haftpflicht) */}
-      {Object.entries(privatCategories).filter(([key]) => key !== 'personen').map(([key, { label, items }], index) => items.length > 0 && (
-        <div id={`privat-${slugify(key)}`} class="category-accordion mb-2 scroll-mt-28 sm:scroll-mt-40">
+      {allPrivatAccordions.map((cat, index) => cat.items.length > 0 && (
+        <div id={`privat-${cat.slug}`} class="category-accordion mb-2 scroll-mt-28 sm:scroll-mt-40">
           <button
             class="accordion-toggle w-full flex items-center justify-between py-4 px-3 -mx-3 rounded-lg hover:bg-navy-50/50 transition-colors text-left"
-            aria-expanded="false"
-            aria-controls={`content-privat-${slugify(key)}`}
+            aria-expanded={index === 0 ? 'true' : 'false'}
+            aria-controls={`content-privat-${cat.slug}`}
           >
             <h3 class="text-xl font-bold text-navy-950 flex items-center">
               <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
-              {label}
-              <span class="ml-2 text-sm font-normal text-slate-400">{items.length}</span>
+              {cat.label}
+              <span class="ml-2 text-sm font-normal text-slate-400">{cat.items.length}</span>
             </h3>
             <svg class="accordion-chevron w-5 h-5 text-slate-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
             </svg>
           </button>
-          <div id={`content-privat-${slugify(key)}`} class="accordion-body" data-open="false">
+          <div id={`content-privat-${cat.slug}`} class="accordion-body" data-open={index === 0 ? 'true' : 'false'}>
             <div>
               <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 pt-4 pb-8">
-                {items.map((entry) => (
+                {cat.items.map((entry) => (
                   <a
                     href={url(`/versicherungen/${entry.id}/`)}
                     class="search-card group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
@@ -299,10 +257,20 @@ const gewerbeCategories = [
       });
     });
 
-    // Accordion
+    // Accordion — exclusive: opening one closes others in the same section
     document.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(btn => {
       btn.addEventListener('click', () => {
         const expanded = btn.getAttribute('aria-expanded') === 'true';
+        const section = btn.closest('[data-audience]');
+        if (section && !expanded) {
+          section.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(other => {
+            if (other !== btn) {
+              other.setAttribute('aria-expanded', 'false');
+              const ob = document.getElementById(other.getAttribute('aria-controls') || '');
+              if (ob) ob.dataset.open = 'false';
+            }
+          });
+        }
         btn.setAttribute('aria-expanded', String(!expanded));
         const body = document.getElementById(btn.getAttribute('aria-controls') || '');
         if (body) body.dataset.open = String(!expanded);
@@ -367,6 +335,14 @@ const gewerbeCategories = [
     if (hash.includes('-')) {
       const el = document.getElementById(hash);
       if (el) {
+        const section = el.closest('[data-audience]');
+        if (section) {
+          section.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(other => {
+            other.setAttribute('aria-expanded', 'false');
+            const ob = document.getElementById(other.getAttribute('aria-controls') || '');
+            if (ob) ob.dataset.open = 'false';
+          });
+        }
         const toggle = el.querySelector<HTMLButtonElement>('.accordion-toggle');
         if (toggle) {
           toggle.setAttribute('aria-expanded', 'true');
