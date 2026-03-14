@@ -11,9 +11,10 @@ interface Props {
   category?: string;
   readingTime?: string;
   breadcrumbs?: { label: string; href: string }[];
+  faqSchema?: object | null;
 }
 
-const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs } = Astro.props;
+const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs, faqSchema } = Astro.props;
 const formattedDate = publishDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 const formattedUpdate = updatedDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 
@@ -94,6 +95,11 @@ const breadcrumbItems = breadcrumbs || [];
       "dateModified": (updatedDate ?? publishDate).toISOString(),
       "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
     })} />
+  )}
+
+  {/* FAQPage structured data — only injected when FAQ content exists */}
+  {faqSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   )}
 
 </BaseLayout>

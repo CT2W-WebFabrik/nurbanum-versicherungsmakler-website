@@ -2,6 +2,7 @@
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { slugify } from '../../utils/paths';
+import { extractFaqFromMarkdown, buildFaqSchema } from '../../utils/faq';
 
 export async function getStaticPaths() {
   const entries = await getCollection('ratgeber');
@@ -14,6 +15,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const audience = entry.data.audience ?? 'privat';
+const faqSchema = buildFaqSchema(extractFaqFromMarkdown(entry.body ?? ''));
 ---
 
 <ArticleLayout
@@ -23,6 +25,7 @@ const audience = entry.data.audience ?? 'privat';
   updatedDate={entry.data.updatedDate}
   category={entry.data.category}
   readingTime={entry.data.readingTime}
+  faqSchema={faqSchema}
   breadcrumbs={[
     { label: 'Ratgeber', href: '/ratgeber/' },
     { label: audience === 'gewerbe' ? 'Für Unternehmen' : 'Für Privatpersonen', href: `/ratgeber/#${audience}` },

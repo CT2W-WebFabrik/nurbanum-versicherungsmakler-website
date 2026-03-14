@@ -125,5 +125,15 @@ const siteUrl = 'https://nurbanum.de';
     </main>
     <Footer />
     <WhatsAppButton />
+
+    <script>
+      document.querySelectorAll('.prose table').forEach((table) => {
+        if (table.parentElement?.classList.contains('table-wrapper')) return;
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-wrapper';
+        table.parentNode?.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+      });
+    </script>
   </body>
 </html>

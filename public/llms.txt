@@ -1,0 +1,76 @@
+# Nurbanum Versicherungsmakler
+
+> Unabhängiger Versicherungsmakler in Zirndorf bei Nürnberg. Spezialisiert auf Altersvorsorge, betriebliche Altersversorgung und Ruhestandsplanung.
+
+## Über uns
+
+Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unabhängige Versicherungsberatung für Privatpersonen und Unternehmen im Raum Nürnberg/Fürth/Zirndorf. Als Versicherungsmakler ist er nicht an einzelne Versicherer gebunden und vergleicht Angebote aus dem gesamten Markt.
+
+- Gründer: Thorsten Schreier
+- Standort: Hans-Sachs-Straße 2, 90513 Zirndorf
+- Telefon: +49 173 84444426
+- E-Mail: thorsten.schreier@nurbanum.de
+- Website: https://nurbanum.de
+
+## Spezialisierungen
+
+- Altersvorsorge & Ruhestandsplanung
+- Betriebliche Altersversorgung (bAV)
+- Versicherungen für Selbständige & Freiberufler
+- Gewerbeversicherungen (Handwerk, IT, Gastronomie, Heilberufe u.v.m.)
+
+## Inhaltsverzeichnis
+
+### Hauptseiten
+
+- [Startseite](https://nurbanum.de/)
+- [Kontakt](https://nurbanum.de/kontakt/)
+- [Häufige Fragen (FAQ)](https://nurbanum.de/faq/)
+
+### Versicherungen (59 Seiten)
+
+- [Haftpflichtversicherung](https://nurbanum.de/versicherungen/haftpflicht/)
+- [Berufsunfähigkeitsversicherung](https://nurbanum.de/versicherungen/berufsunfaehigkeit/)
+- [Hausratversicherung](https://nurbanum.de/versicherungen/hausrat/)
+- [Wohngebäudeversicherung](https://nurbanum.de/versicherungen/wohngebaeude/)
+- [Kfz-Versicherung](https://nurbanum.de/versicherungen/kfz/)
+- [Krankenversicherung](https://nurbanum.de/versicherungen/krankenversicherung/)
+- [Rechtsschutzversicherung](https://nurbanum.de/versicherungen/rechtsschutz/)
+- [Private Altersvorsorge](https://nurbanum.de/versicherungen/private-altersvorsorge/)
+- [Betriebliche Altersversorgung](https://nurbanum.de/versicherungen/betriebliche-altersversorgung/)
+- [Betriebshaftpflicht](https://nurbanum.de/versicherungen/betriebshaftpflicht/)
+- [Berufshaftpflicht](https://nurbanum.de/versicherungen/berufshaftpflicht/)
+- [Cyberversicherung](https://nurbanum.de/versicherungen/cyber/)
+- [Betriebsunterbrechungsversicherung](https://nurbanum.de/versicherungen/betriebsunterbrechung/)
+- [D&O-Versicherung](https://nurbanum.de/versicherungen/dno-versicherung/)
+- [Risikolebensversicherung](https://nurbanum.de/versicherungen/risikolebensversicherung/)
+- [Unfallversicherung](https://nurbanum.de/versicherungen/unfallversicherung/)
+- [Pflegezusatzversicherung](https://nurbanum.de/versicherungen/pflegezusatzversicherung/)
+- [Alle Versicherungen](https://nurbanum.de/versicherungen/)
+
+### Ratgeber (80 Artikel)
+
+- [Welche Versicherungen brauche ich?](https://nurbanum.de/ratgeber/welche-versicherungen-brauche-ich/)
+- [Altersvorsorge ab 30](https://nurbanum.de/ratgeber/altersvorsorge-ab-30/)
+- [Altersvorsorge ab 40](https://nurbanum.de/ratgeber/altersvorsorge-ab-40/)
+- [Altersvorsorge ab 50](https://nurbanum.de/ratgeber/altersvorsorge-ab-50/)
+- [Berufsunfähigkeit — worauf achten?](https://nurbanum.de/ratgeber/berufsunfaehigkeit-worauf-achten/)
+- [Versicherungen für Familien](https://nurbanum.de/ratgeber/versicherungen-fuer-familien/)
+- [Versicherungen für Berufseinsteiger](https://nurbanum.de/ratgeber/berufseinsteiger-versicherungen/)
+- [Versicherungen für Selbständige](https://nurbanum.de/ratgeber/versicherungen-fuer-selbstaendige/)
+- [Versicherungen für Existenzgründer](https://nurbanum.de/ratgeber/versicherungen-fuer-existenzgruender/)
+- [Haftpflicht-Ratgeber](https://nurbanum.de/ratgeber/haftpflichtversicherung-ratgeber/)
+- [Alle Ratgeber](https://nurbanum.de/ratgeber/)
+
+### Spezialisierungen (28 Seiten)
+
+- [Altersvorsorge](https://nurbanum.de/spezialisierungen/altersvorsorge/)
+- [Betriebliche Altersversorgung](https://nurbanum.de/spezialisierungen/betriebliche-altersversorgung/)
+- [Ruhestandsplanung](https://nurbanum.de/spezialisierungen/ruhestandsplanung/)
+- [Selbständige & Freiberufler](https://nurbanum.de/spezialisierungen/selbstaendige-freiberufler/)
+- [Startups & Gründer](https://nurbanum.de/spezialisierungen/startups-gruender/)
+- [Familien & Kinder](https://nurbanum.de/spezialisierungen/familien-kinder/)
+- [Handwerk & Baubetriebe](https://nurbanum.de/spezialisierungen/handwerk-baubetriebe/)
+- [Heilberufe & Praxen](https://nurbanum.de/spezialisierungen/heilberufe-praxen/)
+- [IT, Medien & Kreativwirtschaft](https://nurbanum.de/spezialisierungen/it-medien-kreativwirtschaft/)
+- [Alle Spezialisierungen](https://nurbanum.de/spezialisierungen/)
