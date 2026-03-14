@@ -165,7 +165,7 @@ Das hängt von Ihrer Tätigkeit ab. Die Berufshaftpflicht versichert Vermögenss
 
 ## Gut versichert gründen
 
-Eine durchdachte Absicherung gehört zum Businessplan. Als unabhängiger Versicherungsmakler erstelle ich für Gründer in der Metropolregion Nürnberg eine kostenlose Bestandsaufnahme: Welche Versicherungen brauchen Sie sofort, welche können warten und wo gibt es Sparpotenzial — ohne auf Schutz zu verzichten.
+Eine durchdachte Absicherung gehört zum Businessplan. Als unabhängiger Versicherungsmakler erstelle ich für Gründer eine kostenlose Bestandsaufnahme: Welche Versicherungen brauchen Sie sofort, welche können warten und wo gibt es Sparpotenzial — ohne auf Schutz zu verzichten.
 
 ### Weiterlesen
 

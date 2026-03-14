@@ -7,35 +7,23 @@ const latestRatgeber = (await getCollection('ratgeber'))
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
   .slice(0, 3);
 
-const privatTypes = [
-  { title: 'Haftpflichtversicherung', href: '/versicherungen/haftpflicht/' },
-  { title: 'Berufsunfähigkeit', href: '/versicherungen/berufsunfaehigkeit/' },
-  { title: 'Kfz-Versicherung', href: '/versicherungen/kfz/' },
-  { title: 'Hausratversicherung', href: '/versicherungen/hausrat/' },
-  { title: 'Wohngebäudeversicherung', href: '/versicherungen/wohngebaeude/' },
-  { title: 'Rechtsschutzversicherung', href: '/versicherungen/rechtsschutz/' },
-  { title: 'Risikolebensversicherung', href: '/versicherungen/risikoleben/' },
-  { title: 'Krankenversicherung', href: '/versicherungen/krankenversicherung/' },
-  { title: 'Unfallversicherung', href: '/versicherungen/unfallversicherung/' },
-  { title: 'Pflegeversicherung', href: '/versicherungen/pflegeversicherung/' },
-  { title: 'Tierhalterhaftpflicht', href: '/versicherungen/tierhalterhaftpflicht/' },
-  { title: 'Zahnzusatzversicherung', href: '/versicherungen/zahnzusatzversicherung/' },
-  { title: 'Photovoltaikversicherung', href: '/versicherungen/photovoltaikversicherung/' },
-  { title: 'Kinderabsicherung', href: '/versicherungen/kinderabsicherung/' },
-];
+const allVersicherungen = await getCollection('versicherungen');
+const privatTypes = allVersicherungen
+  .filter(e => e.data.audience === 'privat')
+  .sort((a, b) => a.data.order - b.data.order)
+  .map(e => ({ title: e.data.title, href: `/versicherungen/${e.id}/` }));
+const gewerbeTypes = allVersicherungen
+  .filter(e => e.data.audience === 'gewerbe')
+  .sort((a, b) => a.data.order - b.data.order)
+  .map(e => ({ title: e.data.title, href: `/versicherungen/${e.id}/` }));
 
-const gewerbeTypes = [
-  { title: 'Betriebshaftpflicht', href: '/versicherungen/betriebshaftpflicht/' },
-  { title: 'Berufshaftpflicht', href: '/versicherungen/berufshaftpflicht/' },
-  { title: 'D&O-Versicherung', href: '/versicherungen/dno-versicherung/' },
-  { title: 'Inhaltsversicherung', href: '/versicherungen/inhaltsversicherung/' },
-  { title: 'Betriebsgebäudeversicherung', href: '/versicherungen/betriebsgebaeudeversicherung/' },
-  { title: 'Betriebsunterbrechung', href: '/versicherungen/betriebsunterbrechung/' },
-  { title: 'Cyber-Versicherung', href: '/versicherungen/cyber/' },
-  { title: 'Firmen-Rechtsschutz', href: '/versicherungen/firmen-rechtsschutz/' },
-  { title: 'Produkthaftpflicht', href: '/versicherungen/produkthaftpflicht/' },
-  { title: 'Vermögensschadenhaftpflicht', href: '/versicherungen/vermoegensschadenhaftpflicht/' },
-  { title: 'Kfz-Flottenversicherung', href: '/versicherungen/kfz-flotten/' },
+const allSpecs = await getCollection('spezialisierungen');
+const coreSpecIds = ['betriebliche-altersversorgung', 'altersvorsorge', 'ruhestandsplanung'];
+const coreSpecs = coreSpecIds.map(id => allSpecs.find(s => s.id === id)!);
+const coreSpecIcons = [
+  '<svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 0h.008v.008h-.008V7.5z" /></svg>',
+  '<svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>',
+  '<svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" /></svg>',
 ];
 ---
 
@@ -93,7 +81,7 @@ const gewerbeTypes = [
         </span>
         <span class="flex items-center gap-2 text-navy-300">
           <svg class="w-4 h-4 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" /></svg>
-          Region Nürnberg
+          Persönlich & digital
         </span>
       </div>
     </div>
@@ -109,41 +97,18 @@ const gewerbeTypes = [
       </div>
 
       <div class="grid md:grid-cols-3 gap-6 lg:gap-8">
-        <!-- bAV -->
-        <a href={url('/spezialisierungen/betriebliche-altersversorgung/')} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
-          <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
-            <svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 0h.008v.008h-.008V7.5z" /></svg>
-          </div>
-          <h3 class="text-xl font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">Betriebliche Altersversorgung</h3>
-          <p class="text-base text-slate-600 leading-relaxed mb-4">Durchführungswege, Arbeitgeberzuschuss, Entgeltumwandlung — für Unternehmen und Arbeitnehmer.</p>
-          <span class="text-sm font-semibold text-amber-600 group-hover:text-amber-700 inline-flex items-center gap-1">
-            Mehr erfahren <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
-          </span>
-        </a>
-
-        <!-- Private Altersvorsorge -->
-        <a href={url('/spezialisierungen/altersvorsorge/')} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
-          <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
-            <svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
-          </div>
-          <h3 class="text-xl font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">Private Altersvorsorge</h3>
-          <p class="text-base text-slate-600 leading-relaxed mb-4">Riester, Rürup, ETF-Rente oder private Rentenversicherung — die optimale Strategie für Ihre Situation.</p>
-          <span class="text-sm font-semibold text-amber-600 group-hover:text-amber-700 inline-flex items-center gap-1">
-            Mehr erfahren <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
-          </span>
-        </a>
-
-        <!-- Ruhestandsplanung -->
-        <a href={url('/spezialisierungen/ruhestandsplanung/')} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
-          <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
-            <svg class="w-7 h-7 text-amber-400 group-hover:text-navy-950 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" /></svg>
-          </div>
-          <h3 class="text-xl font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">Ruhestandsplanung</h3>
-          <p class="text-base text-slate-600 leading-relaxed mb-4">Versorgungslücke berechnen, Renteninformation verstehen, konkrete Schritte bis zum Ruhestand planen.</p>
-          <span class="text-sm font-semibold text-amber-600 group-hover:text-amber-700 inline-flex items-center gap-1">
-            Mehr erfahren <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
-          </span>
-        </a>
+        {coreSpecs.map((spec, i) => (
+          <a href={url(`/spezialisierungen/${spec.id}/`)} class="group bg-white rounded-2xl border border-slate-100 p-8 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all no-underline">
+            <div class="w-14 h-14 rounded-xl bg-navy-950 flex items-center justify-center mb-6 group-hover:bg-amber-500 transition-colors">
+              <Fragment set:html={coreSpecIcons[i]} />
+            </div>
+            <h3 class="text-xl font-bold text-navy-950 mb-3 group-hover:text-amber-700 transition-colors">{spec.data.h1}</h3>
+            <p class="text-base text-slate-600 leading-relaxed mb-4">{spec.data.heroDescription}</p>
+            <span class="text-sm font-semibold text-amber-600 group-hover:text-amber-700 inline-flex items-center gap-1">
+              Mehr erfahren <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+            </span>
+          </a>
+        ))}
       </div>
     </div>
   </section>
@@ -250,29 +215,11 @@ const gewerbeTypes = [
 
           <div class="bg-white rounded-2xl border border-slate-100 p-7 shadow-sm">
             <div class="w-12 h-12 rounded-xl bg-navy-950 flex items-center justify-center mb-5">
-              <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+              <svg class="w-6 h-6 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5l4.72-4.72a.75.75 0 011.28.53v11.38a.75.75 0 01-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 002.25-2.25v-9a2.25 2.25 0 00-2.25-2.25h-9A2.25 2.25 0 002.25 7.5v9a2.25 2.25 0 002.25 2.25z" /></svg>
             </div>
-            <h3 class="text-lg font-bold text-navy-950 mb-2">Regional</h3>
-            <p class="text-base text-slate-600 leading-relaxed">Zu Hause in Zirndorf und der Metropolregion Nürnberg. Ihr Makler vor Ort.</p>
+            <h3 class="text-lg font-bold text-navy-950 mb-2">Persönlich & digital</h3>
+            <p class="text-base text-slate-600 leading-relaxed">Bei Ihnen vor Ort, im Büro oder per Video — wir beraten Sie so, wie es in Ihren Alltag passt.</p>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ═══ STANDORTE TEASER ═══ -->
-  <section class="py-14 sm:py-20 bg-white border-t border-slate-100">
-    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex flex-col sm:flex-row items-center justify-between gap-6">
-        <div>
-          <h2 class="text-xl sm:text-2xl font-800 text-navy-950 mb-2">Ihr Makler in der Metropolregion Nürnberg</h2>
-          <p class="text-base text-slate-600">Sitz in Zirndorf — persönlich vor Ort in Nürnberg, Fürth und Umgebung.</p>
-        </div>
-        <div class="flex flex-wrap gap-3 shrink-0">
-          <a href={url('/standorte/zirndorf/')} class="px-4 py-2 bg-navy-950 text-white text-sm font-semibold rounded-lg hover:bg-navy-800 transition-colors no-underline">Zirndorf</a>
-          <a href={url('/standorte/nuernberg/')} class="px-4 py-2 bg-slate-100 text-navy-900 text-sm font-semibold rounded-lg hover:bg-amber-100 transition-colors no-underline">Nürnberg</a>
-          <a href={url('/standorte/fuerth/')} class="px-4 py-2 bg-slate-100 text-navy-900 text-sm font-semibold rounded-lg hover:bg-amber-100 transition-colors no-underline">Fürth</a>
-          <a href={url('/standorte/')} class="px-4 py-2 text-amber-600 text-sm font-semibold hover:text-amber-700 transition-colors no-underline">Alle Standorte →</a>
         </div>
       </div>
     </div>

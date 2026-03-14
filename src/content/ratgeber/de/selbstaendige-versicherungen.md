@@ -171,7 +171,7 @@ Ein Gewerbe-Bündelvertrag wird ab etwa drei bis fünf einzelnen Gewerbepolicen 
 
 ## Ihr jährlicher Versicherungs-Check
 
-Als unabhängiger Versicherungsmakler biete ich Selbständigen in der Metropolregion Nürnberg einen kostenlosen jährlichen Vertragscheck: Deckungssummen prüfen, Verträge vergleichen, neue Risiken absichern und Beiträge optimieren. Damit Ihr Versicherungsschutz mit Ihrem Geschäft wächst.
+Als unabhängiger Versicherungsmakler biete ich Selbständigen einen kostenlosen jährlichen Vertragscheck: Deckungssummen prüfen, Verträge vergleichen, neue Risiken absichern und Beiträge optimieren. Damit Ihr Versicherungsschutz mit Ihrem Geschäft wächst.
 
 ### Weiterlesen
 

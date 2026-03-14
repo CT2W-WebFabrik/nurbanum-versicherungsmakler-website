@@ -4,7 +4,7 @@
 
 ## Über uns
 
-Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unabhängige Versicherungsberatung für Privatpersonen und Unternehmen im Raum Nürnberg/Fürth/Zirndorf. Als Versicherungsmakler ist er nicht an einzelne Versicherer gebunden und vergleicht Angebote aus dem gesamten Markt.
+Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unabhängige Versicherungsberatung für Privatpersonen und Unternehmen — persönlich vor Ort oder digital (Büro in Zirndorf). Als Versicherungsmakler ist er nicht an einzelne Versicherer gebunden und vergleicht Angebote aus dem gesamten Markt.
 
 - Gründer: Thorsten Schreier
 - Standort: Hans-Sachs-Straße 2, 90513 Zirndorf
@@ -60,7 +60,7 @@ Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unab
 - [Riester-Rente: Lohnt sich das noch?](https://nurbanum.de/ratgeber/riester-rente-lohnt-sich/)
 - [Alle Ratgeber](https://nurbanum.de/ratgeber/)
 
-### Spezialisierungen (28 Seiten)
+### Spezialisierungen (27 Seiten)
 
 - [Altersvorsorge](https://nurbanum.de/spezialisierungen/altersvorsorge/)
 - [Betriebliche Altersversorgung](https://nurbanum.de/spezialisierungen/betriebliche-altersversorgung/)
@@ -73,12 +73,10 @@ Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unab
 - [IT, Medien & Kreativwirtschaft](https://nurbanum.de/spezialisierungen/it-medien-kreativwirtschaft/)
 - [Alle Spezialisierungen](https://nurbanum.de/spezialisierungen/)
 
-### Standorte
+### Standort
 
-- [Versicherungsmakler in Zirndorf](https://nurbanum.de/standorte/zirndorf/)
-- [Versicherungsmakler Nürnberg](https://nurbanum.de/standorte/nuernberg/)
-- [Versicherungsmakler Fürth](https://nurbanum.de/standorte/fuerth/)
-- [Alle Standorte](https://nurbanum.de/standorte/)
+- [Versicherungsmakler in Zirndorf](https://nurbanum.de/standorte/zirndorf/) — unser Büro
+- [Standort — Übersicht](https://nurbanum.de/standorte/)
 
 ### Blog
 

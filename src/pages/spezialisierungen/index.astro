@@ -1,69 +1,46 @@
 ---
 import { url, slugify } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
 
-const privatSubsections = [
-  {
-    label: 'Lebensphasen',
-    items: [
-      { href: url('/spezialisierungen/berufseinsteiger-junge-erwachsene/'), title: 'Berufseinsteiger & junge Erwachsene', description: 'Welche Versicherungen am Karrierestart wirklich wichtig sind — und welche warten können.' },
-      { href: url('/spezialisierungen/familien-kinder/'), title: 'Familien & Kinder', description: 'Kinder schützen, Eltern absichern. Die richtige Priorität bei der Familienabsicherung.' },
-      { href: url('/spezialisierungen/studierende-azubis/'), title: 'Studierende & Azubis', description: 'Haftpflicht, Hausrat, BU-Starter — die wichtigsten Policen zum kleinen Budget.' },
-      { href: url('/spezialisierungen/alleinstehende-singles/'), title: 'Alleinstehende & Singles', description: 'Eigene Absicherung ohne Partner-Netz — BU, Haftpflicht und Vorsorge richtig aufstellen.' },
-      { href: url('/spezialisierungen/senioren-best-ager/'), title: 'Senioren & Best Ager', description: 'Versicherungsschutz im Ruhestand anpassen — Überversicherung vermeiden, Lücken schließen.' },
-      { href: url('/spezialisierungen/immobilienbesitzer-vermieter/'), title: 'Immobilienbesitzer & Vermieter', description: 'Wohngebäude, Grundbesitzerhaftpflicht, Photovoltaik — Schutz für Ihre Immobilie.' },
-      { href: url('/spezialisierungen/expats-auswanderer/'), title: 'Expats & Auswanderer', description: 'Krankenversicherung, Haftpflicht und Altersvorsorge bei Wohnsitz im Ausland.' },
-    ],
-  },
-  {
-    label: 'Vorsorge & Ruhestand',
-    items: [
-      { href: url('/spezialisierungen/altersvorsorge/'), title: 'Private Altersvorsorge', description: 'Riester, Rürup, ETF-Police — welcher Vorsorgeweg passt zu Ihrer Situation?' },
-      { href: url('/spezialisierungen/ruhestandsplanung/'), title: 'Ruhestandsplanung', description: 'Den Übergang in den Ruhestand finanziell und versicherungstechnisch vorbereiten.' },
-    ],
-  },
-  {
-    label: 'Absicherung im Beruf',
-    items: [
-      { href: url('/spezialisierungen/betriebliche-altersversorgung/'), title: 'Betriebliche Altersversorgung', description: 'Entgeltumwandlung, Arbeitgeberzuschuss, Durchführungswege — bAV verständlich erklärt.' },
-      { href: url('/spezialisierungen/angestellte-gutverdiener/'), title: 'Angestellte & Gutverdiener', description: 'PKV, bAV-Optimierung, Zusatzversicherungen — das Beste aus Ihrem Einkommen herausholen.' },
-    ],
-  },
-];
+const entries = await getCollection('spezialisierungen');
 
-const gewerbeSubsections = [
-  {
-    label: 'Freie Berufe & Dienstleistung',
-    items: [
-      { href: url('/spezialisierungen/selbstaendige-freiberufler/'), title: 'Selbständige & Freiberufler', description: 'Berufshaftpflicht, BU, Krankenversicherung — die wichtigsten Absicherungen ohne Arbeitgeber-Netz.' },
-      { href: url('/spezialisierungen/heilberufe-praxen/'), title: 'Heilberufe & Praxen', description: 'Berufshaftpflicht, Cyber, Praxisschutz — für Ärzte, Zahnärzte, Therapeuten und Heilpraktiker.' },
-      { href: url('/spezialisierungen/it-medien-kreativwirtschaft/'), title: 'IT, Medien & Kreativwirtschaft', description: 'Vermögensschadenhaftpflicht, Cyber, Elektronik — Schutz für digitale und kreative Dienstleister.' },
-      { href: url('/spezialisierungen/startups-gruender/'), title: 'Startups & Gründer', description: 'Betriebshaftpflicht, D&O, Cyber — die wichtigsten Versicherungen für junge Unternehmen.' },
-      { href: url('/spezialisierungen/architekten-ingenieure/'), title: 'Architekten & Ingenieure', description: 'Pflicht-Berufshaftpflicht, D&O, Firmen-Rechtsschutz — Schutz für planende Berufe.' },
-      { href: url('/spezialisierungen/rechtsanwaelte-steuerberater/'), title: 'Rechtsanwälte & Steuerberater', description: 'Berufshaftpflicht über die Pflichtversicherung hinaus, Cyber, D&O — Schutz für Kanzleien.' },
-      { href: url('/spezialisierungen/immobilienverwaltungen/'), title: 'Immobilienverwaltungen', description: 'Vermögensschadenhaftpflicht, D&O, Cyber — Schutz für WEG- und Mietverwalter.' },
-    ],
-  },
-  {
-    label: 'Handwerk, Handel & Industrie',
-    items: [
-      { href: url('/spezialisierungen/handwerk-baubetriebe/'), title: 'Handwerk & Baubetriebe', description: 'Betriebshaftpflicht, Maschinenversicherung, Kfz-Flotte — Schutz für den Handwerksbetrieb.' },
-      { href: url('/spezialisierungen/gastronomie-hotellerie/'), title: 'Gastronomie & Hotellerie', description: 'Betriebshaftpflicht, Inhaltsversicherung, Produkthaftung — Schutz für Ihren Gastrobetrieb.' },
-      { href: url('/spezialisierungen/produktion-industrie/'), title: 'Produzierendes Gewerbe & Industrie', description: 'Produkthaftpflicht, Maschinenversicherung, Umwelthaftpflicht — Schutz für Industriebetriebe.' },
-      { href: url('/spezialisierungen/handel-transport-logistik/'), title: 'Handel, Transport & Logistik', description: 'Frachtführerhaftung, Kfz-Flotte, Lagerrisiken — Schutz für Speditionen und Handelsunternehmen.' },
-      { href: url('/spezialisierungen/e-commerce-onlinehandel/'), title: 'E-Commerce & Onlinehandel', description: 'Produkthaftpflicht, Cyber, Rechtsschutz — Schutz für Online-Shops und digitale Geschäftsmodelle.' },
-      { href: url('/spezialisierungen/land-forstwirtschaft/'), title: 'Land- & Forstwirtschaft', description: 'Betriebshaftpflicht, Maschinen, Gebäude — Versicherungsschutz für landwirtschaftliche Betriebe.' },
-      { href: url('/spezialisierungen/bautraeger-projektentwickler/'), title: 'Bauträger & Projektentwickler', description: 'Bauleistung, Berufshaftpflicht, D&O — Schutz für komplexe Bauprojekte.' },
-    ],
-  },
-  {
-    label: 'Vereine & Organisationen',
-    items: [
-      { href: url('/spezialisierungen/vereine-ehrenamt/'), title: 'Vereine & Ehrenamt', description: 'Vereinshaftpflicht, D&O für Vorstände, Unfallschutz — Schutz für ehrenamtliches Engagement.' },
-      { href: url('/spezialisierungen/soziale-einrichtungen-pflege/'), title: 'Soziale Einrichtungen & Pflege', description: 'Kitas, Pflegeheime, soziale Träger — Haftpflicht, D&O, Cyber und Berufshaftpflicht für soziale Organisationen.' },
-    ],
-  },
-];
+type CardItem = { href: string; title: string; description: string };
+type Subsection = { label: string; items: CardItem[] };
+
+const privatCategoryOrder = ['Lebensphasen', 'Vorsorge & Ruhestand', 'Absicherung im Beruf'];
+const gewerbeCategoryOrder = ['Freie Berufe & Dienstleistung', 'Handwerk, Handel & Industrie', 'Vereine & Organisationen'];
+
+function buildSubsections(audience: 'privat' | 'gewerbe', categoryOrder: string[]): Subsection[] {
+  const filtered = entries.filter(e => e.data.audience === audience);
+  const grouped = new Map<string, CardItem[]>();
+  for (const entry of filtered) {
+    const cat = entry.data.category;
+    if (!grouped.has(cat)) grouped.set(cat, []);
+    grouped.get(cat)!.push({
+      href: url(`/spezialisierungen/${entry.id}/`),
+      title: entry.data.h1,
+      description: entry.data.heroDescription,
+    });
+  }
+  for (const items of grouped.values()) {
+    items.sort((a, b) => a.title.localeCompare(b.title, 'de'));
+  }
+  const result: Subsection[] = [];
+  for (const cat of categoryOrder) {
+    if (grouped.has(cat)) {
+      result.push({ label: cat, items: grouped.get(cat)! });
+      grouped.delete(cat);
+    }
+  }
+  for (const [cat, items] of grouped) {
+    result.push({ label: cat, items });
+  }
+  return result;
+}
+
+const privatSubsections = buildSubsections('privat', privatCategoryOrder);
+const gewerbeSubsections = buildSubsections('gewerbe', gewerbeCategoryOrder);
 
 const privatCount = privatSubsections.reduce((sum, s) => sum + s.items.length, 0);
 const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length, 0);

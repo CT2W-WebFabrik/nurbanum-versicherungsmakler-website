@@ -47,4 +47,21 @@ const faq = defineCollection({
   }),
 });
 
-export const collections = { versicherungen, ratgeber, blog, faq };
+const spezialisierungen = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/spezialisierungen/de" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    h1: z.string(),
+    heroDescription: z.string(),
+    audience: z.enum(['privat', 'gewerbe']),
+    category: z.string(),
+    productLinks: z.array(z.object({
+      title: z.string(),
+      href: z.string(),
+      description: z.string(),
+    })).optional(),
+  }),
+});
+
+export const collections = { versicherungen, ratgeber, blog, faq, spezialisierungen };
