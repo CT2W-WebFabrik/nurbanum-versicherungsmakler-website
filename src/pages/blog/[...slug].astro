@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content, headings } = await render(entry);
+const { Content } = await render(entry);
 ---
 
 <ArticleLayout
@@ -20,7 +20,6 @@ const { Content, headings } = await render(entry);
   publishDate={entry.data.publishDate}
   updatedDate={entry.data.updatedDate}
   readingTime={entry.data.readingTime}
-  headings={headings}
   breadcrumbs={[{ label: 'Blog', href: '/blog/' }]}
   schemaType="BlogPosting"
 >

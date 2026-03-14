@@ -1,7 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
-import TableOfContents from '../components/TableOfContents.astro';
 import { url } from '../utils/paths';
 
 interface Props {
@@ -12,12 +11,11 @@ interface Props {
   category?: string;
   readingTime?: string;
   breadcrumbs?: { label: string; href: string }[];
-  headings?: { depth: number; slug: string; text: string }[];
   faqSchema?: object | null;
   schemaType?: string;
 }
 
-const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs, headings = [], faqSchema, schemaType = 'Article' } = Astro.props;
+const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs, faqSchema, schemaType = 'Article' } = Astro.props;
 const formattedDate = publishDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 const formattedUpdate = updatedDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 
@@ -64,7 +62,6 @@ const breadcrumbItems = breadcrumbs || [];
         prose-strong:text-navy-800
         prose-li:marker:text-amber-500
         animate-slide-up" style="animation-delay: 0.15s">
-        <TableOfContents headings={headings} />
         <slot />
       </div>
 
