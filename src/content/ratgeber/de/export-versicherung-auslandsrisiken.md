@@ -3,7 +3,7 @@ title: "Exportversicherung: Auslandsrisiken richtig absichern"
 description: "Hermesdeckung, Transportversicherung, Produkthaftung im Ausland — welche Versicherungen exportierende Unternehmen brauchen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

@@ -3,7 +3,7 @@ title: "Bauprojekte richtig versichern: Vom Spatenstich bis zur Abnahme"
 description: "Bauherrenhaftpflicht, Bauleistungsversicherung, Baufertigstellungsversicherung — welche Versicherungen Sie in welcher Bauphase brauchen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

@@ -3,7 +3,7 @@ title: "Datenschutzverstoß: Welche Versicherung zahlt?"
 description: "DSGVO-Bußgeld, Schadensersatzklage, Forensik-Kosten — welche Versicherung bei einem Datenschutzverstoß greift und wo typische Deckungslücken lauern."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

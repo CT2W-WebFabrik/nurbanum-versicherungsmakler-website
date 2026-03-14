@@ -3,7 +3,7 @@ title: "Gastronomie-Versicherungen: Der komplette Leitfaden"
 description: "Welche Versicherungen Gastronomen wirklich brauchen — von Betriebshaftpflicht über Inhaltsversicherung bis Lebensmittelhaftung. Praxisnahe Tipps für Restaurants, Cafés und Hotels."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "9 Min."
 ---
 

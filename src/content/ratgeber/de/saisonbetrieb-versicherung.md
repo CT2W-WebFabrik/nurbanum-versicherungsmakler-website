@@ -3,7 +3,7 @@ title: "Saisonbetriebe richtig versichern"
 description: "Versicherungstipps für saisonale Unternehmen — Biergarten, Eisdiele, Weihnachtsmarkt. Ruheversicherung, saisonale Prämienanpassung und Betriebsunterbrechung."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "6 Min."
 ---
 

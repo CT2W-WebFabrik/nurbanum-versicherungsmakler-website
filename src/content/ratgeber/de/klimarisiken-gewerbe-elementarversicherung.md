@@ -3,7 +3,7 @@ title: "Klimarisiken für Gewerbebetriebe: Elementarschutz richtig planen"
 description: "Starkregen, Überschwemmung, Hitze — wie Gewerbebetriebe sich gegen zunehmende Klimarisiken versichern und welche Standortfaktoren entscheidend sind."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

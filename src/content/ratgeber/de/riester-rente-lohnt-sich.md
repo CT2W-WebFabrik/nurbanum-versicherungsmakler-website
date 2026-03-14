@@ -94,5 +94,5 @@ Ob Riester für Sie sinnvoll ist, hängt von Ihrer Familiensituation, Ihrem Eink
 ### Quellen
 
 - [§ 10a EStG — Sonderausgabenabzug für Altersvorsorgebeiträge — Höchstbetrag 2.100 Euro, Günstigerprüfung](https://www.gesetze-im-internet.de/estg/__10a.html)
-- [§§ 79 ff. EStG — Altersvorsorgezulage — Grundzulage 175 Euro, Kinderzulage 185/300 Euro](https://www.gesetze-im-internet.de/estg/__79.html)
-- [§ 82 SGB XII — Einkommensbegriff — Riester-Rente wird nicht auf Grundsicherung angerechnet](https://www.gesetze-im-internet.de/sgb_12/__82.html)
+- [§ 79 EStG — Anspruch auf Altersvorsorgezulage, Mindesteigenbeitrag 60 Euro](https://www.gesetze-im-internet.de/estg/__79.html)
+- [§ 82 SGB XII — Einkommensbegriff in der Sozialhilfe, Freibeträge für zusätzliche Altersvorsorge](https://www.gesetze-im-internet.de/sgb_12/__82.html)

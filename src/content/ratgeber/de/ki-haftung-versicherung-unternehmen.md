@@ -3,7 +3,7 @@ title: "KI im Unternehmen: Haftungsrisiken und Versicherungsschutz"
 description: "EU AI Act, Haftung bei KI-Fehlern, bestehende Versicherungslücken — was Unternehmen beim Einsatz künstlicher Intelligenz beachten müssen."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

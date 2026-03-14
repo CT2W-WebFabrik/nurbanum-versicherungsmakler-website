@@ -3,7 +3,7 @@ title: "Subunternehmer und Nachunternehmer: Haftung und Versicherung"
 description: "Wer haftet in der Subunternehmer-Kette? Welche Versicherungsnachweise Sie verlangen sollten und wie Sie Haftungslücken vermeiden."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

@@ -3,7 +3,7 @@ title: "Gewerbe-Schadenfall: Schritt für Schritt richtig melden"
 description: "Wie Sie als Unternehmer einen Schaden korrekt melden, dokumentieren und regulieren. Fristen, Pflichten und häufige Fehler bei gewerblichen Schadenfällen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

@@ -3,7 +3,7 @@ title: "Betriebserweiterung: Wann Sie Ihre Versicherungen anpassen müssen"
 description: "Neue Mitarbeiter, neuer Standort, neue Produkte — bei welchen Wachstumsschritten Sie Ihren Versicherungsschutz zwingend aktualisieren müssen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

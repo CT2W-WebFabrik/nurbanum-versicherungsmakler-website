@@ -3,7 +3,7 @@ title: "Gewerbeversicherungen regelmäßig prüfen: Ihr Jahres-Check"
 description: "Wann und wie Sie Ihre Betriebsversicherungen überprüfen sollten. Praktische Checkliste gegen Unterversicherung, Deckungslücken und unnötige Kosten."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

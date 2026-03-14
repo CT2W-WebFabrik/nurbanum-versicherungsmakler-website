@@ -3,7 +3,7 @@ title: "ESG und Nachhaltigkeit: Neue Versicherungsrisiken für Unternehmen"
 description: "Greenwashing-Haftung, ESG-Berichtspflichten, Umweltrisiken — wie Nachhaltigkeitsanforderungen den Versicherungsbedarf von Unternehmen verändern."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

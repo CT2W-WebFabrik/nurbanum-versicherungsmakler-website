@@ -3,7 +3,7 @@ title: "Betriebsschließungsversicherung: Lehren aus der Pandemie"
 description: "Was die Betriebsschließungsversicherung abdeckt, wie sie sich von der Betriebsunterbrechung unterscheidet und was sich seit COVID geändert hat."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

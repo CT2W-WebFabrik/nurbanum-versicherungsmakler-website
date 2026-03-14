@@ -3,7 +3,7 @@ title: "Lieferkettengesetz und CSRD: Neue Versicherungsrisiken für Unternehmen"
 description: "Wie das Lieferkettensorgfaltspflichtengesetz und die CSRD-Berichtspflicht Ihren Versicherungsbedarf verändern — D&O, Haftpflicht, Compliance."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

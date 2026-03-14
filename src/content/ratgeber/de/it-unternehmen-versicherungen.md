@@ -3,7 +3,7 @@ title: "IT-Unternehmen richtig versichern: Der Praxis-Leitfaden"
 description: "IT-Haftpflicht, Cyber-Eigenschaden, Vermögensschadenhaftpflicht — welche Versicherungen IT-Dienstleister, Softwareentwickler und Agenturen wirklich brauchen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

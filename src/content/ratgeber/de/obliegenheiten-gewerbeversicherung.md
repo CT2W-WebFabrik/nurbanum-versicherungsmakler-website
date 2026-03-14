@@ -3,7 +3,7 @@ title: "Obliegenheiten in Gewerbeversicherungen: Was das Kleingedruckte verlangt
 description: "Welche Pflichten Ihr Versicherungsvertrag Ihnen auferlegt und wie Sie vermeiden, dass der Versicherer im Schadenfall die Leistung kürzt oder verweigert."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "8 Min."
 ---
 

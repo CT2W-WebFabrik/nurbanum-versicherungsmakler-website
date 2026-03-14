@@ -3,7 +3,7 @@ title: "Gewerbeversicherungen steuerlich absetzen: Was Unternehmer wissen müsse
 description: "Welche Betriebsversicherungen als Betriebsausgaben absetzbar sind, wie Sie sie korrekt buchen und was bei einer Betriebsprüfung zählt."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

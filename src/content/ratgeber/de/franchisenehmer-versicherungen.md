@@ -3,7 +3,7 @@ title: "Versicherungen für Franchisenehmer: Was der Vertrag verlangt"
 description: "Welche Versicherungen Franchise-Verträge typischerweise vorschreiben, was der Franchisegeber abdeckt und wo Franchisenehmer selbst vorsorgen müssen."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

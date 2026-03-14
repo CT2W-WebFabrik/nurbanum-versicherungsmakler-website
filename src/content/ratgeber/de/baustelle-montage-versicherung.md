@@ -3,7 +3,7 @@ title: "Versicherungsschutz auf Baustellen und bei Montagetätigkeiten"
 description: "Montageversicherung, Bauwesenversicherung, Unfallschutz — welche Versicherungen Handwerker und Montagebetriebe für die Arbeit vor Ort brauchen."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

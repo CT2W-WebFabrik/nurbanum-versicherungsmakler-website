@@ -3,7 +3,7 @@ title: "Gewerbemietvertrag: Welche Versicherungen Mieter und Vermieter brauchen"
 description: "Versicherungspflichten im gewerblichen Mietvertrag — wer versichert was, worauf Sie bei Haftungsklauseln achten müssen und wo typische Lücken entstehen."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

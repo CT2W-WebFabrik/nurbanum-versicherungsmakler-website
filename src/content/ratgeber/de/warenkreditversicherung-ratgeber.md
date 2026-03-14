@@ -3,7 +3,7 @@ title: "Warenkreditversicherung: Forderungsausfälle absichern"
 description: "Wie eine Warenkreditversicherung Ihr Unternehmen vor Zahlungsausfällen schützt, was sie kostet und wann sie sich lohnt."
 category: "Betrieb & Sicherheit"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 

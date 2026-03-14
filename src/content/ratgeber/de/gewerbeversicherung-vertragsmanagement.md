@@ -3,7 +3,7 @@ title: "Gewerbeversicherungen verwalten: Ordnung spart Geld"
 description: "Wie Sie Ihre betrieblichen Versicherungsverträge professionell organisieren — Versicherungsregister, Kündigungsfristen und Deckungsüberlappungen vermeiden."
 category: "Grundlagen"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "6 Min."
 ---
 

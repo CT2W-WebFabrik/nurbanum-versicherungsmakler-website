@@ -3,7 +3,7 @@ title: "Pflichtversicherungen für Unternehmen: Was gesetzlich vorgeschrieben is
 description: "Welche Versicherungen sind für Ihr Unternehmen gesetzlich Pflicht? Übersicht nach Branche und Rechtsform — von Betriebshaftpflicht bis Berufshaftpflicht."
 category: "Haftung & Recht"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "9 Min."
 ---
 

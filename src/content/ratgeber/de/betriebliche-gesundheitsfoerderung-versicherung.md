@@ -3,7 +3,7 @@ title: "Betriebliche Gesundheitsförderung und Gruppenversicherungen"
 description: "Betriebliche Krankenversicherung (bKV), Gruppenunfall, Krankentagegeld — wie Sie als Arbeitgeber mit Versicherungen Mitarbeiter binden und steuerlich profitieren."
 category: "Arbeitgeber"
 audience: "gewerbe"
-publishDate: 2026-03-13
+publishDate: 2026-03-14
 readingTime: "7 Min."
 ---
 
