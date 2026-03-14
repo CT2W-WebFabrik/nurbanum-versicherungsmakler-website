@@ -17,14 +17,14 @@ Das macht sie zu einer Alternative oder Ergänzung zur BU, insbesondere für Ber
 
 - **Handwerker und körperlich Arbeitende** — Für Berufe mit hohem Risiko ist die BU oft sehr teuer oder mit Ausschlüssen versehen. Die Grundfähigkeitenversicherung bietet eine bezahlbare Alternative
 - **Menschen mit Vorerkrankungen** — Die Gesundheitsprüfung ist in der Regel weniger streng als bei der BU
-- **Junge Berufseinsteiger** — Günstiger Einstieg in die Arbeitskraftabsicherung
+- **Junge Berufseinsteiger** — Günstiger Einstieg in die Arbeitskraftabsicherung mit niedrigen Anfangsbeiträgen
 - **Als Ergänzung zur BU** — Zusätzliche Absicherung über die berufliche Leistungsfähigkeit hinaus
 
 ## Welche Grundfähigkeiten sind versichert?
 
 Typische versicherte Grundfähigkeiten umfassen:
 
-- **Sehen** — Verlust der Sehfähigkeit
+- **Sehen** — Verlust oder schwere Einschränkung der Sehfähigkeit
 - **Hören** — Verlust des Hörvermögens
 - **Sprechen** — Verlust der Sprechfähigkeit
 - **Gehen und Treppensteigen** — Einschränkung der Mobilität
@@ -34,7 +34,7 @@ Typische versicherte Grundfähigkeiten umfassen:
 - **Geistige Leistungsfähigkeit** — Orientierung, Konzentration, Gedächtnis
 - **Pflegebedürftigkeit** — Ab einem definierten Pflegegrad
 
-Die genaue Liste variiert je nach Versicherer und Tarif.
+Die genaue Liste variiert je nach Versicherer und Tarif. Neuere Tarife versichern zudem psychische Erkrankungen wie schwere Depression oder Demenz als zusätzliche Leistungsauslöser — ein wichtiger Fortschritt, da diese Erkrankungen bei reinen Grundfähigkeitstarifen traditionell nicht abgedeckt waren.
 
 ## Worauf sollten Sie achten?
 
@@ -44,6 +44,46 @@ Die genaue Liste variiert je nach Versicherer und Tarif.
 - **Abgrenzung zur BU** — Die Grundfähigkeitenversicherung ersetzt die BU nicht vollständig. Sie leistet nur bei Verlust einer versicherten Grundfähigkeit, nicht bei jeder Form der Berufsunfähigkeit
 - **Nachversicherungsgarantie** — Möglichkeit, die Rente bei Lebensereignissen (Heirat, Geburt, Gehaltserhöhung) ohne erneute Gesundheitsprüfung zu erhöhen
 
+## Grundfähigkeiten vs. BU vs. Erwerbsminderung — Vergleich
+
+| Merkmal | Grundfähigkeitenversicherung | Berufsunfähigkeitsversicherung | Erwerbsminderungsrente (gesetzlich) |
+|---|---|---|---|
+| Leistungsauslöser | Verlust einer Grundfähigkeit | Berufsunfähigkeit (50 %) | Erwerbsminderung (< 6 h/Tag) |
+| Berufsbezug | Nein | Ja (konkreter Beruf) | Nein (irgendeine Tätigkeit) |
+| Gesundheitsprüfung | Einfacher | Umfangreich | Keine (Pflichtbeitrag) |
+| Kosten | Günstiger | Höher | Über Sozialabgaben |
+| Leistungshöhe | Frei wählbar | Frei wählbar | Max. ca. 2.000 €/Monat |
+| Für wen ideal | Handwerker, körperlich Tätige | Büroberufe, Akademiker | Grundsicherung |
+
+### Kostenbeispiele
+
+| Versicherte Person | Monatliche Rente | Monatsbeitrag |
+|---|---|---|
+| Handwerker, 25 Jahre | 1.500 € | 40–70 € |
+| Kaufm. Angestellter, 30 Jahre | 1.000 € | 25–45 € |
+| Lagerarbeiter, 25 Jahre | 1.500 € | 50–90 € |
+| Pflegekraft, 30 Jahre | 1.000 € | 35–60 € |
+
+Die Grundfähigkeitenversicherung ist besonders für körperlich arbeitende Berufsgruppen attraktiv, da die Beiträge oft 30 bis 50 Prozent unter denen einer vergleichbaren BU-Versicherung liegen. Allerdings ist der Leistungsumfang enger gefasst: Nur wenn eine der definierten Grundfähigkeiten verloren geht, wird die Rente gezahlt — nicht bei jeder Form der Berufsunfähigkeit.
+
+## Häufige Fehler
+
+- **Als vollwertigen BU-Ersatz betrachten**: Die Grundfähigkeitenversicherung deckt nur den Verlust definierter Grundfähigkeiten ab, nicht jede Erkrankung, die zur Berufsunfähigkeit führt. Psychische Erkrankungen — die häufigste BU-Ursache — sind in vielen Tarifen nicht oder nur eingeschränkt versichert.
+- **Fähigkeitskatalog nicht geprüft**: Nicht alle Tarife versichern dieselben Grundfähigkeiten. Prüfen Sie, ob die für Ihren Beruf und Alltag wichtigsten Fähigkeiten enthalten sind.
+- **Zu kurze Leistungsdauer**: Die Rente sollte mindestens bis zum 67. Lebensjahr vereinbart werden, damit im Ernstfall keine Versorgungslücke bis zur gesetzlichen Rente entsteht.
+
 ## Mein Beratungsansatz
 
-Ich prüfe, ob eine Grundfähigkeitenversicherung für Sie die richtige Wahl ist — als Alternative oder als Ergänzung zur BU. Dabei vergleiche ich die Fähigkeitskataloge und Leistungsdefinitionen der verschiedenen Anbieter, damit Sie im Ernstfall tatsächlich abgesichert sind.
+Ich prüfe, ob eine Grundfähigkeitenversicherung für Sie die richtige Wahl ist — als Alternative oder als Ergänzung zur BU. Dabei vergleiche ich die Fähigkeitskataloge und Leistungsdefinitionen der verschiedenen Anbieter im Detail, damit Sie im Ernstfall tatsächlich abgesichert sind.
+
+Besonders wichtig: Vor dem Abschluss sollte immer geprüft werden, ob nicht doch eine Berufsunfähigkeitsversicherung möglich ist — auch mit Einschränkungen oder Risikozuschlägen. Die BU bietet den umfassenderen Schutz. Nur wenn eine BU nicht oder nicht zu vertretbaren Konditionen erhältlich ist, empfehle ich die Grundfähigkeitenversicherung als beste verfügbare Alternative. Bei Bedarf kombiniere ich beide Produkte für maximalen Schutz Ihrer Arbeitskraft.
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

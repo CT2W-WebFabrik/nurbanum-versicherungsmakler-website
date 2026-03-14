@@ -4,7 +4,7 @@ description: "Was E-Auto-Besitzer bei Kfz-Versicherung, Wallbox und Ladekabel be
 category: "Kfz-Versicherung"
 audience: "privat"
 publishDate: 2026-02-19
-readingTime: "7 Min."
+readingTime: "12 Min."
 ---
 
 ## Was sich bei der Kfz-Versicherung ändert — und was nicht
@@ -79,14 +79,82 @@ Melden Sie Ihr Fahrzeug bei einem THG-Quoten-Vermittler an, laden Sie den Fahrze
 - Schutzbrieftarif auf E-Auto-taugliche Pannenhilfe prüfen
 - THG-Quote jährlich beantragen
 
+## Kostenbeispiele: Was die Absicherung eines E-Autos kostet
+
+Die folgenden Werte sind Richtwerte und können je nach Versicherer, Typklasse, Regionalklasse und Schadenfreiheitsrabatt variieren. Sie zeigen die typische Größenordnung für private Halter.
+
+| Versicherungsbaustein | Typische Kosten pro Jahr | Bemerkung |
+|---|---|---|
+| Kfz-Haftpflicht (SF 10) | 250–450 € | Wie beim Verbrenner, abhängig von Typ- und Regionalklasse |
+| Vollkasko mit Akkuschutz | 600–1.200 € | Premium-Tarife mit Allgefahrendeckung am oberen Ende |
+| GAP-Deckung (Leasing) | 30–80 € | Oft als Zusatzbaustein in der Kaskoversicherung |
+| Wallbox-Einschluss Gebäudeversicherung | 0–50 € | Manche Versicherer rechnen die Wallbox beitragsfrei ein |
+| Überspannungsschutz (Gebäude) | 20–60 € | Als Zusatzbaustein in der Wohngebäudeversicherung |
+| Kfz-Schutzbrief E-Auto-tauglich | 10–30 € | Achten Sie auf Plateau-Abschlepper und mobiles Nachladen |
+| Separate E-Auto-Ladekabel-Versicherung | Über Hausrat | Prüfen Sie die Außenversicherung und Diebstahl aus dem Fahrzeug |
+
+Für ein typisches Mittelklasse-E-Auto (Neupreis ca. 45.000 Euro, SF-Klasse 5, Großraum Nürnberg) liegen die Gesamtkosten für Kfz-Haftpflicht plus Vollkasko mit Akkuschutz bei rund 900 bis 1.400 Euro jährlich. Zum Vergleich: Ein vergleichbarer Verbrenner kommt auf 700 bis 1.100 Euro — der Mehrpreis resultiert vor allem aus den höheren Reparaturkosten bei Akkuschäden.
+
+## Schadenszenarien: Was im Ernstfall passieren kann
+
+### Szenario 1: Marderbiss am Hochvoltkabel — 8.500 Euro
+
+Ein Marder beschädigt über Nacht die Hochvoltleitungen Ihres E-Autos. Anders als beim Verbrenner, wo ein Marderbiss an Zündkabeln oder Kühlschläuchen selten mehr als 300 bis 500 Euro kostet, muss beim E-Auto der gesamte Kabelbaum im Hochvoltbereich getauscht werden. Die Werkstattrechnung beläuft sich auf 8.500 Euro inklusive Diagnose, Teile und Spezialarbeit an der Hochvoltanlage. Ohne erweiterten Tierbiss-Einschluss in der Kaskoversicherung zahlen Sie diesen Betrag aus eigener Tasche.
+
+### Szenario 2: Überspannung durch Blitzschlag zerstört Wallbox und Ladeelektronik — 4.200 Euro
+
+Während eines Sommergewitters schlägt ein Blitz in die Oberleitung Ihrer Straße ein. Die Überspannung erreicht über das Stromnetz Ihre Wallbox und die Ladeelektronik Ihres angeschlossenen E-Autos. Die Wallbox (Ersatz: 1.500 Euro, Installation: 700 Euro) und das Onboard-Ladegerät des Fahrzeugs (Ersatz und Einbau: 2.000 Euro) sind defekt. Wenn Überspannung weder in der Gebäudeversicherung noch in der Kaskoversicherung eingeschlossen ist, bleiben 4.200 Euro bei Ihnen.
+
+### Szenario 3: Totalschaden am Leasingfahrzeug — GAP-Lücke von 6.800 Euro
+
+Ihr drei Jahre altes geleastes E-Auto (Neupreis 52.000 Euro) erleidet einen selbstverschuldeten Totalschaden. Die Kaskoversicherung zahlt den Wiederbeschaffungswert: 34.000 Euro. Die offenen Leasingraten inklusive Restwert betragen aber noch 40.800 Euro. Ohne GAP-Deckung müssen Sie die Differenz von 6.800 Euro aus eigener Tasche an die Leasinggesellschaft zahlen — für ein Auto, das Sie nicht mehr haben.
+
+### Szenario 4: Diebstahl des mobilen Ladekabels an der öffentlichen Ladesäule — 650 Euro
+
+Sie laden Ihr E-Auto an einer öffentlichen Ladesäule und gehen zum Einkaufen. Bei Ihrer Rückkehr fehlt das mobile Ladekabel (ICCB), das am Fahrzeug eingesteckt war. Das Originalkabel des Herstellers kostet 650 Euro. Die Hausratversicherung leistet nur, wenn Diebstahl aus dem oder vom Fahrzeug in der Außenversicherung eingeschlossen ist — bei vielen Standardtarifen ist das nicht der Fall. Prüfen Sie vorab, ob Ihr Tarif diese Situation abdeckt.
+
+## Häufige Fehler bei der E-Auto-Versicherung
+
+- **Wallbox nicht beim Gebäudeversicherer gemeldet:** Die Wallbox verändert das Risikoprofil Ihres Hauses — höhere elektrische Leistung, zusätzliche Brandgefahr. Melden Sie die Installation nicht, riskieren Sie im Schadenfall eine Leistungskürzung oder sogar die Verweigerung der Regulierung wegen Obliegenheitsverletzung. Das gilt auch dann, wenn die Wallbox von einem Fachbetrieb installiert wurde.
+
+- **Tierbiss-Folgeschäden nicht im Tarif:** Viele Kaskoversicherungen decken Tierbissschäden nur bis zur unmittelbaren Bissstelle — nicht aber die Folgeschäden. Beim E-Auto können Folgeschäden am Hochvoltsystem aber ein Vielfaches des eigentlichen Bissschadens kosten. Achten Sie darauf, dass der Tarif explizit Folgeschäden durch Tierbiss einschließt, nicht nur den Biss selbst.
+
+- **GAP-Deckung doppelt oder gar nicht vorhanden:** Bei Leasingfahrzeugen vergessen viele Halter die GAP-Deckung komplett. Andere schließen sie in der Kaskoversicherung ab, obwohl der Leasingvertrag bereits eine GAP-Versicherung enthält — und zahlen unnötig doppelt. Lesen Sie den Leasingvertrag sorgfältig: Steht dort „GAP-Deckung inklusive", brauchen Sie diesen Baustein in der Kasko nicht.
+
+- **Kfz-Schutzbrief ohne Plateau-Abschlepper:** Ein herkömmlicher Schutzbrief schickt einen normalen Abschleppwagen. E-Autos dürfen aber nicht an den Antriebsrädern über den Asphalt gezogen werden, weil der Elektromotor durch Rekuperation beschädigt wird. Prüfen Sie, ob Ihr Schutzbrief ausdrücklich einen Plateau-Abschleppwagen garantiert — andernfalls warten Sie im Pannenfall möglicherweise Stunden auf ein geeignetes Fahrzeug.
+
+- **Überspannungsschutz in der Gebäudeversicherung vergessen:** Standardtarife der Wohngebäudeversicherung decken Blitzschlag, aber nicht immer Überspannung durch indirekten Blitzeinschlag. Genau das ist aber das häufigste Schadensszenario bei Wallboxen. Ein Überspannungseinschluss kostet in der Regel nur 20 bis 60 Euro pro Jahr — ein Bruchteil der möglichen Schadenssumme.
+
+## Häufig gestellte Fragen
+
+**Sind E-Autos teurer zu versichern als Verbrenner?**
+Tendenziell ja, aber der Unterschied ist geringer als viele erwarten. Die Kfz-Haftpflicht ist identisch. Die Kaskoversicherung fällt bei E-Autos oft 10 bis 20 Prozent höher aus, weil die Reparaturkosten — insbesondere am Akku und an der Hochvoltanlage — teurer sind. Dafür entfallen beim E-Auto typische Verbrennerrisiken wie Motorölverlust oder Katalysatordiebstahl.
+
+**Muss ich meine Wallbox beim Versicherer anmelden?**
+Ja. Die Wallbox ist ein fest installierter Gebäudebestandteil und verändert das Risikoprofil Ihres Hauses. Melden Sie die Installation Ihrem Gebäudeversicherer und fragen Sie gezielt nach Überspannungsschutz. Viele Versicherer passen die Police kostenneutral an, andere verlangen einen geringen Zuschlag.
+
+**Was passiert mit der Versicherung, wenn der Akku getauscht wird?**
+Ein Akkutausch unter Garantie oder Gewährleistung ist kein Versicherungsfall. Wird der Akku aber durch einen versicherten Schaden (Unfall, Brand, Kurzschluss, Tierbiss) zerstört, übernimmt die Kaskoversicherung die Kosten. Achten Sie darauf, ob Ihr Tarif den Neuwert oder nur den Zeitwert des Akkus erstattet — bei einem drei Jahre alten Akku kann der Zeitwert deutlich unter dem Neuwert liegen.
+
+**Brauche ich eine eigene Versicherung für das Ladekabel?**
+Ein separater Vertrag ist normalerweise nicht nötig. Das mobile Ladekabel und tragbare Ladegeräte zählen als bewegliche Sachen und fallen zu Hause unter die Hausratversicherung. Unterwegs greift die Außenversicherung im Hausrattarif — allerdings nur, wenn Diebstahl aus dem oder vom Fahrzeug ausdrücklich eingeschlossen ist. Prüfen Sie die Bedingungen Ihres Tarifs, denn gerade dieser Punkt ist bei vielen Standardtarifen nicht abgedeckt.
+
+**Kann ich die THG-Quote auch bei einem Leasingfahrzeug beantragen?**
+Ja, grundsätzlich kann der im Fahrzeugschein eingetragene Halter die THG-Quote beantragen — das sind bei Leasing meistens Sie als Leasingnehmer. Prüfen Sie aber den Leasingvertrag: Einzelne Leasinggesellschaften behalten sich die THG-Quote vertraglich vor oder vermarkten sie selbst. In diesem Fall dürfen Sie die Quote nicht ein zweites Mal verkaufen.
+
 ## Ihr E-Auto optimal versichert
 
 Die Versicherung eines E-Autos unterscheidet sich in wichtigen Details vom Verbrenner — vor allem beim Akkuschutz, bei der Wallbox und bei Leasingfahrzeugen. Als unabhängiger Versicherungsmakler vergleiche ich spezialisierte E-Auto-Tarife verschiedener Anbieter und finde die Kombination, die zu Ihrem Fahrzeug und Ihrer Nutzung passt.
 
-**Vereinbaren Sie jetzt Ihren kostenlosen Beratungstermin** — damit Ihr E-Auto von Anfang an richtig versichert ist.
+<div class="cta-box">
 
-[Jetzt Beratung vereinbaren →](/kontakt/)
+**Kostenlose Beratung anfragen**
 
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>
 
 ### Weiterlesen
 

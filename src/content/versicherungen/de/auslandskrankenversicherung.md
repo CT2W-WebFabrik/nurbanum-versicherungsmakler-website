@@ -29,7 +29,18 @@ Innerhalb der EU gilt zwar die Europäische Krankenversicherungskarte (EHIC), ab
 | **Vorteil** | Flexibel buchbar | Nie wieder vergessen, günstiger bei mehreren Reisen |
 | **Reisedauer** | Frei wählbar | Meist max. 42–56 Tage pro Reise |
 
-Für die meisten Reisenden ist die Jahrespolice die bessere Wahl: Sie kostet wenig, und der Schutz gilt automatisch für jede Reise.
+Für die meisten Reisenden ist die Jahrespolice die bessere Wahl: Sie kostet wenig, und der Schutz gilt automatisch für jede Reise — so können Sie auch spontane Kurztrips ins Ausland unternehmen, ohne an den Versicherungsschutz denken zu müssen.
+
+## Was passiert im Ernstfall?
+
+Bei einem medizinischen Notfall im Ausland wenden Sie sich an die 24-Stunden-Notrufzentrale Ihres Versicherers. Diese organisiert:
+
+- Einen geeigneten Arzt oder ein Krankenhaus vor Ort
+- Die Kostenübernahme direkt mit der Einrichtung (keine Vorleistung nötig)
+- Den Krankenrücktransport nach Deutschland, wenn eine Weiterbehandlung vor Ort nicht sinnvoll ist
+- Bei Bedarf die Verständigung mit fremdsprachigen Ärzten
+
+Bewahren Sie die Notrufnummer immer griffbereit auf — idealerweise auch offline auf dem Smartphone. Im Ernstfall zählt jede Minute.
 
 ## Worauf sollten Sie achten?
 
@@ -40,6 +51,24 @@ Für die meisten Reisenden ist die Jahrespolice die bessere Wahl: Sie kostet wen
 - **Schwangerschaft**: Komplikationen und Frühgeburten im Ausland sind nicht in jedem Tarif eingeschlossen.
 - **Kinder**: In Familientarifen sind Kinder oft bis zum 18. Lebensjahr (oder bis zum Ende der Ausbildung) beitragsfrei mitversichert.
 
+### Kostenbeispiele Jahrespolice
+
+| Tarif | Jahresbeitrag |
+|---|---|
+| Einzelperson (bis 64 Jahre) | 10–25 € |
+| Familie mit Kindern | 20–50 € |
+| Senioren (ab 65 Jahre) | 30–60 € |
+| Langzeit-Reiseschutz (bis 365 Tage) | 500–1.500 € |
+
+Angesichts der minimalen Kosten ist die Auslandskrankenversicherung die Versicherung mit dem besten Preis-Leistungs-Verhältnis überhaupt. Selbst der günstigste Tarif deckt Behandlungskosten und Rücktransport ab — Leistungen, die im Ernstfall fünfstellige bis sechsstellige Beträge erreichen.
+
+## Besondere Situationen
+
+- **Langzeitreisende und Auswanderer**: Wer länger als 8 Wochen im Ausland bleibt, benötigt einen Langzeit-Tarif. Die reguläre Jahrespolice deckt nur Einzelreisen bis maximal 42–56 Tage.
+- **Beruflich im Ausland**: Für Entsendungen oder regelmäßige Geschäftsreisen gibt es spezielle Gruppenverträge über den Arbeitgeber.
+- **Studierende im Ausland**: Auslandssemester oder Work-and-Travel erfordern einen speziellen Tarif, der die gesamte Aufenthaltsdauer abdeckt.
+- **Chronisch Kranke**: Prüfen Sie, ob akute Verschlechterungen bestehender Erkrankungen mitversichert sind — nicht alle Tarife leisten hier.
+
 ## Häufige Fehler
 
 - **Kreditkarten-Schutz überschätzen**: Manche Kreditkarten enthalten eine Reisekrankenversicherung, aber oft mit niedrigen Deckungssummen und eingeschränktem Rücktransport.
@@ -48,6 +77,14 @@ Für die meisten Reisenden ist die Jahrespolice die bessere Wahl: Sie kostet wen
 
 ## Mein Rat
 
-Die Auslandskrankenversicherung ist die günstigste Versicherung mit dem größten Nutzen: Für unter 25 Euro pro Jahr sind Sie weltweit geschützt. Als unabhängiger Makler finde ich den Tarif, der zu Ihrem Reiseverhalten passt.
+Die Auslandskrankenversicherung ist die günstigste Versicherung mit dem größten Nutzen: Für unter 25 Euro pro Jahr sind Sie weltweit geschützt. Als unabhängiger Makler finde ich den Tarif, der zu Ihrem persönlichen Reiseverhalten und Ihren Bedürfnissen passt.
 
-**Sprechen Sie mich an** — damit der nächste Urlaub sorgenfrei bleibt.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

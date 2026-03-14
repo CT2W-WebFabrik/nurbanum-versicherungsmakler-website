@@ -272,6 +272,51 @@
   margin-top: 0.75em;
 }
 
+/* ── CTA box for article endings ── */
+.prose .cta-box {
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  background: linear-gradient(135deg, var(--color-navy-50) 0%, var(--color-amber-50) 100%);
+  border: 1px solid var(--color-navy-200);
+  border-left: 4px solid var(--color-amber-500);
+  border-radius: 12px;
+}
+
+.prose .cta-box p {
+  margin: 0 0 0.75rem;
+  color: var(--color-slate-700);
+}
+
+.prose .cta-box p:first-child {
+  margin-bottom: 0.25rem;
+}
+
+.prose .cta-box p:first-child strong {
+  font-size: 1.25rem;
+  color: var(--color-navy-900);
+}
+
+.prose .cta-box p:last-child {
+  margin-bottom: 0;
+}
+
+.prose .cta-box p:last-child a {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--color-amber-500);
+  color: var(--color-navy-950);
+  font-weight: 700;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.prose .cta-box p:last-child a:hover {
+  background-color: var(--color-amber-400);
+  transform: translateY(-1px);
+}
+
 /* ── Sources/Quellen footnote section ── */
 /* Space before the Quellen separator */
 .prose hr:last-of-type {

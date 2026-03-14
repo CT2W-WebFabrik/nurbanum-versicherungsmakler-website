@@ -15,6 +15,8 @@ Der Versicherungsschutz umfasst in der Grunddeckung die Gefahren Feuer, Leitungs
 
 Für Immobilienbesitzer ist die Wohngebäudeversicherung unverzichtbar. Banken verlangen sie zudem regelmäßig als Voraussetzung für die Baufinanzierung.
 
+Wichtig: Die Wohngebäudeversicherung deckt nur die feste Bausubstanz ab. Für bewegliche Gegenstände in der Wohnung — Möbel, Elektronik, Kleidung — ist die Hausratversicherung zuständig. Beide Versicherungen ergänzen sich, ersetzen sich aber nicht gegenseitig. Auch Haftpflichtansprüche Dritter (etwa des Nachbarn bei einem Leitungswasserschaden) werden nicht über die Gebäudeversicherung reguliert, sondern über die Haus- und Grundbesitzerhaftpflicht.
+
 ## Wer braucht eine Wohngebäudeversicherung?
 
 Jeder Eigentümer eines Hauses oder einer Eigentumswohnung benötigt diese Versicherung:
@@ -40,6 +42,25 @@ Jeder Eigentümer eines Hauses oder einer Eigentumswohnung benötigt diese Versi
 - **Sanierung nicht gemeldet**: Ein neues Dach, eine Fußbodenheizung oder eine Kernsanierung verändern den Gebäudewert. Melden Sie alle baulichen Veränderungen Ihrem Versicherer.
 - **Keine regelmäßige Vertragsprüfung**: Bedingungswerke verbessern sich regelmäßig. Ein Vertrag, der vor 15 Jahren gut war, kann heute erhebliche Lücken aufweisen.
 - **WEG-Vertrag nicht prüfen**: Als Wohnungseigentümer verlassen Sie sich auf die Verwaltung. Prüfen Sie dennoch, ob der WEG-Vertrag ausreichend ist und ob Sondereigentum richtig versichert ist.
+- **Leerstand nicht melden**: Steht ein Gebäude länger als 60 Tage leer, erlischt bei vielen Versicherern der Schutz. Melden Sie Leerstände rechtzeitig.
+
+## Brauche ich eine Wohngebäudeversicherung? — Checkliste
+
+- Sind Sie Eigentümer eines Hauses oder einer Eigentumswohnung? → Ja, zwingend empfohlen.
+- Haben Sie eine laufende Baufinanzierung? → Die Bank verlangt in der Regel eine Wohngebäudeversicherung.
+- Ist Elementarschutz eingeschlossen? → Prüfen Sie Ihren bestehenden Vertrag — viele Altverträge enthalten ihn nicht.
+- Haben Sie in den letzten Jahren umgebaut oder saniert? → Der Versicherungswert muss angepasst werden.
+- Besitzen Sie eine Photovoltaikanlage oder Wärmepumpe? → Prüfen Sie den Einschluss moderner Gebäudetechnik.
+
+### Kostenbeispiele
+
+| Gebäudetyp | Jahresbeitrag (ohne Elementar) | Mit Elementar |
+|---|---|---|
+| Einfamilienhaus, Baujahr 2000 | 400–700 € | 500–900 € |
+| Doppelhaushälfte, Baujahr 1985 | 500–900 € | 650–1.100 € |
+| Mehrfamilienhaus (3 WE) | 800–1.400 € | 1.000–1.800 € |
+
+Die Beiträge hängen stark von Baujahr, Bauweise, Wohnfläche und Lage ab. Massivbauten sind günstiger als Fachwerk, städtische Lagen günstiger als ländliche Gebiete mit freiwilliger Feuerwehr. Der Elementar-Zuschlag beträgt in ZÜRS-Zone 1 oft nur 100 bis 200 Euro pro Jahr.
 
 ## Wann sollten Sie zum Makler?
 
@@ -47,4 +68,12 @@ Die Wohngebäudeversicherung ist ein komplexes Produkt mit vielen Stellschrauben
 
 Ich überprüfe Ihren bestehenden Vertrag, ermittle den korrekten Versicherungswert und stelle sicher, dass Ihr Eigenheim umfassend geschützt ist -- auch gegen die Risiken, die in den letzten Jahren deutlich an Bedeutung gewonnen haben.
 
-**Schützen Sie Ihr Zuhause.** Vereinbaren Sie jetzt eine kostenlose Vertragsprüfung.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

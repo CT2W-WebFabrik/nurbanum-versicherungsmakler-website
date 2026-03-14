@@ -45,6 +45,28 @@ Für alle, die in der GKV bleiben möchten oder müssen, bieten Zusatzversicheru
 - **Öffnungsaktion bei Zusatzversicherungen**: Einige Versicherer bieten Aktionen ohne Gesundheitsfragen an -- oft über den Arbeitgeber. Nutzen Sie diese Gelegenheiten.
 - **Wartezeiten bei Zahnzusatz**: Viele Tarife haben gestaffelte Leistungsgrenzen in den ersten Jahren. Schließen Sie ab, bevor ein Behandlungsbedarf erkennbar ist.
 
+## PKV vs. GKV — der große Vergleich
+
+| Merkmal | GKV | PKV |
+|---|---|---|
+| Beitragsberechnung | Einkommensabhängig (14,6 % + Zusatzbeitrag) | Nach Alter, Gesundheit, Tarif |
+| Höchstbeitrag 2026 | ca. 1.050 €/Monat (inkl. Pflege) | Kein Höchstbeitrag, aber Basistarif als Obergrenze |
+| Familienversicherung | Kinder und nicht verdienender Ehepartner beitragsfrei | Jedes Familienmitglied zahlt eigenen Beitrag |
+| Leistungsniveau | Gesetzlich festgelegt, für alle gleich | Individuell wählbar, oft umfangreicher |
+| Beitrag im Alter | Sinkt bei niedrigerem Einkommen | Steigt unabhängig vom Einkommen |
+| Rückkehr | — | Sehr schwierig ab 55 Jahren |
+
+### Kostenbeispiele Krankenzusatz
+
+| Zusatzversicherung | Monatsbeitrag (30-Jähriger) |
+|---|---|
+| Zahnzusatz (80–90 % Erstattung) | 15–35 € |
+| Stationär (Einzelzimmer + Chefarzt) | 25–50 € |
+| Ambulant (Heilpraktiker + Sehhilfen) | 10–25 € |
+| Auslandsreisekranken (Jahrestarif) | 8–20 € |
+
+Die Beiträge steigen mit dem Eintrittsalter. Schließen Sie Zusatzversicherungen möglichst früh und gesund ab — laufende oder geplante Behandlungen sind vom Versicherungsschutz ausgeschlossen.
+
 ## Häufige Fehler
 
 - **Wechsel in die PKV ohne langfristige Planung**: Wer mit 30 in die PKV wechselt und mit 50 wieder zurück möchte, hat ein Problem. Planen Sie langfristig.
@@ -58,4 +80,12 @@ Die Wahl zwischen PKV und GKV sowie die Auswahl der richtigen Zusatzversicherung
 
 Ich analysiere Ihre persönliche Situation, berechne verschiedene Szenarien und berate Sie ergebnisoffen -- auch wenn das Ergebnis ist, dass die GKV für Sie die bessere Wahl bleibt.
 
-**Vereinbaren Sie ein Beratungsgespräch** und treffen Sie diese wichtige Entscheidung auf fundierter Grundlage.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

@@ -3,7 +3,7 @@ title: "Versicherungen im Ruhestand: Was Rentner wirklich brauchen"
 description: "Welche Versicherungen Rentner behalten, kündigen oder anpassen sollten — und welche im Alter wichtiger werden als vorher."
 category: "Ruhestandsplanung"
 publishDate: 2026-03-03
-readingTime: "8 Min."
+readingTime: "14 Min."
 ---
 
 ## Der Übergang in den Ruhestand verändert Ihren Versicherungsbedarf
@@ -98,13 +98,96 @@ Besonders wichtig im Alter: Mietrechtsschutz (falls Sie zur Miete wohnen) und So
 | BU-Versicherung | Endet automatisch, kündigen |
 | Risikoleben | Kündigen, wenn Bedarf entfällt |
 
+## Kostenbeispiele: Was Versicherungen im Ruhestand kosten
+
+Die Beiträge im Ruhestand unterscheiden sich deutlich von denen während der Erwerbsphase. Die folgende Tabelle gibt eine Orientierung über typische Monatsbeiträge für Rentner (Stand 2026). Die tatsächlichen Kosten hängen von Ihrem Gesundheitszustand, Ihrem Alter bei Vertragsabschluss und dem gewählten Tarif ab.
+
+| Versicherung | Monatsbeitrag (Rentner, ca. 67 Jahre) | Leistungsumfang |
+|---|---|---|
+| Privathaftpflicht (Single-Tarif) | ca. 4–7 Euro | Personenschäden bis 10 Mio. Euro, Sachschäden bis 10 Mio. Euro |
+| Hausratversicherung (60 m² Wohnung) | ca. 8–15 Euro | Einbruch, Feuer, Leitungswasser, Sturm |
+| Private Unfallversicherung (100.000 € Grundsumme) | ca. 18–35 Euro | Invaliditätsleistung, Unfallrente, Knochenbruch |
+| Auslandsreise-KV (Jahrespolice) | ca. 2–4 Euro | Ambulant, stationär, Rücktransport |
+| Pflegetagegeld (1.500 €/Monat bei PG 5) | ca. 85–140 Euro | Tagesleistung je Pflegegrad, unabhängig von tatsächlichen Kosten |
+| Sterbegeldversicherung (8.000 €) | ca. 30–50 Euro | Einmalzahlung im Todesfall, keine Gesundheitsprüfung bei Wartezeit |
+| Rechtsschutz (Privat + Verkehr, ohne Beruf) | ca. 18–28 Euro | Privatrechtsschutz, Verkehrsrechtsschutz, Miet-/Sozialrechtsschutz |
+| Wohngebäudeversicherung (EFH, 120 m²) | ca. 25–50 Euro | Feuer, Sturm, Hagel, Leitungswasser, ggf. Elementar |
+
+**Wichtig:** Ein bewusster Versicherungscheck beim Renteneintritt kann die Gesamtkosten um 100 bis 300 Euro monatlich senken — allein durch Tarifanpassungen, den Wegfall nicht mehr benötigter Verträge und den Wechsel von Familien- auf Single- oder Paartarife. Die Einsparungen kommen nicht durch Verzicht auf Schutz, sondern durch die Anpassung an die veränderte Lebenssituation.
+
+## Schadenszenarien: Was im Ernstfall passiert
+
+### Sturz im Haushalt — ohne Unfallversicherung
+
+Herr Kramer, 72, rutscht beim Putzen der Treppe aus und bricht sich den Oberschenkelhals. Die Operation verläuft planmäßig, aber die Rehabilitation dauert drei Monate. Eine dauerhafte Gehbehinderung bleibt zurück. Sein Haus muss umgebaut werden: ebenerdige Dusche, Treppengeländer, erhöhte Toilette. Die Kosten für die Umbauten und die Reha-Zuzahlungen belaufen sich auf rund 28.000 Euro. Da die gesetzliche Unfallversicherung nach dem Renteneintritt nicht mehr greift und Herr Kramer keine private Unfallversicherung hat, trägt er die gesamten Kosten selbst.
+
+**Mit Unfallversicherung:** Bei einer Grundsumme von 100.000 Euro und einer festgestellten Invalidität von 35 Prozent hätte Herr Kramer eine Einmalzahlung von 35.000 Euro erhalten — mehr als genug für alle Umbaumaßnahmen und einen finanziellen Puffer für Folgekosten.
+
+### Pflegebedürftigkeit nach Schlaganfall — ohne Pflegezusatzversicherung
+
+Frau Engel, 74, erleidet einen schweren Schlaganfall und erhält Pflegegrad 4. Eine häusliche Pflege ist nicht mehr ausreichend leistbar, sodass ein Pflegeheimplatz nötig wird. Die monatlichen Gesamtkosten betragen 4.600 Euro. Die gesetzliche Pflegeversicherung zahlt 1.855 Euro. Die Pflegelücke beträgt 2.745 Euro monatlich. Die Rente von Frau Engel liegt bei 1.350 Euro. Ihr Mann muss seine Ersparnisse einsetzen — nach eineinhalb Jahren sind 50.000 Euro aufgebraucht, der Gang zum Sozialamt wird unvermeidlich.
+
+**Mit Pflegezusatzversicherung:** Ein Pflegetagegeld von 2.000 Euro monatlich bei Pflegegrad 4 hätte die Lücke nahezu geschlossen. Die Familie hätte ihre Ersparnisse behalten und die Pflege ohne Sozialhilfe finanzieren können.
+
+### Herzinfarkt auf Mallorca — ohne Auslandsreise-Krankenversicherung
+
+Herr und Frau Vogel, beide 69, verbringen den Winter auf Mallorca. Herr Vogel erleidet beim Spaziergang einen Herzinfarkt und wird in ein Privatkrankenhaus eingeliefert. Nach einer Woche Intensivstation und einer Stent-OP steht der Krankenrücktransport per Ambulanzflug an. Die Gesamtkosten betragen 52.000 Euro — die GKV erstattet nach den spanischen Sätzen lediglich rund 6.500 Euro. Der Ambulanzflug in Höhe von 38.000 Euro wird weder von der GKV noch von der PKV übernommen. Die Familie bleibt auf über 45.000 Euro sitzen.
+
+**Mit Auslandsreise-Krankenversicherung:** Eine Jahrespolice für etwa 25 Euro hätte sämtliche Kosten einschließlich Rücktransport übernommen. Das Verhältnis von Beitrag zu potenziellem Schaden macht diese Versicherung zur günstigsten Absicherung überhaupt.
+
+### Wasserschaden durch vergessenen Gartenschlauch — ohne Haftpflicht
+
+Herr Fischer, 70, vergisst nach dem Gießen, den Gartenschlauch am Außenwasserhahn abzudrehen. Über Nacht läuft Wasser in den Keller der Nachbarn und beschädigt dort den Heizungsraum, die Elektrik und eingelagerte Möbel. Der Gesamtschaden am Nachbarhaus beträgt 18.500 Euro. Ohne Privathaftpflichtversicherung müsste Herr Fischer den vollen Betrag aus seinem Vermögen begleichen.
+
+**Mit Privathaftpflicht:** Die Versicherung hätte den Schaden vollständig reguliert — bei einem Jahresbeitrag von unter 80 Euro.
+
+## Häufige Fehler beim Versicherungscheck im Ruhestand
+
+- **Privathaftpflicht kündigen, um zu sparen**: Manche Rentner kündigen die Haftpflicht, weil sie „jetzt ja weniger unterwegs" seien. Das ist der teuerste Fehler überhaupt. Die Privathaftpflicht kostet wenige Euro im Monat und schützt vor Schäden in unbegrenzter Höhe. Sie ist in jeder Lebensphase unverzichtbar — gerade im Alter, wenn Stürze häufiger werden und die Folgen für Dritte schwerer wiegen.
+
+- **Versicherungen kündigen, bevor der neue Schutz steht**: Wer die alte Unfallversicherung kündigt, bevor der neue Tarif greift, hat für den Zeitraum dazwischen keinen Schutz. Kündigen Sie immer erst, wenn der neue Vertrag bestätigt ist und die Deckung lückenlos beginnt.
+
+- **Pflegezusatzversicherung für überflüssig halten**: „Das zahlt doch die Kasse." Diese Annahme ist falsch. Die gesetzliche Pflegeversicherung ist eine Teilleistungsversicherung — sie deckt bei stationärer Pflege oft weniger als die Hälfte der tatsächlichen Kosten. Die Pflegelücke beträgt im Schnitt über 2.000 Euro monatlich und muss aus eigener Tasche oder durch Sozialhilfe gedeckt werden.
+
+- **Kfz-Versicherung nicht an die reduzierte Fahrleistung anpassen**: Viele Rentner fahren deutlich weniger als während der Berufstätigkeit — oft nur noch 6.000 bis 8.000 Kilometer statt 15.000 oder mehr. Die reduzierte Fahrleistung dem Versicherer zu melden, senkt die Prämie spürbar. Ebenso sollten Sie prüfen, ob bei einem älteren Fahrzeug mit geringem Restwert die Vollkasko noch wirtschaftlich sinnvoll ist.
+
+- **Bestehende Verträge nie vergleichen**: Viele Rentner behalten jahrzehntealte Verträge mit veralteten Bedingungen und überhöhten Prämien. Ein Tarifvergleich — auch innerhalb derselben Gesellschaft — bringt oft bessere Leistungen zu niedrigeren Kosten. Das gilt besonders für Hausrat, Wohngebäude und Rechtsschutz.
+
+## FAQ
+
+### Brauche ich im Ruhestand noch eine Berufsunfähigkeitsversicherung?
+
+Nein. Die BU-Versicherung endet in der Regel automatisch mit dem vereinbarten Endalter — meist 67 Jahre oder dem tatsächlichen Renteneintritt. Da die BU den Einkommensverlust durch Berufsunfähigkeit absichert und Sie im Ruhestand kein Erwerbseinkommen mehr erzielen, entfällt der Versicherungszweck. Prüfen Sie Ihren Vertrag: Bei manchen Tarifen müssen Sie die Beendigung aktiv erklären, bei anderen endet der Vertrag automatisch.
+
+### Lohnt sich der Abschluss einer Pflegezusatzversicherung noch mit 67?
+
+Grundsätzlich ja, aber die Beiträge sind spürbar höher als bei einem Abschluss mit 50 oder 55 Jahren. Entscheidend ist die Gesundheitsprüfung: Wer bereits Vorerkrankungen hat, erhält möglicherweise Ausschlüsse oder wird abgelehnt. Ein Pflegetagegeld mit reduzierter Leistung ist dennoch besser als gar kein Schutz. Rechnen Sie: Bei einer durchschnittlichen Pflegelücke von 2.500 Euro monatlich und einer Pflegedauer von drei bis vier Jahren stehen 90.000 bis 120.000 Euro auf dem Spiel. Selbst ein Beitrag von 100 Euro monatlich kann sich im Ernstfall vielfach auszahlen.
+
+### Sollte ich als Rentner die Rechtsschutzversicherung behalten?
+
+Ja, aber in angepasster Form. Den Berufsrechtsschutz brauchen Sie nicht mehr — streichen Sie diesen Baustein, um den Beitrag zu senken. Privat- und Verkehrsrechtsschutz bleiben sinnvoll. Besonders wichtig im Alter sind Mietrechtsschutz (falls Sie zur Miete wohnen) und Sozialrechtsschutz, da Streitigkeiten mit Pflegekassen, Rentenversicherungsträgern und Behörden im Ruhestand häufiger vorkommen als erwartet.
+
+### Was passiert mit meiner Krankenversicherung beim Übergang in die Rente?
+
+GKV-Versicherte wechseln in die Krankenversicherung der Rentner (KVdR). Der Beitrag wird auf die gesetzliche Rente erhoben, wobei der Rentenversicherungsträger die Hälfte übernimmt — ähnlich dem Arbeitgeberanteil. Auf Betriebsrenten und Versorgungsbezüge zahlen Sie allerdings den vollen Beitragssatz. PKV-Versicherte bleiben in der PKV. Der Zuschuss der Rentenversicherung zur PKV ist auf den halben GKV-Höchstbeitrag begrenzt (2026: ca. 421 Euro monatlich). Prüfen Sie unbedingt den Tarifwechsel nach § 204 VVG — er kann den PKV-Beitrag um 30 bis 50 Prozent senken, ohne dass Sie wesentliche Leistungen verlieren.
+
+### Ist eine Sterbegeldversicherung sinnvoller als ein Sparkonto?
+
+Das hängt von Ihrer Disziplin und Ihrer finanziellen Situation ab. Eine Sterbegeldversicherung garantiert die Auszahlung im Todesfall, unabhängig davon, wie lange Sie leben. Ein zweckgebundenes Sparkonto bietet jedoch mehr Flexibilität und keine laufenden Beiträge. Wenn Sie bereits 5.000 bis 10.000 Euro für Bestattungskosten zurückgelegt haben und das Geld nicht antasten, ist das Sparkonto die günstigere Lösung. Wenn Sie befürchten, dass die Ersparnisse im Pflegefall aufgebraucht werden könnten, bietet die Sterbegeldversicherung mehr Sicherheit — allerdings zu höheren Kosten als bei einem früheren Abschluss.
+
 ## Ihr Ruhestandscheck: Einmal alles prüfen
 
 Der Übergang in den Ruhestand ist der ideale Zeitpunkt, alle Versicherungen auf den Prüfstand zu stellen. Als unabhängiger Versicherungsmakler gehe ich jeden Vertrag mit Ihnen durch, streiche Überflüssiges, passe Tarife an und schließe Lücken — damit Ihr Versicherungsschutz zu Ihrem neuen Lebensabschnitt passt, ohne unnötig Geld zu kosten.
 
-**Vereinbaren Sie jetzt Ihren kostenlosen Ruhestandscheck** — und starten Sie sorgenfrei in den neuen Lebensabschnitt.
+<div class="cta-box">
 
-[Jetzt Beratung vereinbaren →](/kontakt/)
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>
 
 ### Weiterlesen
 

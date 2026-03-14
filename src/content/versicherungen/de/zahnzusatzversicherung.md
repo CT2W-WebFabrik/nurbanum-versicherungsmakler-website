@@ -20,6 +20,18 @@ Die Zahnzusatzversicherung schließt die Lücke zwischen den Leistungen der gese
 
 Für Privatversicherte ist eine Zahnzusatzversicherung in der Regel nicht notwendig, da die PKV-Tarife bereits umfangreiche Zahnleistungen enthalten.
 
+## Was zahlt die GKV — und was nicht?
+
+Die gesetzliche Krankenversicherung zahlt für Zahnersatz einen befundbezogenen Festzuschuss. Dieser deckt die sogenannte Regelversorgung — also die einfachste medizinisch ausreichende Lösung. Wer eine hochwertigere Versorgung wünscht, zahlt die Differenz selbst:
+
+- **Krone (Vollkeramik statt Metallkrone)**: Eigenanteil 400–800 Euro
+- **Brücke (3-gliedrig, Keramik)**: Eigenanteil 800–1.500 Euro
+- **Implantat mit Krone**: Eigenanteil 2.000–3.500 Euro
+- **Inlay (Keramik oder Gold)**: Eigenanteil 400–700 Euro (keine Kassenleistung)
+- **Professionelle Zahnreinigung**: 80–150 Euro pro Sitzung (keine Kassenleistung)
+
+Eine gute Zahnzusatzversicherung übernimmt 80 bis 100 Prozent dieser Kosten und macht hochwertigen Zahnersatz für jeden erschwinglich.
+
 ## Was leistet die Zahnzusatzversicherung?
 
 - **Zahnersatz** — Kronen, Brücken, Prothesen, Implantate — Erstattung bis zu 90 oder 100 Prozent der Gesamtkosten
@@ -36,6 +48,37 @@ Für Privatversicherte ist eine Zahnzusatzversicherung in der Regel nicht notwen
 - **Fehlende Zähne** — Bereits fehlende und nicht ersetzte Zähne sind in der Regel vom Versicherungsschutz ausgeschlossen
 - **Erstattungshöhe** — Achten Sie auf den Gesamterstattungssatz (inklusive GKV-Festzuschuss), nicht nur auf den Anteil der Versicherung
 
+### Kostenbeispiele
+
+| Eintrittsalter | Tarif mit 80 % Erstattung | Tarif mit 90–100 % Erstattung |
+|---|---|---|
+| 20–30 Jahre | 10–20 €/Monat | 20–35 €/Monat |
+| 30–40 Jahre | 15–30 €/Monat | 25–45 €/Monat |
+| 40–50 Jahre | 25–45 €/Monat | 40–65 €/Monat |
+| 50–60 Jahre | 35–60 €/Monat | 55–90 €/Monat |
+
+Je jünger und gesünder Sie beim Abschluss sind, desto günstiger und umfassender der Schutz. Bereits bestehender Behandlungsbedarf (angeratene Behandlungen, fehlende Zähne) kann zu Ausschlüssen oder Leistungseinschränkungen führen.
+
+## Häufige Fehler
+
+- **Zu spät abschließen**: Wenn der Zahnarzt bereits eine Behandlung empfohlen hat, gilt diese als angeraten und ist nicht mehr versicherbar. Schließen Sie ab, bevor Bedarf besteht.
+- **Nur auf den Monatsbeitrag schauen**: Ein günstiger Tarif mit 50 Prozent Erstattung spart auf den ersten Blick Geld — bei einem Implantat für 3.500 Euro zahlen Sie trotzdem 1.750 Euro aus eigener Tasche.
+- **Zahnstaffel ignorieren**: In den ersten 3 bis 5 Vertragsjahren begrenzen viele Tarife die Erstattung (z. B. 1.000 Euro im ersten Jahr, 2.000 Euro im zweiten). Planen Sie größere Behandlungen erst nach Ablauf der Staffel.
+- **Bonusheft nicht pflegen**: Die GKV-Festzuschüsse steigen mit einem lückenlos geführten Bonusheft um 20 bis 30 Prozent. Das senkt auch Ihren Eigenanteil nach Erstattung durch die Zahnzusatzversicherung.
+- **Prophylaxe unterschätzen**: Die professionelle Zahnreinigung (PZR) kostet 80 bis 150 Euro pro Sitzung und wird von der GKV nicht bezahlt. Viele Zahnzusatztarife erstatten ein bis zwei PZR pro Jahr — das allein kann die Jahresprämie wert sein.
+
 ## Mein Beratungsansatz
 
-Ich analysiere Ihren aktuellen Zahnstatus und Ihre Erwartungen, vergleiche die relevanten Tarife und empfehle eine Zahnzusatzversicherung, die zu Ihrem Budget und Ihrem Bedarf passt. Als unabhängiger Makler bin ich nicht an bestimmte Gesellschaften gebunden.
+Ich analysiere Ihren aktuellen Zahnstatus, Ihre Erwartungen und Ihren bisherigen Behandlungsverlauf, vergleiche die relevanten Tarife und empfehle eine Zahnzusatzversicherung, die zu Ihrem Budget und Ihrem Bedarf passt. Als unabhängiger Makler bin ich nicht an bestimmte Gesellschaften gebunden.
+
+Besonders wichtig: Wenn bereits Behandlungsbedarf besteht, gibt es spezielle Tarife, die auch angeratene Behandlungen abdecken — allerdings zu höheren Beiträgen und mit längeren Zahnstaffeln. Auch Tarife ohne Wartezeiten und ohne Gesundheitsfragen existieren, haben aber meist niedrigere Erstattungsgrenzen in den ersten Jahren. Ich finde für jede Ausgangssituation die beste Lösung — ob als Vorsorge für gesunde Zähne oder als nachträgliche Absicherung bei bestehendem Behandlungsbedarf.
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

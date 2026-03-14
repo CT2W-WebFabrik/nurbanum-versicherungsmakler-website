@@ -3,7 +3,7 @@ title: "Unterversicherung vermeiden: Versicherungssummen richtig berechnen"
 description: "Was Unterversicherung bedeutet, wie die proportionale Kürzung funktioniert und wie Sie bei Hausrat, Wohngebäude und Gewerbe die richtige Versicherungssumme berechnen."
 category: "Versicherungswissen"
 publishDate: 2026-01-08
-readingTime: "8 Min."
+readingTime: "12 Min."
 ---
 
 ## Unterversicherung: Das unterschätzte Risiko
@@ -104,13 +104,85 @@ Ihre Versicherungssumme sollte kein statischer Wert sein. Überprüfen Sie sie i
 - **Erbschaft:** Wertvolle Gegenstände kommen hinzu
 - **Alle drei bis fünf Jahre:** Auch ohne konkreten Anlass sollten Sie die Summe prüfen
 
+## Kostenbeispiele: Wie viel Unterversicherung wirklich kostet
+
+Die folgende Tabelle zeigt, wie sich verschiedene Grade der Unterversicherung auf die Erstattung bei einem Schaden von 20.000 Euro auswirken:
+
+| Versicherungssumme | Tatsächlicher Wert | Unterversicherungsgrad | Erstattung bei 20.000 € Schaden | Eigenanteil |
+|---|---|---|---|---|
+| 80.000 € | 80.000 € | 0 % | **20.000 €** | **0 €** |
+| 60.000 € | 80.000 € | 25 % | **15.000 €** | **5.000 €** |
+| 40.000 € | 80.000 € | 50 % | **10.000 €** | **10.000 €** |
+| 30.000 € | 80.000 € | 62,5 % | **7.500 €** | **12.500 €** |
+| 20.000 € | 80.000 € | 75 % | **5.000 €** | **15.000 €** |
+
+Beachten Sie: Selbst eine moderate Unterversicherung von 25 Prozent bedeutet bei einem Schaden von 20.000 Euro bereits 5.000 Euro aus eigener Tasche. Bei einem Totalschaden durch Brand oder Überschwemmung vervielfachen sich diese Beträge entsprechend.
+
+## Schadenszenarien aus der Praxis
+
+### Szenario 1: Leitungswasserschaden in der Mietwohnung
+
+Ein Rohrbruch in der Küche beschädigt Einbauküche, Parkett und Elektrogeräte. Tatsächlicher Hausratwert: 75.000 Euro, Versicherungssumme seit Erstvertrag unverändert bei 35.000 Euro. Der Schaden beträgt 18.000 Euro. Wegen der Unterversicherung von 53 Prozent erstattet der Versicherer nur **8.460 Euro**. Der Versicherungsnehmer bleibt auf **9.540 Euro** sitzen — fast dem Gegenwert einer neuen Küche.
+
+### Szenario 2: Einbruchdiebstahl im Einfamilienhaus
+
+Einbrecher entwenden Elektronik, Schmuck und Bargeld im Gesamtwert von 25.000 Euro. Die Hausratversicherung läuft noch mit der ursprünglichen Summe von 45.000 Euro, obwohl der Haushalt nach Renovierung und mehreren Anschaffungen mittlerweile einen Wert von 90.000 Euro hat. Unterversicherung: 50 Prozent. Der Versicherer zahlt nur **12.500 Euro** statt 25.000 Euro. Die Differenz von **12.500 Euro** trägt die Familie selbst.
+
+### Szenario 3: Sturmschaden am Wohngebäude
+
+Ein schwerer Herbststurm deckt Teile des Dachs ab, Regenwasser dringt ins Obergeschoss ein. Die Sanierungskosten belaufen sich auf 65.000 Euro. Das Haus wurde seit dem Dachgeschossausbau vor acht Jahren nicht neu bewertet. Der Wert 1914 ist dadurch zu niedrig — die tatsächliche Unterversicherung beträgt 30 Prozent. Der Versicherer kürzt auf **45.500 Euro**. Die Eigentümer müssen **19.500 Euro** aus eigenen Mitteln finanzieren.
+
+### Szenario 4: Feuer im Gewerbebetrieb
+
+In einem Friseursalon bricht nachts ein Kabelbrand aus. Einrichtung, Geräte und Warenvorräte werden zerstört. Die Inhaltsversicherung wurde beim Geschäftsstart vor sechs Jahren abgeschlossen — seitdem wurden neue Behandlungsstühle, ein hochwertiges Kassensystem und zusätzliche Pflegeprodukte angeschafft. Tatsächlicher Wert: 120.000 Euro, versichert: 70.000 Euro. Unterversicherung: 42 Prozent. Bei einem Gesamtschaden von 95.000 Euro erstattet der Versicherer nur **55.100 Euro**. Die Lücke von **39.900 Euro** gefährdet die wirtschaftliche Existenz des Betriebs.
+
+## Häufige Fehler bei der Versicherungssumme
+
+- **Versicherungssumme nie aktualisiert:** Die Police wird beim Einzug oder bei der Geschäftsgründung abgeschlossen und danach nicht mehr angefasst. Nach Jahren stimmt die Summe mit dem tatsächlichen Wert nicht mehr überein — Neuanschaffungen, Renovierungen und Preiserhöhungen werden ignoriert.
+
+- **Zeitwert statt Wiederbeschaffungswert angesetzt:** Viele Versicherte schätzen ihren Besitz nach dem aktuellen Gebrauchtwert. Entscheidend ist jedoch der Neupreis, denn im Schadenfall müssen Sie jeden Gegenstand neu kaufen. Ein fünf Jahre altes Sofa hat einen geringen Zeitwert — die Neuanschaffung kostet aber den vollen Preis.
+
+- **Keller, Garage und Gartenhaus vergessen:** Werkzeuge, Fahrräder, Gartengeräte, Campingausrüstung und Winterreifen lagern oft außerhalb der Wohnung. Diese Gegenstände gehören zum Hausrat, werden bei der Wertermittlung aber regelmäßig übersehen.
+
+- **Umbaumaßnahmen nicht gemeldet:** Ein ausgebautes Dachgeschoss, ein neuer Wintergarten oder eine hochwertige Badsanierung erhöhen den Gebäudewert erheblich. Wird der Wert 1914 nicht angepasst, entsteht trotz gleitendem Neuwert eine Unterversicherung.
+
+- **Unterversicherungsverzicht nicht geprüft:** Viele Versicherte wissen nicht, dass ihre Police einen Unterversicherungsverzicht enthalten kann — oder dass dieser an Bedingungen wie die korrekte Anwendung des Quadratmetermodells geknüpft ist. Wer die Voraussetzungen nicht erfüllt, verliert den Schutz vor proportionaler Kürzung, ohne es zu bemerken.
+
+## Häufig gestellte Fragen zur Unterversicherung
+
+### Was passiert, wenn der Versicherer eine Unterversicherung feststellt?
+
+Der Versicherer prüft im Schadenfall das Verhältnis zwischen Versicherungssumme und tatsächlichem Wert Ihres Besitzes. Stellt er eine Unterversicherung fest, kürzt er die Entschädigung proportional — unabhängig davon, ob der Schaden die Versicherungssumme übersteigt oder nicht. Auch bei einem kleinen Teilschaden erhalten Sie dann nur einen Bruchteil des Betrags. Die Differenz müssen Sie selbst tragen. Dieses Prinzip ist in § 75 Versicherungsvertragsgesetz (VVG) geregelt und gilt für alle Sachversicherungen.
+
+### Ab welchem Prozentsatz wird die Leistung tatsächlich gekürzt?
+
+Die meisten Versicherer tolerieren eine geringfügige Abweichung von bis zu 10 Prozent, ohne die Leistung zu kürzen. Liegt die Unterversicherung darüber, greift die proportionale Kürzung in voller Höhe. Bei einer Unterversicherung von 30 Prozent erhalten Sie also nur 70 Prozent des Schadens erstattet. Einige Tarife sehen keine Toleranzschwelle vor — hier wird ab dem ersten Prozent gekürzt. Prüfen Sie Ihre Vertragsbedingungen auf diesen Punkt.
+
+### Ist ein Unterversicherungsverzicht kostenlos?
+
+In den meisten aktuellen Tarifen ist der Unterversicherungsverzicht ohne Aufpreis enthalten. Voraussetzung ist allerdings, dass die Versicherungssumme nach einem anerkannten Verfahren ermittelt wurde — bei Hausrat typischerweise das Quadratmetermodell mit mindestens 650 Euro pro Quadratmeter, bei Wohngebäude die korrekte Bewertung des Werts 1914. Erfüllen Sie diese Bedingungen nicht, kann der Versicherer den Verzicht widerrufen und im Schadenfall doch proportional kürzen.
+
+### Wie oft sollte ich meine Versicherungssumme überprüfen?
+
+Als Faustregel empfiehlt sich eine Überprüfung alle drei Jahre sowie nach jedem größeren Anlass — Umzug, Renovierung, Zusammenzug, größere Anschaffungen oder Erbschaft. Bei gewerblichen Inhaltsversicherungen ist eine jährliche Prüfung sinnvoll, insbesondere wenn sich Warenbestände oder Betriebseinrichtung regelmäßig verändern. Notieren Sie bei jeder größeren Anschaffung den Kaufpreis, damit Sie die Versicherungssumme schnell und korrekt anpassen können.
+
+### Kann ich eine bestehende Unterversicherung rückwirkend korrigieren?
+
+Nein. Eine Unterversicherung lässt sich nur für die Zukunft beheben, indem Sie die Versicherungssumme erhöhen. Für bereits eingetretene Schäden gilt die zum Zeitpunkt des Schadens vereinbarte Summe. Deshalb ist es wichtig, die Versicherungssumme regelmäßig zu prüfen — im Idealfall bevor ein Schaden eintritt, nicht danach.
+
 ## Versicherungssummen prüfen lassen
 
 Unterversicherung ist einer der häufigsten und gleichzeitig vermeidbarsten Fehler im privaten Versicherungsschutz. Die Korrektur ist in der Regel einfach: Versicherungssumme anpassen, Unterversicherungsverzicht vereinbaren, fertig. Als unabhängiger Versicherungsmakler prüfe ich Ihre bestehenden Policen auf versteckte Unterversicherung und helfe Ihnen, die richtigen Versicherungssummen zu ermitteln.
 
-**Vereinbaren Sie ein kostenloses Beratungsgespräch** — und stellen Sie sicher, dass Ihre Versicherung im Ernstfall auch das zahlt, was Sie erwarten.
+<div class="cta-box">
 
-[Jetzt Beratung vereinbaren →](/kontakt/)
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>
 
 ### Weiterlesen
 

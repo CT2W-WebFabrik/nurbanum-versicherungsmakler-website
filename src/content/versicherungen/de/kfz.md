@@ -33,6 +33,31 @@ Die Kfz-Haftpflicht ist für jeden Fahrzeughalter Pflicht. Bei Teilkasko und Vol
 - **Rabattschutz**: Schützt Ihre SF-Klasse bei einem Schaden pro Jahr. Ob sich das lohnt, hängt vom individuellen Fall ab.
 - **Sonderkündigungsrecht**: Bei Beitragserhöhungen ohne Leistungsverbesserung haben Sie ein Sonderkündigungsrecht.
 
+## Haftpflicht, Teilkasko oder Vollkasko? — Vergleich
+
+| Merkmal | Kfz-Haftpflicht | Teilkasko | Vollkasko |
+|---|---|---|---|
+| Gesetzliche Pflicht | Ja | Nein | Nein |
+| Fremdschäden | ✓ | – | – |
+| Diebstahl | – | ✓ | ✓ |
+| Glasbruch | – | ✓ | ✓ |
+| Wildunfälle | – | ✓ | ✓ |
+| Hagel, Sturm, Überschwemmung | – | ✓ | ✓ |
+| Selbstverschuldete Unfälle | – | – | ✓ |
+| Vandalismus | – | – | ✓ |
+
+### Kostenbeispiele (SF-Klasse 10, Normaltarif)
+
+| Fahrzeugtyp | Haftpflicht | Haftpflicht + Teilkasko | Haftpflicht + Vollkasko |
+|---|---|---|---|
+| Kleinwagen (z. B. VW Polo) | 250–400 €/Jahr | 350–550 €/Jahr | 500–800 €/Jahr |
+| Mittelklasse (z. B. VW Golf) | 350–550 €/Jahr | 500–750 €/Jahr | 700–1.100 €/Jahr |
+| SUV (z. B. VW Tiguan) | 400–650 €/Jahr | 600–900 €/Jahr | 900–1.400 €/Jahr |
+
+Die tatsächlichen Beiträge variieren stark je nach Regionalklasse, Typklasse, Fahrleistung und Schadenfreiheitsklasse. Ein individueller Vergleich kann mehrere hundert Euro pro Jahr einsparen.
+
+Wichtig zu wissen: Die Regionalklasse richtet sich nach dem Zulassungsort und spiegelt die Schadenhäufigkeit in Ihrer Region wider. Die Typklasse berücksichtigt die Schadenbilanz Ihres konkreten Fahrzeugmodells. Beide Werte werden jährlich vom Gesamtverband der Deutschen Versicherungswirtschaft (GDV) neu berechnet und können sich auch ohne eigenen Schaden ändern. Dadurch können die Beiträge von Jahr zu Jahr schwanken — ein regelmäßiger Tarifvergleich zum Stichtag 30. November lohnt sich fast immer.
+
 ## Häufige Fehler
 
 - **Nur den Preis vergleichen**: Günstige Tarife haben oft Einschränkungen bei den Leistungen. Achten Sie auf die Bedingungen, nicht nur auf den Beitrag.
@@ -40,6 +65,7 @@ Die Kfz-Haftpflicht ist für jeden Fahrzeughalter Pflicht. Bei Teilkasko und Vol
 - **Wechsel versäumen**: Die Hauptfälligkeit ist bei den meisten Verträgen der 1. Januar, Kündigungsfrist ist der 30. November. Markieren Sie sich dieses Datum.
 - **Kaskoversicherung zu lange behalten**: Wenn die Jahresprämie mehr als zehn Prozent des Fahrzeugwertes beträgt, lohnt sich die Kasko meist nicht mehr.
 - **Keinen Rabattübertrag nutzen**: SF-Klassen können unter bestimmten Voraussetzungen übertragen werden -- etwa von den Eltern auf die Kinder.
+- **Saisonkennzeichen nicht nutzen**: Wer sein Fahrzeug nur saisonweise fährt — etwa ein Wohnmobil oder Cabrio — zahlt mit einem Saisonkennzeichen nur für die Monate, in denen das Fahrzeug zugelassen ist. Das spart Beiträge und Steuern.
 
 ## Wann sollten Sie zum Makler?
 
@@ -47,4 +73,12 @@ Der Kfz-Versicherungsmarkt ist unübersichtlich, und die Tarifstrukturen ändern
 
 Besonders bei Sonderfällen -- etwa Fahranfänger, Wenigfahrer, Oldtimer oder gewerbliche Nutzung -- lohnt sich eine individuelle Beratung.
 
-**Kontaktieren Sie mich vor dem nächsten Wechseltermin** -- ich finde für Sie den Tarif, der wirklich zu Ihrem Fahrprofil passt.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

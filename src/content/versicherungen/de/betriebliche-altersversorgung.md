@@ -31,12 +31,29 @@ Das Gesetz kennt fünf Durchführungswege, die sich in Flexibilität, Sicherheit
 - **Portabilität**: Was passiert bei einem Jobwechsel? Achten Sie darauf, dass der Vertrag auf den neuen Arbeitgeber übertragen oder privat fortgeführt werden kann.
 - **Kosten des Vertrages**: Auch bei der bAV fressen hohe Abschluss- und Verwaltungskosten die Rendite. Vergleichen Sie Angebote.
 - **Auswirkung auf Sozialleistungen**: Die Entgeltumwandlung reduziert Ihr Bruttogehalt und damit auch Ansprüche auf Kranken-, Arbeitslosen- und gesetzliche Rentenversicherung. Diese Effekte sollten einkalkuliert werden.
+- **Rendite und Anlageform**: Moderne bAV-Verträge bieten fondsgebundene Varianten mit höheren Renditechancen. Fragen Sie aktiv nach Tarifen mit günstigen ETF-basierten Fonds statt teurer klassischer Produkte.
 
 ### Für Arbeitgeber
 
-- **Haftungsrisiken**: Als Arbeitgeber haften Sie grundsätzlich für die zugesagten Leistungen -- auch wenn der Versicherer nicht zahlt (Subsidiärhaftung).
+- **Haftungsrisiken**: Als Arbeitgeber haften Sie grundsätzlich für die zugesagten Leistungen — auch wenn der Versicherer nicht zahlt (Subsidiärhaftung). Eine saubere Dokumentation und regelmäßige Prüfung der Versorgungszusagen sind daher essenziell.
 - **Versorgungsordnung**: Regeln Sie die bAV klar in einer Versorgungsordnung. Das schafft Transparenz und reduziert arbeitsrechtliche Risiken.
 - **Gleichbehandlung**: Bieten Sie allen Mitarbeitern vergleichbare Möglichkeiten an, um arbeitsrechtlichen Problemen vorzubeugen.
+- **Recruiting-Vorteil**: Eine gut aufgestellte bAV ist ein messbarer Wettbewerbsvorteil bei der Mitarbeitergewinnung. Bewerber achten zunehmend auf die Altersversorgung.
+
+### Durchführungswege im Vergleich
+
+| Merkmal | Direktversicherung | Pensionskasse | Pensionsfonds | Unterstützungskasse | Direktzusage |
+|---|---|---|---|---|---|
+| Geeignet für | KMU | Branchen | Mittelstand | Gutverdiener, GGF | Führungskräfte, GGF |
+| Max. Beitrag (steuerfrei) | 302 €/Monat | 302 €/Monat | 302 €/Monat | Unbegrenzt | Unbegrenzt |
+| Kapitalanlage | Versicherer | Versorgungseinrichtung | Fonds (freier) | Rückdeckungsvers. | Betriebsvermögen |
+| Arbeitgeberhaftung | Subsidiär | Subsidiär | Subsidiär (PSVaG) | Subsidiär (PSVaG) | Direkt |
+| Portabilität | Gut | Mittel | Mittel | Schwierig | Schwierig |
+| Komplexität | Gering | Gering | Mittel | Hoch | Sehr hoch |
+
+### Kostenbeispiel Entgeltumwandlung
+
+Bei einer monatlichen Entgeltumwandlung von 200 Euro sparen Sie als Arbeitnehmer (Steuerklasse I, ca. 45.000 € brutto/Jahr) rund 90 Euro an Steuern und Sozialabgaben — der tatsächliche Nettoverzicht beträgt also nur etwa 110 Euro. Zusätzlich zahlt der Arbeitgeber mindestens 15 Prozent Zuschuss (30 Euro), sodass 230 Euro in Ihre Altersversorgung fließen. Über 30 Jahre summiert sich das bei konservativer Verzinsung zu einem erheblichen Zusatzkapital.
 
 ## Häufige Fehler
 
@@ -51,4 +68,12 @@ Die bAV ist ein Zusammenspiel aus Arbeitsrecht, Steuerrecht, Sozialversicherungs
 
 Ich berate Sie auf beiden Seiten: Arbeitnehmer unterstütze ich bei der Auswahl und Optimierung ihrer bAV, Arbeitgebern helfe ich bei der Konzeption und Einrichtung eines attraktiven Versorgungswerks.
 
-**Sprechen Sie mich an** -- gemeinsam finden wir die beste Lösung für Ihre betriebliche Altersversorgung.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

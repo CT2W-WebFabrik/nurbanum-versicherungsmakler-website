@@ -24,6 +24,14 @@ Die Risikolebensversicherung ist kein Produkt für jeden, aber für bestimmte Pe
 
 Singles ohne Unterhaltspflichten und ohne Schulden, die niemanden finanziell absichern müssen, benötigen in der Regel keine Risikolebensversicherung.
 
+## Wie hoch sollte die Versicherungssumme sein?
+
+Die richtige Versicherungssumme hängt von Ihrer individuellen Situation ab. Als Faustregel gelten folgende Berechnungen:
+
+- **Familienabsicherung**: Das drei- bis fünffache Bruttojahreseinkommen. Bei einem Einkommen von 50.000 Euro brutto wären das 150.000 bis 250.000 Euro. Berücksichtigen Sie zusätzlich die Ausbildungskosten der Kinder und den Betreuungsbedarf.
+- **Kreditabsicherung**: Mindestens die aktuelle Restschuld, besser mit einem Sicherheitspuffer von 10 bis 20 Prozent. Für Immobilienkredite eignet sich eine fallende Versicherungssumme, die parallel zur Tilgung sinkt.
+- **Geschäftspartner-Absicherung**: Mindestens der Wert des Gesellschaftsanteils, damit der überlebende Partner den Anteil des Verstorbenen von den Erben übernehmen kann, ohne das Unternehmen zu gefährden.
+
 ## Worauf sollten Sie achten?
 
 - **Versicherungssumme**: Als Faustregel gilt das Drei- bis Fünffache des Bruttojahreseinkommens. Bei laufenden Krediten sollte die Summe mindestens die Restschuld abdecken.
@@ -32,6 +40,17 @@ Singles ohne Unterhaltspflichten und ohne Schulden, die niemanden finanziell abs
 - **Vorgezogene Todesfallleistung**: Einige Tarife zahlen die Versicherungssumme bereits bei einer unheilbaren Erkrankung mit begrenzter Lebenserwartung aus.
 - **Verlängerungsoption**: Die Möglichkeit, den Vertrag ohne erneute Gesundheitsprüfung zu verlängern, kann wertvoll sein, wenn sich die Lebensumstände ändern.
 - **Überkreuzversicherung**: Bei Paaren bietet es sich an, dass Partner A auf das Leben von Partner B versichert und umgekehrt. Das hat steuerliche Vorteile bei der Erbschaftsteuer.
+
+### Kostenbeispiele
+
+| Versicherte Person | Versicherungssumme | Laufzeit | Monatsbeitrag (Nichtraucher) |
+|---|---|---|---|
+| 30 Jahre, kaufm. Angestellter | 200.000 € (konstant) | 25 Jahre | 8–15 € |
+| 35 Jahre, Handwerker | 300.000 € (konstant) | 20 Jahre | 15–28 € |
+| 30 Jahre, Kreditabsicherung | 250.000 € (fallend) | 30 Jahre | 6–12 € |
+| Überkreuz (2 Personen, je 30 J.) | je 200.000 € | 25 Jahre | je 8–15 € |
+
+Die Risikolebensversicherung gehört zu den günstigsten und wichtigsten Versicherungsprodukten überhaupt. Raucher zahlen in der Regel den doppelten bis dreifachen Beitrag im Vergleich zu Nichtrauchern. Vorerkrankungen können zu Risikozuschlägen führen — eine anonyme Voranfrage klärt die Konditionen, bevor ein offizieller Antrag gestellt wird.
 
 ## Häufige Fehler
 
@@ -45,6 +64,14 @@ Singles ohne Unterhaltspflichten und ohne Schulden, die niemanden finanziell abs
 
 Die Risikolebensversicherung ist grundsätzlich ein vergleichsweise einfaches Produkt. Die Beratung wird jedoch wichtig, wenn es um die korrekte Bedarfsberechnung, die Wahl des richtigen Modells (konstant, fallend, Überkreuz) und die Gesundheitsprüfung geht.
 
-Ich berechne mit Ihnen den passenden Absicherungsbedarf, führe bei Bedarf anonyme Voranfragen durch und finde den Tarif mit dem besten Preis-Leistungs-Verhältnis.
+Ich berechne mit Ihnen den passenden Absicherungsbedarf, wähle das richtige Modell (konstant, fallend, Überkreuz), führe bei Bedarf anonyme Voranfragen durch und finde den Tarif mit dem besten Preis-Leistungs-Verhältnis.
 
-**Sichern Sie Ihre Liebsten ab.** Ein Beratungsgespräch ist der erste Schritt.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

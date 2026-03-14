@@ -31,6 +31,29 @@ Das Angebot ist vielfältig, und nicht jedes Produkt passt zu jeder Lebenssituat
 - **Rentenfaktor**: Bei fondsgebundenen Rentenversicherungen bestimmt der Rentenfaktor, wie viel Rente Sie pro 10.000 Euro Kapital erhalten. Achten Sie auf einen garantierten Rentenfaktor.
 - **Anlagehorizont**: Je länger Sie Zeit haben, desto mehr Risiko können Sie eingehen und desto stärker profitieren Sie vom Zinseszinseffekt.
 
+## Vorsorgewege im Vergleich
+
+| Merkmal | Riester-Rente | Rürup-Rente | Private RV | ETF-Sparplan |
+|---|---|---|---|---|
+| Zielgruppe | Angestellte, Familien | Selbständige, Gutverdiener | Alle | Alle |
+| Förderung | Zulagen + Steuervorteile | Steuervorteile (bis 30.826 €) | Keine | Keine |
+| Flexibilität | Gering (gebunden) | Gering (nur Rente) | Mittel | Hoch |
+| Auszahlung | Rente (30 % Kapital möglich) | Nur lebenslange Rente | Rente oder Kapital | Frei verfügbar |
+| Kosten | Oft hoch | Mittel bis hoch | Variiert | Sehr niedrig (0,1–0,5 % p.a.) |
+| Pfändungsschutz | Ja | Ja | Eingeschränkt | Nein |
+| Vererbbar | Eingeschränkt | Nein | Ja | Ja |
+
+### Kostenbeispiel: 200 €/Monat über 30 Jahre
+
+| Anlageform | Annahme Rendite | Endkapital (geschätzt) |
+|---|---|---|
+| Bankeinlage | 1 % | ca. 84.000 € |
+| Private RV (klassisch) | 2,5 % | ca. 105.000 € |
+| Private RV (fondsgebunden) | 5 % | ca. 166.000 € |
+| ETF-Sparplan (breit gestreut) | 6 % | ca. 201.000 € |
+
+Die Renditeunterschiede über 30 Jahre sind enorm. Aber Rendite ist nicht alles — Steuervorteile, Pfändungsschutz und die lebenslange Rentengarantie haben ebenfalls einen Wert. Die beste Strategie kombiniert mehrere Bausteine.
+
 ## Häufige Fehler
 
 - **Zu spät beginnen**: Der Zinseszinseffekt ist Ihr stärkster Verbündeter. Wer zehn Jahre später startet, muss deutlich mehr einzahlen oder erhält weniger Rente.
@@ -45,4 +68,12 @@ Die Vielzahl der Produkte, die steuerlichen Regelungen und die individuellen Fö
 
 Ich analysiere Ihre aktuelle Situation, berechne Ihre individuelle Versorgungslücke und entwickle mit Ihnen ein Vorsorgekonzept, das zu Ihren Zielen, Ihrem Budget und Ihrer Risikobereitschaft passt.
 
-**Lassen Sie uns gemeinsam planen** -- denn gute Altersvorsorge beginnt mit einer guten Beratung.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

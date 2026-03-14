@@ -43,10 +43,39 @@ Die Berufsunfähigkeitsversicherung ist eines der komplexesten Versicherungsprod
 - **Günstigstes Angebot wählen**: Bei der BU entscheiden die Vertragsbedingungen, nicht der Preis. Ein billiger Tarif mit schlechten Klauseln kann im Leistungsfall wertlos sein.
 - **Verwechslung mit Unfallversicherung**: Eine Unfallversicherung zahlt nur bei Unfällen, die BU auch bei Krankheiten -- und genau die sind die häufigste Ursache.
 
+## Brauche ich eine BU? — Checkliste
+
+- Leben Sie von Ihrem Arbeitseinkommen? → Ja, Sie brauchen eine BU.
+- Haben Sie ausreichend Vermögen, um 20+ Jahre ohne Einkommen zu überbrücken? → Nein? Dann brauchen Sie eine BU.
+- Haben Sie eine Unfallversicherung als Ersatz? → Reicht nicht: 90 % der Berufsunfähigkeiten werden durch Krankheiten verursacht, nicht durch Unfälle.
+- Sind Sie Beamter? → Dienstunfähigkeitsversicherung prüfen (andere Regelung als BU).
+- Sind Sie selbständig? → Besonders dringend, da kein Anspruch auf Erwerbsminderungsrente.
+
+### Kostenbeispiele
+
+| Beruf | Alter bei Abschluss | BU-Rente 1.500 €/Monat | BU-Rente 2.000 €/Monat |
+|---|---|---|---|
+| Kaufm. Angestellter | 25 Jahre | ca. 45–65 €/Monat | ca. 60–85 €/Monat |
+| Ingenieur | 30 Jahre | ca. 55–80 €/Monat | ca. 75–110 €/Monat |
+| Handwerker | 25 Jahre | ca. 90–140 €/Monat | ca. 120–190 €/Monat |
+| Pflegekraft | 30 Jahre | ca. 110–170 €/Monat | ca. 150–230 €/Monat |
+
+Die Beiträge variieren je nach Anbieter erheblich — gerade bei körperlich belastenden Berufen können die Unterschiede zwischen dem günstigsten und dem teuersten Anbieter 50 % betragen. Ein unabhängiger Vergleich lohnt sich.
+
+Beachten Sie außerdem: Viele Versicherer bieten Aktionsangebote für bestimmte Berufsgruppen oder Altersklassen an. Beamte profitieren von speziellen Dienstunfähigkeitsklauseln, die auf die besonderen beamtenrechtlichen Regelungen abgestimmt sind. Studierende und Auszubildende erhalten häufig vergünstigte Einstiegstarife mit Nachversicherungsgarantie.
+
 ## Wann sollten Sie zum Makler?
 
 Bei der Berufsunfähigkeitsversicherung ist professionelle Beratung keine Option, sondern eine Notwendigkeit. Die Unterschiede zwischen den Anbietern sind enorm, und die Gesundheitsprüfung erfordert sorgfältige Vorbereitung.
 
 Als unabhängiger Makler führe ich mit Ihnen eine anonyme Voranfrage bei mehreren Versicherern durch. So erfahren wir vorab, welche Gesellschaften Ihnen zu welchen Bedingungen Versicherungsschutz bieten -- ohne dass eine Ablehnung aktenkundig wird.
 
-**Lassen Sie sich beraten.** Die Berufsunfähigkeitsversicherung ist zu wichtig, um sie dem Zufall zu überlassen.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

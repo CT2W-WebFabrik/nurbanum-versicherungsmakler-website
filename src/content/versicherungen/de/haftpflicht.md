@@ -44,10 +44,41 @@ Die Beiträge für eine Privathaftpflichtversicherung sind vergleichsweise gerin
 - **Doppelversicherung in der Partnerschaft**: Prüfen Sie, ob nicht bereits ein Partner eine Familienpolice besitzt, die beide abdeckt.
 - **Kein Vergleich unterschiedlicher Anbieter**: Gerade bei der Haftpflicht unterscheiden sich die Bedingungswerke deutlich -- der Preis allein sagt wenig über die Qualität aus.
 
+## Brauche ich eine Privathaftpflicht? — Checkliste
+
+Gehen Sie diese Fragen durch. Wenn Sie auch nur eine davon mit „Ja" beantworten, brauchen Sie eine Privathaftpflichtversicherung:
+
+- Sind Sie nicht mehr über die Eltern familienversichert?
+- Haben Sie eine eigene Wohnung (Miet- oder Eigentum)?
+- Besitzen Sie Gegenstände, mit denen Sie anderen Schaden zufügen könnten (Fahrrad, E-Bike, Drohne unter 250 g)?
+- Haben Sie Kinder unter 7 Jahren, die deliktunfähig sind?
+- Helfen Sie gelegentlich Freunden oder Nachbarn (Umzug, Gartenarbeit)?
+- Sind Sie ehrenamtlich tätig?
+
+Wenn Sie alle Fragen mit „Nein" beantworten, brauchen Sie die Versicherung wahrscheinlich trotzdem — denn im Alltag genügt eine einzige Unachtsamkeit für einen Schaden in Millionenhöhe.
+
+## Was kostet eine Privathaftpflichtversicherung?
+
+| Tarif | Jahresbeitrag | Deckungssumme |
+|---|---|---|
+| Basis-Single | 40–60 € | 10 Mio. € |
+| Komfort-Single | 60–90 € | 50 Mio. € |
+| Familie | 70–120 € | 50 Mio. € |
+
+Für weniger als 10 Euro pro Monat erhalten Sie einen umfassenden Schutz, der Ihre gesamte finanzielle Existenz absichert. Der Unterschied zwischen einem Basis- und einem Komforttarif beträgt oft nur 20 bis 30 Euro im Jahr — bietet aber deutlich bessere Leistungen bei Schlüsselverlust, Gefälligkeitsschäden und grober Fahrlässigkeit.
+
 ## Wann sollten Sie zum Makler?
 
 Eine Privathaftpflichtversicherung können Sie grundsätzlich selbst abschließen. Doch gerade bei besonderen Lebensumständen lohnt sich die unabhängige Beratung: Wenn Sie beispielsweise ein Eigenheim besitzen, nebenberuflich selbstständig sind, Drohnen fliegen oder häufig ehrenamtlich tätig sind, gibt es Fallstricke, die Sie ohne Fachwissen leicht übersehen.
 
 Als unabhängiger Versicherungsmakler vergleiche ich für Sie die Bedingungswerke zahlreicher Anbieter und finde den Tarif, der wirklich zu Ihrer Lebenssituation passt -- nicht den, der in der Werbung am lautesten ist.
 
-**Vereinbaren Sie ein kostenloses Erstgespräch** und lassen Sie Ihren bestehenden Schutz prüfen. Oft ergeben sich Verbesserungen bei gleichem oder sogar niedrigerem Beitrag.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

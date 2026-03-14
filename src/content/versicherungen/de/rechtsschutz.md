@@ -24,6 +24,8 @@ Die Rechtsschutzversicherung ist keine Pflichtversicherung und wird nicht von je
 
 Weniger sinnvoll ist die Rechtsschutzversicherung für Menschen, die Konflikte grundsätzlich außergerichtlich lösen können und über ausreichende finanzielle Reserven für einen etwaigen Rechtsstreit verfügen.
 
+Bedenken Sie allerdings: Auch wenn Sie selbst keinen Streit suchen, können Sie unverschuldet in eine rechtliche Auseinandersetzung geraten — etwa durch eine fehlerhafte Kündigung, einen unverschuldeten Verkehrsunfall oder unrechtmäßige Forderungen eines Dienstleisters. In solchen Fällen gibt Ihnen der Rechtsschutz die Sicherheit, Ihr Recht durchzusetzen, ohne das Kostenrisiko tragen zu müssen.
+
 ## Worauf sollten Sie achten?
 
 - **Leistungsbausteine**: Wählen Sie die Bausteine, die zu Ihrer Lebenssituation passen: Privat-, Berufs-, Verkehrs- und Wohnrechtsschutz. Nicht jeder Baustein ist für jeden relevant.
@@ -32,6 +34,28 @@ Weniger sinnvoll ist die Rechtsschutzversicherung für Menschen, die Konflikte g
 - **Mediation**: Gute Tarife übernehmen die Kosten einer Mediation als Alternative zum Rechtsstreit. Das spart Zeit, Nerven und oft auch Geld.
 - **Deckungssumme**: Mindestens 300.000 Euro pro Rechtsfall. Bei arbeitsrechtlichen oder immobilienrechtlichen Streitigkeiten können die Kosten hoch sein.
 - **Vorvertragliche Fälle**: Achten Sie darauf, wie der Versicherer mit Streitigkeiten umgeht, deren Ursache vor Vertragsbeginn liegt.
+- **Strafrechtsschutz**: Bei Ordnungswidrigkeiten und Strafverfahren ist der Schutz oft eingeschränkt oder ausgeschlossen. Wer diesen Baustein benötigt — etwa Berufskraftfahrer oder Führungskräfte — sollte gezielt darauf achten.
+
+## Rechtsschutz-Bausteine im Vergleich
+
+| Baustein | Typische Streitfälle | Für wen besonders wichtig |
+|---|---|---|
+| Privatrechtsschutz | Kaufverträge, Nachbarschaftsstreit, Schadensersatz | Alle |
+| Berufsrechtsschutz | Kündigung, Abmahnung, Gehaltsstreit | Arbeitnehmer |
+| Verkehrsrechtsschutz | Unfälle, Bußgelder, Werkstattstreit | Autofahrer |
+| Wohnrechtsschutz (Mieter) | Mieterhöhung, Nebenkosten, Eigenbedarf | Mieter |
+| Wohnrechtsschutz (Eigentümer) | WEG-Streit, Handwerkerpfusch, Nachbarn | Immobilienbesitzer |
+
+### Kostenbeispiele
+
+| Kombination | Jahresbeitrag (150 € SB) |
+|---|---|
+| Privat + Beruf | 200–350 € |
+| Privat + Beruf + Verkehr | 250–400 € |
+| Privat + Beruf + Verkehr + Wohnen | 300–500 € |
+| Familie (alle Bausteine) | 400–600 € |
+
+Die Selbstbeteiligung von 150 bis 250 Euro senkt den Beitrag spürbar und filtert Bagatellstreitigkeiten heraus. Ein einzelner Arbeitsrechtsstreit kostet schnell 5.000 bis 15.000 Euro — die Jahresprämie amortisiert sich bereits beim ersten ernsthaften Rechtsfall.
 
 ## Häufige Fehler
 
@@ -47,4 +71,12 @@ Die Rechtsschutzversicherung hat viele Ausschlüsse und Einschränkungen, die in
 
 Ich analysiere Ihre Lebenssituation, identifiziere die relevanten Rechtsgebiete und empfehle Ihnen einen maßgeschneiderten Schutz -- ohne überflüssige Bausteine, aber auch ohne gefährliche Lücken.
 
-**Lassen Sie sich beraten** -- bevor Sie den Schutz brauchen, nicht danach.
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>

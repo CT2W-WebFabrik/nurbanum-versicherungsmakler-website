@@ -1,112 +1,192 @@
 ---
-title: "Selbständig werden: Diese Versicherungen brauchen Sie"
-description: "Versicherungs-Checkliste für Selbständige und Freiberufler. Berufshaftpflicht, BU, Krankenversicherung — was Sie ohne Arbeitgeber-Netz wirklich brauchen."
+title: "Versicherungen für Selbständige: Schutz laufend optimieren"
+description: "Versicherungen als Selbständiger richtig verwalten: Jährliche Prüfung, Deckung ans Wachstum anpassen, steuerlich absetzen und wissen, wann ein Upgrade fällig ist."
 category: "Grundlagen"
 audience: "gewerbe"
 publishDate: 2026-02-13
 readingTime: "10 Min."
 ---
 
-## Ohne Arbeitgeber-Netz: Ihre Absicherung liegt in Ihrer Hand
+## Die Gründung ist geschafft — jetzt beginnt die Pflege
 
-Als Angestellter profitieren Sie von einem unsichtbaren Sicherheitsnetz: Ihr Arbeitgeber trägt die Hälfte Ihrer Sozialversicherungsbeiträge, die Berufsgenossenschaft versichert Arbeitsunfälle, und bei Krankheit erhalten Sie sechs Wochen Lohnfortzahlung. Mit dem Schritt in die Selbständigkeit fällt dieses Netz komplett weg.
+Die ersten Versicherungen stehen, der Betrieb läuft. Doch viele Selbständige machen den Fehler, ihren Versicherungsschutz nach der Gründung nie wieder anzufassen. Dabei ändert sich in den ersten Jahren fast alles: Umsatz steigt, Mitarbeiter kommen dazu, das Geschäftsmodell erweitert sich. Ihr Versicherungsschutz muss mit diesem Wachstum Schritt halten — sonst sind Sie im Schadenfall unterversichert.
 
-Das bedeutet nicht, dass Sie sich gegen alles versichern müssen. Es bedeutet aber, dass Sie bestimmte Risiken bewusst und gezielt absichern sollten — denn ein einziger Schadenfall kann Ihre berufliche Existenz gefährden.
+Dieser Ratgeber richtet sich an etablierte Selbständige und Freiberufler. Wenn Sie noch vor der Gründung stehen, lesen Sie zuerst unseren [Gründer-Leitfaden](/ratgeber/existenzgruender-versicherungen/).
 
-## Berufliche Absicherung: Was Ihre Existenz schützt
+## Der jährliche Versicherungs-Check
 
-### Berufshaftpflicht / Betriebshaftpflichtversicherung
+Planen Sie einmal jährlich — idealerweise zum Jahreswechsel — einen systematischen Versicherungs-Check ein. Prüfen Sie dabei:
 
-Wenn Sie Dritten einen Schaden zufügen — ob Personenschaden, Sachschaden oder Vermögensschaden — haften Sie unbeschränkt mit Ihrem gesamten Betriebs- und Privatvermögen. Eine Berufshaftpflicht (für beratende und freie Berufe) oder Betriebshaftpflicht (für Gewerbetreibende) ist daher die wichtigste gewerbliche Versicherung überhaupt.
+### Versicherungssummen an Wachstum anpassen
 
-**Welche Variante brauchen Sie?**
-- **Freie Berufe** (Berater, IT-Dienstleister, Architekten, Anwälte): Berufshaftpflicht mit Vermögensschadendeckung
-- **Handwerker, Gastronomen, Einzelhändler**: Betriebshaftpflicht mit Personen- und Sachschadendeckung
-- **Beide Risikoprofile?** Dann brauchen Sie beides oder einen kombinierten Tarif
+- **Inhaltsversicherung:** Haben Sie neue Einrichtung, Maschinen oder Warenbestände? Stimmt die Versicherungssumme noch? Unterversicherung führt im Schadenfall zu proportionaler Kürzung — bei 50 % Unterversicherung erhalten Sie nur die Hälfte des Schadens ersetzt.
+- **Betriebsunterbrechung:** Die versicherte Haftzeit und der Tagessatz müssen zum aktuellen Umsatzniveau passen. Wenn Ihr Umsatz seit der Gründung gestiegen ist, ist die alte Deckung zu niedrig.
+- **Haftpflichtversicherung:** Neue Tätigkeitsfelder, neue Mitarbeiter, Arbeit im Ausland? All das kann Deckungslücken schaffen, die im Schadenfall teuer werden.
 
-Viele Auftraggeber und Berufsordnungen schreiben eine Berufshaftpflicht vor. Ohne Police erhalten Sie keine Aufträge.
+### Neue Risiken erkennen
 
-### Berufsunfähigkeitsversicherung
+- **Erster Mitarbeiter:** Mit dem ersten Angestellten kommen neue Pflichten: Betriebliche Altersversorgung (Arbeitgeberzuschuss), Berufsgenossenschaft, ggf. D&O-Versicherung bei GmbH-Gründung
+- **Neues Geschäftsfeld:** Erweitern Sie Ihr Angebot, muss die Haftpflichtversicherung die neuen Tätigkeiten abdecken. Nicht jede Vorsorgeversicherung greift automatisch
+- **Digitalisierung:** Mehr IT bedeutet mehr Cyberrisiken. Ab einem gewissen Digitalanteil ist eine Cyber-Versicherung unverzichtbar
+- **Firmenfahrzeug:** Beim Wechsel vom Privat-Pkw zum Geschäftswagen ändern sich Versicherungsbedarf und steuerliche Absetzbarkeit
 
-Laut Branchenstatistiken wird etwa jeder vierte Arbeitnehmer vor der Rente berufsunfähig. Für Selbständige ist das Risiko oft noch relevanter, weil sie keinerlei gesetzliche Absicherung haben: Keine Lohnfortzahlung, keine Erwerbsminderungsrente (es sei denn, Sie zahlen freiwillig in die gesetzliche Rentenversicherung ein).
+### Verträge vergleichen und konsolidieren
 
-Die BU sollte mindestens 75 % Ihres Nettoeinkommens absichern. Je früher Sie abschließen, desto günstiger und einfacher sind die Gesundheitsfragen.
+Alte Verträge haben oft schlechtere Bedingungen als aktuelle Tarife. Prüfen Sie regelmäßig:
+- Gibt es neuere Tarife mit besseren Leistungen zum gleichen Preis?
+- Können Sie mehrere Verträge beim selben Versicherer bündeln und Beiträge sparen?
+- Sind Wartezeiten bei Rechtsschutz oder anderen Versicherungen inzwischen abgelaufen?
 
-### Betriebsunterbrechungsversicherung
+## Versicherungen als Betriebsausgaben steuerlich absetzen
 
-Was passiert, wenn Ihr Betrieb nach einem Brand, Wasserschaden oder Maschinenschaden stillsteht? Die laufenden Kosten — Miete, Löhne, Leasingraten — laufen weiter, aber es kommt kein Umsatz herein. Die Betriebsunterbrechungsversicherung ersetzt den entgangenen Betriebsgewinn und die fortlaufenden Kosten für eine definierte Haftzeit (meist 12 Monate).
+Als Selbständiger können Sie die meisten gewerblichen Versicherungen vollständig als Betriebsausgaben geltend machen:
 
-## Persönliche Absicherung: GKV oder PKV?
+- **Voll absetzbar:** Betriebshaftpflicht, Berufshaftpflicht, Inhaltsversicherung, Betriebsunterbrechung, Cyber-Versicherung, Firmen-Rechtsschutz, D&O-Versicherung, Kfz-Versicherung (gewerblicher Anteil)
+- **Als Sonderausgaben absetzbar:** Krankenversicherung (Basisabsicherung), Pflegeversicherung, Rürup-Rente (bis 30.826 Euro in 2026), Berufsunfähigkeitsversicherung (im Rahmen der Vorsorgeaufwendungen)
+- **Nicht absetzbar:** Private Haftpflicht, Hausrat, private Unfallversicherung (außer bei gemischter Nutzung)
 
-### Krankenversicherung
+**Tipp:** Dokumentieren Sie bei gemischter Nutzung (z. B. Kfz, Homeoffice-Versicherung) den gewerblichen Anteil. Das Finanzamt akzeptiert in der Regel den tatsächlichen Nutzungsanteil oder eine pauschale Aufteilung.
 
-Die wohl teuerste und folgenreichste Entscheidung bei der Gründung. Als Selbständiger müssen Sie sich selbst versichern — entweder freiwillig in der GKV oder in der PKV.
+## Wann ist ein Upgrade fällig?
 
-**Gesetzliche Krankenversicherung (GKV):**
-- Beitrag einkommensabhängig (14,6 % + Zusatzbeitrag, Mindestbeitrag ca. 210 Euro/Monat)
-- Kinder und nicht verdienender Ehepartner beitragsfrei familienversichert
-- Beiträge sinken bei niedrigem Einkommen
-- Kein Gesundheitscheck nötig
+### Von der Berufshaftpflicht zur erweiterten Deckung
 
-**Private Krankenversicherung (PKV):**
-- Beitrag einkommensunabhängig, richtet sich nach Alter und Gesundheit
-- Oft bessere Leistungen (Chefarzt, Einzelzimmer, Zahnersatz)
-- Jedes Familienmitglied zahlt eigenen Beitrag
-- Rückkehr in die GKV sehr schwierig
+In den ersten Jahren reicht oft ein einfacher Berufshaftpflicht-Tarif. Wenn Ihr Umsatz wächst, Sie größere Aufträge annehmen oder im Ausland tätig werden, brauchen Sie höhere Deckungssummen und erweiterte Klauseln (Auslandsdeckung, Subunternehmer-Einschluss, Nachhaftung).
 
-**Faustregel:** Wenn Sie jung, gesund und alleinstehend sind und stabil gut verdienen, kann die PKV günstiger sein. Wenn Sie eine Familie haben oder Ihr Einkommen schwankt, ist die GKV meist die sicherere Wahl.
+### Von der Einzelpolice zum Gewerbe-Paket
 
-### Krankentagegeld
+Wenn Sie fünf oder mehr einzelne Gewerbeversicherungen haben, kann ein Gewerbe-Bündelvertrag günstiger und übersichtlicher sein. Der Vorteil: Ein Vertrag, ein Ansprechpartner, keine Deckungslücken zwischen den einzelnen Policen.
 
-Als Selbständiger erhalten Sie keine Lohnfortzahlung im Krankheitsfall. Ab dem ersten Krankheitstag fehlt Ihnen Einkommen. Das Krankengeld der GKV (falls gewählt) greift erst ab dem 43. Tag. Eine Krankentagegeldversicherung schließt diese Lücke und zahlt ab einem vereinbarten Karenztag einen täglichen Betrag.
+### Von der Rürup-Basis zur diversifizierten Altersvorsorge
 
-## Sachversicherungen für Selbständige
+In den Gründungsjahren reichen Rürup plus ETF-Sparplan. Wenn der Gewinn stabil wächst, kommen weitere Bausteine in Frage:
+- **Betriebliche Altersversorgung** über eine Unterstützungskasse oder Direktversicherung (für GmbH-Geschäftsführer besonders effizient)
+- **Immobilien** als Sachwert-Baustein
+- **Höhere Rürup-Beiträge** für maximale Steuerersparnis
 
-### Inhaltsversicherung
+## Häufige Fehler etablierter Selbständiger
 
-Das Pendant zur Hausratversicherung für Ihr Gewerbe. Schützt Ihre Betriebseinrichtung, Waren und Vorräte gegen Feuer, Einbruch, Leitungswasser und Sturm. Besonders wichtig, wenn Sie ein Büro, eine Werkstatt oder ein Lager betreiben.
+- **Verträge nie wieder anschauen:** Unterversicherung ist der häufigste und teuerste Fehler. Was bei der Gründung gepasst hat, reicht drei Jahre später oft nicht mehr. Eine jährliche Prüfung sollte so selbstverständlich sein wie die Steuererklärung.
+- **Steueroptimierung ignorieren:** Viele Selbständige wissen nicht, welche Versicherungen absetzbar sind — oder nutzen die Rürup-Rente nicht voll aus. Bei einem Grenzsteuersatz von 42 Prozent bedeutet ein nicht genutzter Rürup-Höchstbeitrag von 30.826 Euro einen Steuervorteil von fast 13.000 Euro, der jedes Jahr verloren geht.
+- **Kein Makler, kein Überblick:** Wer seine Verträge selbst verwaltet, übersieht Deckungslücken und verpasst bessere Konditionen. Ein jährlicher Check mit einem Makler kostet nichts und spart oft hunderte Euro.
+- **Altersvorsorge aufschieben:** Jedes Jahr ohne Vorsorge kostet durch den Zinseszinseffekt überproportional viel Rendite. Auch in schwachen Jahren sollten Sie den ETF-Sparplan und die Rürup-Rente bedienen. Wer mit 35 statt mit 30 startet, muss bei gleichem Zielkapital monatlich rund 25 Prozent mehr einzahlen.
+- **Haftpflicht-Deckungssumme zu niedrig gewählt:** Gerade bei Personenschäden können Forderungen in Millionenhöhe entstehen. Eine Deckungssumme von drei Millionen Euro sollte das Minimum sein — bei beratenden Berufen empfehlen sich fünf Millionen Euro oder mehr.
+- **Cyber-Risiken unterschätzen:** Viele Selbständige glauben, dass Cyberangriffe nur große Unternehmen treffen. Tatsächlich sind kleine Betriebe und Freiberufler besonders gefährdet, weil ihre IT-Sicherheit oft schwächer ist. Die durchschnittliche Schadensumme bei einem Cyberangriff auf ein kleines Unternehmen liegt bei 25.000 bis 50.000 Euro.
+- **Billigtarife ohne Bedingungsprüfung:** Wer nur nach dem günstigsten Beitrag auswählt, übersieht entscheidende Ausschlüsse in den Versicherungsbedingungen. Im Schadenfall stellt sich dann heraus, dass genau das eingetretene Risiko nicht versichert war.
 
-### Cyber-Versicherung
+## Kostenbeispiele: Was Selbständige typischerweise für Versicherungen zahlen
 
-Wenn Ihr Geschäft von IT abhängt — und welches tut das nicht? — ist eine Cyber-Versicherung zunehmend unverzichtbar. Sie deckt die Kosten bei Hackerangriffen, Datenverlust, Betriebsunterbrechung durch IT-Ausfall und die rechtlich vorgeschriebene Benachrichtigung betroffener Kunden (DSGVO).
+Die tatsächlichen Beiträge hängen von Branche, Umsatz, Mitarbeiterzahl und persönlichem Risikoprofil ab. Die folgende Tabelle gibt eine Orientierung für einen typischen Selbständigen oder Freiberufler mit einem Jahresumsatz von 80.000 bis 150.000 Euro:
 
-### Firmen-Rechtsschutz
+| Versicherung | Typischer Monatsbeitrag | Steuerlich absetzbar | Priorität |
+|---|---|---|---|
+| Betriebshaftpflicht | 25 – 80 € | Ja, Betriebsausgabe | Pflicht |
+| Berufshaftpflicht (Freiberufler) | 30 – 120 € | Ja, Betriebsausgabe | Pflicht |
+| Berufsunfähigkeitsversicherung | 80 – 200 € | Sonderausgabe | Sehr hoch |
+| Krankenversicherung (GKV/PKV) | 350 – 900 € | Sonderausgabe (Basis) | Pflicht |
+| Krankentagegeld | 30 – 80 € | Sonderausgabe | Hoch |
+| Inhaltsversicherung | 20 – 60 € | Ja, Betriebsausgabe | Hoch |
+| Betriebsunterbrechung | 15 – 50 € | Ja, Betriebsausgabe | Hoch |
+| Cyber-Versicherung | 25 – 70 € | Ja, Betriebsausgabe | Mittel bis hoch |
+| Firmen-Rechtsschutz | 30 – 80 € | Ja, Betriebsausgabe | Mittel |
+| Rürup-Rente | 200 – 2.500 € | Sonderausgabe (bis 30.826 €/a) | Hoch |
+| D&O-Versicherung (GmbH) | 40 – 150 € | Ja, Betriebsausgabe | Bei Kapitalgesellschaft |
 
-Rechtsstreitigkeiten mit Kunden, Lieferanten oder Behörden können schnell fünfstellige Anwalts- und Gerichtskosten verursachen. Eine Firmen-Rechtsschutzversicherung ermöglicht es Ihnen, Ihre Rechte durchzusetzen, ohne das finanzielle Risiko scheuen zu müssen.
+**Gesamtkosten-Orientierung:** Rechnen Sie als Selbständiger mit 500 bis 1.500 Euro pro Monat für ein solides Versicherungs- und Vorsorgepaket — ohne Krankenversicherung. Das klingt nach viel, aber bedenken Sie: Als Angestellter zahlt Ihr Arbeitgeber die Hälfte der Sozialversicherungsbeiträge. Diesen Anteil müssen Sie als Selbständiger selbst tragen.
 
-## Altersvorsorge nicht vergessen
+## Schadenszenarien aus der Praxis
 
-### Rürup-Rente (Basisrente)
+Die folgenden Beispiele zeigen, welche finanziellen Folgen typische Schadensfälle für Selbständige haben — und warum der richtige Versicherungsschutz entscheidend ist.
 
-Die Rürup-Rente ist das Pendant zur Riester-Rente für Selbständige. Ihre Beiträge sind steuerlich absetzbar (2026: bis zu 30.826 Euro). Besonders attraktiv für Selbständige mit hohem Steuersatz. Die Beiträge sind flexibel — Sie können in guten Jahren mehr einzahlen und in schwachen Jahren weniger.
+### Szenario 1: IT-Berater verursacht Datenverlust beim Kunden
 
-### Betriebliche Altersversorgung
+Ein freiberuflicher IT-Berater spielt ein fehlerhaftes Update auf dem Produktivserver seines Kunden ein. Die Datenbank ist beschädigt, das Unternehmen steht drei Tage still. Der Kunde macht Schadenersatz geltend: **87.000 Euro** für den Produktionsausfall, Datenwiederherstellung und Umsatzausfall. Die Berufshaftpflichtversicherung des IT-Beraters übernimmt die Prüfung des Anspruchs, wehrt unberechtigte Teile ab und reguliert den Rest. Ohne Versicherung hätte der Berater den vollen Betrag aus eigener Tasche zahlen müssen — das hätte seine Existenz gefährdet.
 
-Auch Selbständige können über bestimmte Durchführungswege eine bAV aufbauen — zum Beispiel über eine Unterstützungskasse oder Direktversicherung. Für GmbH-Geschäftsführer ist die bAV ein besonders effizientes Instrument.
+### Szenario 2: Handwerkerin wird nach Unfall berufsunfähig
 
-### ETF-Sparplan als Basisinvestment
+Eine selbständige Tischlerin verletzt sich bei einem privaten Sportunfall schwer an der Schulter. Nach mehreren Operationen kann sie ihren Beruf dauerhaft nicht mehr ausüben. Die Berufsunfähigkeitsversicherung zahlt die vereinbarte monatliche Rente von **2.500 Euro** bis zum Renteneintritt — in Summe über 20 Jahre rund **600.000 Euro**. Ohne BU wäre sie auf die Erwerbsminderungsrente der gesetzlichen Rentenversicherung angewiesen, die als Selbständige häufig unter 400 Euro im Monat liegt — oder ganz entfällt, wenn keine freiwilligen Beiträge geleistet wurden.
 
-Neben der geförderten Altersvorsorge empfiehlt sich ein flexibler ETF-Sparplan als Vermögensaufbau. Er bietet volle Flexibilität — Sie können jederzeit auf das Kapital zugreifen, falls Ihr Geschäft Liquidität braucht.
+### Szenario 3: Cyberangriff legt Onlineshop lahm
 
-## Was Sie am Anfang nicht brauchen
+Ein Selbständiger betreibt einen Onlineshop für Spezialwerkzeuge. Durch eine Phishing-Mail gelangt Ransomware auf seinen Rechner und verschlüsselt sämtliche Daten — Warenwirtschaft, Kundenstamm und Buchhaltung. Der Shop ist zwei Wochen offline. Gesamtschaden: **42.000 Euro** (IT-Forensik, Datenwiederherstellung, entgangener Umsatz, Benachrichtigung betroffener Kunden gemäß DSGVO). Die Cyber-Versicherung übernimmt den Schaden und stellt sofort einen IT-Dienstleister für die Notfallhilfe bereit.
 
-- **D&O-Versicherung**: Erst relevant, wenn Sie eine GmbH mit Geschäftsführerhaftung gründen
-- **Kfz-Flottenversicherung**: Erst ab mehreren Firmenfahrzeugen sinnvoll
-- **Maschinenversicherung**: Nur bei teuren Spezialmaschinen notwendig
+### Szenario 4: Betriebsunterbrechung nach Wasserschaden
 
-## Ihre Gründungs-Checkliste
+Im Büro einer selbständigen Architektin platzt ein Wasserrohr über das Wochenende. Mobiliar, zwei Arbeitsplatz-Rechner und gedruckte Planunterlagen sind zerstört. Der Sachschaden beläuft sich auf **18.000 Euro** (Inhaltsversicherung), hinzu kommen sechs Wochen eingeschränkter Betrieb in einem Ausweichbüro — der Umsatzausfall und die Mehrkosten betragen weitere **14.000 Euro** (Betriebsunterbrechungsversicherung). Ohne die Kombination beider Versicherungen hätte sie den gesamten Betrag von **32.000 Euro** selbst tragen müssen.
 
-Die richtige Absicherung hängt von Ihrer Branche, Rechtsform, Familiensituation und Ihrem Geschäftsmodell ab. Als unabhängiger Versicherungsmakler erstelle ich einen maßgeschneiderten Versicherungsplan für Ihre Gründung — und helfe Ihnen, die wichtigen Absicherungen von den unwichtigen zu unterscheiden.
+## Vergleich: Versicherungsbedarf nach Selbständigen-Typ
 
-**Vereinbaren Sie jetzt Ihren kostenlosen Gründer-Versicherungscheck** — damit Sie sich auf den Aufbau Ihres Geschäfts konzentrieren können.
+Nicht jeder Selbständige braucht dieselben Versicherungen. Je nach Tätigkeitsfeld und Unternehmensform verschieben sich die Prioritäten erheblich.
 
-[Jetzt Beratung vereinbaren →](/kontakt/)
+| Versicherung | Freiberufler (beratend) | Freiberufler (handwerklich/kreativ) | Gewerbetreibender mit Ladenlokal | GmbH-Geschäftsführer |
+|---|---|---|---|---|
+| Berufshaftpflicht | Pflicht | Pflicht | — | — |
+| Betriebshaftpflicht | — | Empfohlen | Pflicht | Pflicht |
+| Berufsunfähigkeit | Sehr wichtig | Unverzichtbar | Sehr wichtig | Sehr wichtig |
+| Inhaltsversicherung | Gering | Mittel | Hoch | Hoch |
+| Betriebsunterbrechung | Mittel | Mittel | Hoch | Hoch |
+| Cyber-Versicherung | Hoch | Gering | Hoch | Hoch |
+| D&O-Versicherung | — | — | — | Pflicht |
+| Firmen-Rechtsschutz | Empfohlen | Empfohlen | Empfohlen | Empfohlen |
+| Schlüsselpersonenversicherung | — | — | Bei Mitarbeitern | Empfohlen |
 
+**Lesehinweis:** „Pflicht" bedeutet, dass der Versicherungsschutz in der jeweiligen Branche entweder gesetzlich vorgeschrieben oder existenziell notwendig ist. „Empfohlen" heißt, dass der Schutz sinnvoll ist, aber je nach konkreter Situation entfallen kann.
+
+## Checkliste: Jährlicher Versicherungs-Check für Selbständige
+
+Nutzen Sie diese Checkliste einmal jährlich — idealerweise im vierten Quartal — um Ihren Versicherungsschutz systematisch zu prüfen:
+
+- [ ] **Umsatz und Gewinn prüfen:** Hat sich Ihr Jahresumsatz um mehr als 20 Prozent verändert? Dann müssen Deckungssummen angepasst werden.
+- [ ] **Inventar und Ausstattung aktualisieren:** Stimmt die Versicherungssumme der Inhaltsversicherung noch mit dem tatsächlichen Wert Ihrer Einrichtung, IT und Warenbestände überein?
+- [ ] **Neue Tätigkeitsfelder melden:** Haben Sie neue Dienstleistungen oder Produkte eingeführt? Diese müssen in der Haftpflichtversicherung abgedeckt sein.
+- [ ] **Mitarbeiteränderungen berücksichtigen:** Neue Angestellte, Minijobber oder Freelancer erfordern ggf. Anpassungen bei Betriebshaftpflicht, Berufsgenossenschaft und betrieblicher Altersvorsorge.
+- [ ] **Vertragskonditionen vergleichen:** Sind Ihre bestehenden Tarife noch marktgerecht? Alte Verträge haben oft schlechtere Bedingungen als aktuelle Angebote.
+- [ ] **Steueroptimierung ausschöpfen:** Nutzen Sie den Rürup-Höchstbeitrag? Setzen Sie alle Betriebsversicherungen korrekt als Betriebsausgaben ab?
+- [ ] **Kündigungsfristen notieren:** Prüfen Sie die Kündigungsfristen laufender Verträge — bei den meisten Gewerbeversicherungen beträgt sie drei Monate zum Vertragsende.
+- [ ] **Cyber-Risiko bewerten:** Hat sich Ihre IT-Infrastruktur verändert? Arbeiten Sie mehr digital, nutzen Sie Cloud-Dienste oder verarbeiten Sie Kundendaten online?
+- [ ] **Altersvorsorge überprüfen:** Ist Ihr Vorsorge-Mix (Rürup, ETF, ggf. bAV) auf Kurs für Ihr Rentenziel? Können Sie dieses Jahr mehr einzahlen?
+- [ ] **Versicherungslücken identifizieren:** Gibt es neue Risiken (z. B. Firmenfahrzeug, Auslandstätigkeit, Betriebserweiterung), die noch nicht abgesichert sind?
+
+## Häufig gestellte Fragen
+
+### Wie oft sollte ich meine Versicherungen als Selbständiger überprüfen?
+
+Mindestens einmal jährlich — idealerweise im vierten Quartal, bevor die Kündigungsfristen zum Jahresende ablaufen. Zusätzlich sollten Sie Ihre Versicherungen bei jedem wesentlichen Geschäftsereignis prüfen: neuer Mitarbeiter, neues Geschäftsfeld, Umsatzsprung über 20 Prozent, Umzug oder Rechtsformwechsel. In den ersten drei Jahren nach der Gründung empfiehlt sich sogar ein halbjährlicher Check, weil sich in dieser Phase besonders viel verändert.
+
+### Kann ich als Selbständiger meine Versicherungsbeiträge vollständig von der Steuer absetzen?
+
+Gewerbliche Versicherungen (Betriebshaftpflicht, Inhaltsversicherung, Cyber-Versicherung, Firmen-Rechtsschutz, D&O) sind vollständig als Betriebsausgaben absetzbar. Personenversicherungen wie Krankenversicherung, BU und Rürup fallen unter die Sonderausgaben mit jeweils eigenen Höchstgrenzen. Die Rürup-Rente bietet Selbständigen den größten Steuerhebel: Beiträge bis zu 30.826 Euro (2026) sind als Sonderausgaben absetzbar. Bei gemischt genutzten Versicherungen (z. B. Kfz) akzeptiert das Finanzamt den nachgewiesenen gewerblichen Nutzungsanteil.
+
+### Was passiert, wenn ich unterversichert bin — zahlt die Versicherung dann gar nichts?
+
+Bei Unterversicherung zahlt die Versicherung anteilig. Das Prinzip: Wenn Ihre Versicherungssumme nur 60 Prozent des tatsächlichen Wertes abdeckt, erhalten Sie auch bei einem Teilschaden nur 60 Prozent des Schadens ersetzt — selbst wenn der Schaden unterhalb der Versicherungssumme liegt. Beispiel: Ihre Inhaltsversicherung läuft über 50.000 Euro, der tatsächliche Inventarwert beträgt aber 100.000 Euro. Bei einem Schaden von 20.000 Euro erhalten Sie nur 10.000 Euro. Deshalb ist die regelmäßige Anpassung der Versicherungssummen so wichtig.
+
+### Brauche ich als Solo-Selbständiger ohne Angestellte eine Betriebshaftpflicht?
+
+Ja, in den meisten Fällen. Auch Solo-Selbständige können Dritten Schäden zufügen — ob beim Kundenbesuch, durch fehlerhafte Arbeitsergebnisse oder durch Produkte, die Sie liefern. Eine Betriebshaftpflicht kostet für viele Branchen nur 20 bis 50 Euro im Monat und schützt Sie vor Forderungen, die schnell existenzbedrohend werden können. Freiberufler in beratenden Berufen (IT-Berater, Unternehmensberater, Designer) benötigen stattdessen oder zusätzlich eine Berufshaftpflicht, die auch Vermögensschäden durch fehlerhafte Beratung abdeckt.
+
+### Wann lohnt sich der Wechsel von Einzelpolicen zu einem Gewerbe-Bündelvertrag?
+
+Ein Gewerbe-Bündelvertrag wird ab etwa drei bis fünf einzelnen Gewerbepolicen wirtschaftlich interessant. Die Vorteile liegen nicht nur im Beitrag — typischerweise sparen Sie 10 bis 15 Prozent gegenüber Einzelverträgen — sondern vor allem in der Übersichtlichkeit: ein Vertrag, ein Beitragstermin, ein Ansprechpartner im Schadenfall. Außerdem vermeiden Sie Deckungslücken, die entstehen, wenn einzelne Policen unterschiedliche Laufzeiten und Bedingungswerke haben. Der Nachteil: Bei einem Bündelvertrag sind Sie stärker an einen Versicherer gebunden und haben weniger Flexibilität, einzelne Bausteine zu wechseln.
+
+## Ihr jährlicher Versicherungs-Check
+
+Als unabhängiger Versicherungsmakler biete ich Selbständigen in der Metropolregion Nürnberg einen kostenlosen jährlichen Vertragscheck: Deckungssummen prüfen, Verträge vergleichen, neue Risiken absichern und Beiträge optimieren. Damit Ihr Versicherungsschutz mit Ihrem Geschäft wächst.
+
+<div class="cta-box">
+
+**Kostenlose Beratung anfragen**
+
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>
 
 ### Weiterlesen
 
-- [Versicherungen für Existenzgründer](/ratgeber/existenzgruender-versicherungen/)
-- [PKV oder GKV?](/ratgeber/pkv-oder-gkv/)
+- [Versicherungen für Existenzgründer: Was vor Tag 1 stehen muss](/ratgeber/existenzgruender-versicherungen/)
+- [Versicherungen steuerlich absetzen: So geht's](/ratgeber/gewerbe-versicherungen-steuerlich-absetzen/)
 - [Berufshaftpflichtversicherung](/versicherungen/berufshaftpflicht/)
 
 ---
@@ -115,4 +195,3 @@ Die richtige Absicherung hängt von Ihrer Branche, Rechtsform, Familiensituation
 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — BBG knappschaftliche RV 124.800 Euro](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [§ 10 Abs. 3 EStG — Sonderausgabenabzug bis zum Höchstbeitrag der knappschaftlichen Rentenversicherung](https://www.gesetze-im-internet.de/estg/__10.html)
-- [DRV: Statistiken und Berichte — Rentenversicherung in Zahlen, Erwerbsminderungsrenten-Statistik](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Statistiken-und-Berichte/statistiken-und-berichte_node.html)

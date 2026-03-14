@@ -4,7 +4,7 @@ description: "Rechtsanspruch auf Entgeltumwandlung, Arbeitgeberzuschuss, Durchf�
 category: "Arbeitgeber"
 audience: "gewerbe"
 publishDate: 2026-03-05
-readingTime: "9 Min."
+readingTime: "14 Min."
 ---
 
 ## Arbeitnehmer haben einen Rechtsanspruch auf bAV
@@ -86,14 +86,82 @@ Der gesetzliche Mindest-Zuschuss von 15 % ist das Minimum. Attraktive Arbeitgebe
 
 Prüfen Sie bestehende Verträge regelmäßig: Stimmen die Bezugsrechte? Wurden Gehaltsentwicklungen berücksichtigt? Sind ausgeschiedene Mitarbeiter korrekt verbucht? Unzureichende Bestandspflege ist einer der häufigsten Haftungsfälle.
 
+## Kostenbeispiele: Was kostet die bAV den Arbeitgeber?
+
+Die tatsächlichen Kosten hängen vom Durchführungsweg, dem umgewandelten Entgelt und dem vereinbarten Arbeitgeberzuschuss ab. Die folgenden Beispiele zeigen typische Konstellationen für kleine und mittlere Unternehmen mit der Direktversicherung als Durchführungsweg:
+
+| Mitarbeiter | Brutto-Umwandlung/Monat | AG-Zuschuss (15 %) | SV-Ersparnis AG (ca. 20 %) | Nettobelastung AG/Monat | Nettobelastung AG/Jahr |
+|---|---|---|---|---|---|
+| Sachbearbeiterin, 32 J. | 150 € | 22,50 € | 30,00 € | 0,00 € (Ersparnis übersteigt Zuschuss) | 0,00 € |
+| Lagerist, 45 J. | 200 € | 30,00 € | 40,00 € | 0,00 € (Ersparnis übersteigt Zuschuss) | 0,00 € |
+| Teamleiterin, 38 J. | 300 € | 45,00 € | 60,00 € | 0,00 € (Ersparnis übersteigt Zuschuss) | 0,00 € |
+| Vertriebsleiter, 50 J. (über BBG) | 400 € | 60,00 € | 0,00 € (über BBG, keine SV-Ersparnis) | 60,00 € | 720,00 € |
+| AG-finanzierte Grundversorgung | 50 € je MA × 10 MA | — | — | 500,00 € | 6.000,00 € |
+
+Bei Gehältern unterhalb der Beitragsbemessungsgrenze finanziert sich der gesetzliche Pflichtzuschuss von 15 % in der Regel durch die eingesparten Sozialversicherungsbeiträge vollständig selbst. Erst bei Gehältern oberhalb der BBG oder bei freiwilligen Zuschüssen über 15 % hinaus entsteht eine echte Nettobelastung. Die Beiträge zur bAV sind in jedem Fall Betriebsausgaben und mindern Ihren steuerpflichtigen Gewinn.
+
+## Schadenszenarien: Wenn die bAV-Pflichten nicht erfüllt werden
+
+Die folgenden Fälle zeigen, welche finanziellen Konsequenzen drohen, wenn Arbeitgeber ihre bAV-Pflichten nicht kennen oder nicht einhalten. Alle Beträge sind realistische Größenordnungen aus der arbeitsrechtlichen Praxis.
+
+### Szenario 1: Keine Auskunft über Entgeltumwandlung erteilt
+
+Ein Arbeitnehmer ist 15 Jahre im Unternehmen beschäftigt und wird nie über seinen Anspruch auf Entgeltumwandlung informiert. Mit 60 Jahren stellt er fest, dass er bei einer monatlichen Umwandlung von 200 Euro über 15 Jahre eine Altersversorgung von rund 55.000 Euro hätte aufbauen können. Er macht Schadensersatz geltend. Das Arbeitsgericht spricht ihm **38.000 Euro Schadensersatz** zu — die Differenz zwischen der möglichen Versorgung und dem, was er jetzt noch aufbauen kann. Der Arbeitgeber trägt zusätzlich die Prozesskosten von rund 6.000 Euro.
+
+### Szenario 2: Arbeitgeberzuschuss nicht gezahlt
+
+Ein Unternehmen mit 25 Mitarbeitern zahlt seit Januar 2022 keinen Arbeitgeberzuschuss auf die bestehenden Entgeltumwandlungsverträge — weder für Alt- noch für Neuverträge. Bei einer Betriebsprüfung durch die Deutsche Rentenversicherung im Jahr 2026 wird der Verstoß festgestellt. Die nachzuzahlenden Zuschüsse für vier Jahre (25 Mitarbeiter × durchschnittlich 30 Euro/Monat × 48 Monate) belaufen sich auf **36.000 Euro zzgl. Verzugszinsen von ca. 3.200 Euro**. Hinzu kommen Verwaltungskosten für die rückwirkende Korrektur aller Verträge.
+
+### Szenario 3: Portabilität verweigert
+
+Eine Mitarbeiterin wechselt den Arbeitgeber und verlangt die Übertragung ihres bAV-Anwartschaftskapitals von 28.000 Euro an den neuen Versorgungsträger. Der alte Arbeitgeber verzögert die Übertragung über acht Monate. In dieser Zeit entgehen der Mitarbeiterin Zinsen und Beitragsfortzahlung. Sie klagt auf Schadensersatz und erhält **4.500 Euro Entschädigung** für den Verzögerungsschaden. Der Arbeitgeber trägt die gesamten Rechtsanwalts- und Gerichtskosten von rund **7.000 Euro**.
+
+### Szenario 4: Falsche Versorgungszusage im Arbeitsvertrag
+
+Ein Arbeitgeber sagt in der Versorgungsordnung eine beitragsorientierte Leistungszusage zu, die Verwaltung überweist aber lediglich die Beiträge an den Versicherer, ohne die zugesagte Mindestleistung vertraglich abzusichern. Bei Renteneintritt eines Mitarbeiters liegt die tatsächliche Versicherungsleistung 12.000 Euro unter der zugesagten Mindestleistung. Der Arbeitgeber muss die **Differenz von 12.000 Euro aus eigener Tasche nachschießen**, da er für die Erfüllung der Zusage einsteht — unabhängig von der Leistung des Versorgungsträgers (Subsidiärhaftung nach § 1 Abs. 1 Satz 3 BetrAVG).
+
+## Häufige Fehler bei der betrieblichen Altersversorgung
+
+**Kein einheitliches Konzept für alle Mitarbeiter:** Viele Arbeitgeber lassen Mitarbeiter individuelle Versicherungsverträge abschließen, ohne eine Versorgungsordnung zu erstellen. Das führt zu einem Wildwuchs an Produkten, unterschiedlichen Konditionen und einem Verstoß gegen den arbeitsrechtlichen Gleichbehandlungsgrundsatz. Wenn ein Mitarbeiter einen besseren Tarif erhält als sein Kollege in vergleichbarer Position, riskieren Sie Klagen.
+
+**Entgeltumwandlung für Minijobbende nicht angeboten:** Auch geringfügig Beschäftigte haben nach § 1a BetrAVG einen Rechtsanspruch auf Entgeltumwandlung. In der Praxis wird dieser Anspruch häufig ignoriert, weil Arbeitgeber annehmen, Minijobber seien ausgenommen. Das stimmt nicht — und die unterlassene Information kann Schadensersatzansprüche auslösen.
+
+**Ausgeschiedene Mitarbeiter nicht korrekt verwaltet:** Verlässt ein Mitarbeiter das Unternehmen, bleibt seine unverfallbare Anwartschaft bestehen. Arbeitgeber müssen sicherstellen, dass der Versorgungsträger über das Ausscheiden informiert wird, die Versicherungsnehmereigenschaft korrekt übertragen oder beitragsfrei gestellt wird und die Adressdaten aktuell bleiben. Versäumnisse führen dazu, dass Mitarbeiter bei Renteneintritt ihre Ansprüche nicht geltend machen können — und den ehemaligen Arbeitgeber in Regress nehmen.
+
+**Steuerliche Grenzen überschritten ohne Wissen des Mitarbeiters:** Wandelt ein Mitarbeiter mehr als 4 % der BBG (2026: 4.056 Euro/Jahr) um, entfällt die Sozialversicherungsfreiheit für den übersteigenden Betrag. Steuerfrei bleibt die Umwandlung bis 8 % der BBG (8.112 Euro/Jahr), aber die SV-Pflicht für den Teil zwischen 4 % und 8 % wird oft übersehen. Das kann bei der Sozialversicherungsprüfung zu Nachforderungen führen — für Arbeitgeber und Arbeitnehmer.
+
+**Keine regelmäßige Überprüfung der Versorgungsverträge:** Versicherungstarife, steuerliche Rahmenbedingungen und die persönliche Situation der Mitarbeiter ändern sich. Ein Vertrag, der vor zehn Jahren optimal war, kann heute zu teuer, zu unflexibel oder in der Garantiestruktur unpassend sein. Ohne regelmäßige Überprüfung (mindestens alle drei Jahre) verschenken Sie Optimierungspotenzial.
+
+## Häufig gestellte Fragen zur bAV für Arbeitgeber
+
+**Muss ich als Arbeitgeber eine bestimmte Versicherung anbieten?**
+Nein. Sie haben die Wahl zwischen den fünf gesetzlichen Durchführungswegen. Bietet der Arbeitgeber keinen bestimmten Weg an, kann der Arbeitnehmer eine Direktversicherung verlangen (§ 1a Abs. 1 Satz 3 BetrAVG). In der Praxis empfehle ich, selbst aktiv einen Durchführungsweg festzulegen und in einer Versorgungsordnung zu dokumentieren — so behalten Sie die Kontrolle über die Vertragsgestaltung und können bessere Gruppenkonditionen verhandeln.
+
+**Was passiert mit der bAV bei einer Insolvenz des Arbeitgebers?**
+Ansprüche aus Direktversicherungen und Pensionskassen sind insolvenzgeschützt, weil das Kapital beim externen Versorgungsträger liegt und nicht in die Insolvenzmasse fällt. Bei Direktzusagen und Unterstützungskassen greift der Pensions-Sicherungs-Verein (PSVaG) ein, der die Rentenleistungen bis zur Höhe der gesetzlichen Garantie übernimmt. Als Arbeitgeber zahlen Sie hierfür einen jährlichen PSVaG-Beitrag (2025: 1,8 Promille der Deckungssumme). Die Wahl des Durchführungswegs beeinflusst also auch Ihr Insolvenzrisiko und Ihre laufenden Kosten.
+
+**Kann ich die bAV als Arbeitgeber einseitig kündigen?**
+Nein. Eine einmal erteilte Versorgungszusage ist bindend und kann vom Arbeitgeber nicht einseitig widerrufen werden. Sie können die Versorgungsordnung für die Zukunft ändern (keine neuen Zusagen erteilen), aber bestehende Anwartschaften müssen erfüllt werden. Bei der Entgeltumwandlung kann der Arbeitnehmer seinen Vertrag allerdings ruhend stellen — umgekehrt können Sie als Arbeitgeber die Fortführung nicht erzwingen.
+
+**Wie hoch sollte der Arbeitgeberzuschuss über das gesetzliche Minimum hinaus sein?**
+Das hängt von Ihrer Personalstrategie und Ihrem Budget ab. Der gesetzliche Mindestzuschuss von 15 % ist das absolute Minimum. Attraktive Arbeitgeber in Branchen mit Fachkräftemangel bieten 20 bis 25 % oder eine arbeitgeberfinanzierte Grundversorgung von 25 bis 75 Euro monatlich pro Mitarbeiter. Die Kosten sind als Betriebsausgaben absetzbar und oft geringer als eine vergleichbare Bruttogehaltserhöhung — weil auf den bAV-Beitrag keine Sozialversicherungsbeiträge anfallen.
+
+**Welche Unterlagen brauche ich für die Einrichtung einer bAV?**
+Für die Ersteinrichtung benötigen Sie: eine Versorgungsordnung (Spielregeln für alle Mitarbeiter), die Entgeltumwandlungsvereinbarung je Mitarbeiter (individuelle Vereinbarung über die Höhe der Umwandlung), den Versorgungsvertrag mit dem Versicherungsträger (Gruppenvertrag oder Einzelpolicen) und eine Information an alle Mitarbeiter über den Rechtsanspruch auf Entgeltumwandlung (schriftlich, mit Empfangsbestätigung). Als Ihr Makler erstelle ich die Mustervorlagen und koordiniere die Umsetzung mit dem Versorgungsträger.
+
 ## bAV richtig aufsetzen spart Zeit und Haftungsrisiken
 
 Die betriebliche Altersversorgung ist kein Thema, das man einmal einrichtet und dann vergisst. Es gibt laufende Pflichten, steuerliche Änderungen und Haftungsrisiken. Als unabhängiger Versicherungsmakler unterstütze ich Sie bei der Auswahl des richtigen Durchführungswegs, der Verhandlung mit Versorgungsträgern und der laufenden Bestandspflege — damit die bAV für Sie und Ihre Mitarbeiter funktioniert.
 
-**Vereinbaren Sie jetzt ein kostenloses bAV-Beratungsgespräch** — ich prüfe Ihre aktuelle Situation und zeige Ihnen Optimierungspotenzial auf.
+<div class="cta-box">
 
-[Jetzt Beratung vereinbaren →](/kontakt/)
+**Kostenlose Beratung anfragen**
 
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>
 
 ### Weiterlesen
 
@@ -108,3 +176,6 @@ Die betriebliche Altersversorgung ist kein Thema, das man einmal einrichtet und 
 - [BMAS: Sozialversicherungsrechengrößen 2026 — BBG allgemeine RV 101.400 Euro/Jahr](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html)
 - [§ 3 Nr. 63 EStG — steuerfreie Beiträge bis 8 % der BBG](https://www.gesetze-im-internet.de/estg/__3.html)
 - [§ 1a BetrAVG — Rechtsanspruch auf Entgeltumwandlung](https://www.gesetze-im-internet.de/betravg/__1a.html)
+- [§ 1 BetrAVG — Subsidiärhaftung des Arbeitgebers für die Versorgungszusage](https://www.gesetze-im-internet.de/betravg/__1.html)
+- [§ 4 BetrAVG — Übertragung (Portabilität) bei Arbeitgeberwechsel](https://www.gesetze-im-internet.de/betravg/__4.html)
+- [PSVaG: Pensions-Sicherungs-Verein — Insolvenzschutz der betrieblichen Altersversorgung](https://www.psvag.de/)

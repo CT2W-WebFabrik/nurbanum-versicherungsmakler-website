@@ -4,7 +4,7 @@ description: "Was tun bei Beitragserhöhung? Sonderkündigungsrecht nach § 40 V
 category: "Versicherungswissen"
 audience: "privat"
 publishDate: 2026-01-09
-readingTime: "7 Min."
+readingTime: "12 Min."
 ---
 
 ## Warum Versicherungen teurer werden
@@ -83,14 +83,81 @@ Monatliche Zahlung ist bequem, kostet aber bis zu 5 % Aufschlag gegenüber jähr
 | Kfz-Versicherung | Jährlich vergleichen, häufig Sparpotenzial |
 | Rechtsschutz mit Wartezeiten | Erst neuen Vertrag abschließen, Wartezeiten abwarten, dann kündigen |
 
+## Kostenbeispiele: Was Beitragserhöhungen konkret bedeuten
+
+Die folgende Tabelle zeigt typische Beitragserhöhungen in verschiedenen Versicherungssparten und welche Mehrkosten über die Jahre entstehen, wenn Sie nicht reagieren:
+
+| Versicherung | Bisheriger Jahresbeitrag | Erhöhung | Neuer Jahresbeitrag | Mehrkosten nach 5 Jahren |
+|---|---|---|---|---|
+| **Privathaftpflicht** | 65 € | +12 % | 72,80 € | 39 € |
+| **Hausratversicherung** | 180 € | +18 % | 212,40 € | 162 € |
+| **Wohngebäudeversicherung** | 480 € | +25 % | 600 € | 600 € |
+| **Kfz-Vollkasko** | 720 € | +15 % | 828 € | 540 € |
+| **Rechtsschutzversicherung** | 240 € | +20 % | 288 € | 240 € |
+| **PKV (Angestellter, 45 J.)** | 6.000 € | +10 % | 6.600 € | 3.000 € |
+
+**Hinweis:** Die Werte sind Durchschnittswerte zur Veranschaulichung. Tatsächliche Erhöhungen variieren je nach Anbieter, Region und individuellem Risikoprofil. Besonders bei der Wohngebäudeversicherung und der PKV summieren sich scheinbar moderate Prozenterhöhungen über die Jahre zu erheblichen Beträgen.
+
+Gerade bei der Wohngebäudeversicherung sind Erhöhungen von 20 bis 30 Prozent in den letzten Jahren keine Seltenheit. Ursache sind steigende Baukosten, häufigere Extremwetterereignisse und die allgemeine Inflation im Handwerkerbereich. Wer nicht reagiert, zahlt über einen Zeitraum von zehn Jahren schnell mehrere tausend Euro zu viel.
+
+## Schadenszenarien: Wann sich der richtige Umgang mit Erhöhungen auszahlt
+
+Die folgenden Beispiele zeigen, welche finanziellen Auswirkungen es hat, wenn Sie auf eine Beitragserhöhung klug — oder gar nicht — reagieren.
+
+### Szenario 1: Wohngebäudeversicherung — Anbieterwechsel spart 2.400 Euro
+
+Ein Eigenheimbesitzer in Mittelfranken erhält eine Beitragserhöhung seiner Wohngebäudeversicherung von 520 Euro auf 680 Euro jährlich (plus 30,8 %). Er nutzt sein Sonderkündigungsrecht und wechselt zu einem anderen Versicherer mit vergleichbaren Leistungen für 440 Euro pro Jahr. Über die nächsten zehn Jahre spart er gegenüber dem erhöhten Beitrag insgesamt 2.400 Euro — und hat durch den Wechsel sogar bessere Leistungen bei der Elementarschadendeckung.
+
+### Szenario 2: PKV — Tarifwechsel statt Kündigung spart Altersrückstellungen
+
+Eine 52-jährige Angestellte bekommt eine PKV-Beitragserhöhung von monatlich 580 Euro auf 650 Euro. Statt zu kündigen und in die GKV zu wechseln, nutzt sie ihr Recht auf Tarifwechsel nach § 204 VVG. Im neuen Tarif desselben Versicherers zahlt sie 540 Euro monatlich bei gleichwertigem Leistungsniveau. Sie behält ihre gesamten Altersrückstellungen von rund 85.000 Euro, die bei einem Wechsel zu einem anderen Versicherer größtenteils verloren gegangen wären.
+
+### Szenario 3: Kfz-Vollkasko — Selbstbeteiligung statt Anbieterwechsel
+
+Ein Berufspendler erhält eine Erhöhung seiner Kfz-Vollkasko von 780 Euro auf 910 Euro. Statt zu kündigen, vereinbart er eine Erhöhung der Selbstbeteiligung von 150 Euro auf 500 Euro. Der Beitrag sinkt dadurch auf 690 Euro — sogar unter den bisherigen Beitrag. Das lohnt sich, solange er in einem durchschnittlichen Schadenjahr nicht mehr als einen Kaskoschaden hat. Die jährliche Ersparnis von 220 Euro gegenüber dem erhöhten Beitrag übersteigt das Risiko der höheren Selbstbeteiligung deutlich.
+
+### Szenario 4: Berufsunfähigkeitsversicherung — Kündigung als teuerster Fehler
+
+Ein 48-jähriger Handwerker erhält eine Beitragserhöhung seiner BU-Versicherung von 120 Euro auf 138 Euro monatlich. Verärgert kündigt er den Vertrag. Zwei Jahre später wird er wegen eines Bandscheibenvorfalls berufsunfähig. Ohne BU-Versicherung erhält er nur die gesetzliche Erwerbsminderungsrente von rund 950 Euro monatlich statt der vereinbarten 2.000 Euro BU-Rente. Der finanzielle Verlust bis zum regulären Rentenalter beträgt rund 200.000 Euro — wegen einer Beitragsersparnis von 216 Euro pro Jahr.
+
+## Häufige Fehler bei Beitragserhöhungen
+
+- **Frist verstreichen lassen:** Das Sonderkündigungsrecht nach § 40 VVG gilt nur innerhalb eines Monats nach Zugang der Erhöhungsmitteilung. Wer das Schreiben ungelesen liegen lässt oder den Termin vergisst, verliert sein wichtigstes Druckmittel. Tragen Sie das Fristende sofort in Ihren Kalender ein, sobald Sie das Schreiben erhalten
+- **Ohne Anschlussvertrag kündigen:** Wer die alte Versicherung kündigt, bevor die neue Police steht, riskiert eine Deckungslücke. Tritt in dieser Zeit ein Schaden ein, zahlt niemand. Besonders gefährlich ist das bei der Privathaftpflicht und der Wohngebäudeversicherung, wo bereits ein einziger Schadenfall die Existenz bedrohen kann
+- **Nur den Preis vergleichen:** Ein günstigerer Anbieter ist nicht automatisch besser. Entscheidend sind Deckungssummen, Ausschlüsse, Selbstbeteiligungen und die Regulierungspraxis im Schadenfall. Ein Versicherer, der 50 Euro weniger im Jahr kostet, aber im Schadenfall 5.000 Euro weniger leistet, ist keine Verbesserung
+- **PKV vorschnell kündigen:** Eine Kündigung der privaten Krankenversicherung ist in den allermeisten Fällen die teuerste aller Optionen. Altersrückstellungen gehen verloren, eine erneute Gesundheitsprüfung kann zu Ausschlüssen oder Zuschlägen führen, und die Rückkehr in die GKV ist ab 55 Jahren faktisch unmöglich. Der Tarifwechsel nach § 204 VVG ist fast immer die bessere Lösung
+- **Beitragsanpassung und Prämienerhöhung verwechseln:** Nicht jede Beitragsänderung löst ein Sonderkündigungsrecht aus. Anpassungen aufgrund vertraglich vereinbarter Klauseln (z. B. Indexanpassung in der Wohngebäudeversicherung) sind kein Grund für eine Sonderkündigung. Prüfen Sie das Anschreiben genau: Wird ein Sonderkündigungsrecht ausdrücklich erwähnt, handelt es sich um eine echte Prämienerhöhung
+
+## FAQ
+
+**Muss der Versicherer mich über mein Sonderkündigungsrecht informieren?**
+Ja, der Versicherer ist nach § 40 Absatz 1 VVG verpflichtet, Sie in der Mitteilung über die Beitragserhöhung ausdrücklich auf Ihr Sonderkündigungsrecht hinzuweisen. Fehlt dieser Hinweis, beginnt die Einmonatsfrist nicht zu laufen — Sie können in diesem Fall auch später noch kündigen, bis der Versicherer den Hinweis nachholt.
+
+**Kann ich bei einer Beitragserhöhung auch einzelne Bausteine kündigen?**
+Das hängt vom Vertrag ab. Bei gebündelten Verträgen, die mehrere Bausteine enthalten (z. B. Haftpflicht plus Hausrat plus Unfall), können Sie in der Regel nur den Baustein kündigen, der von der Erhöhung betroffen ist. Wird allerdings der Gesamtbeitrag erhöht, steht Ihnen das Sonderkündigungsrecht für den gesamten Vertrag zu. Prüfen Sie die Vertragsbedingungen oder lassen Sie sich beraten.
+
+**Wie oft dürfen Versicherer die Beiträge erhöhen?**
+Es gibt keine gesetzliche Obergrenze für die Häufigkeit von Beitragserhöhungen. In der PKV sind Anpassungen an das Treuhänder-Verfahren nach § 203 VVG gebunden und erfolgen in der Regel einmal jährlich. In Sachversicherungen kann der Versicherer den Beitrag grundsätzlich zu jedem Vertragsjubiläum anpassen — vorausgesetzt, die vertraglichen Grundlagen sind gegeben. Häufige Erhöhungen sind jedoch ein klares Signal, den Anbieter zu überprüfen.
+
+**Kann ich einer Beitragserhöhung widersprechen?**
+Ein Widerspruch gegen die Erhöhung selbst ist rechtlich nicht vorgesehen — der Versicherer hat das Recht zur Anpassung, wenn die vertraglichen Voraussetzungen erfüllt sind. Ihre Handlungsoptionen sind das Sonderkündigungsrecht, eine Vertragsanpassung (z. B. höhere Selbstbeteiligung) oder ein interner Tarifwechsel. In der PKV kann es sinnvoll sein, die Beitragserhöhung durch einen unabhängigen Aktuar prüfen zu lassen — in Einzelfällen sind Anpassungen fehlerhaft kalkuliert.
+
+**Was passiert mit meinem Versicherungsschutz während der Kündigungsfrist?**
+Bis zum Wirksamwerden der Kündigung besteht Ihr Versicherungsschutz unverändert fort — und zwar zu den bisherigen (nicht erhöhten) Konditionen. Sie zahlen also bis zum Ende der Vertragslaufzeit den alten Beitrag. Der erhöhte Beitrag wird nur fällig, wenn Sie Ihr Sonderkündigungsrecht nicht nutzen und im Vertrag bleiben.
+
 ## Ihre Rechte kennen und richtig nutzen
 
 Beitragserhöhungen sind kein Grund zur Panik, aber ein Anlass zum Handeln. Als unabhängiger Versicherungsmakler prüfe ich jede Erhöhung, nutze Ihr Sonderkündigungsrecht oder Tarifwechselrecht gezielt und finde die wirtschaftlich beste Lösung — ob das ein Anbieterwechsel, ein interner Tarifwechsel oder eine Vertragsanpassung ist.
 
-**Leiten Sie Ihr Erhöhungsschreiben einfach an mich weiter** — ich prüfe Ihre Optionen und handle innerhalb der Frist.
+<div class="cta-box">
 
-[Jetzt Beratung vereinbaren →](/kontakt/)
+**Kostenlose Beratung anfragen**
 
+Als unabhängiger Versicherungsmakler berate ich Sie persönlich — kostenlos, unverbindlich und auf Ihre Situation zugeschnitten.
+
+[Jetzt Beratungstermin vereinbaren →](/kontakt/)
+
+</div>
 
 ### Weiterlesen
 
