@@ -1,0 +1,79 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Auslandskrankenversicherung', href: url('/versicherungen/auslandskrankenversicherung/'), description: 'Langzeit-Auslandskrankenversicherung für Aufenthalte über 6 Wochen.' },
+  { title: 'Private Krankenversicherung', href: url('/versicherungen/krankenversicherung/'), description: 'Internationale PKV-Tarife oder Anwartschaft für die Rückkehr nach Deutschland.' },
+  { title: 'Private Altersvorsorge', href: url('/versicherungen/private-altersvorsorge/'), description: 'Altersvorsorge über Ländergrenzen hinweg — Riester, Rürup, private Rentenversicherung.' },
+  { title: 'Berufsunfähigkeitsversicherung', href: url('/versicherungen/berufsunfaehigkeit/'), description: 'BU-Schutz auch im Ausland — Geltungsbereich und Nachmeldefristen prüfen.' },
+];
+---
+
+<BaseLayout
+  title="Expats & Auswanderer absichern — Nurbanum Versicherungsmakler"
+  description="Versicherungen für Expats und Auswanderer: Auslandskranken, PKV-Anwartschaft, Altersvorsorge — unabhängige Beratung."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Expats & Auswanderer</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Ob Entsendung oder Auswanderung — ich sorge dafür, dass Ihr Versicherungsschutz auch jenseits der Grenze funktioniert.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Privatpersonen', href: '/spezialisierungen/#privat' }, { label: 'Lebensphasen', href: '/spezialisierungen/#privat-lebensphasen' }]} current="Expats & Auswanderer" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Grenzüberschreitend abgesichert</h2>
+        <p>Wer Deutschland verlässt — ob als Expat, digitaler Nomade oder Auswanderer — steht vor komplexen Versicherungsfragen. Deutsche Versicherungen gelten oft nur eingeschränkt im Ausland, und die Sozialversicherungssysteme anderer Länder funktionieren anders.</p>
+
+        <h2>Krankenversicherung im Ausland</h2>
+        <ul>
+          <li><strong>Innerhalb der EU</strong> — Die EHIC-Karte bietet Basisschutz. Für längere Aufenthalte reicht sie nicht aus. Eine Langzeit-Auslandskrankenversicherung oder eine internationale PKV ist empfehlenswert.</li>
+          <li><strong>Außerhalb der EU</strong> — Kein Schutz über die deutsche GKV. Sie benötigen eine internationale Krankenversicherung oder eine lokale Versicherung im Zielland.</li>
+          <li><strong>Anwartschaftsversicherung</strong> — Wenn Sie Ihre deutsche PKV oder GKV während des Auslandsaufenthalts ruhen lassen, sichert eine Anwartschaft Ihren Rückkehranspruch ohne erneute Gesundheitsprüfung.</li>
+        </ul>
+
+        <h2>Weitere wichtige Punkte</h2>
+        <ul>
+          <li><strong>Berufsunfähigkeitsversicherung</strong> — Prüfen Sie den weltweiten Geltungsbereich. Manche Tarife leisten nur bei Wohnsitz in Deutschland oder der EU.</li>
+          <li><strong>Altersvorsorge</strong> — Riester-Förderung entfällt bei Wegzug aus Deutschland (außer EU/EWR). Rürup-Rente bleibt bestehen. Private Rentenversicherungen laufen weiter.</li>
+          <li><strong>Haftpflichtversicherung</strong> — Die meisten Privathaftpflichttarife gelten weltweit, aber oft nur für vorübergehende Auslandsaufenthalte. Bei dauerhaftem Wegzug endet der Schutz.</li>
+          <li><strong>Hausratversicherung</strong> — Endet in der Regel bei Aufgabe des deutschen Wohnsitzes.</li>
+        </ul>
+
+        <h2>Entsendung vs. Auswanderung</h2>
+        <p>Bei einer Entsendung durch den Arbeitgeber gelten oft Sonderregeln: Die Sozialversicherungspflicht in Deutschland kann fortbestehen (Entsendebescheinigung A1 innerhalb der EU). Bei einer echten Auswanderung endet die deutsche Sozialversicherungspflicht. Die Unterscheidung hat erhebliche Auswirkungen auf Ihren Versicherungsschutz.</p>
+      </div>
+
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für Expats</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Mehr erfahren
+                <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Vor der Abreise: Versicherungscheck</h3>
+        <p class="text-slate-300 mb-6">Ich prüfe Ihren gesamten Versicherungsschutz für das Ausland — idealerweise 3 Monate vor dem Umzug.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

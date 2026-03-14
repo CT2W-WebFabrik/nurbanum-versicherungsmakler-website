@@ -1,0 +1,62 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Vermögensschadenhaftpflicht', href: url('/versicherungen/vermoegensschadenhaftpflicht/'), description: 'Schutz bei Verwaltungsfehlern — z. B. verspätete Abrechnungen, fehlerhafte Umlagen.' },
+  { title: 'Berufshaftpflichtversicherung', href: url('/versicherungen/berufshaftpflicht/'), description: 'Absicherung der beruflichen Tätigkeit als Verwalter.' },
+  { title: 'D&O-Versicherung', href: url('/versicherungen/dno-versicherung/'), description: 'Persönliche Haftung als WEG-Verwalter oder Geschäftsführer absichern.' },
+  { title: 'Cyber-Versicherung', href: url('/versicherungen/cyber/'), description: 'Schutz bei Datenpannen — Mieterdaten, Kontoverbindungen, SEPA-Mandate.' },
+  { title: 'Firmen-Rechtsschutz', href: url('/versicherungen/firmen-rechtsschutz/'), description: 'Schutz bei Streitigkeiten mit Eigentümern, Mietern und Dienstleistern.' },
+];
+---
+
+<BaseLayout
+  title="Immobilienverwaltungen absichern — Nurbanum Versicherungsmakler"
+  description="Versicherungen für Hausverwaltungen: Vermögensschadenhaftpflicht, D&O, Cyber — Schutz für WEG- und Mietverwalter."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Immobilienverwaltungen</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Verwaltungsfehler, Datenpannen, Eigentümerstreitigkeiten — ich finde den Schutz, der Ihre Verwaltungstätigkeit absichert.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Unternehmen', href: '/spezialisierungen/#gewerbe' }, { label: 'Freie Berufe & Dienstleistung', href: '/spezialisierungen/#gewerbe-freie-berufe-dienstleistung' }]} current="Immobilienverwaltungen" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+        <h2>Hohe Haftung, viele Stolperstellen</h2>
+        <p>Immobilienverwalter verwalten fremdes Vermögen — oft in Millionenhöhe. Fehler bei der Hausgeldabrechnung, verspätete Instandhaltungsmaßnahmen oder falsche Beschlussvorlagen können erhebliche Vermögensschäden bei Eigentümern oder Mietern verursachen. Die WEG-Reform 2020 hat die Haftung des Verwalters sogar noch erweitert.</p>
+        <h2>Kernversicherungen für Verwalter</h2>
+        <ul>
+          <li><strong>Vermögensschadenhaftpflicht</strong> — Das wichtigste Standbein. Deckt reine Vermögensschäden durch Verwaltungsfehler: fehlerhafte Abrechnungen, versäumte Fristen, falsche Beauftragung von Handwerkern.</li>
+          <li><strong>D&O-Versicherung</strong> — Als WEG-Verwalter oder Geschäftsführer einer Verwaltungs-GmbH haften Sie persönlich. Die D&O schützt Ihr Privatvermögen.</li>
+          <li><strong>Cyber-Versicherung</strong> — Sie speichern Mieterdaten, Kontoverbindungen und SEPA-Mandate. Ein Datenleck ist nicht nur teuer, sondern kann auch Ihr Vertrauensverhältnis zu Eigentümern zerstören.</li>
+        </ul>
+        <h2>Zusätzlich empfohlen</h2>
+        <p>Firmen-Rechtsschutz für Streitigkeiten mit Eigentümergemeinschaften, eine Vertrauensschadenversicherung zum Schutz vor Mitarbeiterbetrug und eine Betriebshaftpflicht für Personen- und Sachschäden runden den Schutz ab.</p>
+      </div>
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für Hausverwaltungen</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">Mehr erfahren<svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg></span>
+            </a>
+          ))}
+        </div>
+      </div>
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Verwalter-Check: Ist Ihre Haftung abgesichert?</h3>
+        <p class="text-slate-300 mb-6">Ich prüfe Ihren bestehenden Schutz und finde Lücken — kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">Beratungstermin vereinbaren</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

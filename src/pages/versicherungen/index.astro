@@ -27,7 +27,7 @@ const personenCore = personenItems.filter(e =>
   ['berufsunfaehigkeit', 'krankenversicherung', 'risikoleben', 'unfallversicherung', 'pflegeversicherung'].includes(e.id)
 );
 const personenZusatz = personenItems.filter(e =>
-  ['zahnzusatzversicherung', 'krankentagegeld', 'stationaere-zusatzversicherung', 'ambulante-zusatzversicherung', 'heilpraktiker-zusatzversicherung'].includes(e.id)
+  ['zahnzusatzversicherung', 'krankentagegeld', 'stationaere-zusatzversicherung', 'ambulante-zusatzversicherung', 'heilpraktiker-zusatzversicherung', 'auslandskrankenversicherung'].includes(e.id)
 );
 const personenSpezial = personenItems.filter(e =>
   ['grundfaehigkeitenversicherung', 'schwere-krankheiten-versicherung', 'kinderabsicherung', 'reiseversicherung', 'sterbegeldversicherung'].includes(e.id)
@@ -49,13 +49,13 @@ const allPrivatAccordions = [
 
 // Group Gewerbe into subcategories
 const gewerbeHaftpflicht = gewerbeProducts.filter(e =>
-  ['betriebshaftpflicht', 'berufshaftpflicht', 'dno-versicherung', 'vermoegensschadenhaftpflicht', 'produkthaftpflicht', 'umwelthaftpflicht'].includes(e.id)
+  ['betriebshaftpflicht', 'berufshaftpflicht', 'dno-versicherung', 'vermoegensschadenhaftpflicht', 'produkthaftpflicht', 'umwelthaftpflicht', 'veranstaltungshaftpflicht'].includes(e.id)
 );
 const gewerbeBetrieb = gewerbeProducts.filter(e =>
-  ['betriebsunterbrechung', 'inhaltsversicherung', 'betriebsgebaeudeversicherung', 'firmen-rechtsschutz', 'cyber'].includes(e.id)
+  ['betriebsunterbrechung', 'inhaltsversicherung', 'betriebsgebaeudeversicherung', 'firmen-rechtsschutz', 'cyber', 'warenkreditversicherung', 'vertrauensschadenversicherung', 'bauleistungsversicherung', 'betriebsschliessungsversicherung', 'transportversicherung'].includes(e.id)
 );
 const gewerbeTechnik = gewerbeProducts.filter(e =>
-  ['elektronikversicherung', 'maschinenversicherung', 'kfz-flotten'].includes(e.id)
+  ['elektronikversicherung', 'maschinenversicherung', 'kfz-flotten', 'montageversicherung'].includes(e.id)
 );
 
 const gewerbeCategories = [

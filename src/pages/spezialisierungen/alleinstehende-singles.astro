@@ -1,0 +1,79 @@
+---
+import { url } from '../../utils/paths';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const relevantProducts = [
+  { title: 'Berufsunfähigkeitsversicherung', href: url('/versicherungen/berufsunfaehigkeit/'), description: 'Ohne Partner fängt niemand Ihren Einkommensausfall auf — die BU ist Ihre wichtigste Absicherung.' },
+  { title: 'Privathaftpflichtversicherung', href: url('/versicherungen/haftpflicht/'), description: 'Single-Tarif: günstig, unverzichtbar, mit Schlüsselverlust und Forderungsausfall.' },
+  { title: 'Hausratversicherung', href: url('/versicherungen/hausrat/'), description: 'Schutz für Ihren eigenen Haushalt — Diebstahl, Feuer, Leitungswasser.' },
+  { title: 'Unfallversicherung', href: url('/versicherungen/unfallversicherung/'), description: 'Wer allein lebt, braucht bei einem Unfall finanzielle Unabhängigkeit.' },
+  { title: 'Rechtsschutzversicherung', href: url('/versicherungen/rechtsschutz/'), description: 'Mietrecht, Arbeitsrecht, Verkehrsrecht — Schutz bei juristischen Auseinandersetzungen.' },
+  { title: 'Private Altersvorsorge', href: url('/versicherungen/private-altersvorsorge/'), description: 'Ohne Hinterbliebenenversorgung ist die eigene Vorsorge besonders wichtig.' },
+];
+---
+
+<BaseLayout
+  title="Alleinstehende & Singles absichern — Nurbanum Versicherungsmakler"
+  description="Versicherungen für Singles: BU, Haftpflicht, Altersvorsorge — welche Absicherung Sie brauchen, wenn Sie auf sich allein gestellt sind."
+>
+  <section class="bg-hero relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-navy-950/90 via-navy-900/80 to-navy-800/70"></div>
+    <div class="relative max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
+      <p class="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-4 animate-fade-in">Spezialisierung</p>
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 animate-slide-up">Alleinstehende & Singles</h1>
+      <p class="text-lg text-slate-300 max-w-2xl animate-slide-up" style="animation-delay: 0.15s;">Wer allein lebt, trägt die volle Verantwortung für sich selbst. Ich zeige Ihnen, welche Absicherung dafür wirklich wichtig ist.</p>
+    </div>
+  </section>
+
+  <section class="py-20 sm:py-28 bg-pattern">
+    <div class="max-w-4xl lg:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <Breadcrumb items={[{ label: 'Spezialisierungen', href: '/spezialisierungen/' }, { label: 'Für Privatpersonen', href: '/spezialisierungen/#privat' }, { label: 'Lebensphasen', href: '/spezialisierungen/#privat-lebensphasen' }]} current="Alleinstehende & Singles" />
+      <div class="prose prose-lg max-w-none prose-headings:text-navy-950 prose-a:text-amber-600">
+
+        <h2>Allein heißt: Alles selbst absichern</h2>
+        <p>Als Single haben Sie niemanden, der Ihren Einkommensausfall auffängt, wenn Sie krank werden oder einen Unfall haben. Gleichzeitig brauchen Sie keine Familientarife und können gezielt die Versicherungen abschließen, die zu Ihrer Situation passen.</p>
+
+        <h2>Die wichtigsten Versicherungen für Singles</h2>
+        <ul>
+          <li><strong>Berufsunfähigkeitsversicherung</strong> — Die wichtigste Versicherung für Alleinstehende. Ohne Partner, der Ihr Einkommen ersetzt, ist die BU Ihre existenzielle Absicherung.</li>
+          <li><strong>Privathaftpflicht</strong> — Single-Tarife sind besonders günstig (ab ca. 40 €/Jahr). Achten Sie auf Schlüsselverlust, Gefälligkeitsschäden und Forderungsausfalldeckung.</li>
+          <li><strong>Hausratversicherung</strong> — Schützt Ihren eigenen Haushalt. Versicherungssumme an den tatsächlichen Wert anpassen.</li>
+        </ul>
+
+        <h2>Besonders wichtig: Altersvorsorge</h2>
+        <p>Singles können nicht auf die Hinterbliebenenversorgung eines Partners zurückgreifen. Umso wichtiger ist die eigene Altersvorsorge. Beginnen Sie so früh wie möglich — ob Riester, Rürup, ETF-Police oder betriebliche Altersversorgung.</p>
+
+        <h2>Was Singles oft vergessen</h2>
+        <ul>
+          <li><strong>Unfallversicherung</strong> — Wer allein lebt, braucht bei einem schweren Unfall finanzielle Mittel für Umbaumaßnahmen, Haushaltshilfe oder Pflege.</li>
+          <li><strong>Patientenverfügung und Vorsorgevollmacht</strong> — Keine Versicherung, aber unverzichtbar: Wer entscheidet für Sie, wenn Sie es nicht mehr können?</li>
+        </ul>
+      </div>
+
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-navy-950 mb-8">Relevante Versicherungen für Singles</h2>
+        <div class="grid sm:grid-cols-2 gap-5">
+          {relevantProducts.map(product => (
+            <a href={product.href} class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all no-underline">
+              <h3 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">{product.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-3">{product.description}</p>
+              <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                Mehr erfahren
+                <svg class="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="mt-16 p-8 bg-navy-900 rounded-2xl text-center">
+        <h3 class="text-2xl font-bold text-white mb-3">Singles-Check: Sind Sie richtig abgesichert?</h3>
+        <p class="text-slate-300 mb-6">Ich prüfe Ihre Versicherungen und zeige Ihnen, wo Handlungsbedarf besteht — kostenlos und unverbindlich.</p>
+        <a href={url('/kontakt/')} class="inline-flex items-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-amber-500/25 no-underline">
+          Beratungstermin vereinbaren
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
