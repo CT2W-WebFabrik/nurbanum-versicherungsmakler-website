@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import rehypeExternalLinks from 'rehype-external-links';
 import remarkBaseLinks from './src/plugins/remark-base-links.ts';
 
 const base = '/nurbanum-versicherungsmakler-website';
@@ -24,6 +25,9 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [[remarkBaseLinks, { base }]],
+    rehypePlugins: [
+      [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
+    ],
   },
   i18n: {
     defaultLocale: 'de',
