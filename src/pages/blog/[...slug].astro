@@ -21,6 +21,7 @@ const { Content } = await render(entry);
   updatedDate={entry.data.updatedDate}
   readingTime={entry.data.readingTime}
   breadcrumbs={[{ label: 'Blog', href: '/blog/' }]}
+  schemaType="BlogPosting"
 >
   <Content />
 </ArticleLayout>

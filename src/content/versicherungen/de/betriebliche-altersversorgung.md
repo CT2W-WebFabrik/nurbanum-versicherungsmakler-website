@@ -66,7 +66,7 @@ Bei einer monatlichen Entgeltumwandlung von 200 Euro sparen Sie als Arbeitnehmer
 
 Die bAV ist ein Zusammenspiel aus Arbeitsrecht, Steuerrecht, Sozialversicherungsrecht und Versicherungsrecht. Sowohl für Arbeitnehmer, die den besten Tarif suchen, als auch für Arbeitgeber, die ein rechtssicheres Versorgungskonzept aufbauen möchten, ist unabhängige Beratung unverzichtbar.
 
-Ich berate Sie auf beiden Seiten: Arbeitnehmer unterstütze ich bei der Auswahl und Optimierung ihrer bAV, Arbeitgebern helfe ich bei der Konzeption und Einrichtung eines attraktiven Versorgungswerks.
+Ich berate Sie auf beiden Seiten: Arbeitnehmer unterstütze ich bei der Auswahl und Optimierung ihrer bAV, Arbeitgebern helfe ich bei der Konzeption und Einrichtung eines attraktiven Versorgungswerks. Dabei begleite ich den gesamten Prozess — von der ersten Analyse über die Auswahl des passenden Durchführungswegs bis zur laufenden Betreuung und Anpassung an gesetzliche Änderungen.
 
 <div class="cta-box">
 

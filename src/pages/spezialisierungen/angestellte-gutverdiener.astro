@@ -93,4 +93,17 @@ const relevantProducts = [
       </div>
     </div>
   </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Angestellte & Gutverdiener absichern",
+    "description": "PKV oder GKV? bAV-Optimierung, Zusatzversicherungen, Einkommenssicherung — Versicherungsberatung für Angestellte oberhalb der Beitragsbemessungsgrenze.",
+    "provider": { "@id": "https://nurbanum.de/#organization" },
+    "areaServed": {
+      "@type": "GeoCircle",
+      "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 49.4403, "longitude": 10.9553 },
+      "geoRadius": "50000"
+    }
+  })} />
 </BaseLayout>

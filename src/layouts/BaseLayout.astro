@@ -9,6 +9,7 @@ interface Props {
   title?: string;
   description?: string;
   ogImage?: string;
+  ogType?: string;
   noIndex?: boolean;
 }
 
@@ -16,6 +17,7 @@ const {
   title = 'Nurbanum Versicherungsmakler — Altersvorsorge & Versicherungen in Zirndorf',
   description = 'Experte für Altersvorsorge & Ruhestandsplanung in Zirndorf. Unabhängige Beratung — persönlich, transparent, kompetent.',
   ogImage = '/images/og-default.png',
+  ogType = 'website',
   noIndex = false,
 } = Astro.props;
 
@@ -39,7 +41,7 @@ const siteUrl = 'https://nurbanum.de';
     {noIndex && <meta name="robots" content="noindex, nofollow" />}
 
     <!-- Open Graph -->
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageUrl} />

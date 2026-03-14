@@ -12,9 +12,10 @@ interface Props {
   readingTime?: string;
   breadcrumbs?: { label: string; href: string }[];
   faqSchema?: object | null;
+  schemaType?: string;
 }
 
-const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs, faqSchema } = Astro.props;
+const { title, description, publishDate, updatedDate, category, readingTime, breadcrumbs, faqSchema, schemaType = 'Article' } = Astro.props;
 const formattedDate = publishDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 const formattedUpdate = updatedDate?.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 
@@ -24,7 +25,7 @@ const estimatedReadingTime = readingTime || undefined;
 const breadcrumbItems = breadcrumbs || [];
 ---
 
-<BaseLayout title={`${title} — Nurbanum Versicherungsmakler`} description={description}>
+<BaseLayout title={`${title} — Nurbanum Versicherungsmakler`} description={description} ogType="article">
   <article class="bg-pattern">
     <div class="max-w-3xl lg:max-w-4xl xl:max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-24">
 
@@ -80,7 +81,7 @@ const breadcrumbItems = breadcrumbs || [];
   {publishDate && (
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
-      "@type": "Article",
+      "@type": schemaType,
       "headline": title,
       "description": description,
       "image": new URL(url('/images/og-default.png'), Astro.site).toString(),
