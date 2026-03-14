@@ -73,24 +73,32 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
     </div>
   </section>
 
-  <!-- Anchor navigation -->
+  <!-- Sticky navigation: tabs -->
   <div class="bg-white border-b border-slate-200 sticky top-16 sm:top-[6.25rem] z-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <nav class="flex gap-1 py-3 overflow-x-auto" aria-label="Spezialisierungskategorien">
-        <a href="#privat" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
+        <button
+          data-tab="privat"
+          class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-amber-100 text-amber-800"
+          aria-pressed="true"
+        >
           Für Privatpersonen
-          <span class="ml-1.5 text-xs text-slate-400 font-normal">{privatCount}</span>
-        </a>
-        <a href="#gewerbe" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
+          <span class="ml-1.5 text-xs opacity-70 font-normal">{privatCount}</span>
+        </button>
+        <button
+          data-tab="gewerbe"
+          class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-slate-50 text-navy-700 hover:text-amber-700 hover:bg-amber-50"
+          aria-pressed="false"
+        >
           Für Unternehmen
-          <span class="ml-1.5 text-xs text-slate-400 font-normal">{gewerbeCount}</span>
-        </a>
+          <span class="ml-1.5 text-xs opacity-70 font-normal">{gewerbeCount}</span>
+        </button>
       </nav>
     </div>
   </div>
 
   <!-- Für Privatpersonen -->
-  <section id="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28 sm:scroll-mt-40">
+  <section id="privat" data-audience="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28 sm:scroll-mt-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-12">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Privatpersonen & Familien</p>
@@ -128,7 +136,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
   </section>
 
   <!-- Für Unternehmen -->
-  <section id="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 scroll-mt-28 sm:scroll-mt-40">
+  <section id="gewerbe" data-audience="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 hidden scroll-mt-28 sm:scroll-mt-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-12">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Unternehmen & Selbständige</p>
@@ -164,4 +172,30 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       ))}
     </div>
   </section>
+
+  <script>
+    const tabBtns = document.querySelectorAll<HTMLButtonElement>('[data-tab]');
+    const sections = document.querySelectorAll<HTMLElement>('[data-audience]');
+
+    function setTab(audience: string) {
+      tabBtns.forEach(btn => {
+        const active = btn.dataset.tab === audience;
+        btn.setAttribute('aria-pressed', String(active));
+        btn.className = `tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap ${
+          active ? 'bg-amber-100 text-amber-800' : 'bg-slate-50 text-navy-700 hover:text-amber-700 hover:bg-amber-50'
+        }`;
+      });
+      sections.forEach(s => s.classList.toggle('hidden', s.dataset.audience !== audience));
+    }
+
+    tabBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        setTab(btn.dataset.tab!);
+        history.replaceState(null, '', `#${btn.dataset.tab}`);
+      });
+    });
+
+    const hash = location.hash.slice(1);
+    setTab(hash.startsWith('gewerbe') ? 'gewerbe' : 'privat');
+  </script>
 </BaseLayout>

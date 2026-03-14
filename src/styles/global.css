@@ -348,6 +348,25 @@
   }
 }
 
+/* ── Accordion animation ── */
+.accordion-body {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.3s ease-out;
+}
+.accordion-body[data-open="true"] {
+  grid-template-rows: 1fr;
+}
+.accordion-body > div {
+  overflow: hidden;
+}
+.accordion-toggle .accordion-chevron {
+  transition: transform 0.3s ease-out;
+}
+.accordion-toggle[aria-expanded="true"] .accordion-chevron {
+  transform: rotate(180deg);
+}
+
 /* ── Touch target minimum sizes ── */
 @media (pointer: coarse) {
   a, button, [role="button"], input, select, textarea, summary {

@@ -49,107 +49,271 @@ for (const guide of gewerbeGuides) {
     </div>
   </section>
 
-  <!-- Anchor navigation -->
+  <!-- Sticky navigation: tabs + search -->
   <div class="bg-white border-b border-slate-200 sticky top-16 sm:top-[6.25rem] z-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
-      <nav class="flex gap-1 py-3 overflow-x-auto" aria-label="Ratgeberkategorien">
-        <a href="#privat" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
-          Für Privatpersonen
-          <span class="ml-1.5 text-xs text-slate-400 font-normal">{privatGuides.length}</span>
-        </a>
-        <a href="#gewerbe" class="px-5 py-2.5 text-sm font-semibold text-navy-700 hover:text-amber-700 bg-slate-50 hover:bg-amber-50 rounded-lg transition-colors no-underline whitespace-nowrap">
-          Für Unternehmen
-          <span class="ml-1.5 text-xs text-slate-400 font-normal">{gewerbeGuides.length}</span>
-        </a>
-      </nav>
+      <div class="flex flex-col sm:flex-row sm:items-center gap-3 py-3">
+        <nav class="flex gap-1" aria-label="Ratgeberkategorien">
+          <button
+            data-tab="privat"
+            class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-amber-100 text-amber-800"
+            aria-pressed="true"
+          >
+            Für Privatpersonen
+            <span class="ml-1.5 text-xs opacity-70 font-normal">{privatGuides.length}</span>
+          </button>
+          <button
+            data-tab="gewerbe"
+            class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-slate-50 text-navy-700 hover:text-amber-700 hover:bg-amber-50"
+            aria-pressed="false"
+          >
+            Für Unternehmen
+            <span class="ml-1.5 text-xs opacity-70 font-normal">{gewerbeGuides.length}</span>
+          </button>
+        </nav>
+        <div class="sm:ml-auto relative">
+          <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <input
+            type="search"
+            id="ratgeber-search"
+            placeholder="Ratgeber durchsuchen…"
+            class="w-full sm:w-64 pl-10 pr-4 py-2.5 text-sm border border-slate-200 rounded-lg bg-slate-50 text-navy-950 placeholder-slate-400 focus:outline-none focus:border-amber-300 focus:ring-1 focus:ring-amber-300"
+          />
+        </div>
+      </div>
     </div>
   </div>
 
   <!-- Für Privatpersonen -->
-  <section id="privat" class="py-20 sm:py-28 bg-pattern scroll-mt-28 sm:scroll-mt-40">
+  <section id="privat" data-audience="privat" class="py-20 sm:py-28 bg-pattern">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-12">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Privatpersonen & Familien</p>
         <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Ratgeber für Privatpersonen</h2>
       </div>
 
-      {Object.entries(privatCategories).map(([key, { label, items }]) => items.length > 0 && (
-        <div id={`privat-${slugify(key)}`} class="mb-16 last:mb-0 scroll-mt-28 sm:scroll-mt-40">
-          <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
-            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
-            {label}
-          </h3>
-          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {items.map((guide) => (
-              <a
-                href={url(`/ratgeber/${guide.id}/`)}
-                class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
-              >
-                <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
-                  {guide.data.category}
-                </span>
-                <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
-                  {guide.data.title}
-                </h4>
-                <p class="text-base text-slate-600 leading-relaxed mb-4">
-                  {guide.data.description}
-                </p>
-                <div class="flex items-center justify-between">
-                  <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
-                  <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
-                    Lesen
-                    <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-                  </span>
-                </div>
-              </a>
-            ))}
+      {Object.entries(privatCategories).map(([key, { label, items }], index) => items.length > 0 && (
+        <div id={`privat-${slugify(key)}`} class="category-accordion mb-2 scroll-mt-28 sm:scroll-mt-40">
+          <button
+            class="accordion-toggle w-full flex items-center justify-between py-4 px-3 -mx-3 rounded-lg hover:bg-navy-50/50 transition-colors text-left"
+            aria-expanded={index === 0 ? 'true' : 'false'}
+            aria-controls={`content-privat-${slugify(key)}`}
+          >
+            <h3 class="text-xl font-bold text-navy-950 flex items-center">
+              <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
+              {label}
+              <span class="ml-2 text-sm font-normal text-slate-400">{items.length}</span>
+            </h3>
+            <svg class="accordion-chevron w-5 h-5 text-slate-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div id={`content-privat-${slugify(key)}`} class="accordion-body" data-open={index === 0 ? 'true' : 'false'}>
+            <div>
+              <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 pt-4 pb-8">
+                {items.map((guide) => (
+                  <a
+                    href={url(`/ratgeber/${guide.id}/`)}
+                    class="guide-card group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+                    data-search={`${guide.data.title} ${guide.data.description}`.toLowerCase()}
+                  >
+                    <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
+                      {guide.data.category}
+                    </span>
+                    <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
+                      {guide.data.title}
+                    </h4>
+                    <p class="text-base text-slate-600 leading-relaxed mb-4">
+                      {guide.data.description}
+                    </p>
+                    <div class="flex items-center justify-between">
+                      <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
+                      <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                        Lesen
+                        <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                      </span>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       ))}
+
+      <div class="no-results hidden text-center py-12">
+        <p class="text-slate-500 text-lg">Kein passender Ratgeber gefunden.</p>
+        <button class="clear-search text-amber-600 font-semibold mt-2 hover:text-amber-700 transition-colors">Suche zurücksetzen</button>
+      </div>
     </div>
   </section>
 
   <!-- Für Unternehmen -->
-  <section id="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 scroll-mt-28 sm:scroll-mt-40">
+  <section id="gewerbe" data-audience="gewerbe" class="py-20 sm:py-28 bg-navy-50/50 hidden">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-12">
         <p class="text-amber-700 text-sm font-semibold tracking-widest uppercase mb-3">Für Unternehmen & Selbständige</p>
         <h2 class="text-2xl sm:text-3xl font-800 text-navy-950">Ratgeber für Unternehmen</h2>
       </div>
 
-      {Object.entries(gewerbeCategories).map(([key, { label, items }]) => items.length > 0 && (
-        <div id={`gewerbe-${slugify(key)}`} class="mb-16 last:mb-0 scroll-mt-28 sm:scroll-mt-40">
-          <h3 class="text-xl font-bold text-navy-950 mb-8 flex items-center">
-            <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
-            {label}
-          </h3>
-          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {items.map((guide) => (
-              <a
-                href={url(`/ratgeber/${guide.id}/`)}
-                class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
-              >
-                <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
-                  {guide.data.category}
-                </span>
-                <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
-                  {guide.data.title}
-                </h4>
-                <p class="text-base text-slate-600 leading-relaxed mb-4">
-                  {guide.data.description}
-                </p>
-                <div class="flex items-center justify-between">
-                  <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
-                  <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
-                    Lesen
-                    <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-                  </span>
-                </div>
-              </a>
-            ))}
+      {Object.entries(gewerbeCategories).map(([key, { label, items }], index) => items.length > 0 && (
+        <div id={`gewerbe-${slugify(key)}`} class="category-accordion mb-2 scroll-mt-28 sm:scroll-mt-40">
+          <button
+            class="accordion-toggle w-full flex items-center justify-between py-4 px-3 -mx-3 rounded-lg hover:bg-white/50 transition-colors text-left"
+            aria-expanded={index === 0 ? 'true' : 'false'}
+            aria-controls={`content-gewerbe-${slugify(key)}`}
+          >
+            <h3 class="text-xl font-bold text-navy-950 flex items-center">
+              <span class="w-8 h-0.5 bg-amber-400 mr-3"></span>
+              {label}
+              <span class="ml-2 text-sm font-normal text-slate-400">{items.length}</span>
+            </h3>
+            <svg class="accordion-chevron w-5 h-5 text-slate-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div id={`content-gewerbe-${slugify(key)}`} class="accordion-body" data-open={index === 0 ? 'true' : 'false'}>
+            <div>
+              <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 pt-4 pb-8">
+                {items.map((guide) => (
+                  <a
+                    href={url(`/ratgeber/${guide.id}/`)}
+                    class="guide-card group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+                    data-search={`${guide.data.title} ${guide.data.description}`.toLowerCase()}
+                  >
+                    <span class="inline-block text-xs font-medium text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full mb-4">
+                      {guide.data.category}
+                    </span>
+                    <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
+                      {guide.data.title}
+                    </h4>
+                    <p class="text-base text-slate-600 leading-relaxed mb-4">
+                      {guide.data.description}
+                    </p>
+                    <div class="flex items-center justify-between">
+                      <span class="text-xs text-slate-400">{guide.data.readingTime}</span>
+                      <span class="inline-flex items-center text-sm font-semibold text-amber-600 group-hover:text-amber-700 transition-colors">
+                        Lesen
+                        <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                      </span>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       ))}
+
+      <div class="no-results hidden text-center py-12">
+        <p class="text-slate-500 text-lg">Kein passender Ratgeber gefunden.</p>
+        <button class="clear-search text-amber-600 font-semibold mt-2 hover:text-amber-700 transition-colors">Suche zurücksetzen</button>
+      </div>
     </div>
   </section>
+
+  <script>
+    const tabBtns = document.querySelectorAll<HTMLButtonElement>('[data-tab]');
+    const sections = document.querySelectorAll<HTMLElement>('[data-audience]');
+    const searchInput = document.getElementById('ratgeber-search') as HTMLInputElement | null;
+
+    function setTab(audience: string) {
+      tabBtns.forEach(btn => {
+        const active = btn.dataset.tab === audience;
+        btn.setAttribute('aria-pressed', String(active));
+        btn.className = `tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap ${
+          active ? 'bg-amber-100 text-amber-800' : 'bg-slate-50 text-navy-700 hover:text-amber-700 hover:bg-amber-50'
+        }`;
+      });
+      sections.forEach(s => s.classList.toggle('hidden', s.dataset.audience !== audience));
+      applySearch();
+    }
+
+    tabBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        setTab(btn.dataset.tab!);
+        history.replaceState(null, '', `#${btn.dataset.tab}`);
+      });
+    });
+
+    // Accordion
+    document.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const expanded = btn.getAttribute('aria-expanded') === 'true';
+        btn.setAttribute('aria-expanded', String(!expanded));
+        const body = document.getElementById(btn.getAttribute('aria-controls') || '');
+        if (body) body.dataset.open = String(!expanded);
+      });
+    });
+
+    // Search
+    function applySearch() {
+      const q = (searchInput?.value || '').toLowerCase().trim();
+      sections.forEach(section => {
+        if (section.classList.contains('hidden')) return;
+        const cards = section.querySelectorAll<HTMLElement>('.guide-card');
+        const accordions = section.querySelectorAll<HTMLElement>('.category-accordion');
+        const noResults = section.querySelector<HTMLElement>('.no-results');
+        let total = 0;
+
+        cards.forEach(card => {
+          const match = !q || (card.dataset.search || '').includes(q);
+          card.classList.toggle('hidden', !match);
+          if (match) total++;
+        });
+
+        accordions.forEach(acc => {
+          const visible = acc.querySelectorAll('.guide-card:not(.hidden)').length;
+          acc.classList.toggle('hidden', visible === 0);
+          if (q && visible > 0) {
+            const toggle = acc.querySelector<HTMLButtonElement>('.accordion-toggle');
+            toggle?.setAttribute('aria-expanded', 'true');
+            const body = document.getElementById(toggle?.getAttribute('aria-controls') || '');
+            if (body) body.dataset.open = 'true';
+          }
+        });
+
+        if (noResults) noResults.classList.toggle('hidden', total > 0 || !q);
+      });
+    }
+
+    searchInput?.addEventListener('input', applySearch);
+
+    document.querySelectorAll('.clear-search').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (searchInput) searchInput.value = '';
+        sections.forEach(section => {
+          section.querySelectorAll<HTMLElement>('.category-accordion').forEach((acc, i) => {
+            acc.classList.remove('hidden');
+            const toggle = acc.querySelector<HTMLButtonElement>('.accordion-toggle');
+            toggle?.setAttribute('aria-expanded', String(i === 0));
+            const body = document.getElementById(toggle?.getAttribute('aria-controls') || '');
+            if (body) body.dataset.open = String(i === 0);
+          });
+          section.querySelectorAll<HTMLElement>('.guide-card').forEach(c => c.classList.remove('hidden'));
+          section.querySelector<HTMLElement>('.no-results')?.classList.add('hidden');
+        });
+      });
+    });
+
+    // URL hash handling
+    const hash = location.hash.slice(1);
+    const audience = hash.startsWith('gewerbe') ? 'gewerbe' : 'privat';
+    setTab(audience);
+
+    if (hash.includes('-')) {
+      const el = document.getElementById(hash);
+      if (el) {
+        const toggle = el.querySelector<HTMLButtonElement>('.accordion-toggle');
+        if (toggle) {
+          toggle.setAttribute('aria-expanded', 'true');
+          const body = document.getElementById(toggle.getAttribute('aria-controls') || '');
+          if (body) body.dataset.open = 'true';
+          setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 100);
+        }
+      }
+    }
+  </script>
 </BaseLayout>
