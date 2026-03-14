@@ -73,27 +73,40 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
     </div>
   </section>
 
-  <!-- Sticky navigation: tabs -->
+  <!-- Sticky navigation: tabs + search -->
   <div class="bg-white border-b border-slate-200 sticky top-16 sm:top-[6.25rem] z-40">
     <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
-      <nav class="flex gap-1 py-3 overflow-x-auto" aria-label="Spezialisierungskategorien">
-        <button
-          data-tab="privat"
-          class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-amber-100 text-amber-800"
-          aria-pressed="true"
-        >
-          Für Privatpersonen
-          <span class="ml-1.5 text-xs opacity-70 font-normal">{privatCount}</span>
-        </button>
-        <button
-          data-tab="gewerbe"
-          class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-slate-50 text-navy-700 hover:text-amber-700 hover:bg-amber-50"
-          aria-pressed="false"
-        >
-          Für Unternehmen
-          <span class="ml-1.5 text-xs opacity-70 font-normal">{gewerbeCount}</span>
-        </button>
-      </nav>
+      <div class="flex flex-col sm:flex-row sm:items-center gap-3 py-3">
+        <nav class="flex gap-1 overflow-x-auto" aria-label="Spezialisierungskategorien">
+          <button
+            data-tab="privat"
+            class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-amber-100 text-amber-800"
+            aria-pressed="true"
+          >
+            Für Privatpersonen
+            <span class="ml-1.5 text-xs opacity-70 font-normal">{privatCount}</span>
+          </button>
+          <button
+            data-tab="gewerbe"
+            class="tab-btn px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors whitespace-nowrap bg-slate-50 text-navy-700 hover:text-amber-700 hover:bg-amber-50"
+            aria-pressed="false"
+          >
+            Für Unternehmen
+            <span class="ml-1.5 text-xs opacity-70 font-normal">{gewerbeCount}</span>
+          </button>
+        </nav>
+        <div class="sm:ml-auto relative">
+          <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <input
+            type="search"
+            id="page-search"
+            placeholder="Spezialisierung suchen…"
+            class="w-full sm:w-64 pl-10 pr-4 py-2.5 text-sm border border-slate-200 rounded-lg bg-slate-50 text-navy-950 placeholder-slate-400 focus:outline-none focus:border-amber-300 focus:ring-1 focus:ring-amber-300"
+          />
+        </div>
+      </div>
     </div>
   </div>
 
@@ -127,7 +140,8 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
                 {sub.items.map((item) => (
                   <a
                     href={item.href}
-                    class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+                    class="search-card group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+                    data-search={`${item.title} ${item.description}`.toLowerCase()}
                   >
                     <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
                       {item.title}
@@ -146,6 +160,11 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
           </div>
         </div>
       ))}
+
+      <div class="no-results hidden text-center py-12">
+        <p class="text-slate-500 text-lg">Keine passende Spezialisierung gefunden.</p>
+        <button class="clear-search text-amber-600 font-semibold mt-2 hover:text-amber-700 transition-colors">Suche zurücksetzen</button>
+      </div>
     </div>
   </section>
 
@@ -179,7 +198,8 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
                 {sub.items.map((item) => (
                   <a
                     href={item.href}
-                    class="group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+                    class="search-card group block bg-white rounded-xl p-6 border border-slate-100 hover:border-amber-200 hover:shadow-md transition-all duration-300"
+                    data-search={`${item.title} ${item.description}`.toLowerCase()}
                   >
                     <h4 class="text-lg font-bold text-navy-950 mb-2 group-hover:text-amber-700 transition-colors">
                       {item.title}
@@ -198,12 +218,18 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
           </div>
         </div>
       ))}
+
+      <div class="no-results hidden text-center py-12">
+        <p class="text-slate-500 text-lg">Keine passende Spezialisierung gefunden.</p>
+        <button class="clear-search text-amber-600 font-semibold mt-2 hover:text-amber-700 transition-colors">Suche zurücksetzen</button>
+      </div>
     </div>
   </section>
 
   <script>
     const tabBtns = document.querySelectorAll<HTMLButtonElement>('[data-tab]');
     const sections = document.querySelectorAll<HTMLElement>('[data-audience]');
+    const searchInput = document.getElementById('page-search') as HTMLInputElement | null;
 
     function setTab(audience: string) {
       tabBtns.forEach(btn => {
@@ -214,6 +240,7 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
         }`;
       });
       sections.forEach(s => s.classList.toggle('hidden', s.dataset.audience !== audience));
+      applySearch();
     }
 
     tabBtns.forEach(btn => {
@@ -223,12 +250,63 @@ const gewerbeCount = gewerbeSubsections.reduce((sum, s) => sum + s.items.length,
       });
     });
 
+    // Accordion
     document.querySelectorAll<HTMLButtonElement>('.accordion-toggle').forEach(btn => {
       btn.addEventListener('click', () => {
         const expanded = btn.getAttribute('aria-expanded') === 'true';
         btn.setAttribute('aria-expanded', String(!expanded));
         const body = document.getElementById(btn.getAttribute('aria-controls') || '');
         if (body) body.dataset.open = String(!expanded);
+      });
+    });
+
+    // Search
+    function applySearch() {
+      const q = (searchInput?.value || '').toLowerCase().trim();
+      sections.forEach(section => {
+        if (section.classList.contains('hidden')) return;
+        const cards = section.querySelectorAll<HTMLElement>('.search-card');
+        const accordions = section.querySelectorAll<HTMLElement>('.category-accordion');
+        const noResults = section.querySelector<HTMLElement>('.no-results');
+        let total = 0;
+
+        cards.forEach(card => {
+          const match = !q || (card.dataset.search || '').includes(q);
+          card.classList.toggle('hidden', !match);
+          if (match) total++;
+        });
+
+        accordions.forEach(acc => {
+          const visible = acc.querySelectorAll('.search-card:not(.hidden)').length;
+          acc.classList.toggle('hidden', visible === 0);
+          if (q && visible > 0) {
+            const toggle = acc.querySelector<HTMLButtonElement>('.accordion-toggle');
+            toggle?.setAttribute('aria-expanded', 'true');
+            const body = document.getElementById(toggle?.getAttribute('aria-controls') || '');
+            if (body) body.dataset.open = 'true';
+          }
+        });
+
+        if (noResults) noResults.classList.toggle('hidden', total > 0 || !q);
+      });
+    }
+
+    searchInput?.addEventListener('input', applySearch);
+
+    document.querySelectorAll('.clear-search').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (searchInput) searchInput.value = '';
+        sections.forEach(section => {
+          section.querySelectorAll<HTMLElement>('.category-accordion').forEach((acc, i) => {
+            acc.classList.remove('hidden');
+            const toggle = acc.querySelector<HTMLButtonElement>('.accordion-toggle');
+            toggle?.setAttribute('aria-expanded', String(i === 0));
+            const body = document.getElementById(toggle?.getAttribute('aria-controls') || '');
+            if (body) body.dataset.open = String(i === 0);
+          });
+          section.querySelectorAll<HTMLElement>('.search-card').forEach(c => c.classList.remove('hidden'));
+          section.querySelector<HTMLElement>('.no-results')?.classList.add('hidden');
+        });
       });
     });
 
