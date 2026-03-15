@@ -28,16 +28,57 @@ productLinks:
 
 ## Spezielle Risiken im Onlinehandel
 
-E-Commerce-Unternehmen verkaufen Produkte, die sie oft nicht selbst herstellen, versenden Waren über Dienstleister, verarbeiten Kundendaten und sind rund um die Uhr online. Jeder dieser Punkte birgt eigene Risiken — Produkthaftung, Transportschäden, Datenpannen und Abmahnungen sind an der Tagesordnung.
+E-Commerce-Unternehmen verkaufen Produkte, die sie oft nicht selbst herstellen, versenden Waren über Dienstleister, verarbeiten Kundendaten und sind rund um die Uhr online. Jeder dieser Punkte birgt eigene Risiken — Produkthaftung, Transportschäden, Datenpannen und Abmahnungen sind im Onlinehandel alltäglich. Gleichzeitig fehlt bei vielen Händlern das Bewusstsein für die eigene Haftung: Wer über Amazon, eBay oder den eigenen Shop verkauft, haftet wie jeder andere Händler auch.
 
-## Produkthaftung: Auch als Händler
+## Produkthaftung — auch als Händler
 
-Als Händler haften Sie für die Sicherheit der Produkte, die Sie verkaufen. Bei Import aus Nicht-EU-Ländern gelten Sie sogar als Quasi-Hersteller. Eine Produkthaftpflichtversicherung ist hier unverzichtbar.
+Als Händler haften Sie für die Sicherheit der Produkte, die Sie verkaufen (§ 1 ProdHaftG). Bei Import aus Nicht-EU-Ländern gelten Sie sogar als Quasi-Hersteller — mit der vollen Haftung für Produktmängel. Das trifft besonders Händler, die über Alibaba, Wish oder direkt aus China importieren.
 
-## Ihr Shop ist Ihr Geschäft
+Typische Produkthaftungsfälle im E-Commerce:
 
-Ein Hackerangriff, ein Serverausfall oder eine DSGVO-Datenpanne kann Sie Tage außer Gefecht setzen. Die Cyber-Versicherung übernimmt IT-Forensik, Datenwiederherstellung, Kundenbenachrichtigung und den Umsatzausfall während der Downtime.
+- **Elektronik ohne CE-Kennzeichnung** — Powerbanks, Ladegeräte oder LED-Leuchten aus Fernost verursachen einen Brand beim Kunden.
+- **Spielzeug mit Kleinteilen** — Ein Kind verschluckt ein Teil, das nicht den EU-Sicherheitsstandards entspricht.
+- **Nahrungsergänzungsmittel** — Undeklarierte Inhaltsstoffe lösen allergische Reaktionen aus.
 
-## Versand und Lager
+Die Produkthaftpflichtversicherung deckt Schadenersatzansprüche und die Kosten der Rechtsverteidigung. Bei Import-Produkten ist sie nicht optional, sondern existenzkritisch.
 
-Die Haftung des Paketdienstleisters ist auf ca. 500–750 Euro begrenzt. Bei höherwertigen Sendungen brauchen Sie eine Transportversicherung. Und Ihr Warenbestand im Lager ist ohne Inhaltsversicherung bei Brand oder Einbruch ungeschützt.
+## Cyber-Versicherung — Ihr Shop ist Ihr Geschäft
+
+Ein Onlineshop ist 24/7 angreifbar. Die häufigsten Szenarien:
+
+- **Hacking und Datenpannen** — Kundendaten (Namen, Adressen, Zahlungsinformationen) werden gestohlen. Die DSGVO verpflichtet Sie zur Meldung innerhalb von 72 Stunden und zur Benachrichtigung aller Betroffenen.
+- **Ransomware** — Ihr Shop-System wird verschlüsselt, Bestellungen laufen ins Leere. Jeder Tag Downtime kostet Umsatz und Kundenbindung.
+- **Payment-Fraud** — Kriminelle nutzen gestohlene Kreditkartendaten in Ihrem Shop. Sie tragen das Chargeback-Risiko.
+
+Die Cyber-Versicherung übernimmt IT-Forensik, Datenwiederherstellung, Kundenbenachrichtigung, Rechtsberatung im Datenschutzrecht und den Umsatzausfall während der Betriebsunterbrechung. Für Onlinehändler mit eigenem Shop ist sie Pflicht — Marktplatz-Verkäufer haben ein geringeres, aber nicht abwesendes Risiko.
+
+## Transport und Versand
+
+Die Haftung des Paketdienstleisters ist gesetzlich begrenzt — bei den meisten Anbietern auf 500–750 Euro pro Sendung. Bei höherwertigen Produkten (Elektronik, Schmuck, Möbel) bleibt ein erheblicher Teil des Risikos bei Ihnen.
+
+Eine Transportversicherung deckt Schäden während des Versands: Bruch, Verlust, Diebstahl und Beschädigung durch unsachgemäße Handhabung. Achten Sie auf:
+
+- **Warenwert vs. Deckungssumme** — Die Versicherungssumme muss den Warenwert einschließlich Versandkosten abdecken.
+- **Retouren** — Rücksendungen sind ein erheblicher Teil des E-Commerce. Prüfen Sie, ob der Rücktransport mitversichert ist.
+- **Internationale Sendungen** — Versand ins Ausland birgt höhere Risiken. Zollbeschlagnahme, längere Transportwege und unterschiedliche Haftungsregeln erfordern erweiterte Deckung.
+
+## Warenbestand im Lager
+
+Ob eigenes Lager, Fulfillment-Center oder Garage — Ihr Warenbestand ist ohne Inhaltsversicherung bei Brand, Einbruch, Leitungswasserschaden oder Sturm ungeschützt. Die Versicherungssumme sollte den Einkaufswert des gesamten Bestands abdecken. Bei saisonal schwankendem Bestand (z. B. vor Weihnachten) sollte die Police den Höchstbestand abdecken.
+
+## Abmahnungen und Rechtsschutz
+
+Onlinehändler sind überdurchschnittlich häufig von Abmahnungen betroffen:
+
+- **Wettbewerbsrecht** — Fehlerhafte Preisangaben, fehlende Grundpreise, irreführende Produktbeschreibungen.
+- **Markenrecht** — Unbeabsichtigte Nutzung geschützter Marken in Produkttiteln oder Beschreibungen.
+- **DSGVO** — Fehlerhafte Datenschutzerklärung, fehlende Cookie-Consent-Lösung, unzulässige Tracking-Tools.
+
+Ein Firmen-Rechtsschutz mit Wettbewerbsrecht-Baustein übernimmt die Kosten der Rechtsverteidigung und ggf. die Abmahnkosten.
+
+## Häufige Fehler
+
+- **Produkthaftung bei Import unterschätzt** — Wer aus Nicht-EU-Ländern importiert, ist Quasi-Hersteller. Ohne Produkthaftpflicht riskieren Sie Ihr gesamtes Unternehmen.
+- **Warenwert zu niedrig versichert** — Gerade bei schnell wachsenden Händlern hinkt die Versicherungssumme dem tatsächlichen Lagerbestand hinterher.
+- **Nur auf Marktplatz-Schutz verlassen** — Amazon oder eBay bieten gewisse Schutzmechanismen, aber keinen Versicherungsschutz für den Händler. Ihre persönliche Haftung bleibt bestehen.
+- **Betriebsunterbrechung nicht abgesichert** — Wenn Ihr Shop tagelang offline ist, laufen Fixkosten weiter und Kunden wandern ab. Eine Betriebsunterbrechungsversicherung sichert den entgangenen Gewinn.

@@ -5,46 +5,74 @@ h1: Private Altersvorsorge
 heroDescription: "Die gesetzliche Rente allein reicht nicht. Ich zeige Ihnen, wie Sie die Versorgungslücke gezielt schließen."
 audience: privat
 category: "Vorsorge & Ruhestand"
+productLinks:
+  - title: Private Rentenversicherung
+    href: "/versicherungen/private-altersvorsorge/"
+    description: "Flexible Altersvorsorge ohne staatliche Vorgaben — für jeden geeignet."
+  - title: Berufsunfähigkeitsversicherung
+    href: /versicherungen/berufsunfaehigkeit/
+    description: "Ohne Arbeitskraft keine Altersvorsorge — BU als Grundlage."
+  - title: Betriebliche Altersversorgung
+    href: "/versicherungen/betriebliche-altersversorgung/"
+    description: "Steuervorteile und Arbeitgeberzuschuss für Ihre Betriebsrente."
 ---
 
-<h2>Das 3-Schichten-Modell der Altersvorsorge</h2>
-<p>In Deutschland ist die Altersvorsorge in drei Schichten aufgebaut. Jede Schicht hat unterschiedliche steuerliche Vor- und Nachteile:</p>
+## Das 3-Schichten-Modell der Altersvorsorge
 
-<div class="not-prose grid sm:grid-cols-3 gap-6 my-10">
-<div class="bg-white rounded-xl p-6 border-l-4 border-navy-700">
-<h3 class="text-lg font-bold text-navy-950 mb-2">Schicht 1: Basisversorgung</h3>
-<p class="text-base text-slate-600">Gesetzliche Rente, Rürup-Rente (Basisrente). Beiträge steuerlich absetzbar, Rente im Alter voll steuerpflichtig.</p>
-</div>
-<div class="bg-white rounded-xl p-6 border-l-4 border-amber-500">
-<h3 class="text-lg font-bold text-navy-950 mb-2">Schicht 2: Zusatzversorgung</h3>
-<p class="text-base text-slate-600">Riester-Rente, betriebliche Altersversorgung. Staatliche Förderung durch Zulagen und Steuervorteile.</p>
-</div>
-<div class="bg-white rounded-xl p-6 border-l-4 border-amber-300">
-<h3 class="text-lg font-bold text-navy-950 mb-2">Schicht 3: Private Vorsorge</h3>
-<p class="text-base text-slate-600">Private Rentenversicherung, Fondsgebundene Police, ETF-Rente. Maximale Flexibilität, steuerlich begünstigte Auszahlung.</p>
-</div>
-</div>
+In Deutschland ist die Altersvorsorge in drei Schichten aufgebaut. Jede Schicht hat unterschiedliche steuerliche Vor- und Nachteile:
 
-<h2>Welche Vorsorge passt zu Ihnen?</h2>
+**Schicht 1: Basisversorgung** — Gesetzliche Rente und Rürup-Rente (Basisrente). Beiträge sind steuerlich absetzbar, die Rente wird im Alter voll besteuert. Nicht kündbar, nicht vererbbar, nicht beleihbar — dafür insolvenz- und pfändungssicher.
 
-<h3>Rürup-Rente (Basisrente)</h3>
-<p><strong>Geeignet für:</strong> Selbständige, Freiberufler und Gutverdiener. Beiträge sind als Sonderausgaben steuerlich absetzbar (2025: bis zu 27.565 Euro). Besonders attraktiv bei hohem Steuersatz. Nicht kündbar, nicht vererbbar, nicht beleihbar — dafür insolvenz- und Hartz-IV-sicher.</p>
+**Schicht 2: Zusatzversorgung** — Riester-Rente und betriebliche Altersversorgung (bAV). Staatliche Förderung durch Zulagen und Steuervorteile. Zweckgebunden für die Altersvorsorge.
 
-<h3>Riester-Rente</h3>
-<p><strong>Geeignet für:</strong> Angestellte, insbesondere Familien mit Kindern. Staatliche Grundzulage von 175 Euro plus 300 Euro pro Kind. Bei niedrigem Einkommen ist das Verhältnis von Förderung zu Eigenbeitrag besonders günstig. Auch für den Immobilienerwerb nutzbar (Wohn-Riester).</p>
+**Schicht 3: Private Vorsorge** — Private Rentenversicherung, fondsgebundene Police, ETF-Rente. Maximale Flexibilität bei Ein- und Auszahlung, steuerlich begünstigte Auszahlung (Ertragsanteilbesteuerung).
 
-<h3>Private Rentenversicherung</h3>
-<p><strong>Geeignet für:</strong> Alle, die flexibel vorsorgen möchten. Keine staatliche Förderung, dafür maximale Freiheit bei Beitragszahlung, Laufzeit und Auszahlung. Bei Auszahlung als Rente wird nur der Ertragsanteil besteuert.</p>
+## Die Versorgungslücke — das zentrale Problem
 
-<h3>Fondsgebundene Rentenversicherung / ETF-Rente</h3>
-<p><strong>Geeignet für:</strong> Anleger mit langem Anlagehorizont, die höhere Renditechancen suchen. Das Kapital wird in Investmentfonds oder ETFs angelegt. Bei einer Nettopolice (ohne Abschlusskosten) besonders kosteneffizient. Steuerliche Vorteile gegenüber einem reinen Fondsdepot im Versicherungsmantel.</p>
+Die gesetzliche Rente ersetzt im Durchschnitt nur etwa 48 % des letzten Bruttoeinkommens — Tendenz sinkend. Nach Abzug von Steuern und Krankenversicherung bleibt oft deutlich weniger. Bei einem Nettoeinkommen von 3.000 Euro brauchen Sie im Alter etwa 2.400 Euro (80 %). Die gesetzliche Rente liefert netto etwa 1.400 Euro — es fehlen 1.000 Euro pro Monat. Über 20 Jahre Ruhestand summiert sich das auf 240.000 Euro.
 
-<h2>Mein Beratungsansatz</h2>
-<p>Jeder Mensch hat eine andere Lebenssituation, andere Ziele und eine andere Risikobereitschaft. In der Beratung gehen wir gemeinsam folgende Schritte:</p>
-<ol>
-<li><strong>Bestandsaufnahme</strong> — Welche Ansprüche bestehen bereits? Gesetzliche Rente, bestehende Verträge, Vermögenswerte.</li>
-<li><strong>Versorgungslücke ermitteln</strong> — Wie viel Rente brauchen Sie im Alter, und wie groß ist die Differenz?</li>
-<li><strong>Strategie entwickeln</strong> — Welche Schichten und Produkte sind für Sie optimal? Steuervorteile, Förderungen, Flexibilität.</li>
-<li><strong>Marktvergleich</strong> — Ich vergleiche die besten Angebote am Markt und empfehle konkrete Tarife.</li>
-<li><strong>Regelmäßige Überprüfung</strong> — Ihre Lebenssituation ändert sich, und damit auch Ihr Vorsorgebedarf.</li>
-</ol>
+Je früher Sie beginnen, die Lücke zu schließen, desto weniger müssen Sie monatlich aufwenden. Der Zinseszinseffekt ist der mächtigste Hebel der Altersvorsorge.
+
+## Welche Vorsorge passt zu Ihnen?
+
+### Rürup-Rente (Basisrente)
+
+**Geeignet für:** Selbständige, Freiberufler und Gutverdiener. Beiträge sind als Sonderausgaben steuerlich absetzbar (2025: bis zu 27.565 Euro für Ledige, 55.130 Euro für Verheiratete). Besonders attraktiv bei hohem Steuersatz — jeder eingezahlte Euro senkt sofort Ihre Steuerlast.
+
+**Vorteile:** Hohe steuerliche Förderung, insolvenz- und pfändungssicher, keine Anrechnung auf Bürgergeld.
+
+**Nachteile:** Nicht kündbar, nicht vererbbar (nur eingeschränkt über Hinterbliebenenrente), keine Kapitalauszahlung — nur lebenslange Rente. Wer Flexibilität braucht, sollte Rürup nur als einen Baustein nutzen.
+
+### Riester-Rente
+
+**Geeignet für:** Angestellte, insbesondere Familien mit Kindern und Geringverdiener. Staatliche Grundzulage von 175 Euro plus 300 Euro pro Kind. Bei einem Einkommen von 30.000 Euro und zwei Kindern zahlen Sie nur 525 Euro Eigenbeitrag pro Jahr und erhalten 775 Euro an Zulagen — ein hervorragendes Verhältnis.
+
+Auch für den Immobilienerwerb nutzbar (Wohn-Riester). Die Riester-Rente lohnt sich besonders, wenn die Zulagenquote hoch ist — also bei niedrigem Einkommen oder vielen Kindern.
+
+### Private Rentenversicherung
+
+**Geeignet für:** Alle, die flexibel vorsorgen möchten. Keine staatliche Förderung, dafür maximale Freiheit bei Beitragszahlung, Laufzeit und Auszahlung. Bei Auszahlung als Rente wird nur der Ertragsanteil besteuert (z. B. 18 % bei Rentenbeginn mit 65) — ein erheblicher Steuervorteil gegenüber Riester und Rürup.
+
+### Fondsgebundene Rentenversicherung / ETF-Rente
+
+**Geeignet für:** Anleger mit langem Anlagehorizont (mindestens 15 Jahre), die höhere Renditechancen suchen. Das Kapital wird in Investmentfonds oder ETFs angelegt. Bei einer Nettopolice (ohne Abschlusskosten) besonders kosteneffizient.
+
+Steuerliche Vorteile gegenüber einem reinen Fondsdepot: Im Versicherungsmantel fallen während der Ansparphase keine Kapitalertragsteuern an. Bei Auszahlung nach 12 Jahren und ab Alter 62 wird nur die Hälfte der Erträge besteuert (Halbeinkünfteverfahren) — oder bei Verrentung der noch günstigere Ertragsanteil.
+
+## Häufige Fehler bei der Altersvorsorge
+
+- **Zu spät anfangen** — Wer mit 25 statt mit 35 beginnt, muss bei gleicher Zielsumme monatlich fast 50 % weniger einzahlen.
+- **Nur auf ein Produkt setzen** — Diversifikation gilt auch für die Altersvorsorge. Eine Kombination aus mehreren Schichten (z. B. bAV + ETF-Rente) senkt das Risiko.
+- **Kosten ignorieren** — Hohe Abschlusskosten und laufende Verwaltungsgebühren fressen die Rendite. Nettopolicen und kostengünstige ETF-basierte Tarife sind oft die bessere Wahl.
+- **Inflation nicht einrechnen** — 1.000 Euro heute haben in 30 Jahren nur noch eine Kaufkraft von ca. 550 Euro (bei 2 % Inflation). Planen Sie mit realen, inflationsbereinigten Werten.
+- **BU vergessen** — Ohne Arbeitskraft keine Altersvorsorge. Die Berufsunfähigkeitsversicherung ist die Grundlage jeder Vorsorgestrategie.
+
+## Mein Beratungsansatz
+
+Jeder Mensch hat eine andere Lebenssituation, andere Ziele und eine andere Risikobereitschaft. In der Beratung gehen wir gemeinsam folgende Schritte:
+
+1. **Bestandsaufnahme** — Welche Ansprüche bestehen bereits? Gesetzliche Rente, bestehende Verträge, Vermögenswerte.
+2. **Versorgungslücke ermitteln** — Wie viel Rente brauchen Sie im Alter, und wie groß ist die Differenz?
+3. **Strategie entwickeln** — Welche Schichten und Produkte sind für Sie optimal? Steuervorteile, Förderungen, Flexibilität.
+4. **Marktvergleich** — Ich vergleiche die besten Angebote am Markt und empfehle konkrete Tarife.
+5. **Regelmäßige Überprüfung** — Ihre Lebenssituation ändert sich, und damit auch Ihr Vorsorgebedarf.

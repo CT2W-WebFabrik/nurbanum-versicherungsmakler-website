@@ -30,29 +30,55 @@ productLinks:
 
 Produzierende Unternehmen vereinen eine Vielzahl von Risiken: teure Produktionsanlagen, die ausfallen können; Produkte, die in den Markt gelangen und dort Schäden verursachen können; Umweltgefahren durch Gefahrstoffe, Emissionen oder Abwässer; und eine zunehmende Abhängigkeit von vernetzter Steuerungstechnik, die Cyberangriffe zum realen Produktionsrisiko macht.
 
-Ein einzelner Großschaden — ein Maschinenbrand, ein Produktrückruf oder eine Umweltkontamination — kann die Existenz des Unternehmens bedrohen.
+Ein einzelner Großschaden — ein Maschinenbrand, ein Produktrückruf oder eine Umweltkontamination — kann die Existenz des Unternehmens bedrohen. Deshalb brauchen Industriebetriebe ein Versicherungskonzept, das alle Risikobereiche abdeckt und aufeinander abgestimmt ist.
 
 ## Produkthaftpflicht — das zentrale Risiko
 
-Wer Produkte herstellt und in Verkehr bringt, haftet nach dem Produkthaftungsgesetz verschuldensunabhängig für Schäden, die durch fehlerhafte Produkte entstehen. Das gilt für Konstruktions-, Fabrikations- und Instruktionsfehler. Ein fehlerhaftes Bauteil, ein Montagefehler oder eine unzureichende Warnkennzeichnung — die Schadensersatzforderungen können in die Millionen gehen, besonders bei Personenschäden oder Serienfehlern.
+Wer Produkte herstellt und in Verkehr bringt, haftet nach dem Produkthaftungsgesetz (ProdHaftG) **verschuldensunabhängig** für Schäden, die durch fehlerhafte Produkte entstehen. Das gilt für drei Fehlerarten:
 
-Die Produkthaftpflichtversicherung deckt diese Ansprüche ab und finanziert die Rechtsverteidigung, wenn Ansprüche unberechtigt sind.
+- **Konstruktionsfehler** — Das Produkt ist von der Konzeption her fehlerhaft. Alle Exemplare sind betroffen — Serienfehler mit enormem Schadenpotenzial.
+- **Fabrikationsfehler** — Einzelne Exemplare weichen vom fehlerfreien Design ab. Qualitätskontrolle hat versagt.
+- **Instruktionsfehler** — Fehlende oder unzureichende Warnhinweise, Bedienungsanleitungen oder Sicherheitskennzeichnungen.
+
+Die Schadensersatzforderungen können in die Millionen gehen, besonders bei Personenschäden oder Serienfehlern. Ein einziges fehlerhaftes Bauteil, das in Tausende von Endprodukten verbaut wurde, kann einen Rückruf mit sechsstelligen Kosten auslösen. Die Produkthaftpflichtversicherung deckt diese Ansprüche ab und finanziert die Rechtsverteidigung.
+
+Achten Sie auf ausreichende Deckung für:
+- **Rückrufkosten** — Nicht in jeder Standardpolice enthalten, aber bei Serienproduktion essenziell.
+- **Erweiterte Produkthaftpflicht** — Deckt Schäden an Produkten Dritter, in die Ihr Produkt eingebaut wurde.
+- **USA/Kanada-Deckung** — Wenn Sie in diese Märkte exportieren, brauchen Sie eine separate Deckung wegen des deutlich höheren Haftungsrisikos.
 
 ## Maschinenpark und Produktionsanlagen
 
-Fertigungsstraßen, CNC-Anlagen, Pressen, Öfen, Roboter — der Maschinenpark ist das Herzstück eines Industriebetriebs. Die Maschinenversicherung bietet eine Allgefahrendeckung gegen Bedienungsfehler, Materialermüdung, Kurzschluss, Sabotage und mehr. Kombiniert mit einer Maschinenbetriebsunterbrechungsversicherung ist auch der Ertragsausfall während der Reparaturzeit abgedeckt.
+Fertigungsstraßen, CNC-Anlagen, Pressen, Öfen, Roboter — der Maschinenpark ist das Herzstück eines Industriebetriebs und repräsentiert oft den größten Bilanzposten. Die Maschinenversicherung bietet eine Allgefahrendeckung:
 
-## Betriebsunterbrechung
+- **Bedienungsfehler** — Fehlbedienung durch Mitarbeiter.
+- **Materialermüdung und Verschleiß** — Unvorhergesehene Brüche und Ausfälle.
+- **Kurzschluss und Überspannung** — Elektrische Schäden an Steuerungen und Antrieben.
+- **Sabotage und Vandalismus** — Beschädigung durch Dritte oder unzufriedene Mitarbeiter.
 
-In der Industrie können Betriebsunterbrechungen besonders kostspielig sein. Lieferverträge mit Konventionalstrafen, Just-in-time-Lieferketten, Fixkosten für Produktionshallen und Personal — ein mehrtägiger Stillstand kann schnell sechsstellige Verluste verursachen. Die Betriebsunterbrechungsversicherung ersetzt den entgangenen Gewinn und die fortlaufenden Fixkosten.
+Kombiniert mit einer **Maschinenbetriebsunterbrechungsversicherung** (MBUV) ist auch der Ertragsausfall während der Reparaturzeit abgedeckt. Die MBUV ist besonders wichtig, wenn einzelne Schlüsselmaschinen den gesamten Produktionsprozess lahmlegen können — ein typisches Problem bei Engpassmaschinen ohne Redundanz.
+
+## Betriebsunterbrechung — das unterschätzte Risiko
+
+In der Industrie können Betriebsunterbrechungen besonders kostspielig sein:
+
+- **Konventionalstrafen** — Lieferverträge enthalten oft Vertragsstrafen bei Lieferverzögerung.
+- **Just-in-time-Lieferketten** — Ihre Kunden haben keine Puffer. Ihr Ausfall kann die gesamte Lieferkette stören.
+- **Fixkosten** — Miete, Leasing, Personalkosten und Kreditraten laufen weiter.
+- **Kundenverlust** — Kunden, die auf Ersatzlieferanten umsteigen, kommen möglicherweise nicht zurück.
+
+Die Betriebsunterbrechungsversicherung ersetzt den entgangenen Gewinn und die fortlaufenden Fixkosten. Prüfen Sie auch die **Rückwirkungsschadendeckung**: Wenn Ihr wichtigster Zulieferer ausfällt und Sie deshalb nicht produzieren können, greift diese Erweiterung.
 
 ## Umweltrisiken und Umwelthaftpflicht
 
-Produzierende Betriebe arbeiten häufig mit Gefahrstoffen, Chemikalien oder Emissionen. Eine Umweltkontamination — sei es durch einen Tankunfall, eine Leckage oder einen Brandfolgeschaden — kann zu erheblichen Sanierungskosten und Schadensersatzansprüchen führen. Die Umwelthaftpflichtversicherung deckt die Kosten der Schadenbeseitigung und Ansprüche Dritter.
+Produzierende Betriebe arbeiten häufig mit Gefahrstoffen, Chemikalien oder Emissionen. Eine Umweltkontamination — sei es durch einen Tankunfall, eine Leckage, austretende Kühlmittel oder einen Brandfolgeschaden — kann zu erheblichen Sanierungskosten und Schadensersatzansprüchen führen.
+
+Das Umweltschadensgesetz (USchadG) verpflichtet den Verursacher zur Sanierung auf eigene Kosten — verschuldensunabhängig bei besonders gefährlichen Anlagen. Die Umwelthaftpflichtversicherung deckt Sanierungskosten, Sachverständigenkosten und Ansprüche geschädigter Dritter.
 
 ## Weitere wichtige Absicherungen
 
-- **Cyber-Versicherung** — Vernetzte Produktionssteuerung (Industrie 4.0) macht Betriebe angreifbar. Ein Ransomware-Angriff kann die gesamte Fertigung lahmlegen.
-- **Betriebsgebäudeversicherung** — Schutz der Produktionshallen, Lagerhallen und Verwaltungsgebäude.
-- **D&O-Versicherung** — Persönliche Haftung der Geschäftsführung bei Pflichtverletzungen.
+- **Cyber-Versicherung** — Vernetzte Produktionssteuerung (Industrie 4.0, IoT, SCADA-Systeme) macht Betriebe angreifbar. Ein Ransomware-Angriff auf die Produktionssteuerung kann die gesamte Fertigung lahmlegen.
+- **Betriebsgebäudeversicherung** — Schutz der Produktionshallen, Lagerhallen und Verwaltungsgebäude vor Feuer, Sturm und Elementarschäden.
+- **D&O-Versicherung** — Persönliche Haftung der Geschäftsführung bei Pflichtverletzungen, Umweltverstößen oder Compliance-Fehlern.
 - **Kfz-Flottenversicherung** — Für den betrieblichen Fuhrpark aus Lkw, Transportern und Spezialfahrzeugen.
+- **Transportversicherung** — Schutz der Waren während des Transports zu Kunden und zwischen Standorten.
