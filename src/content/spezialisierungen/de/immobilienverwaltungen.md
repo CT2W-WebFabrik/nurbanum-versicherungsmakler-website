@@ -55,12 +55,6 @@ Hausverwaltungen speichern hochsensible Daten: Mieterdaten, Kontoverbindungen, S
 
 Gerade die Kombination aus vielen gespeicherten Bankdaten und oft kleiner IT-Abteilung macht Hausverwaltungen zu einem attraktiven Ziel für Cyberkriminelle.
 
-## Häufige Fehler bei der Absicherung
-
-- **Deckungssumme zu niedrig** — Viele Verwalter haben noch Altverträge mit 250.000 Euro Deckung. Bei einem verwalteten Bestand von 30 Millionen Euro ist das viel zu wenig.
-- **Nachhaftung nicht geprüft** — Wenn Sie ein Verwaltungsmandat abgeben, können Ansprüche noch Jahre später kommen. Ihre Police muss eine ausreichende Nachhaftungsfrist enthalten.
-- **Betriebshaftpflicht vergessen** — Die Vermögensschadenhaftpflicht deckt keine Personen- und Sachschäden. Wenn ein Mieter auf dem winterdienstpflichtigen Gehweg stürzt und die Verwaltung den Winterdienst organisieren musste, brauchen Sie eine Betriebshaftpflicht.
-
 ## Vertrauensschadenversicherung — Schutz vor internem Betrug
 
 Hausverwaltungen verwalten große Geldströme: Hausgeldeinnahmen, Mieteinnahmen, Rücklagenkonten. Die Vertrauensschadenversicherung schützt vor finanziellem Schaden durch kriminelle Handlungen eigener Mitarbeiter — Unterschlagung von Mieteinnahmen, Manipulation von Abrechnungen oder Fehlüberweisungen. Je größer die Verwaltung und je mehr Mitarbeiter Zugang zu Konten haben, desto wichtiger ist diese Police.
@@ -70,3 +64,9 @@ Hausverwaltungen verwalten große Geldströme: Hausgeldeinnahmen, Mieteinnahmen,
 - **Firmen-Rechtsschutz** — Streitigkeiten mit Eigentümergemeinschaften, Mietern und Dienstleistern sind im Verwaltungsalltag häufig. Prozesskosten können schnell fünfstellig werden. Achten Sie auf den Baustein Verwalterrechtsschutz, der speziell WEG-Streitigkeiten abdeckt.
 - **Betriebshaftpflicht** — Für Personen- und Sachschäden, die im Rahmen der Verwaltungstätigkeit entstehen. Wenn ein Mieter auf dem winterdienstpflichtigen Gehweg stürzt und die Verwaltung den Winterdienst organisieren sollte, greift die Betriebshaftpflicht — nicht die Vermögensschadenhaftpflicht.
 - **Betriebsunterbrechungsversicherung** — Wenn Ihre Büroräume durch Brand oder Wasserschaden unbenutzbar werden, müssen Sie trotzdem Fristen wahren und Eigentümerversammlungen durchführen. Die BU sichert die Kosten für Ausweichräume und den entgangenen Gewinn.
+
+## Häufige Fehler
+
+- **Deckungssumme zu niedrig** — Viele Verwalter haben noch Altverträge mit 250.000 Euro Deckung. Bei einem verwalteten Bestand von 30 Millionen Euro ist das viel zu wenig.
+- **Nachhaftung nicht geprüft** — Wenn Sie ein Verwaltungsmandat abgeben, können Ansprüche noch Jahre später kommen. Ihre Police muss eine ausreichende Nachhaftungsfrist enthalten.
+- **Betriebshaftpflicht vergessen** — Die Vermögensschadenhaftpflicht deckt keine Personen- und Sachschäden. Wenn ein Mieter auf dem winterdienstpflichtigen Gehweg stürzt und die Verwaltung den Winterdienst organisieren musste, brauchen Sie eine Betriebshaftpflicht.

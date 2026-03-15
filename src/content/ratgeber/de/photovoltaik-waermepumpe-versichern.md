@@ -1,7 +1,7 @@
 ---
 title: "Photovoltaik und Wärmepumpe richtig versichern"
 description: "PV-Anlage, Batteriespeicher und Wärmepumpe absichern: Gebäudeversicherung, Ertragsausfall, Betreiberhaftpflicht und Montageversicherung verständlich erklärt."
-category: "Sachversicherung"
+category: "Grundlagen"
 audience: "privat"
 publishDate: 2026-02-04
 readingTime: "12 Min."

@@ -15,6 +15,12 @@ productLinks:
   - title: Berufsunfähigkeitsversicherung
     href: /versicherungen/berufsunfaehigkeit/
     description: "Vorzeitiger Ruhestand durch Krankheit — BU als Einkommenssicherung."
+  - title: Sterbegeldversicherung
+    href: /versicherungen/sterbegeldversicherung/
+    description: "Bestattungskosten vorsorgen — Angehörige finanziell entlasten."
+  - title: Krankenversicherung
+    href: /versicherungen/krankenversicherung/
+    description: "PKV-Beitragsoptimierung im Alter — interner Tarifwechsel nach § 204 VVG."
 ---
 
 ## Das Problem: Die Versorgungslücke

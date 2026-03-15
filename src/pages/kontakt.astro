@@ -1,6 +1,7 @@
 ---
 import { url } from '../utils/paths';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../config';
 ---
 
 <BaseLayout
@@ -321,6 +322,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    "mainEntity": { "@id": "https://nurbanum.de/#organization" }
+    "mainEntity": { "@id": `${SITE_URL}/#organization` }
   })} />
 </BaseLayout>

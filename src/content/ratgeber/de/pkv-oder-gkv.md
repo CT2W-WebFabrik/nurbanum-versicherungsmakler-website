@@ -1,7 +1,7 @@
 ---
 title: "Private oder gesetzliche Krankenversicherung: Was lohnt sich?"
 description: "PKV oder GKV? Wer wechseln darf, was es kostet und welche Faktoren bei Alter, Familie und Einkommen den Unterschied machen."
-category: "Krankenversicherung"
+category: "Grundlagen"
 publishDate: 2026-01-19
 readingTime: "14 Min."
 ---

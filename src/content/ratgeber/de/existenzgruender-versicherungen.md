@@ -1,7 +1,7 @@
 ---
 title: "Versicherungen für Existenzgründer: Was Sie vor Tag 1 erledigen müssen"
 description: "Welche Versicherungen brauchen Existenzgründer vor der Gründung? BU-Timing-Trick, Gründertarife, GKV-oder-PKV-Entscheidung und die First-Day-Checkliste."
-category: "Gewerbeversicherung"
+category: "Betrieb & Sicherheit"
 audience: "gewerbe"
 publishDate: 2026-01-22
 readingTime: "12 Min."

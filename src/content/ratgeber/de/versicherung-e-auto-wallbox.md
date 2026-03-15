@@ -1,7 +1,7 @@
 ---
 title: "E-Auto und Wallbox richtig versichern"
 description: "Was E-Auto-Besitzer bei Kfz-Versicherung, Wallbox und Ladekabel beachten müssen. Akku-Schutz, GAP-Deckung und THG-Quote verständlich erklärt."
-category: "Kfz-Versicherung"
+category: "Grundlagen"
 audience: "privat"
 publishDate: 2026-02-19
 readingTime: "12 Min."

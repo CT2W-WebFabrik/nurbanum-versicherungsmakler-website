@@ -82,3 +82,10 @@ Das Umweltschadensgesetz (USchadG) verpflichtet den Verursacher zur Sanierung au
 - **D&O-Versicherung** — Persönliche Haftung der Geschäftsführung bei Pflichtverletzungen, Umweltverstößen oder Compliance-Fehlern.
 - **Kfz-Flottenversicherung** — Für den betrieblichen Fuhrpark aus Lkw, Transportern und Spezialfahrzeugen.
 - **Transportversicherung** — Schutz der Waren während des Transports zu Kunden und zwischen Standorten.
+
+## Häufige Fehler
+
+- **Rückrufkosten nicht eingeschlossen** — Die Standard-Produkthaftpflicht deckt Rückrufkosten oft nicht ab. Bei Serienproduktion ist ein Rückrufkosten-Baustein essenziell — ein einzelner Rückruf kann sechsstellige Kosten verursachen.
+- **Betriebsunterbrechung ohne Rückwirkungsschadendeckung** — Wenn Ihr wichtigster Zulieferer ausfällt und Sie deshalb nicht produzieren können, greift die Standard-BU nicht. Die Rückwirkungsschadendeckung schließt diese Lücke.
+- **Umwelthaftpflicht-Deckungssumme zu niedrig** — Bodensanierungen nach Kontaminationen kosten regelmäßig sechsstellige Beträge. Viele Policen sind auf 1–3 Millionen Euro begrenzt — bei größeren Kontaminationen reicht das nicht.
+- **Maschinenversicherung ohne Betriebsunterbrechung** — Die Maschine wird repariert, aber der Ertragsausfall während der Reparaturzeit ist nicht gedeckt. Die Maschinenbetriebsunterbrechungsversicherung (MBUV) schließt genau diese Lücke.

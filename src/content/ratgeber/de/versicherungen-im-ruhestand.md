@@ -1,7 +1,7 @@
 ---
 title: "Versicherungen im Ruhestand: Was Rentner wirklich brauchen"
 description: "Welche Versicherungen Rentner behalten, kündigen oder anpassen sollten — und welche im Alter wichtiger werden als vorher."
-category: "Ruhestandsplanung"
+category: "Altersvorsorge"
 publishDate: 2026-03-03
 readingTime: "14 Min."
 ---

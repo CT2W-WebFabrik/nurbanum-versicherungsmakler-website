@@ -1,6 +1,7 @@
 ---
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { SITE_URL } from '../../config';
 
 export async function getStaticPaths() {
   const entries = await getCollection('versicherungen');
@@ -25,11 +26,11 @@ const privatCategoryMap: Record<string, { label: string; slug: string }> = {
 
 // Gewerbe: map product ID → subcategory label + anchor slug
 const gewerbeSubcategoryMap: Record<string, { label: string; slug: string }> = Object.fromEntries([
-  ...['betriebshaftpflicht','berufshaftpflicht','dno-versicherung','vermoegensschadenhaftpflicht','produkthaftpflicht','umwelthaftpflicht']
+  ...['betriebshaftpflicht','berufshaftpflicht','dno-versicherung','vermoegensschadenhaftpflicht','produkthaftpflicht','umwelthaftpflicht','veranstaltungshaftpflicht']
     .map(id => [id, { label: 'Haftpflichtversicherungen', slug: 'haftpflicht' }]),
-  ...['betriebsunterbrechung','inhaltsversicherung','betriebsgebaeudeversicherung','firmen-rechtsschutz','cyber']
+  ...['betriebsunterbrechung','inhaltsversicherung','betriebsgebaeudeversicherung','firmen-rechtsschutz','cyber','warenkreditversicherung','vertrauensschadenversicherung','bauleistungsversicherung','betriebsschliessungsversicherung','transportversicherung']
     .map(id => [id, { label: 'Betriebs- & Sachversicherungen', slug: 'betrieb-sach' }]),
-  ...['elektronikversicherung','maschinenversicherung','kfz-flotten']
+  ...['elektronikversicherung','maschinenversicherung','kfz-flotten','montageversicherung']
     .map(id => [id, { label: 'Technik & Fahrzeuge', slug: 'technik-fahrzeuge' }]),
 ]);
 
@@ -58,7 +59,7 @@ const categoryAnchorSlug = resolved?.slug ?? entry.data.category;
     "@type": "Service",
     "name": entry.data.title,
     "description": entry.data.description,
-    "provider": { "@id": "https://nurbanum.de/#organization" },
+    "provider": { "@id": `${SITE_URL}/#organization` },
     "serviceType": "Versicherungsvermittlung",
     "areaServed": {
       "@type": "GeoCircle",

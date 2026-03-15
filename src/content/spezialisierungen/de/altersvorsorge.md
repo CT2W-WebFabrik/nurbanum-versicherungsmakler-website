@@ -15,6 +15,12 @@ productLinks:
   - title: Betriebliche Altersversorgung
     href: "/versicherungen/betriebliche-altersversorgung/"
     description: "Steuervorteile und Arbeitgeberzuschuss für Ihre Betriebsrente."
+  - title: Pflegeversicherung
+    href: /versicherungen/pflegeversicherung/
+    description: "Pflegekosten im Alter — die größte Lücke neben der Rente."
+  - title: Krankenversicherung
+    href: /versicherungen/krankenversicherung/
+    description: "PKV oder GKV im Alter — Beitragsoptimierung und Tarifwechsel."
 ---
 
 ## Das 3-Schichten-Modell der Altersvorsorge
@@ -66,13 +72,3 @@ Steuerliche Vorteile gegenüber einem reinen Fondsdepot: Im Versicherungsmantel 
 - **Kosten ignorieren** — Hohe Abschlusskosten und laufende Verwaltungsgebühren fressen die Rendite. Nettopolicen und kostengünstige ETF-basierte Tarife sind oft die bessere Wahl.
 - **Inflation nicht einrechnen** — 1.000 Euro heute haben in 30 Jahren nur noch eine Kaufkraft von ca. 550 Euro (bei 2 % Inflation). Planen Sie mit realen, inflationsbereinigten Werten.
 - **BU vergessen** — Ohne Arbeitskraft keine Altersvorsorge. Die Berufsunfähigkeitsversicherung ist die Grundlage jeder Vorsorgestrategie.
-
-## Mein Beratungsansatz
-
-Jeder Mensch hat eine andere Lebenssituation, andere Ziele und eine andere Risikobereitschaft. In der Beratung gehen wir gemeinsam folgende Schritte:
-
-1. **Bestandsaufnahme** — Welche Ansprüche bestehen bereits? Gesetzliche Rente, bestehende Verträge, Vermögenswerte.
-2. **Versorgungslücke ermitteln** — Wie viel Rente brauchen Sie im Alter, und wie groß ist die Differenz?
-3. **Strategie entwickeln** — Welche Schichten und Produkte sind für Sie optimal? Steuervorteile, Förderungen, Flexibilität.
-4. **Marktvergleich** — Ich vergleiche die besten Angebote am Markt und empfehle konkrete Tarife.
-5. **Regelmäßige Überprüfung** — Ihre Lebenssituation ändert sich, und damit auch Ihr Vorsorgebedarf.

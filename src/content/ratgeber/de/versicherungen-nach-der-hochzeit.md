@@ -1,7 +1,7 @@
 ---
 title: "Heirat und Versicherungen: Was Ehepaare jetzt ändern sollten"
 description: "Nach der Hochzeit Versicherungen zusammenlegen, Bezugsrechte ändern, Familientarife nutzen — was Ehepaare bei Haftpflicht, Hausrat, Risikoleben und Co. beachten müssen."
-category: "Lebensplanung"
+category: "Lebenssituationen"
 publishDate: 2026-01-09
 readingTime: "14 Min."
 ---

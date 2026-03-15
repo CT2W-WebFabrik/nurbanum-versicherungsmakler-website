@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { cleanAnswer } from '../utils/faq';
 
 const allFaq = await getCollection('faq');
 const sorted = allFaq.sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
@@ -21,7 +22,7 @@ const rendered = await Promise.all(sorted.map(async (entry) => {
 const faqAnswers: Record<string, string> = {};
 for (const entry of sorted) {
   // Get the raw body text for structured data
-  faqAnswers[entry.id] = entry.body?.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/[*_#]/g, '').trim() ?? '';
+  faqAnswers[entry.id] = cleanAnswer(entry.body ?? '');
 }
 ---
 

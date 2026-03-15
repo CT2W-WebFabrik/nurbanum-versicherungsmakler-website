@@ -1,7 +1,7 @@
 ---
 title: "Todesfall: Was Angehörige bei Versicherungen tun müssen"
 description: "Welche Versicherungen müssen nach einem Todesfall gemeldet, gekündigt oder umgeschrieben werden? Ein Leitfaden mit Fristen, Checkliste und praktischen Hinweisen."
-category: "Vorsorge"
+category: "Lebenssituationen"
 audience: "privat"
 publishDate: 2026-02-17
 readingTime: "14 Min."

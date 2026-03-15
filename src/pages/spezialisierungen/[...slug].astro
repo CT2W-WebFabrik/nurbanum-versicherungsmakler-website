@@ -3,6 +3,7 @@ import { url, slugify } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import { SITE_URL } from '../../config';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -72,7 +73,7 @@ const audienceAnchor = entry.data.audience;
     "@type": "Service",
     "name": entry.data.title,
     "description": entry.data.description,
-    "provider": { "@id": "https://nurbanum.de/#organization" },
+    "provider": { "@id": `${SITE_URL}/#organization` },
     "serviceType": "Versicherungsvermittlung",
     "areaServed": {
       "@type": "GeoCircle",

@@ -1,7 +1,7 @@
 ---
 title: "Scheidung und Versicherungen: Was Sie beachten müssen"
 description: "Nach einer Trennung müssen viele Versicherungen angepasst werden. Haftpflicht, Krankenversicherung, Risikoleben, Kfz — alle Schritte und Fristen im Überblick."
-category: "Lebensplanung"
+category: "Lebenssituationen"
 audience: "privat"
 publishDate: 2026-01-14
 readingTime: "12 Min."

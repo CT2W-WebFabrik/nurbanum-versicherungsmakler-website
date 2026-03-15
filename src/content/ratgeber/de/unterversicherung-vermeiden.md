@@ -1,7 +1,7 @@
 ---
 title: "Unterversicherung vermeiden: Versicherungssummen richtig berechnen"
 description: "Was Unterversicherung bedeutet, wie die proportionale Kürzung funktioniert und wie Sie bei Hausrat, Wohngebäude und Gewerbe die richtige Versicherungssumme berechnen."
-category: "Versicherungswissen"
+category: "Schadenfall"
 publishDate: 2026-01-08
 readingTime: "12 Min."
 ---

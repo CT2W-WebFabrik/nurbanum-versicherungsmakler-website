@@ -88,3 +88,10 @@ Wenn ein Kind kommt, sollten Sie Ihren bestehenden Schutz überprüfen:
 - **Hausratversicherung** — Versicherungssumme an den gewachsenen Haushalt anpassen.
 - **BU** — Nachversicherungsgarantie nutzen und die BU-Rente erhöhen.
 - **Krankenversicherung** — Kind in die Familienversicherung der GKV aufnehmen oder in die PKV des versicherten Elternteils.
+
+## Häufige Fehler
+
+- **Nur Kinder versichern, Eltern vergessen** — Der größte finanzielle Hebel liegt bei der Absicherung der Eltern. Ein fehlender BU-Schutz oder eine fehlende Risikolebensversicherung gefährdet die ganze Familie stärker als ein fehlendes Kinderprodukt.
+- **Risikolebensversicherung nur auf einen Elternteil** — Auch der nicht erwerbstätige Elternteil sollte abgesichert sein. Kinderbetreuung, Haushaltshilfe und reduzierte Arbeitszeit des anderen Elternteils kosten Tausende Euro pro Jahr.
+- **Zahnzusatz erst nach Diagnose** — Sobald der Kieferorthopäde einen Behandlungsbedarf feststellt, greift die Versicherung nicht mehr. Vorher abschließen.
+- **Kapitalbildende Kinderversicherungen** — Kombination aus Versicherung und Sparen funktioniert selten gut. Trennen Sie Risikoschutz und Vermögensaufbau — ein ETF-Sparplan ist fast immer die bessere Sparform.

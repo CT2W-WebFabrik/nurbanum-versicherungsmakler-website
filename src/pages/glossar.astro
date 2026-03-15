@@ -47,7 +47,7 @@ const letters = [...new Set(terms.map(t => t.term[0].toUpperCase()))].sort();
       <!-- Letter navigation -->
       <nav class="flex flex-wrap gap-2 mb-12">
         {letters.map(l => (
-          <a href={`#${l}`} class="w-9 h-9 flex items-center justify-center rounded-lg bg-white border border-slate-100 hover:border-amber-300 hover:bg-amber-50 font-bold text-sm text-navy-700 hover:text-amber-700 transition-all no-underline">
+          <a href={`#${l}`} aria-label={`Springe zu Buchstabe ${l}`} class="w-9 h-9 flex items-center justify-center rounded-lg bg-white border border-slate-100 hover:border-amber-300 hover:bg-amber-50 font-bold text-sm text-navy-700 hover:text-amber-700 transition-all no-underline">
             {l}
           </a>
         ))}

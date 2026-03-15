@@ -18,7 +18,7 @@ const ratgeber = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    category: z.string(),
+    category: z.enum(['Grundlagen', 'Lebenssituationen', 'Altersvorsorge', 'Schadenfall', 'Haftung & Recht', 'Betrieb & Sicherheit', 'Arbeitgeber']),
     audience: z.enum(['privat', 'gewerbe']).default('privat'),
     publishDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
@@ -42,7 +42,7 @@ const faq = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/faq/de" }),
   schema: z.object({
     title: z.string(),
-    category: z.string(),
+    category: z.enum(['Versicherungen', 'Allgemein', 'Altersvorsorge', 'Vertragsfragen', 'Gewerbe']),
     order: z.number().default(99),
   }),
 });
@@ -55,7 +55,7 @@ const spezialisierungen = defineCollection({
     h1: z.string(),
     heroDescription: z.string(),
     audience: z.enum(['privat', 'gewerbe']),
-    category: z.string(),
+    category: z.enum(['Lebensphasen', 'Vorsorge & Ruhestand', 'Absicherung im Beruf', 'Freie Berufe & Dienstleistung', 'Handwerk, Handel & Industrie', 'Vereine & Organisationen']),
     productLinks: z.array(z.object({
       title: z.string(),
       href: z.string(),

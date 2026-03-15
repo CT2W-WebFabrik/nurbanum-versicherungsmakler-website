@@ -2,6 +2,7 @@
 import { url } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { SITE_URL } from '../../config';
 
 const posts = await getCollection('blog');
 const sorted = posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
@@ -46,7 +47,7 @@ const sorted = posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publis
     "@type": "CollectionPage",
     "name": "Blog — Nurbanum Versicherungsmakler",
     "description": "Neuigkeiten, Einblicke und Aktuelles von Ihrem Versicherungsmakler in Zirndorf bei Nürnberg.",
-    "publisher": { "@id": "https://nurbanum.de/#organization" },
+    "publisher": { "@id": `${SITE_URL}/#organization` },
     "mainEntity": {
       "@type": "ItemList",
       "itemListElement": sorted.map((post, i) => ({

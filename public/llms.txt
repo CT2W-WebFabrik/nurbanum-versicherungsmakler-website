@@ -43,9 +43,9 @@ Nurbanum Versicherungsmakler wird von Thorsten Schreier geführt und bietet unab
 - [Cyberversicherung](https://nurbanum.de/versicherungen/cyber/)
 - [Betriebsunterbrechungsversicherung](https://nurbanum.de/versicherungen/betriebsunterbrechung/)
 - [D&O-Versicherung](https://nurbanum.de/versicherungen/dno-versicherung/)
-- [Risikolebensversicherung](https://nurbanum.de/versicherungen/risikolebensversicherung/)
+- [Risikolebensversicherung](https://nurbanum.de/versicherungen/risikoleben/)
 - [Unfallversicherung](https://nurbanum.de/versicherungen/unfallversicherung/)
-- [Pflegezusatzversicherung](https://nurbanum.de/versicherungen/pflegezusatzversicherung/)
+- [Pflegeversicherung](https://nurbanum.de/versicherungen/pflegeversicherung/)
 - [Alle Versicherungen](https://nurbanum.de/versicherungen/)
 
 ### Ratgeber (80 Artikel)

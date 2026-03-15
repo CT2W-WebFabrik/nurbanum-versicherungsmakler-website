@@ -2,6 +2,7 @@
 import { url } from '../../utils/paths';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
+import { SITE_URL } from '../../config';
 ---
 
 <BaseLayout
@@ -60,7 +61,7 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "InsuranceAgency",
-    "@id": "https://nurbanum.de/#organization",
+    "@id": `${SITE_URL}/#organization`,
     "name": "Nurbanum Versicherungsmakler",
     "telephone": "+4917384444426",
     "email": "thorsten.schreier@nurbanum.de",
@@ -74,7 +75,7 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
     },
     "geo": { "@type": "GeoCoordinates", "latitude": 49.4403, "longitude": 10.9553 },
     "areaServed": { "@type": "City", "name": "Zirndorf" },
-    "url": "https://nurbanum.de",
+    "url": SITE_URL,
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],

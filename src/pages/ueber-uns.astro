@@ -1,6 +1,7 @@
 ---
 import { url } from '../utils/paths';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../config';
 ---
 
 <BaseLayout
@@ -223,12 +224,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     "@context": "https://schema.org",
     "@type": "AboutPage",
     "mainEntity": {
-      "@id": "https://nurbanum.de/#person-thorsten-schreier",
+      "@id": `${SITE_URL}/#person-thorsten-schreier`,
       "@type": "Person",
       "name": "Thorsten Schreier",
       "jobTitle": "Versicherungsmakler",
       "image": new URL(url('/images/thorsten-schreier.jpg'), Astro.site).toString(),
-      "worksFor": { "@id": "https://nurbanum.de/#organization" },
+      "worksFor": { "@id": `${SITE_URL}/#organization` },
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Hans-Sachs-Straße 2",

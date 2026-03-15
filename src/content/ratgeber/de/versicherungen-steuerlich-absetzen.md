@@ -1,7 +1,7 @@
 ---
 title: "Welche Versicherungen kann ich von der Steuer absetzen?"
 description: "Haftpflicht, BU, Krankenversicherung — welche Versicherungen steuerlich absetzbar sind, wo die Grenzen liegen und was Selbständige beachten müssen."
-category: "Finanztipps"
+category: "Grundlagen"
 publishDate: 2026-02-26
 readingTime: "14 Min."
 ---

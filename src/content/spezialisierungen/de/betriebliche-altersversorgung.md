@@ -12,6 +12,12 @@ productLinks:
   - title: Berufsunfähigkeitsversicherung
     href: /versicherungen/berufsunfaehigkeit/
     description: "BU über den Arbeitgeber — steuerlich gefördert und oft günstiger."
+  - title: Krankentagegeldversicherung
+    href: /versicherungen/krankentagegeld/
+    description: "Einkommenslücke bei Krankheit schließen — ergänzend zur bAV."
+  - title: Risikolebensversicherung
+    href: /versicherungen/risikoleben/
+    description: "Hinterbliebenenschutz für den Todesfall — bAV-Leistungen enden oft mit dem Tod."
 ---
 
 ## Was ist die betriebliche Altersversorgung?
@@ -57,13 +63,10 @@ Die bAV bietet Arbeitgebern handfeste Vorteile:
 - **Arbeitgeberzuschuss** — Mindestens 15 %, viele Arbeitgeber geben 20–50 % oder mehr. Das ist geschenktes Geld — nutzen Sie es.
 - **Nachteile kennen** — Die Betriebsrente wird im Alter voll besteuert und ist krankenversicherungspflichtig (Freibetrag 2025: 176,75 Euro/Monat). Bei Entgeltumwandlung sinkt außerdem Ihr Anspruch auf gesetzliche Rente und Arbeitslosengeld geringfügig.
 
-## Typische Fehler bei der bAV
+## Häufige Fehler
 
 - **Arbeitgeber bietet nur Entgeltumwandlung ohne Zuschuss** — Der gesetzliche Mindestzuschuss von 15 % gilt nur für Neuverträge seit 2019 und für Altverträge seit 2022. Prüfen Sie, ob Ihr Arbeitgeber den Zuschuss tatsächlich zahlt.
 - **Falscher Durchführungsweg** — Eine Direktzusage ist für ein KMU mit 10 Mitarbeitern meist zu aufwendig. Eine Unterstützungskasse für einen Berufsanfänger mit 2.500 Euro Gehalt macht wenig Sinn. Der Durchführungsweg muss zur Unternehmensgröße und zum Mitarbeiterprofil passen.
 - **Kosten nicht verglichen** — Die Kostenunterschiede zwischen Versicherern bei Direktversicherungen sind erheblich. Hohe Abschlusskosten und Verwaltungsgebühren reduzieren die Rendite deutlich.
 - **bAV als alleinige Altersvorsorge** — Die bAV ist ein wichtiger Baustein, aber selten ausreichend. Ergänzen Sie mit privater Vorsorge (Schicht 3), um die Versorgungslücke vollständig zu schließen.
-
-## Meine Beratung für Unternehmen
-
-Ich begleite den gesamten Prozess — von der Auswahl des passenden Durchführungswegs über die Einführung der bAV bis zur laufenden Betreuung. Dabei berate ich sowohl die Geschäftsleitung (Kostenoptimierung, Haftungsmanagement, steuerliche Aspekte) als auch jeden einzelnen Mitarbeiter persönlich (individuelle Bedarfsanalyse, Produktauswahl, Integration in die Gesamtvorsorge).
+- **Altverträge nie überprüft** — Viele Arbeitnehmer haben bAV-Verträge mit hohen Abschlusskosten aus den 2000er-Jahren. Ein Wechsel zu einer kostengünstigeren Nettopolice kann die Rendite erheblich verbessern.

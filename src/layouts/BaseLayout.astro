@@ -5,6 +5,7 @@ import Footer from '../components/layout/Footer.astro';
 import WhatsAppButton from '../components/interactive/WhatsAppButton.astro';
 import ScrollToTop from '../components/interactive/ScrollToTop.astro';
 import { url } from '../utils/paths';
+import { SITE_URL } from '../config';
 
 interface Props {
   title?: string;
@@ -25,7 +26,7 @@ const {
 const pathname = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : Astro.url.pathname + '/';
 const canonicalUrl = new URL(pathname, Astro.site);
 const ogImageUrl = new URL(url(ogImage), Astro.site);
-const siteUrl = 'https://nurbanum.de';
+const siteUrl = SITE_URL;
 ---
 
 <!doctype html>
@@ -59,7 +60,7 @@ const siteUrl = 'https://nurbanum.de';
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href={url('/favicon.svg')} />
     <link rel="icon" type="image/x-icon" href={url('/favicon.ico')} />
-    <link rel="apple-touch-icon" href={url('/favicon.ico')} />
+    <link rel="apple-touch-icon" sizes="180x180" href={url('/apple-touch-icon.png')} />
 
     <!-- Theme color for mobile browsers -->
     <meta name="theme-color" content="#0a0f1e" />

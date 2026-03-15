@@ -98,3 +98,10 @@ Im Ruhestand haben Sie mehr Zeit zum Reisen. Eine Jahrespolice für Auslandsreis
 - **Kinderabsicherung** — Kinder-Unfallversicherungen, Ausbildungsversicherungen und Kinderinvaliditätsschutz können entfallen, sobald die Kinder volljährig und selbst versichert sind.
 - **Arbeitsrechtsschutz** — Im Ruhestand nicht mehr nötig. Prüfen Sie, ob Sie den Baustein aus Ihrem Rechtsschutz herausnehmen und so Beiträge sparen können.
 - **Doppelversicherungen** — Unfallversicherung über den Arbeitgeber plus private Police? Kfz-Schutzbrief plus ADAC-Mitgliedschaft? Gerade im Lauf der Jahre sammeln sich Überschneidungen an.
+
+## Häufige Fehler
+
+- **Pflegezusatzversicherung zu spät abgeschlossen** — Ab 60 steigen die Beiträge spürbar, ab 70 ist der Abschluss kaum noch möglich. Das Pflegerisiko ist das größte finanzielle Risiko im Alter — warten Sie nicht zu lange.
+- **PKV-Tarifwechsel nach § 204 VVG nicht genutzt** — Viele PKV-Versicherte zahlen jahrelang überhöhte Beiträge, obwohl ein interner Tarifwechsel ohne Gesundheitsprüfung und ohne Verlust der Altersrückstellungen möglich ist.
+- **Versicherungssummen nie angepasst** — Über die Jahre verändern sich Hausrat, Gebäudewert und Lebensumstände. Wer die Summen nie aktualisiert, riskiert Unterversicherung und anteilige Leistungskürzung.
+- **Vorsorgevollmacht und Patientenverfügung fehlen** — Keine Versicherung, aber existenziell. Ohne Vorsorgevollmacht bestellt das Betreuungsgericht einen gesetzlichen Betreuer — das entspricht selten Ihren Wünschen.

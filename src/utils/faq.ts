@@ -133,7 +133,7 @@ function parseBoldPattern(block: string): FaqItem[] {
  * Strip markdown formatting from an answer to produce clean plain text
  * suitable for JSON-LD. Removes bold, links, inline code, etc.
  */
-function cleanAnswer(md: string): string {
+export function cleanAnswer(md: string): string {
   return md
     // Remove markdown links: [text](url) → text
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')

@@ -76,7 +76,7 @@ Wer allein lebt, braucht bei einem schweren Unfall finanzielle Mittel für Umbau
 
 Eine private Unfallversicherung leistet eine einmalige Kapitalzahlung oder eine monatliche Rente bei dauerhafter Invalidität. Achten Sie auf eine progressive Staffelung: Bei 50 % Invalidität erhalten Sie nicht 50 % der Versicherungssumme, sondern z. B. 225 % — der höhere Bedarf bei schweren Unfällen wird damit besser abgedeckt.
 
-## Was Singles oft vergessen
+## Häufige Fehler
 
 - **Patientenverfügung und Vorsorgevollmacht** — Keine Versicherung, aber unverzichtbar. Wer entscheidet für Sie, wenn Sie es nicht mehr können? Ohne Vorsorgevollmacht bestellt das Betreuungsgericht einen gesetzlichen Betreuer — das ist selten im eigenen Interesse.
 - **Risikolebensversicherung** — Oft wird angenommen, Singles brauchen keine. Aber: Wenn Sie einen Kredit (Immobilie, Auto) laufen haben, sichert eine Risikolebensversicherung die Restschuld ab und verhindert, dass Ihre Erben belastet werden.

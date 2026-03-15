@@ -1,7 +1,7 @@
 ---
 title: "Pflegezusatzversicherung: So schließen Sie die Pflegelücke"
 description: "Die gesetzliche Pflegeversicherung deckt nur einen Teil der Pflegekosten. Pflegetagegeld, Pflegerente, Pflege-Bahr — wie Sie die Pflegelücke schließen."
-category: "Vorsorge"
+category: "Altersvorsorge"
 publishDate: 2026-01-05
 readingTime: "14 Min."
 ---

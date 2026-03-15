@@ -77,9 +77,7 @@ Die wichtigsten Optionen:
 - **ETF-basierte Rentenversicherung** — Renditeorientiert bei langem Anlagehorizont. Im Versicherungsmantel steuerlich günstiger als ein reines Depot.
 - **Freiwillige Einzahlung in die gesetzliche Rente** — Seit 2023 auch für Selbständige möglich. Sichert Grundrente-Ansprüche und Erwerbsminderungsschutz.
 
-## Versicherungscheck für Selbständige
-
-Prüfen Sie jährlich, ob Ihr Versicherungsschutz noch zu Ihrem Umsatz, Ihrer Tätigkeit und Ihrer Lebenssituation passt. Typische Fehler:
+## Häufige Fehler
 
 - **Deckungssummen nicht angepasst** — Die Betriebshaftpflicht aus der Gründungsphase reicht nicht mehr, wenn Umsatz und Mitarbeiterzahl gestiegen sind.
 - **Krankentagegeld vergessen** — Viele Selbständige haben keine Absicherung gegen Einkommensausfall bei Krankheit.

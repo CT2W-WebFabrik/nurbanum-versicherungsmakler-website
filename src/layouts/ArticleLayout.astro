@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import { url } from '../utils/paths';
+import { SITE_URL } from '../config';
 
 interface Props {
   title: string;
@@ -89,12 +90,12 @@ const breadcrumbItems = breadcrumbs || [];
       "description": description,
       "image": new URL(url('/images/og-default.png'), Astro.site).toString(),
       "author": {
-        "@id": "https://nurbanum.de/#person-thorsten-schreier",
+        "@id": `${SITE_URL}/#person-thorsten-schreier`,
         "@type": "Person",
         "name": "Thorsten Schreier",
         "jobTitle": "Versicherungsmakler"
       },
-      "publisher": { "@id": "https://nurbanum.de/#organization" },
+      "publisher": { "@id": `${SITE_URL}/#organization` },
       "datePublished": publishDate.toISOString(),
       "dateModified": (updatedDate ?? publishDate).toISOString(),
       "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }

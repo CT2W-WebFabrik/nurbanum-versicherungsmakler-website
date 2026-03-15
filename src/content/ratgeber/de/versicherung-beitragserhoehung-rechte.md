@@ -1,7 +1,7 @@
 ---
 title: "Beitragserhöhung bei Versicherungen: Ihre Rechte und Optionen"
 description: "Was tun bei Beitragserhöhung? Sonderkündigungsrecht nach § 40 VVG, Alternativen zur Kündigung und wann Sie auf keinen Fall kündigen sollten — z. B. in der PKV."
-category: "Versicherungswissen"
+category: "Schadenfall"
 audience: "privat"
 publishDate: 2026-01-09
 readingTime: "12 Min."

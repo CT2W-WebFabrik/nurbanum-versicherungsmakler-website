@@ -86,3 +86,10 @@ Nicht jede Versicherung ist beim Berufsstart sinnvoll:
 - **Rechtsschutzversicherung** — Erst sinnvoll, wenn Arbeitsvertrag und Mietvertrag laufen und ein reales Streitrisiko besteht.
 - **Unfallversicherung** — Die BU deckt das Einkommensrisiko besser ab. Eine Unfallversicherung ist eine Ergänzung, keine Priorität.
 - **Teure „Rundumschutz"-Pakete** — Bündelverträge enthalten oft überflüssige Bausteine. Stellen Sie sich Ihren Schutz gezielt zusammen.
+
+## Häufige Fehler
+
+- **BU-Abschluss aufschieben** — Je jünger und gesünder Sie beim Abschluss sind, desto günstiger der Beitrag — ein Leben lang. Wer mit 25 abschließt, zahlt oft 30–50 % weniger als mit 35.
+- **Kapitalbildende Produkte statt Risikoschutz** — Manche Berufseinsteiger schließen teure Kombiprodukte ab (Rentenversicherung mit BU-Baustein), obwohl eine eigenständige BU deutlich besseren Schutz bei niedrigeren Kosten bietet.
+- **Ende der Familienversicherung übersehen** — Mit dem Berufsstart oder ab 25 endet die Mitversicherung bei den Eltern — in der Haftpflicht, Krankenversicherung und teils Hausrat. Prüfen Sie den Stichtag, damit keine Lücke entsteht.
+- **Versicherung ohne Vergleich abgeschlossen** — Wer das erste Angebot vom Bankberater oder Strukturvertrieb annimmt, zahlt fast immer mehr als nötig. Ein unabhängiger Vergleich spart über die Laufzeit Tausende Euro.

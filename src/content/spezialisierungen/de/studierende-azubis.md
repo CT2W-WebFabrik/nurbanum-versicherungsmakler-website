@@ -18,6 +18,12 @@ productLinks:
   - title: Private Krankenversicherung
     href: /versicherungen/krankenversicherung/
     description: "Studentische KV, Familienversicherung oder PKV — was passt zu Ihrer Situation?"
+  - title: Hausratversicherung
+    href: /versicherungen/hausrat/
+    description: "Schutz für die erste eigene Wohnung — ab wann es sich lohnt."
+  - title: Zahnzusatzversicherung
+    href: /versicherungen/zahnzusatzversicherung/
+    description: "Früh abschließen: Keine Vorerkrankungen, niedrige Beiträge."
 ---
 
 ## Wenig Budget, klare Prioritäten
@@ -68,3 +74,10 @@ Nicht jede Versicherung brauchen Sie sofort:
 - **Rechtsschutzversicherung** — Im Studium oder der Ausbildung ist das Streitrisiko gering. Sinnvoll erst mit eigenem Mietvertrag und Arbeitsvertrag.
 - **Kfz-Versicherung** — Nur relevant, wenn Sie ein eigenes Auto besitzen. Tipp: Über die Eltern als Zweitwagen versichern lassen — deutlich günstiger als SF-Klasse 0.
 - **Unfallversicherung** — Studierende sind über die gesetzliche Unfallversicherung der Hochschule geschützt (auf dem Uni-Gelände und dem direkten Weg dorthin). Privater Zusatzschutz ist erst nach dem Studium Priorität.
+
+## Häufige Fehler
+
+- **Ende der Familienversicherung übersehen** — Mit 25 endet die beitragsfreie Familienversicherung in der GKV. Wer den Wechsel in die studentische Krankenversicherung verpasst, riskiert eine Lücke im Versicherungsschutz.
+- **BU-Abschluss auf „nach dem Studium" verschieben** — Je jünger und gesünder Sie beim Abschluss sind, desto günstiger der Beitrag. Wer bis 30 wartet, zahlt deutlich mehr — und hat möglicherweise Vorerkrankungen, die Zuschläge oder Ausschlüsse verursachen.
+- **Auslandskrankenversicherung vergessen** — Die GKV zahlt außerhalb Europas nichts und innerhalb Europas keinen Rücktransport. Gerade beim Auslandssemester oder Work & Travel ist eine Langzeitpolice Pflicht.
+- **Elternpolice nicht geprüft** — Viele Studierende gehen davon aus, noch über die Eltern haftpflichtversichert zu sein. Prüfen Sie die Bedingungen: Alter, Familienstand, Ausbildungsstatus.
